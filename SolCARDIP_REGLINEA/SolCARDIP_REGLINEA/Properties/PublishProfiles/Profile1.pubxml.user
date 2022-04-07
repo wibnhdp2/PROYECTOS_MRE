@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile>2020-01-08T16:34:24.0000000-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
     <_PublishTargetUrl>D:\Publicacion\cardip_reglinea_webapp</_PublishTargetUrl>
-    <History>True|2022-04-06T19:00:44.7276019Z;True|2022-04-06T13:53:43.4120101-05:00;True|2022-03-11T10:39:04.6648892-05:00;</History>
+    <History>True|2022-04-07T15:18:03.2676530Z;True|2022-04-07T08:56:01.1381911-05:00;True|2022-04-06T14:00:44.7276019-05:00;True|2022-04-06T13:53:43.4120101-05:00;True|2022-03-11T10:39:04.6648892-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/AjaxControlToolkit.dll">
@@ -29,7 +29,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2015 11:42:12</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.dll">
-      <publishTime>04/06/2022 14:00:44</publishTime>
+      <publishTime>04/07/2022 10:16:54</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll">
       <publishTime>03/30/2022 10:34:42</publishTime>
@@ -50,7 +50,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/30/2022 11:12:59</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.pdb">
-      <publishTime>04/06/2022 14:00:44</publishTime>
+      <publishTime>04/07/2022 10:16:54</publishTime>
     </File>
     <File Include="Default.aspx">
       <publishTime>12/11/2019 15:45:16</publishTime>
@@ -155,7 +155,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/03/2019 12:04:38</publishTime>
     </File>
     <File Include="Paginas/Principales/RegistroLinea.aspx">
-      <publishTime>07/26/2021 09:24:46</publishTime>
+      <publishTime>04/06/2022 16:36:57</publishTime>
     </File>
     <File Include="Paginas/VerImagen.aspx">
       <publishTime>10/29/2019 12:21:30</publishTime>
@@ -188,7 +188,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/02/2019 08:56:00</publishTime>
     </File>
     <File Include="Verificar.aspx">
-      <publishTime>04/06/2022 13:59:43</publishTime>
+      <publishTime>04/07/2022 08:55:49</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>04/06/2022 13:53:42</publishTime>

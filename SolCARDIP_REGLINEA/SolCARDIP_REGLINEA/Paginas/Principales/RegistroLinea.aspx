@@ -43,6 +43,7 @@
                                   <li class="list-group-item"style="font-weight:bold;">COOPERANTE</li>
                                   <li class="list-group-item"style="font-weight:bold;">INTERCAMBIO</li>
                                   <li class="list-group-item"style="font-weight:bold;">PERIODISTA</li>
+                                   <li class="list-group-item"style="font-weight:bold;">PRODUCCIÓN ARTÍSTICA</li>
                                 </ul>
                             </div>
                             <span style="font-weight:bold;">* Si usted tiene dudas respecto a su calidad migratoria, puede comunicarse al 2043678 y al 2043303.</span>

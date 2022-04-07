@@ -1450,7 +1450,7 @@ namespace SolCARDIP.Paginas.Registrador
                     obeCarneIdentidadPrincipal = obrCarneIdentidadPrincipal.consultar(parametros);
                     //obeCarneIdentidadPrincipal.ListaConsulta;
                     lblNroCarne.Text = "NRO.CARNET: " + numeroCarne;
-                    lblPersona.Text = "NOMBRE: " + obeCarneIdentidadPrincipal.ListaConsulta[0].NombresPersona + obeCarneIdentidadPrincipal.ListaConsulta[0].ApePatPersona + obeCarneIdentidadPrincipal.ListaConsulta[0].ApeMatPersona;
+                    lblPersona.Text = "NOMBRE: " + obeCarneIdentidadPrincipal.ListaConsulta[0].NombresPersona + " " + obeCarneIdentidadPrincipal.ListaConsulta[0].ApePatPersona + " " + obeCarneIdentidadPrincipal.ListaConsulta[0].ApeMatPersona;
                     hEstadoIdPopup.Value = obeCarneIdentidadPrincipal.ListaConsulta[0].Estadoid.ToString();
                     hCanetIdPupop.Value = obeCarneIdentidadPrincipal.ListaConsulta[0].CarneIdentidadid.ToString();
                     lblEstado.Text = "ESTADO: " + obeCarneIdentidadPrincipal.ListaConsulta[0].ConEstado.ToString() ;

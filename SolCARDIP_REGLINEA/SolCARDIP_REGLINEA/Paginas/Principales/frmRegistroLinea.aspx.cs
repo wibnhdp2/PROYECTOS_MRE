@@ -873,15 +873,53 @@ namespace SolCARDIP_REGLINEA.Paginas.Principales
                     txtApeMat.Enabled = false;
                     txtNombres.Enabled = false;
                     txtFecNac.Enabled = false;
-                    ddlSexo.Enabled = false;
-                    ddlEstadoCivil.Enabled = false;
-                    ddlNacionalidad.Enabled = false;
-                    ddlTipDoc.Enabled = false;
+                    if (ddlSexo.SelectedIndex == 0)
+                    {
+                        ddlSexo.Enabled = true;
+                    }
+                    else {
+                        ddlSexo.Enabled = false;
+                    }
+                    if (ddlEstadoCivil.SelectedIndex == 0)
+                    {
+                        ddlEstadoCivil.Enabled = true;
+                    }
+                    else {
+                        ddlEstadoCivil.Enabled = false;
+                    }
+                    if (ddlNacionalidad.SelectedIndex == 0)
+                    {
+                        ddlNacionalidad.Enabled = true;
+                    }
+                    else
+                    {
+                        ddlNacionalidad.Enabled = false;
+                    }
+                    if (ddlTipDoc.SelectedIndex == 0)
+                    {
+                        ddlTipDoc.Enabled = true;
+                    }
+                    else {
+                        ddlTipDoc.Enabled = false;
+                    }
                     txtNroDocumentoSolicitante.Enabled = false;
                     txtDomicilio.Enabled = false;
-                    ddlProvincia.Enabled = false;
-                    ddlDepartamento.Enabled = false;
-                    ddlDistrito.Enabled = false;
+                    if (ddlProvincia.SelectedIndex == 0)
+                    {
+                        ddlProvincia.Enabled = true;
+                    }
+                    else { ddlProvincia.Enabled = false; }
+                    if (ddlDepartamento.SelectedIndex == 0)
+                    {
+                        ddlDepartamento.Enabled = true;
+                    }
+                    else { ddlDepartamento.Enabled = false; }
+                    if (ddlDistrito.SelectedIndex == 0)
+                    {
+                        ddlDistrito.Enabled = true;
+                    }
+                    else { ddlDistrito.Enabled = false; }
+                    
                     txtCorreo.Enabled = true;
                     txtTelefono.Enabled = false;
                     txtTipoVisa.Enabled = false;
