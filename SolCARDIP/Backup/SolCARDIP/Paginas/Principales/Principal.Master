@@ -1,0 +1,278 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="SolCARDIP.Paginas.Principales.Principal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=10;" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <link rel="Shortcut Icon" href="../../Imagenes/Logos/CARDIP.jpg" />
+    <title>
+    Carné para Diplomaticos
+    </title>
+    <link href="../../Estilos/MRE.css" rel="stylesheet" type="text/css" />
+    <script src="../../JavaScript/JScript.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+    <style type="text/css">
+        .level3Local
+        {
+            padding-left:4px;
+            padding-bottom:7px;
+            padding-top:5px;        
+            font-size:11px;
+            font-family:Arial;  
+            background-color:#781236;
+            width:250px;
+            text-align:center;
+            text-transform:uppercase;
+            webkit-transition: background-color 0.5s;
+            transition: background-color 0.5s;
+        }
+        .hoverstyleLocal
+        {
+            background-color:#971844;
+            text-decoration: underline;
+            color:White;
+        }
+    </style>
+    <div class="AnchoTotal">
+        <table class="AnchoTotal">
+            <tr>
+                <td class="AnchoTotal" colspan="2">
+                    <img src="<%= ResolveClientUrl("../../Imagenes/Logos/FondoCabeceraMRE1.png") %>" style="width:100%;height:120px" alt=""/>
+                </td>
+            </tr>
+            <tr style="width:100%;background-color:#480b20">
+                <td style="width:60%">
+                    <asp:UpdatePanel ID="udpMenu" runat="server">
+                        <ContentTemplate>
+                            <asp:Menu ID="menuPrincipal" runat="server" Orientation="Horizontal" Font-Names="Trebuchet MS" Font-Size="12px" RenderingMode="Table" >
+                                <LevelMenuItemStyles>
+                                    <asp:MenuItemStyle CssClass="level1" Font-Names="Trebuchet MS" Font-Size="12px" />
+                                    <asp:MenuItemStyle CssClass="level2" Font-Names="Trebuchet MS" Font-Size="12px" />
+                                    <asp:MenuItemStyle CssClass="level3Local" Font-Names="Trebuchet MS" Font-Size="12px" />
+                                </LevelMenuItemStyles>                     
+                                <DynamicHoverStyle CssClass="hoverstyle" />
+                                <StaticHoverStyle CssClass="hoverstyle" />                                   
+                                <Items>                     
+                                    <asp:MenuItem Text="Home"  Value="00" NavigateUrl="~/Default.aspx"  />                                                                     
+                                </Items>
+                            </asp:Menu>
+                        </ContentTemplate>
+                    </asp:UpdatePanel>
+                </td>
+                <td style="width:40%">
+                    <table class="AnchoTotal">
+                        <tr>
+                            <td style="vertical-align:top">
+                                <table>
+                                    <tr>
+                                        <td><img src="<%= ResolveClientUrl("../../Imagenes/Iconos/home2.png") %>" alt="" /></td><td class="etiquetamenu">Sede:</td><td class="etiquetamenu"><asp:Label ID="lblSede" runat="server"></asp:Label></td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td style="background-color:White"></td>
+                            <td style="vertical-align:top">
+                                <table>
+                                    <tr>
+                                        <td rowspan="2"><img src="<%= ResolveClientUrl("../../Imagenes/Iconos/user2.png") %>" alt="" /></td><td class="etiquetamenu">Usuario:</td><td class="etiquetamenu"><asp:Label ID="lblUsuario" runat="server"></asp:Label></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="etiquetamenu">Perfil:</td><td class="etiquetamenu"><asp:Label ID="lblPerfil" runat="server"></asp:Label></td>       
+                                    </tr>
+                                </table>
+                            </td>
+                            <td style="background-color:White"></td>
+                            <td style="vertical-align:middle">
+                                <table>
+                                    <tr>
+                                        <%--<td rowspan="2"><img src="<%= ResolveClientUrl("../../Imagenes/Iconos/salir.png") %>" alt="" />--%>
+                                        <td rowspan="2"><asp:ImageButton runat="server" ID="ibtSalir" ImageUrl="~/Imagenes/Iconos/salir.png" OnClick="btncerrarsesion_Click" /></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <%--<td>
+                    <table>
+                        <tr>
+                            <td>
+                                <input type="text" id="crono" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>--%>
+            </tr>
+            <tr>
+                <td class="AnchoTotal" colspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <asp:UpdatePanel ID="updPrincipal" runat="server">
+                            <ContentTemplate>
+
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <%--<tr>
+                <td colspan="3" style="width:100%">
+                    <asp:UpdatePanel ID="updAlerta" runat="server">
+                        <ContentTemplate>
+                            <table class="AnchoTotal" style="vertical-align:middle">
+                                <tr>
+                                    <td style="width:100%"align="center">
+                                        <input type="button" id="btnAlerta1" value="prueba CSS" onclick="pruebaAparecer();"/>
+                                        <div id="divAlerta" style="opacity:0;" class="divPruebaAparecer">
+                                            <table class="AnchoTotal" align="center">
+                                                <tr>
+                                                    <td style="padding-left:10px;">
+                                                        <img src="../../Imagenes/Iconos/bandejanegro.png" width="50px" height="40px" alt=""/>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </ContentTemplate>
+                    </asp:UpdatePanel>
+                </td>
+            </tr>--%>
+            <tr>
+                <td colspan="2">
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="height: 30px;" class="EtiquetaCentro" id="Td1" align="center">
+                    MRE&nbsp;&copy; 2017
+                </td>
+            </tr>
+        </table>
+    </div>
+    <script type="text/javascript">
+        //VALIDA LOS NAVEGADORES Y SOLO PERMITE INTERNET EXPLORER
+        var navegador = navigator.userAgent;
+        if (navigator.userAgent.indexOf('MSIE') != -1) {
+            //alert(document.documentMode);
+            //document.write('está usando Internet Explorer ...');
+        } else if (navigator.userAgent.indexOf('Firefox') != -1) {
+            alert('Está usando un navegador no autorizado: Firefox');
+            location.href = '../../mensajes.aspx';
+        } else if (navigator.userAgent.indexOf('Chrome') != -1) {
+            //            alert('Está usando un navegador no autorizado: Google Chrome');
+            //            location.href = '../../mensajes.aspx';
+        } else if (navigator.userAgent.indexOf('Opera') != -1) {
+            alert('Está usando un navegador no autorizado: Opera');
+            location.href = '../../mensajes.aspx';
+        } else {
+            alert('Está usando un navegador no autorizado: no identificado');
+            location.href = '../../mensajes.aspx';
+        }
+
+        //BLOQUEA F5 Y BACKSPACE
+        function checkKeyCode(evt) {
+            var evt = (evt) ? evt : ((event) ? event : null);
+            var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+            if (event.keyCode == 116) {
+                evt.keyCode = 0;
+                return false
+            }
+            if (event.keyCode == 8 && document.activeElement.type != "text") {
+                if (event.keyCode == 8 && document.activeElement.type == "textarea") {
+                    return true;
+                }
+                evt.keyCode = 0;
+                return false;
+            }
+            if (event.keyCode == 13 && document.activeElement.type == "text") {
+                evt.keyCode = 0;
+                return false;
+            }
+            if (event.keyCode == 13 && document.activeElement.type == "checkbox") {
+                evt.keyCode = 0;
+                return false;
+            }
+        }
+
+        var aparecer;
+        var desaparecer;
+        var contadorAlerta = 0;
+        var contadorMenos = 0;
+
+        function divOpacidadMenos() {
+            var div = document.getElementById("divAlerta");
+            var opacidadInicial = parseFloat(document.getElementById("divAlerta").style.opacity);
+            var decremento = parseFloat("0.25");
+            if (div != null) {
+                if (div.style.opacity == 0) {
+                    clearInterval(desaparecer);
+                    setTimeout("pruebaAparecer()", 500);
+                }
+                else {
+                    contadorMenos = parseInt(contadorMenos + 1);
+                    div.style.opacity = opacidadInicial - decremento;
+                    if (contadorMenos == 4) {
+                        contadorAlerta = parseInt(contadorAlerta + 1);
+                        contadorMenos = 0;
+                    }
+                    if (contadorAlerta == 3) {
+                        clearInterval(aparecer);
+                        clearInterval(desaparecer);
+                        contadorAlerta = 0;
+                        contadorMenos = 0;
+                    }
+                }
+            }
+        }
+
+        function divOpacidadMas() {
+            var div = document.getElementById("divAlerta");
+            var opacidadInicial = parseFloat(document.getElementById("divAlerta").style.opacity);
+            var incremento = parseFloat("0.25");
+            if (div != null) {
+                if (opacidadInicial == 1) {
+                    clearInterval(aparecer);
+                    setTimeout("pruebaDesaparecer()", 500);
+                    //pruebaDesaparecer();
+                }
+                else {
+                    div.style.opacity = opacidadInicial + incremento;
+                }
+            }
+        }
+
+        function pruebaDesaparecer() {
+            var div = document.getElementById("divAlerta");
+            if (div != null) {
+                desaparecer = setInterval("divOpacidadMenos()", 1);
+            }
+        }
+
+        function pruebaAparecer() {
+            var div = document.getElementById("divAlerta");
+            if (div != null) {
+                aparecer = setInterval("divOpacidadMas()", 1);
+            }
+        }
+
+        
+
+        //        function postBack() {
+        //            __doPostBack('__Page', 'Page_Load');
+        //        }
+        document.onkeydown = checkKeyCode;
+        //window.onresize = document.body.style.zoom = "95%";
+    </script>
+    </form>
+</body>
+</html>
