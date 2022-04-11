@@ -1,4 +1,1 @@
-¡¡¡los pases se harán de manera obligatoria desde este portal!!!
-ahora se modificó desde la web github los textos en este doc serán sincronizados
-luego le agrego una tercera línea de comentario!!!
-agrego una quinta línea desde pc remoto para sincronizar código fuente
+leeme
