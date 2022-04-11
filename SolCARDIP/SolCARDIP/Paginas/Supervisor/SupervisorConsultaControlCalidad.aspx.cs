@@ -562,7 +562,7 @@ namespace SolCARDIP.Paginas.Supervisor
             bool bEnviado = false;
 
             string strRutaCorreo = string.Empty;
-            strRutaCorreo = strPlantilla;
+            strRutaCorreo = Server.MapPath("~") + strPlantilla;
             try
             {
                 CodigoUsuario co = new CodigoUsuario();

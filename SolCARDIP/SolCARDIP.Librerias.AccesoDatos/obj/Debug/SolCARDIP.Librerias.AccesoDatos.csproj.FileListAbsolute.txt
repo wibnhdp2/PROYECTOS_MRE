@@ -53,3 +53,12 @@ E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Libreri
 E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.csproj.CopyComplete
 E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.dll
 E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\bin\Debug\SolCARDIP.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\bin\Debug\SolCARDIP.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\bin\Debug\SolCARDIP.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\bin\Debug\SolCARDIP.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.AccesoDatos\obj\Debug\SolCARDIP.Librerias.AccesoDatos.pdb
