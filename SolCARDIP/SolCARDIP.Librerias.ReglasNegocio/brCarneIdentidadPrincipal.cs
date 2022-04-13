@@ -10,10 +10,10 @@ namespace SolCARDIP.Librerias.ReglasNegocio
 {
     public class brCarneIdentidadPrincipal:brGeneral
     {
-        public short adicionar(beCarneIdentidadPrincipal obeCarneIdentidadPrincipal,out string resultado)
+        public int adicionar(beCarneIdentidadPrincipal obeCarneIdentidadPrincipal,out string resultado)
         {
             resultado = "";
-            short CarneIdentidadId = -1;
+            int CarneIdentidadId = -1;
             bool exito = false;
             SqlTransaction trx = null;
             using(SqlConnection con = new SqlConnection(CadenaConexion))
@@ -503,9 +503,9 @@ namespace SolCARDIP.Librerias.ReglasNegocio
             }
             return exito;
         }
-        public short actualizarRegistroCompleto(beCarneIdentidadPrincipal obeCarneIdentidadPrincipal)
+        public int actualizarRegistroCompleto(beCarneIdentidadPrincipal obeCarneIdentidadPrincipal)
         {
-            short CarneIdentidadId = -1;
+            int CarneIdentidadId = -1;
             bool exito = false;
             SqlTransaction trx = null;
             using (SqlConnection con = new SqlConnection(CadenaConexion))
@@ -762,7 +762,7 @@ namespace SolCARDIP.Librerias.ReglasNegocio
             return (obeCarneIdentidadPrincipal);
         }
 
-        public beCarneIdentidad consultarxId(short carneID)
+        public beCarneIdentidad consultarxId(int carneID)
         {
             beCarneIdentidad obeCarneIdentidad = null;
             using (SqlConnection con = new SqlConnection(CadenaConexion))
@@ -816,8 +816,8 @@ namespace SolCARDIP.Librerias.ReglasNegocio
                         obeCarneIdentidadPrincipal.RegistroPrevio = odaRegistroPrevio.consultarRegistroEdicion(con, parametrosCarneIdentidad.RegistroPrevio);
                         if (obeCarneIdentidadPrincipal.RelacionDependencia != null)
                         {
-                            short titId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadTitId;
-                            short depId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadDepId;
+                            int titId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadTitId;
+                            int depId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadDepId;
                             if (titId != depId)
                             {
                                 beCarneIdentidad obeCarneIdentidad = new beCarneIdentidad();
@@ -830,8 +830,8 @@ namespace SolCARDIP.Librerias.ReglasNegocio
                     {
                         if (obeCarneIdentidadPrincipal.RelacionDependencia != null)
                         {
-                            short titId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadTitId;
-                            short depId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadDepId;
+                            int titId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadTitId;
+                            int depId = obeCarneIdentidadPrincipal.RelacionDependencia.CarneIdentidadDepId;
                             if (titId != depId)
                             {
                                 beCarneIdentidad obeCarneIdentidad = new beCarneIdentidad();
@@ -849,7 +849,7 @@ namespace SolCARDIP.Librerias.ReglasNegocio
             return (obeCarneIdentidadPrincipal);
         }
 
-        public string obtenerIdent(short parametro)
+        public string obtenerIdent(int parametro)
         {
             string Ident = "error";
             using (SqlConnection con = new SqlConnection(CadenaConexion))

@@ -39,3 +39,9 @@ D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegoc
 D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
 D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
 D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.csproj.AssemblyReference.cache
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb

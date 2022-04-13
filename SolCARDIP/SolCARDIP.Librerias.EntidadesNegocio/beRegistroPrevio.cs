@@ -45,7 +45,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
         public string ConFechaRegistro { get; set; }
         public string ConFechaEmision { get; set; }
         public string ConFechaVencimiento { get; set; }
-        public short ConCarneIdentidadId { get; set; }
+        public int ConCarneIdentidadId { get; set; }
         public string ConTipoEntrada { get; set; }
         public string ConFechaConsulares { get; set; }
         public string ConFechaPrivilegios { get; set; }

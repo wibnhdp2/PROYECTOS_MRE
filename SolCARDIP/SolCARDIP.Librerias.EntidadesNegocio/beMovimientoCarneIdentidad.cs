@@ -4,7 +4,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
 	public class beMovimientoCarneIdentidad
 	{
 		public int MovimientoCarneIdentidadid { get; set; }                               //MOCI_IMOVIMIENTO_CARNE_IDENTIDADID
-		public short CarneIdentidadid { get; set; }                                       //MOCI_ICARNE_IDENTIDADID
+		public int CarneIdentidadid { get; set; }                                       //MOCI_ICARNE_IDENTIDADID
 		public DateTime FechaMovimiento { get; set; }                                     //MOCI_DFECHA_MOVIMIENTO
 		public short Estadoid { get; set; }                                               //MOCI_SESTADOID
 		public short Oficinaconsularid { get; set; }                                      //MOCI_SOFICINACONSULARID

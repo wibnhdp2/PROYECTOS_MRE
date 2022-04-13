@@ -101,7 +101,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
             SqlCommand cmd = new SqlCommand("SC_CARDIP.USP_CD_ACTA_RECEPCION_DETALLE_OBTENER_ID_CAB", con);
             cmd.CommandType = CommandType.StoredProcedure;
 
-            SqlParameter par1 = cmd.Parameters.Add("@P_CARNE_IDENTIDAD_ID", SqlDbType.SmallInt);
+            SqlParameter par1 = cmd.Parameters.Add("@P_CARNE_IDENTIDAD_ID", SqlDbType.Int);
             par1.Direction = ParameterDirection.Input;
             par1.Value = parametros.CarneIdentidadId;
 

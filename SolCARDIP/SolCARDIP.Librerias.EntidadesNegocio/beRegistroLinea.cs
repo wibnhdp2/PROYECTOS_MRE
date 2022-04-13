@@ -9,7 +9,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
     {
         public int RegistroLineaId { get; set; }                                          //RELI_IREGISTRO_LINEA_ID
         public string NumeroRegLinea { get; set; }                                        //RELI_VNUMERO_REG_LINEA
-        public short CarneIdentidadId { get; set; }                                       //RELI_ICARNE_IDENTIDAD_ID
+        public int CarneIdentidadId { get; set; }                                       //RELI_ICARNE_IDENTIDAD_ID
         public short EstadoId { get; set; }                                               //RELI_SESTADO_ID
         public short SolicitudId { get; set; }                                            //RELI_SSOLICITUD_ID
         public short TipoEmision { get; set; }                                            //RELI_STIPO_EMISION

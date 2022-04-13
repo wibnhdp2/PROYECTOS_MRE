@@ -2715,7 +2715,7 @@ namespace SolCARDIP_REGLINEA.Paginas.Principales
                 SessionGeneral.RegistroLineaId = Convert.ToInt32(hCodRegistroLinea.Value);
                 if (hCodCarnetIdentidad.Value.Length > 0)
                 {
-                    SessionGeneral.CarneIdentidadId = Convert.ToInt16(hCodCarnetIdentidad.Value);
+                    SessionGeneral.CarneIdentidadId = Convert.ToInt32(hCodCarnetIdentidad.Value);
                 }
                 SessionGeneral.TipoEmision = Convert.ToInt16(ddlTipEmision.SelectedValue);
                 SessionGeneral.DpReldepTitdep = Convert.ToInt16(ddlRelDependencia.SelectedValue);

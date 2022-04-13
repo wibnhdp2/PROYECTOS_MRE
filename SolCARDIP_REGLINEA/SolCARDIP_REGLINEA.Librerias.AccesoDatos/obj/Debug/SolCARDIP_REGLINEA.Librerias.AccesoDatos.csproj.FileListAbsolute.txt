@@ -61,3 +61,12 @@ D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\ob
 D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.CopyComplete
 D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
 D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.CopyComplete
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb

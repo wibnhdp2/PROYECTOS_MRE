@@ -356,10 +356,9 @@ E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComp
 E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
 E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
 E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.AssemblyReference.cache
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.AssemblyReference.cache
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb

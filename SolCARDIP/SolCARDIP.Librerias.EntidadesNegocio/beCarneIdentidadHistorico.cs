@@ -4,7 +4,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
 	public class beCarneIdentidadHistorico
 	{
 		public int HistoricoCarneIdentidadid { get; set; }                                //HICI_IHISTORICO_CARNE_IDENTIDADID
-		public short CarneIdentidadid { get; set; }                                       //HICI_ICARNE_IDENTIDADID
+		public int CarneIdentidadid { get; set; }                                       //HICI_ICARNE_IDENTIDADID
 		public short CalidadMigratoriaid { get; set; }                                    //HICI_SCALIDAD_MIGRATORIAID
         public short CalidadMigratoriaSecId { get; set; }                                 
         public DateTime FechaEmision { get; set; }                                        //HICI_DFECHA_EMISION

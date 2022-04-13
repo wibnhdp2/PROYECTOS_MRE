@@ -9,7 +9,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
     {
         public short ActaRecepcionDetalleId { get; set; }                                 //ACRD_SACTA_RECEPCION_DETALLE_ID
         public short ActaRecepcionCabId { get; set; }                                     //ACRD_SACTA_RECEPCION_CAB_ID
-        public short CarneIdentidadId { get; set; }                                            //ACRD_SREG_PREVIO_ID
+        public int CarneIdentidadId { get; set; }                                            //ACRD_SREG_PREVIO_ID
         public string Estado { get; set; }                                                //ACRD_CESTADO
         public short UsuarioCreacion { get; set; }                                        //ACRD_SUSUARIO_CREACION
         public string IpCreacion { get; set; }                                            //ACRD_VIP_CREACION

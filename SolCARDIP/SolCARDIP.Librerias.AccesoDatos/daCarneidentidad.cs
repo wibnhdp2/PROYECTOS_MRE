@@ -8,9 +8,9 @@ namespace SolCARDIP.Librerias.AccesoDatos
 {
     public class daCarneidentidad
     {
-        public short adicionar(SqlConnection con, SqlTransaction trx, beCarneIdentidad parametrosCarneIdentidad)
+        public int adicionar(SqlConnection con, SqlTransaction trx, beCarneIdentidad parametrosCarneIdentidad)
         {
-            short CarneIdentidadId = -1;
+            int CarneIdentidadId = -1;
             SqlCommand cmd = new SqlCommand("SC_CARDIP.USP_CD_CARNE_IDENTIDAD_ADICIONAR", con);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Transaction = trx;
@@ -68,7 +68,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
             par8.Direction = ParameterDirection.ReturnValue;
 
             int n = cmd.ExecuteNonQuery();
-            if (n > 0) CarneIdentidadId = Convert.ToInt16(par8.Value);
+            if (n > 0) CarneIdentidadId = Convert.ToInt32(par8.Value);
             return (CarneIdentidadId);
         }
 
@@ -549,7 +549,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
             return (obeCarneIdentidadPrincipal);
         }
 
-        public beCarneIdentidad consultarxId(SqlConnection con, short carneID)
+        public beCarneIdentidad consultarxId(SqlConnection con, int carneID)
         {
             beCarneIdentidad obeCarneIdentidad = new beCarneIdentidad();
             SqlCommand cmd = new SqlCommand("SC_CARDIP.USP_CD_CARNE_IDENTIDAD_CONSULTAR_x_ID", con);
@@ -1132,7 +1132,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
             return (obeConsultaExterna);
         }
 
-        public string obtenerIdent(SqlConnection con, short parametro)
+        public string obtenerIdent(SqlConnection con, int parametro)
         {
             string Ident = "error";
             SqlCommand cmd = new SqlCommand("SC_CARDIP.USP_CD_CARNE_IDENTIDAD_CONSULTAR_IDENT", con);

@@ -152,7 +152,7 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
             if (parametros.CarneIdentidadId == 0) { SqlParameter par2 = cmd.Parameters.Add("@P_RELI_ICARNE_IDENTIDAD_ID", DBNull.Value); }
             else
             {
-                SqlParameter par2 = cmd.Parameters.Add("@P_RELI_ICARNE_IDENTIDAD_ID", SqlDbType.SmallInt);
+                SqlParameter par2 = cmd.Parameters.Add("@P_RELI_ICARNE_IDENTIDAD_ID", SqlDbType.Int);
                 par2.Direction = ParameterDirection.Input;
                 par2.Value = parametros.CarneIdentidadId;
             }
@@ -427,7 +427,7 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
                     
                     obeRegistroLinea.RegistroLineaId = drd.GetInt32(posREGLINEA_ID);
                     obeRegistroLinea.NumeroRegLinea = drd.GetString(posRELI_NUMERO);
-                    obeRegistroLinea.CarneIdentidadId = drd.GetInt16(posRELI_CARDIP_ID);
+                    obeRegistroLinea.CarneIdentidadId = drd.GetInt32(posRELI_CARDIP_ID);
                     obeRegistroLinea.TipoEmision = drd.GetInt16(posRELI_TIPO_EMISION);
                     obeRegistroLinea.DpReldepTitdep = drd.GetInt16(posRELI_TITDEP);
                     obeRegistroLinea.DpReldepTitular = drd.GetInt16(posRELI_TITULAR);
@@ -555,7 +555,7 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
                     beRegistroLinea obeRegistroLinea = new beRegistroLinea();
                     obeRegistroLinea.RegistroLineaId = drd.GetInt32(posREGLINEA_ID);
                     obeRegistroLinea.NumeroRegLinea = drd.GetString(posRELI_NUMERO);
-                    obeRegistroLinea.CarneIdentidadId = drd.GetInt16(posRELI_CARDIP_ID);
+                    obeRegistroLinea.CarneIdentidadId = drd.GetInt32(posRELI_CARDIP_ID);
                     obeRegistroLinea.TipoEmision = drd.GetInt16(posRELI_TIPO_EMISION);
                     obeRegistroLinea.DpReldepTitdep = drd.GetInt16(posRELI_TITDEP);
                     obeRegistroLinea.DpReldepTitular = drd.GetInt16(posRELI_TITULAR);

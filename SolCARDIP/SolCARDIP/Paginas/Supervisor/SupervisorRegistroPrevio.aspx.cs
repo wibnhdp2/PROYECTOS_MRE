@@ -205,7 +205,7 @@ namespace SolCARDIP.Paginas.Supervisor
         {
             try
             {
-                short idRegistroPrevio = -1;
+                int idRegistroPrevio = -1;
                 string identCarneIdentidad = "error";
                 short usuarioId = short.Parse(ViewState["Usuarioid"].ToString());
                 short oficinaId = short.Parse(ViewState["Oficinaid"].ToString());

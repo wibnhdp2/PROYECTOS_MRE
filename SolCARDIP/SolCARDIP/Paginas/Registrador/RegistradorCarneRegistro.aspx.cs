@@ -929,7 +929,7 @@ namespace SolCARDIP.Paginas.Registrador
                         //{   //se actualiza el estado observado a (cabecera=enviado, en detalle=aprobado
                         //    bool exito = obrCarneIdentidadPrincipal.subsanarObservacion(obeRegistroLinea);
                         //}
-                        short CarneIdentidadId = obrCarneIdentidadPrincipal.adicionar(obeCarneIdentidadPrincipal, out resultado);
+                        int CarneIdentidadId = obrCarneIdentidadPrincipal.adicionar(obeCarneIdentidadPrincipal, out resultado);
                         
                         
                         hErrorRegistro.Value = resultado;
@@ -1423,7 +1423,7 @@ namespace SolCARDIP.Paginas.Registrador
                             
                             brCarneIdentidadPrincipal obrCarneIdentidadPrincipal = new brCarneIdentidadPrincipal();
                             bool exito = false;
-                            short CarneIdentidadId = -1;
+                            int CarneIdentidadId = -1;
                             if (tipoActualizacion)
                             {
                                 //if (ViewState["estado"]!=null && ViewState["estado"].ToString().Equals("OBSERVADO"))

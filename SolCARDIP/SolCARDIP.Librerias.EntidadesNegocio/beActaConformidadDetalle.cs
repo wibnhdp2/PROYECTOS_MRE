@@ -7,7 +7,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
     {
         public short ActaConformidadDetalleId { get; set; }                               //ACDE_SACTA_CONFORMIDAD_DETALLE_ID
         public short ActaConformidadCabId { get; set; }                                   //ACDE_SACTA_CONFORMIDAD_CAB_ID
-        public short CarneIdentidadId { get; set; }                                       //ACDE_SCARNE_IDENTIDAD_ID
+        public int CarneIdentidadId { get; set; }                                       //ACDE_SCARNE_IDENTIDAD_ID
         public string Estado { get; set; }                                                //ACDE_CESTADO
         public short UsuarioCreacion { get; set; }                                        //ACDE_SUSUARIO_CREACION
         public string IpCreacion { get; set; }                                            //ACDE_VIP_CREACION

@@ -3,7 +3,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
 {
 	public class beCarneIdentidad
 	{
-		public short CarneIdentidadid { get; set; }                                       //CAID_ICARNE_IDENTIDADID
+		public int CarneIdentidadid { get; set; }                                       //CAID_ICARNE_IDENTIDADID
         public int Periodo { get; set; }
         public string IdentMesaPartes { get; set; } 
         public int IdentNumero { get; set; }

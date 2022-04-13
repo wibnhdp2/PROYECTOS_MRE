@@ -1058,7 +1058,7 @@ namespace SolCARDIP.Paginas.Supervisor
             return (obeRegistroPrevio);
         }
 
-        protected beCarneIdentidad obtenerRegistroCI(short carneID) // PERMITE OBTENER TODA LA INFORMACION DE UN REGISTRO SELECCIONADO
+        protected beCarneIdentidad obtenerRegistroCI(int carneID) // PERMITE OBTENER TODA LA INFORMACION DE UN REGISTRO SELECCIONADO
         {
             beCarneIdentidad obeCarneIdentidadCI = new beCarneIdentidad();
             brCarneIdentidadPrincipal obrCarneIdentidadPrincipal = new brCarneIdentidadPrincipal();

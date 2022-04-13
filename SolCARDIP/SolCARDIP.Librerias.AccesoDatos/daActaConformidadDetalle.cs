@@ -22,7 +22,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
 			par1.Value = parametros.ActaConformidadCabId;
 
 
-            SqlParameter par2 = cmd.Parameters.Add("@P_CARNE_IDENTIDAD_ID", SqlDbType.SmallInt);
+            SqlParameter par2 = cmd.Parameters.Add("@P_CARNE_IDENTIDAD_ID", SqlDbType.Int);
 			par2.Direction = ParameterDirection.Input;
 			par2.Value = parametros.CarneIdentidadId;
 
