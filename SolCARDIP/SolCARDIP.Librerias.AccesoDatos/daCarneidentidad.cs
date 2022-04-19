@@ -523,7 +523,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
                     obeCarneIdentidad.Duplicado = drd.GetBoolean(posDuplicado);
                     obeCarneIdentidad.TipodocDesc = drd.GetString(posTipoDoc);
                     obeCarneIdentidad.DocumentoNumero = drd.GetString(posNumdocident);
-                    obeCarneIdentidad.ConSolicitudId = drd.GetInt32(posRegistroLinea);
+                    if (!drd.IsDBNull(posRegistroLinea)) { obeCarneIdentidad.ConSolicitudId = drd.GetInt32(posRegistroLinea);  }                        
                     lbeCarneIdentidad.Add(obeCarneIdentidad);
                     
                 }

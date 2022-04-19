@@ -86,3 +86,15 @@ D:\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.Reg
 D:\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.csproj.CopyComplete
 D:\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.dll
 D:\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SolCARDIP.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SolCARDIP.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SAE.UInterfaces.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SolCARDIP.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SolCARDIP.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SolCARDIP.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Debug\SolCARDIP.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Debug\SolCARDIP.Librerias.ReglasNegocio.pdb
