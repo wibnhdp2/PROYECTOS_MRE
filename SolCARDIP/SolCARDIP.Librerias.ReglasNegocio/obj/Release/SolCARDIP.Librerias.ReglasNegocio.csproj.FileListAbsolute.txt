@@ -44,3 +44,15 @@ E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Lib
 E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.csproj.CopyComplete
 E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.dll
 E:\TRABAJO\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SolCARDIP.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SolCARDIP.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SAE.UInterfaces.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SolCARDIP.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SolCARDIP.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SolCARDIP.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\bin\Release\SolCARDIP.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.ReglasNegocio\obj\Release\SolCARDIP.Librerias.ReglasNegocio.pdb

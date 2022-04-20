@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile>2020-01-08T16:34:24.0000000-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
     <_PublishTargetUrl>D:\Publicacion\cardip_reglinea_webapp</_PublishTargetUrl>
-    <History>True|2022-04-07T15:18:03.2676530Z;True|2022-04-07T08:56:01.1381911-05:00;True|2022-04-06T14:00:44.7276019-05:00;True|2022-04-06T13:53:43.4120101-05:00;True|2022-03-11T10:39:04.6648892-05:00;</History>
+    <History>True|2022-04-20T20:50:30.4446945Z;True|2022-04-07T10:18:03.2676530-05:00;True|2022-04-07T08:56:01.1381911-05:00;True|2022-04-06T14:00:44.7276019-05:00;True|2022-04-06T13:53:43.4120101-05:00;True|2022-03-11T10:39:04.6648892-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/AjaxControlToolkit.dll">
@@ -29,28 +29,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2015 11:42:12</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.dll">
-      <publishTime>04/07/2022 10:16:54</publishTime>
+      <publishTime>04/20/2022 13:37:21</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll">
-      <publishTime>03/30/2022 10:34:42</publishTime>
+      <publishTime>04/20/2022 13:37:20</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb">
-      <publishTime>03/30/2022 10:34:42</publishTime>
+      <publishTime>04/20/2022 13:37:20</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll">
-      <publishTime>03/30/2022 10:34:41</publishTime>
+      <publishTime>04/20/2022 13:21:15</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb">
-      <publishTime>03/30/2022 10:34:41</publishTime>
+      <publishTime>04/20/2022 13:21:15</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll">
-      <publishTime>03/30/2022 11:12:59</publishTime>
+      <publishTime>04/20/2022 13:37:20</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb">
-      <publishTime>03/30/2022 11:12:59</publishTime>
+      <publishTime>04/20/2022 13:37:20</publishTime>
     </File>
     <File Include="bin/SolCARDIP_REGLINEA.pdb">
-      <publishTime>04/07/2022 10:16:54</publishTime>
+      <publishTime>04/20/2022 13:37:21</publishTime>
     </File>
     <File Include="Default.aspx">
       <publishTime>12/11/2019 15:45:16</publishTime>
@@ -191,7 +191,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/07/2022 08:55:49</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/06/2022 13:53:42</publishTime>
+      <publishTime>04/20/2022 15:50:30</publishTime>
     </File>
     <File Include="webfonts/fa-brands-400.eot">
       <publishTime>11/28/2019 16:38:06</publishTime>

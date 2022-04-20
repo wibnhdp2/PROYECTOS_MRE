@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile>2020-02-04T15:48:37.6828181-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
     <_PublishTargetUrl>D:\Publicacion\cardip_webapp</_PublishTargetUrl>
-    <History>True|2022-04-11T14:30:46.5974858Z;True|2022-04-07T11:54:30.9280787-05:00;True|2022-04-06T13:53:01.7359168-05:00;True|2022-03-23T16:03:54.9892139-05:00;True|2022-03-11T10:09:38.2053131-05:00;</History>
+    <History>True|2022-04-20T20:48:36.1957095Z;True|2022-04-11T09:30:46.5974858-05:00;True|2022-04-07T11:54:30.9280787-05:00;True|2022-04-06T13:53:01.7359168-05:00;True|2022-03-23T16:03:54.9892139-05:00;True|2022-03-11T10:09:38.2053131-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/AjaxControlToolkit.dll">
@@ -35,34 +35,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/09/2012 10:04:56</publishTime>
     </File>
     <File Include="bin/Seguridad.Logica.dll">
-      <publishTime>04/11/2022 09:30:41</publishTime>
+      <publishTime>04/20/2022 15:48:33</publishTime>
     </File>
     <File Include="bin/Seguridad.Logica.pdb">
-      <publishTime>04/11/2022 09:30:41</publishTime>
+      <publishTime>04/20/2022 15:48:33</publishTime>
     </File>
     <File Include="bin/SolCARDIP.dll">
-      <publishTime>04/11/2022 09:49:11</publishTime>
+      <publishTime>04/20/2022 15:48:34</publishTime>
     </File>
     <File Include="bin/SolCARDIP.Librerias.AccesoDatos.dll">
-      <publishTime>04/11/2022 09:30:41</publishTime>
+      <publishTime>04/20/2022 15:48:33</publishTime>
     </File>
     <File Include="bin/SolCARDIP.Librerias.AccesoDatos.pdb">
-      <publishTime>04/11/2022 09:30:41</publishTime>
+      <publishTime>04/20/2022 15:48:33</publishTime>
     </File>
     <File Include="bin/SolCARDIP.Librerias.EntidadesNegocio.dll">
-      <publishTime>03/23/2022 16:03:50</publishTime>
+      <publishTime>04/20/2022 15:48:33</publishTime>
     </File>
     <File Include="bin/SolCARDIP.Librerias.EntidadesNegocio.pdb">
-      <publishTime>03/23/2022 16:03:50</publishTime>
+      <publishTime>04/20/2022 15:48:33</publishTime>
     </File>
     <File Include="bin/SolCARDIP.Librerias.ReglasNegocio.dll">
-      <publishTime>04/11/2022 09:30:42</publishTime>
+      <publishTime>04/20/2022 15:48:34</publishTime>
     </File>
     <File Include="bin/SolCARDIP.Librerias.ReglasNegocio.pdb">
-      <publishTime>04/11/2022 09:30:42</publishTime>
+      <publishTime>04/20/2022 15:48:34</publishTime>
     </File>
     <File Include="bin/SolCARDIP.pdb">
-      <publishTime>04/11/2022 09:49:11</publishTime>
+      <publishTime>04/20/2022 15:48:34</publishTime>
     </File>
     <File Include="Default.aspx">
       <publishTime>09/04/2017 10:22:50</publishTime>
@@ -845,7 +845,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/21/2021 11:55:45</publishTime>
     </File>
     <File Include="Paginas/Registrador/RegistradorConsultaCarne.aspx">
-      <publishTime>03/23/2022 16:42:47</publishTime>
+      <publishTime>04/13/2022 10:05:56</publishTime>
     </File>
     <File Include="Paginas/Reportes/DataSet/dtsConsultaCarnet.xsc">
       <publishTime>06/29/2021 18:52:41</publishTime>
@@ -893,7 +893,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/10/2022 17:41:11</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/11/2022 10:09:35</publishTime>
+      <publishTime>04/20/2022 15:48:35</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -15,3 +15,10 @@ E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.csproj.CoreCo
 E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.csproj.CopyComplete
 E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.dll
 E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\bin\Release\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\bin\Release\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\Seguridad.Logica\obj\Release\Seguridad.Logica.pdb
