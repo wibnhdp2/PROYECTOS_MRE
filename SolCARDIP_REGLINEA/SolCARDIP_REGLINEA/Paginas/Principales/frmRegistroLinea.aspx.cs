@@ -170,7 +170,7 @@ namespace SolCARDIP_REGLINEA.Paginas.Principales
                 if (key.Equals("DEPENDIENTE"))
                 {
                     ddlRelDependencia_SelectedIndexChanged(null, null);
-                    short carneID = SessionGeneral.DpReldepTitular;
+                    int carneID = SessionGeneral.DpReldepTitular;
                     if (carneID > 0)
                     {
                         brRegistroLinea obrRegistroLinea = new brRegistroLinea();
@@ -2721,7 +2721,7 @@ namespace SolCARDIP_REGLINEA.Paginas.Principales
                 SessionGeneral.DpReldepTitdep = Convert.ToInt16(ddlRelDependencia.SelectedValue);
                 if (hCodigoCarnetTitular.Value.Length > 0)
                 {
-                    SessionGeneral.DpReldepTitular = Convert.ToInt16(hCodigoCarnetTitular.Value);
+                    SessionGeneral.DpReldepTitular = Convert.ToInt32(hCodigoCarnetTitular.Value);
                 }
                 SessionGeneral.DpPrimerApellido = txtApePat.Text;
                 SessionGeneral.DpSegundoApellido = txtApeMat.Text;

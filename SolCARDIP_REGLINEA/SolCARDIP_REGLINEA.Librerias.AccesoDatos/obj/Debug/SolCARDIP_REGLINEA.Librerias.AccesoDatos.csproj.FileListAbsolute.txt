@@ -70,3 +70,12 @@ D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARD
 D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.CopyComplete
 D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
 D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.AccesoDatos\obj\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb

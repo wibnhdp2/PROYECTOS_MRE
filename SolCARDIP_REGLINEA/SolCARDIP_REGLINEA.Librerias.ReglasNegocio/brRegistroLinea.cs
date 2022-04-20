@@ -163,7 +163,7 @@ namespace SolCARDIP_REGLINEA.Librerias.ReglasNegocio
             return (list);
         }
 
-        public beCarneIdentidad consultarCarnexId(short carneID)
+        public beCarneIdentidad consultarCarnexId(int carneID)
         {
             beCarneIdentidad obeCarneIdentidad = null;
             using (SqlConnection con = new SqlConnection(CadenaConexion))

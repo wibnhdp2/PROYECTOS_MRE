@@ -197,7 +197,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
                     obeRegistroPrevio.ConFechaVencimiento = drd.GetString(posFECHA_VENCIMIENTO);
                     obeRegistroPrevio.ConFechaConsulares = drd.GetString(posFECHA_CON);
                     obeRegistroPrevio.ConFechaPrivilegios = drd.GetString(posFECHA_PRI);
-                    obeRegistroPrevio.ConCarneIdentidadId = drd.GetInt16(posCARDIP_ID);
+                    obeRegistroPrevio.ConCarneIdentidadId = drd.GetInt32(posCARDIP_ID);
                     obeRegistroPrevio.RegistroPrevioId = drd.GetInt16(posREGPREV_ID);
                     obeRegistroPrevio.FlagRegistroCompleto = drd.GetBoolean(posFLAG_REGCOMP);
                     obeRegistroPrevio.ConRegistradorId = drd.GetInt16(posREGISTRADOR_ID);

@@ -42,4 +42,3 @@ C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.EntidadesN
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP.Librerias.EntidadesNegocio.dll
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP.Librerias.EntidadesNegocio.pdb
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP.Librerias.EntidadesNegocio.csproj.AssemblyReference.cache

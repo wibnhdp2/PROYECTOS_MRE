@@ -88,3 +88,14 @@ D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCA
 D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
 D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
 D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb

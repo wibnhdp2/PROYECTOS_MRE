@@ -483,7 +483,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
                 while (drd.Read())
                 {
                     obeCarneIdentidad = new beCarneIdentidad();
-                    obeCarneIdentidad.CarneIdentidadid = drd.GetInt16(posCarneIdentidadid);
+                    obeCarneIdentidad.CarneIdentidadid = drd.GetInt32(posCarneIdentidadid);
                     obeCarneIdentidad.IdentMesaPartes = drd.GetString(posMesaPartes);
                     obeCarneIdentidad.ConIdent = drd.GetString(posConIdent);
                     obeCarneIdentidad.CarneNumero = drd.GetString(posCarneNumero);
@@ -914,7 +914,7 @@ namespace SolCARDIP.Librerias.AccesoDatos
                     if (!drd.IsDBNull(posMESA_PARTES)) { CarneIdentidad.IdentMesaPartes = drd.GetString(posMESA_PARTES); }
                     else { CarneIdentidad.IdentMesaPartes = ""; }
                     CarneIdentidad.ConIdent = drd.GetString(posNUMERO_IDENT);
-                    CarneIdentidad.CarneIdentidadid = drd.GetInt16(posCARDIP_ID);
+                    CarneIdentidad.CarneIdentidadid = drd.GetInt32(posCARDIP_ID);
                     CarneIdentidad.RutaArchivoFoto = drd.GetString(posCARDIP_RUTA_ARCHIVO);
                     if (!drd.IsDBNull(posCARDIP_RUTA_ARCHIVO_FIRMA)) { CarneIdentidad.RutaArchivoFirma = drd.GetString(posCARDIP_RUTA_ARCHIVO_FIRMA); }
                     else { CarneIdentidad.RutaArchivoFirma = "error"; }

@@ -426,11 +426,11 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
                     drd.Read();
                     
                     obeRegistroLinea.RegistroLineaId = drd.GetInt32(posREGLINEA_ID);
-                    obeRegistroLinea.NumeroRegLinea = drd.GetString(posRELI_NUMERO);
-                    obeRegistroLinea.CarneIdentidadId = drd.GetInt32(posRELI_CARDIP_ID);
+                    obeRegistroLinea.NumeroRegLinea = drd.GetString(posRELI_NUMERO);                                        
+                    if (!drd.IsDBNull(posRELI_CARDIP_ID)) { obeRegistroLinea.CarneIdentidadId = drd.GetInt32(posRELI_CARDIP_ID); }
                     obeRegistroLinea.TipoEmision = drd.GetInt16(posRELI_TIPO_EMISION);
                     obeRegistroLinea.DpReldepTitdep = drd.GetInt16(posRELI_TITDEP);
-                    obeRegistroLinea.DpReldepTitular = drd.GetInt16(posRELI_TITULAR);
+                    obeRegistroLinea.DpReldepTitular = drd.GetInt32(posRELI_TITULAR);
                     obeRegistroLinea.DpPrimerApellido = drd.GetString(posRELI_PRIAPE);
                     obeRegistroLinea.DpSegundoApellido = drd.GetString(posRELI_SEGAPE);
                     obeRegistroLinea.DpNombres = drd.GetString(posRELI_NOMBRES);
@@ -554,11 +554,11 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
                 {
                     beRegistroLinea obeRegistroLinea = new beRegistroLinea();
                     obeRegistroLinea.RegistroLineaId = drd.GetInt32(posREGLINEA_ID);
-                    obeRegistroLinea.NumeroRegLinea = drd.GetString(posRELI_NUMERO);
-                    obeRegistroLinea.CarneIdentidadId = drd.GetInt32(posRELI_CARDIP_ID);
+                    obeRegistroLinea.NumeroRegLinea = drd.GetString(posRELI_NUMERO);                  
+                    if (!drd.IsDBNull(posRELI_CARDIP_ID)) { obeRegistroLinea.CarneIdentidadId = drd.GetInt32(posRELI_CARDIP_ID); }
                     obeRegistroLinea.TipoEmision = drd.GetInt16(posRELI_TIPO_EMISION);
-                    obeRegistroLinea.DpReldepTitdep = drd.GetInt16(posRELI_TITDEP);
-                    obeRegistroLinea.DpReldepTitular = drd.GetInt16(posRELI_TITULAR);
+                    obeRegistroLinea.DpReldepTitdep = drd.GetInt16(posRELI_TITDEP);                    
+                    if (!drd.IsDBNull(posRELI_TITULAR)) { obeRegistroLinea.DpReldepTitular = drd.GetInt32(posRELI_TITULAR); }
                     obeRegistroLinea.DpPrimerApellido = drd.GetString(posRELI_PRIAPE);
                     obeRegistroLinea.DpSegundoApellido = drd.GetString(posRELI_SEGAPE);
                     obeRegistroLinea.DpNombres = drd.GetString(posRELI_NOMBRES);
@@ -958,7 +958,7 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
             return (obeCarneIdentidadPrincipal);
         }
 
-        public beCarneIdentidad consultarCarnexId(SqlConnection con, short carneID)
+        public beCarneIdentidad consultarCarnexId(SqlConnection con, int carneID)
         {
             beCarneIdentidad obeCarneIdentidad = new beCarneIdentidad();
             SqlCommand cmd = new SqlCommand("SC_CARDIP.USP_CD_CARNE_IDENTIDAD_CONSULTAR_x_ID", con);

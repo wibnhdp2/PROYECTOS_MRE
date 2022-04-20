@@ -142,8 +142,6 @@ D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
 D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
 D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
 D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.AssemblyReference.cache
-C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll.config
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
@@ -159,6 +157,8 @@ C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librer
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb

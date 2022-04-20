@@ -14,7 +14,7 @@ namespace SolCARDIP.Librerias.EntidadesNegocio
         public short SolicitudId { get; set; }                                            //RELI_SSOLICITUD_ID
         public short TipoEmision { get; set; }                                            //RELI_STIPO_EMISION
         public short DpReldepTitdep { get; set; }                                         //RELI_SDP_RELDEP_TITDEP
-        public short DpReldepTitular { get; set; }                                        //RELI_SDP_RELDEP_TITULAR
+        public int DpReldepTitular { get; set; }                                        //RELI_SDP_RELDEP_TITULAR
         public string DpPrimerApellido { get; set; }                                      //RELI_VDP_PRIMER_APELLIDO
         public string DpSegundoApellido { get; set; }                                     //RELI_VDP_SEGUNDO_APELLIDO
         public string DpNombres { get; set; }                                             //RELI_VDP_NOMBRES
