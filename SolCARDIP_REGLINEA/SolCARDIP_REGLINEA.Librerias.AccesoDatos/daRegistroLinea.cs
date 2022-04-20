@@ -732,7 +732,7 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
                     UbiGeo.Ubi03 = drd.GetString(posUBIGEO_DISTRITO);
                     // CARDIP ---------------------------------------------------------------------------------
                     CarneIdentidad.ConIdent = drd.GetString(posNUMERO_IDENT);
-                    CarneIdentidad.CarneIdentidadid = drd.GetInt16(posCARDIP_ID);
+                    CarneIdentidad.CarneIdentidadid = drd.GetInt32(posCARDIP_ID);
                     CarneIdentidad.RutaArchivoFoto = drd.GetString(posCARDIP_RUTA_ARCHIVO);
                     CarneIdentidad.RutaArchivoFirma = drd.GetString(posCARDIP_RUTA_ARCHIVO_FIRMA);
                     
@@ -784,7 +784,7 @@ namespace SolCARDIP_REGLINEA.Librerias.AccesoDatos
                 if (drd.HasRows)
                 {
                     drd.Read();
-                    obeCarneIdentidad.CarneIdentidadid = drd.GetInt16(posCARDIP_ID);
+                    obeCarneIdentidad.CarneIdentidadid = drd.GetInt32(posCARDIP_ID);
                 }
                 drd.Close();
             }

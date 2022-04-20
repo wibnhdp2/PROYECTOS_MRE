@@ -50,3 +50,4 @@ C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Li
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
 C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.csproj.AssemblyReference.cache
