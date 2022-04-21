@@ -1,0 +1,689 @@
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll.config
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csproj.AssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csproj.CopyComplete
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220303_VIDAL\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb

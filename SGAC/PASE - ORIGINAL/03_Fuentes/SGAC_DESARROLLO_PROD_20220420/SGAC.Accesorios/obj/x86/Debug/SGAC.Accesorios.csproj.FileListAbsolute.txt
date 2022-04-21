@@ -1,0 +1,1187 @@
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\DL.DAC.dll
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\itextsharp.dll
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\20012017\ULTIMA_VERSIÓN_SANDRA_A_MIGUEL\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\PARA COMPARAR\SANDRA\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\PARA COMPARAR\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Compartida\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\03022017\sgac_sourcecode - Desarrollo - Proceso\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Users\sacostac\Desktop\06022017\sgac_sourcecode - Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_Desarrollo -\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD - copia\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\PASES-SGAC-2020-12-03-VPIPAU\03.FUENTES\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20201221\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210106\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210111\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210208_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210209_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210210_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210211_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210212_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210223_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210225_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210303_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210304_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210312_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210316_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210407_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210415_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210416_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210419_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210420_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210421_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210422_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210427_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210429_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210504_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210510_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210512_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210514_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210517_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210614_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210622_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll.config
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csproj.AssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csproj.CopyComplete
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_20210628_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210803\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210902\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210906\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210908\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210913\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210922\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210927\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211006\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211013\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211018\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211021\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211025\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211026\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211027\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211103\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211104\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211108\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211109\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211112\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211115\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211117\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211122\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211123\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211124\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211126\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211129\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211201\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211206\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211209\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211213\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211214\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211216\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211217\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211220\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211222\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211228\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211229\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211230\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\bin\Debug\SGAC.BE.dll.config
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csproj.AssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csproj.CopyComplete
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD_\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220112_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220113_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220117_VN2010\SGAC_DESARROLLO_PROD\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307_VIDAL\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220307\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220309\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220311\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220314\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220316\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220317\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220321\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220322\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220325\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220331\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220401\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220405\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220406\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220407\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220411\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220412\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220413\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220419\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Accesorios\obj\x86\Debug\SGAC.Accesorios.pdb

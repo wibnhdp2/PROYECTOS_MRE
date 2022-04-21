@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3839B18A-3137-4CB7-B3C2-411F48FD727C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGAC.BE.MRE</RootNamespace>
+    <AssemblyName>SGAC.BE.MRE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseBussinesObject.cs" />
+    <Compile Include="CL_PERFILATENCION.cs" />
+    <Compile Include="CL_SERVICIO.cs" />
+    <Compile Include="CL_TELEVISOR.cs" />
+    <Compile Include="CL_TICKET.cs" />
+    <Compile Include="CL_TICKETERA.cs" />
+    <Compile Include="CL_VENTANILLA.cs" />
+    <Compile Include="CL_VENTANILLASERVICIO.cs" />
+    <Compile Include="CL_VIDEO.cs" />
+    <Compile Include="CO_CUENTACORRIENTE.cs" />
+    <Compile Include="CO_MOVIMIENTOCAJACHICA.cs" />
+    <Compile Include="CO_REMESA.cs" />
+    <Compile Include="CO_REMESADETALLE.cs" />
+    <Compile Include="CO_TRANSACCION.cs" />
+    <Compile Include="Custom\CBE_AUTORIZACIONVIAJEMENOR.cs" />
+    <Compile Include="Custom\CBE_CERTIFICADOSUPERVIVENCIA.cs" />
+    <Compile Include="Custom\CBE_CUERPO.cs" />
+    <Compile Include="Custom\CBE_DROPDOWNLIST.cs" />
+    <Compile Include="Custom\CBE_FICHAREGISTRAL.cs" />
+    <Compile Include="Custom\CBE_FILIACION.cs" />
+    <Compile Include="Custom\CBE_MIGRATORIO.cs" />
+    <Compile Include="Custom\CBE_PARTICIPANTE.cs" />
+    <Compile Include="Custom\CBE_PERSONA.cs" />
+    <Compile Include="Custom\CBE_PODERFUERAREGISTRO.cs" />
+    <Compile Include="Custom\CBE_PRESENTANTE.cs" />
+    <Compile Include="Custom\CBE_PROTOCOLAR.cs" />
+    <Compile Include="Custom\CBE_ACTOJUDICIAL.cs" />
+    <Compile Include="Custom\CBE_RUNE.cs" />
+    <Compile Include="Custom\JResult.cs" />
+    <Compile Include="MA_ETIQUETA.cs" />
+    <Compile Include="MA_TABLA_MAESTRA.cs" />
+    <Compile Include="RE_ACTAJUDICIAL.cs" />
+    <Compile Include="RE_ACTOJUDICIAL.cs" />
+    <Compile Include="RE_ACTOJUDICIALNOTIFICACION.cs" />
+    <Compile Include="RE_ACTOJUDICIALPARTICIPANTE.cs" />
+    <Compile Include="RE_ACTOMIGRATORIO.cs" />
+    <Compile Include="RE_ACTOMIGRATORIOFORMATO.cs" />
+    <Compile Include="RE_ACTOMIGRATORIOHISTORICO.cs" />
+    <Compile Include="RE_ACTONOTARIAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RE_ACTONOTARIALCUERPO.cs" />
+    <Compile Include="RE_ACTONOTARIALDETALLE.cs" />
+    <Compile Include="RE_ACTONOTARIALDOCUMENTO.cs" />
+    <Compile Include="RE_ACTONOTARIALPARTICIPANTE.cs" />
+    <Compile Include="RE_ACTONOTARIALSEGUIMIENTO.cs" />
+    <Compile Include="RE_ACTONOTARIAL_PRIMIGENIA.cs" />
+    <Compile Include="RE_ACTUACION.cs" />
+    <Compile Include="RE_ACTUACIONADJUNTO.cs" />
+    <Compile Include="RE_ACTUACIONDETALLE.cs" />
+    <Compile Include="RE_ACTUACIONINSUMODETALLE.cs" />
+    <Compile Include="RE_ACTUA_PAGO.cs" />
+    <Compile Include="RE_ANTECEDENTE_PENAL.cs" />
+    <Compile Include="RE_ANTECEDENTE_PENAL_DETALLE.cs" />
+    <Compile Include="RE_ASISTENCIA.cs" />
+    <Compile Include="RE_ASISTENCIABENEFICIARIO.cs" />
+    <Compile Include="RE_CORRELATIVO.cs" />
+    <Compile Include="RE_EMPRESA.cs" />
+    <Compile Include="RE_EMPRESARESIDENCIA.cs" />
+    <Compile Include="RE_FICHAENVIADA.cs" />
+    <Compile Include="RE_FICHAREGISTRAL.cs" />
+    <Compile Include="RE_FICHAREGISTRALPARTICIPANTE.cs" />
+    <Compile Include="RE_GUIADESPACHO.cs" />
+    <Compile Include="RE_OFICINACONSULARFUNCIONARIO.cs" />
+    <Compile Include="RE_PAGO.cs" />
+    <Compile Include="RE_PARTICIPANTE.cs" />
+    <Compile Include="RE_PERSONA.cs" />
+    <Compile Include="RE_PERSONAFILIACION.cs" />
+    <Compile Include="RE_PERSONAFOTO.cs" />
+    <Compile Include="RE_PERSONAIDENTIFICACION.cs" />
+    <Compile Include="RE_PERSONARESIDENCIA.cs" />
+    <Compile Include="RE_PLANTILLA_TRADUCCION.cs" />
+    <Compile Include="RE_REGISTROCIVIL.cs" />
+    <Compile Include="RE_REGISTROUNICO.cs" />
+    <Compile Include="RE_REPRESENTANTELEGAL.cs" />
+    <Compile Include="RE_RESIDENCIA.cs" />
+    <Compile Include="SC_MAESTRO\MA_DOCUMENTO_IDENTIDAD.cs" />
+    <Compile Include="SE_FORMULARIO.cs" />
+    <Compile Include="SE_ROLCONFIGURACION.cs" />
+    <Compile Include="SE_ROLOPCION.cs" />
+    <Compile Include="SE_USUARIO.cs" />
+    <Compile Include="SE_USUARIOROL.cs" />
+    <Compile Include="SI_AUDITORIA.cs" />
+    <Compile Include="SI_EXPEDIENTE.cs" />
+    <Compile Include="SI_LIBRO.cs" />
+    <Compile Include="SI_NORMA.cs" />
+    <Compile Include="SI_NORMA_TARIFARIO.cs" />
+    <Compile Include="SI_OFICINACONSULAR.cs" />
+    <Compile Include="SI_OFICINA_TARIFA_TIPO_PAGO.cs" />
+    <Compile Include="SI_PAIS.cs" />
+    <Compile Include="SI_PARAMETRO.cs" />
+    <Compile Include="SI_STOCK_ALMACEN.cs" />
+    <Compile Include="SI_TARIFARIO.cs" />
+    <Compile Include="SI_TARIFARIOREQUISITO.cs" />
+    <Compile Include="SI_TIPOCAMBIO_BANCARIO.cs" />
+    <Compile Include="SI_TIPOCAMBIO_CONSULAR.cs" />
+    <Compile Include="SI_TIPO_ACTO_PROTOCOLAR_TARIFARIO.cs" />
+    <Compile Include="SI_UBICACIONGEOGRAFICA.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGAC.BE\SGAC.BE.csproj">
+      <Project>{1E705259-BE1F-4946-8819-24C093A7B43C}</Project>
+      <Name>SGAC.BE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

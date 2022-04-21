@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition">
+  <DataSources>
+    <DataSource Name="dsMigratorio">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>ab85e05d-b0fd-4bfe-a1e2-62d706026189</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="dsMigratorio">
+      <Fields>
+        <Field Name="vOficinaConsular">
+          <DataField>vOficinaConsular</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="iPersonaId">
+          <DataField>iPersonaId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vApellidoMaterno">
+          <DataField>vApellidoMaterno</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vApellidoPaterno">
+          <DataField>vApellidoPaterno</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNombres">
+          <DataField>vNombres</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sGeneroId">
+          <DataField>sGeneroId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vGenero">
+          <DataField>vGenero</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sEstadoCivilId">
+          <DataField>sEstadoCivilId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vEstadoCivilId">
+          <DataField>vEstadoCivilId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sPerDocumentoTipoId">
+          <DataField>sPerDocumentoTipoId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vPerDocumentoTipo">
+          <DataField>vPerDocumentoTipo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vPerDocumentoNumero">
+          <DataField>vPerDocumentoNumero</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vColorOjos">
+          <DataField>vColorOjos</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vColorCabello">
+          <DataField>vColorCabello</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="pers_vEstatura">
+          <DataField>pers_vEstatura</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="cNacimientoLugar">
+          <DataField>cNacimientoLugar</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNacimientoLugar">
+          <DataField>vNacimientoLugar</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sNacionalidadId">
+          <DataField>sNacionalidadId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNacionalidad">
+          <DataField>vNacionalidad</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vDepartamento">
+          <DataField>vDepartamento</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vDistrito">
+          <DataField>vDistrito</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dNacimientoFecha">
+          <DataField>dNacimientoFecha</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sProfesionId">
+          <DataField>sProfesionId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vProfesion">
+          <DataField>vProfesion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vResidenciaPeru">
+          <DataField>vResidenciaPeru</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTelefonoPeru">
+          <DataField>vTelefonoPeru</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vResidenciaExtra">
+          <DataField>vResidenciaExtra</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTelefonoExtra">
+          <DataField>vTelefonoExtra</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vPaisExtra">
+          <DataField>vPaisExtra</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNombrePadre">
+          <DataField>vNombrePadre</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNombreMadre">
+          <DataField>vNombreMadre</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumeroExpediente">
+          <DataField>vNumeroExpediente</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumeroLamina">
+          <DataField>vNumeroLamina</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dFechaExpedicion">
+          <DataField>dFechaExpedicion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dFechaExpiracion">
+          <DataField>dFechaExpiracion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTipoId">
+          <DataField>sTipoId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTipo">
+          <DataField>vTipo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sSubTipoId">
+          <DataField>sSubTipoId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vSubTipo">
+          <DataField>vSubTipo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTitularFamiliaId">
+          <DataField>sTitularFamiliaId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTitularFamilia">
+          <DataField>vTitularFamilia</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sDiasPermanencia">
+          <DataField>sDiasPermanencia</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTipoDocumentoMigratorioId">
+          <DataField>sTipoDocumentoMigratorioId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumeroDocumento">
+          <DataField>vNumeroDocumento</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumeroDocumentoAnterior">
+          <DataField>vNumeroDocumentoAnterior</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTipoNumeroPasaporteId">
+          <DataField>sTipoNumeroPasaporteId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumeroPasaporte">
+          <DataField>vNumeroPasaporte</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTipoDocumentoRREEId">
+          <DataField>sTipoDocumentoRREEId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTipoDocumentoRREE">
+          <DataField>vTipoDocumentoRREE</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumDocumentoRREE">
+          <DataField>vNumDocumentoRREE</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dFechaRREE">
+          <DataField>dFechaRREE</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTipoDocumentoDIGEMINId">
+          <DataField>sTipoDocumentoDIGEMINId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTipoDocumentoDIGEMIN">
+          <DataField>vTipoDocumentoDIGEMIN</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumDocumentoDIGEMIN">
+          <DataField>vNumDocumentoDIGEMIN</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dFechaDIGEMIN">
+          <DataField>dFechaDIGEMIN</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vObservaciones">
+          <DataField>vObservaciones</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sTipoAutorizacionId">
+          <DataField>sTipoAutorizacionId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vAutoMisionSecionConsular">
+          <DataField>vAutoMisionSecionConsular</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vAutoTRC">
+          <DataField>vAutoTRC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vAutoCON">
+          <DataField>vAutoCON</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vAutoDGC">
+          <DataField>vAutoDGC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vAutoPRI">
+          <DataField>vAutoPRI</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vAutoOGC">
+          <DataField>vAutoOGC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNombreFuncionario">
+          <DataField>vNombreFuncionario</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sCargoFuncionarioId">
+          <DataField>sCargoFuncionarioId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vCargoFuncionario">
+          <DataField>vCargoFuncionario</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="IOrdenRGE">
+          <DataField>IOrdenRGE</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sNumActuacion">
+          <DataField>sNumActuacion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNumeroTarifa">
+          <DataField>vNumeroTarifa</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vNombreTarifa">
+          <DataField>vNombreTarifa</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dFechaActuacion">
+          <DataField>dFechaActuacion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vPasaporteRevalidarOficinaConsular">
+          <DataField>vPasaporteRevalidarOficinaConsular</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vPasaporteRevalidarOficinaMigracion">
+          <DataField>vPasaporteRevalidarOficinaMigracion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dPasaporteRevalidarFechaExpedicion">
+          <DataField>dPasaporteRevalidarFechaExpedicion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dPasaporteRevalidarFechaExpiracion">
+          <DataField>dPasaporteRevalidarFechaExpiracion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sCargoDiplomaticoId">
+          <DataField>sCargoDiplomaticoId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vCargoDiplomatico">
+          <DataField>vCargoDiplomatico</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vMotivoVisaDiplomatica">
+          <DataField>vMotivoVisaDiplomatica</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vInstitucionSolicitaVisaDiplomatica">
+          <DataField>vInstitucionSolicitaVisaDiplomatica</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vInstitucionRealizaVisaDiplomatica">
+          <DataField>vInstitucionRealizaVisaDiplomatica</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sCancilleriaSolicitaAutorizacionId">
+          <DataField>sCancilleriaSolicitaAutorizacionId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vCancilleriaSolicitaAutorizacion">
+          <DataField>vCancilleriaSolicitaAutorizacion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vDocumentoAutoriza">
+          <DataField>vDocumentoAutoriza</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vMedioComunicacionPrensa">
+          <DataField>vMedioComunicacionPrensa</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sCargoPrensaId">
+          <DataField>sCargoPrensaId</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vMotivoPrensa">
+          <DataField>vMotivoPrensa</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vObservacionesformato">
+          <DataField>vObservacionesformato</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vTipoNumeroPasaporte">
+          <DataField>vTipoNumeroPasaporte</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="vUsuario">
+          <DataField>vUsuario</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>dsMigratorio</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>dsMigratorio</rd:DataSetName>
+        <rd:SchemaPath>D:\TFS_TID\SGAC\2.Development\SGAC.WebApp\Reportes\RSMigratorio\dsMigratorio.xsd</rd:SchemaPath>
+        <rd:TableName>Migratorio</rd:TableName>
+        <rd:TableAdapterFillMethod />
+        <rd:TableAdapterGetDataMethod />
+        <rd:TableAdapterName />
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Body>
+    <ReportItems>
+      <Textbox Name="Textbox1">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>CONFORMIDAD DE ENTREGA NÚMERO:</Value>
+                <Style>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>1.87008cm</Top>
+        <Left>4.19841cm</Left>
+        <Height>0.6cm</Height>
+        <Width>7.8975cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="ExecutionTime">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Globals!ExecutionTime</Value>
+                <Style>
+                  <Format>MMM-dd-yyyy/HH:mm:ss</Format>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>ExecutionTime</rd:DefaultName>
+        <Top>6.88175cm</Top>
+        <Left>2.14348cm</Left>
+        <Height>0.6cm</Height>
+        <Width>5cm</Width>
+        <ZIndex>1</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox19">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Firma</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox19</rd:DefaultName>
+        <Top>8.36119cm</Top>
+        <Left>2.91486cm</Left>
+        <Height>0.6cm</Height>
+        <Width>3.67299cm</Width>
+        <ZIndex>2</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <TopBorder>
+            <Style>Dashed</Style>
+          </TopBorder>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox6">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Por el presente yo, </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vApellidoPaterno.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve"> </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vApellidoMaterno.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>, </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vNombres.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>, identificado con el </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vPerDocumentoTipo.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value> número </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vPerDocumentoNumero.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value> doy conformidad de la recepción de 1 </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Switch(First(Fields!sTipoDocumentoMigratorioId.Value, "dsMigratorio") = "9301", "PASAPORTE",
+First(Fields!sTipoDocumentoMigratorioId.Value, "dsMigratorio") = "9302", "SALVOCONDUCTO",
+First(Fields!sTipoDocumentoMigratorioId.Value, "dsMigratorio") = "9303", "VISA"
+)</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value> número </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vNumeroDocumento.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value> correspondiente a: </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vApellidoPaterno.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">  </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vApellidoMaterno.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>, </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vNombres.Value</Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>, registrado en </Value>
+                <Style />
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!vOficinaConsular.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>General</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox6</rd:DefaultName>
+        <Top>3.85445cm</Top>
+        <Left>1.84362cm</Left>
+        <Height>2.1784cm</Height>
+        <Width>13.24208cm</Width>
+        <ZIndex>3</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+    </ReportItems>
+    <Height>6.28125in</Height>
+    <Style />
+  </Body>
+  <ReportParameters>
+    <ReportParameter Name="foto">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="huella">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="firma">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Width>6.625in</Width>
+  <Page>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <LeftMargin>2cm</LeftMargin>
+    <RightMargin>2cm</RightMargin>
+    <TopMargin>2cm</TopMargin>
+    <BottomMargin>2cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <rd:ReportID>4bd46646-2bd7-451f-9f2f-d10afc49b342</rd:ReportID>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+</Report>
