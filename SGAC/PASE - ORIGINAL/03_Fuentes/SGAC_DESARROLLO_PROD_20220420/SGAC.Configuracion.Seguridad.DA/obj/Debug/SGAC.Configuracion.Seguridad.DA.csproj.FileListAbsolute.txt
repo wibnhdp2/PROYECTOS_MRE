@@ -1577,3 +1577,15 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\obj\Debug\SGAC.Configuracion.Seguridad.DA.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\obj\Debug\SGAC.Configuracion.Seguridad.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\obj\Debug\SGAC.Configuracion.Seguridad.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.Configuracion.Seguridad.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.Configuracion.Seguridad.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.Accesorios.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\bin\Debug\SGAC.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\obj\Debug\SGAC.Configuracion.Seguridad.DA.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\obj\Debug\SGAC.Configuracion.Seguridad.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Configuracion.Seguridad.DA\obj\Debug\SGAC.Configuracion.Seguridad.DA.pdb

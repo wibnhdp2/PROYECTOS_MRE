@@ -848,3 +848,20 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Host\bin\SGAC
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Host\obj\Debug\SGAC.Integrador.Host.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Host\obj\Debug\SGAC.Integrador.Host.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Integrador.Host\obj\Debug\SGAC.Integrador.Host.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Integrador.Host.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Integrador.Host.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Accesorios.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Integrador.Implementacion.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.BE.MRE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\DL.DAC.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Integrador.Contratos.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Accesorios.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Integrador.Implementacion.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.BE.MRE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\bin\SGAC.Integrador.Contratos.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\obj\Debug\SGAC.Integrador.Host.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\obj\Debug\SGAC.Integrador.Host.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Host\obj\Debug\SGAC.Integrador.Host.pdb

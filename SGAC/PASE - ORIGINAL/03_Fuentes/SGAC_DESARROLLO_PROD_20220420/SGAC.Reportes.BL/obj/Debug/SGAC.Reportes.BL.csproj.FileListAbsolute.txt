@@ -898,3 +898,10 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\bin\Debug\SG
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\obj\Debug\SGAC.Reportes.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\obj\Debug\SGAC.Reportes.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\obj\Debug\SGAC.Reportes.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\bin\Debug\SGAC.Reportes.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\bin\Debug\SGAC.Reportes.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\bin\Debug\SGAC.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\bin\Debug\SGAC.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\obj\Debug\SGAC.Reportes.BL.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\obj\Debug\SGAC.Reportes.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.BL\obj\Debug\SGAC.Reportes.BL.pdb

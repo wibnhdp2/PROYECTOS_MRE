@@ -2493,3 +2493,22 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorri
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Contabilidad.CuentaCorriente.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Contabilidad.CuentaCorriente.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Accesorios.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Auditoria.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Contabilidad.CuentaCorriente.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\DL.DAC.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Auditoria.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Auditoria.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Contabilidad.CuentaCorriente.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\bin\Debug\SGAC.Auditoria.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.pdb

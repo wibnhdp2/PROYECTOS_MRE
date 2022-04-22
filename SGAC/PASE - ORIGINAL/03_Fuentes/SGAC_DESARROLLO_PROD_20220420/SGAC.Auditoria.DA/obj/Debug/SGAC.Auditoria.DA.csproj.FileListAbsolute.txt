@@ -1707,3 +1707,16 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\S
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\obj\Debug\SGAC.Auditoria.DA.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\obj\Debug\SGAC.Auditoria.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\obj\Debug\SGAC.Auditoria.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.Auditoria.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.Auditoria.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.Accesorios.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\DL.DAC.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\bin\Debug\SGAC.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\obj\Debug\SGAC.Auditoria.DA.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\obj\Debug\SGAC.Auditoria.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Auditoria.DA\obj\Debug\SGAC.Auditoria.DA.pdb

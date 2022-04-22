@@ -517,3 +517,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\bin\Debug\SG
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\bin\Debug\SGAC.Reportes.DA.pdb
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\obj\Debug\SGAC.Reportes.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\obj\Debug\SGAC.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\bin\Debug\SGAC.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\bin\Debug\SGAC.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\obj\Debug\SGAC.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Reportes.DA\obj\Debug\SGAC.Reportes.DA.pdb

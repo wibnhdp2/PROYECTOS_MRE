@@ -843,6 +843,7 @@
     <Content Include="Scripts\Validacion\jquery.showLoading.min.js" />
     <Content Include="Scripts\Validacion\Mensajes.js" />
     <Content Include="Scripts\Validacion\Text.js" />
+    <None Include="ClassDiagram1.cd" />
     <None Include="Service References\WSPideReniec\configuration91.svcinfo" />
     <None Include="Service References\WSPideReniec\configuration.svcinfo" />
     <None Include="Service References\WSPideReniec\Reference.svcmap">

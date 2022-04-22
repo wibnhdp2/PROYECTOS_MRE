@@ -569,3 +569,12 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.B
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\obj\Debug\SUNARP.Registro.Inscripcion.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\obj\Debug\SUNARP.Registro.Inscripcion.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\obj\Debug\SUNARP.Registro.Inscripcion.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\bin\Debug\SUNARP.Registro.Inscripcion.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\bin\Debug\SUNARP.Registro.Inscripcion.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\bin\Debug\SUNARP.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\bin\Debug\SUNARP.Registro.Inscripcion.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\bin\Debug\SUNARP.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\bin\Debug\SUNARP.Registro.Inscripcion.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\obj\Debug\SUNARP.Registro.Inscripcion.BL.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\obj\Debug\SUNARP.Registro.Inscripcion.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SUNARP.Registro.Inscripcion.BL\obj\Debug\SUNARP.Registro.Inscripcion.BL.pdb

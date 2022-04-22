@@ -1969,3 +1969,18 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bi
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Contabilidad.Reportes.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Contabilidad.Reportes.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Accesorios.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Contabilidad.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.BE.MRE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\DL.DAC.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Accesorios.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Contabilidad.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.BE.MRE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.pdb

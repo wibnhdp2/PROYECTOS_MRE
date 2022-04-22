@@ -1284,3 +1284,13 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\obj\Debug\SGAC.Almacen.Reportes.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\obj\Debug\SGAC.Almacen.Reportes.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\obj\Debug\SGAC.Almacen.Reportes.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\SGAC.Almacen.Reportes.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\SGAC.Almacen.Reportes.BL.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\SGAC.Almacen.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\SGAC.BE.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\DL.DAC.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\SGAC.Almacen.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\bin\Debug\SGAC.BE.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\obj\Debug\SGAC.Almacen.Reportes.BL.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\obj\Debug\SGAC.Almacen.Reportes.BL.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.Negocio.BL\obj\Debug\SGAC.Almacen.Reportes.BL.pdb

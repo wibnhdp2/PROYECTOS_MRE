@@ -637,3 +637,8 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\bin\
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\bin\Debug\SGAC.Almacen.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\bin\Debug\SGAC.Almacen.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.pdb

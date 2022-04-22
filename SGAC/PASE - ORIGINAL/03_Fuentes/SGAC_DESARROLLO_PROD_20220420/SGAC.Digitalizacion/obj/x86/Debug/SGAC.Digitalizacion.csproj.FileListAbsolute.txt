@@ -238,3 +238,13 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\D
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
