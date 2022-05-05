@@ -623,3 +623,4 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\S
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Contratos\bin\Debug\SGAC.Integrador.Contratos.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Contratos\obj\Debug\SGAC.Integrador.Contratos.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Contratos\obj\Debug\SGAC.Integrador.Contratos.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\SGAC\PASE - ORIGINAL\03_Fuentes\SGAC_DESARROLLO_PROD_20220420\SGAC.Integrador.Contratos\obj\Debug\SGAC.Integrador.Contratos.csprojResolveAssemblyReference.cache
