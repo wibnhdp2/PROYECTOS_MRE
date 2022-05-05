@@ -1,0 +1,16 @@
+                                 REPORTE SISTEMA DE COLAS
+                                 ========================
+
+
+La tabla Servicios no tiene datos
+La tabla Perfil de Atencion no tiene datos
+La tabla Televisores no tiene datos
+La tabla Ticketeras no tiene datos
+La tabla Ventanillas no tiene datos
+La tabla Ventanillas Detalle no tiene datos
+La tabla Videos no tiene datos
+La tabla Usuarios no tiene datos
+
+Se han encontrado que las tablas mencionadas no contienen registros.
+Para agregar datos a las tablas vaya al menu Configuracion opcion Colas de Atencion
+del sistema WEB SGAC.

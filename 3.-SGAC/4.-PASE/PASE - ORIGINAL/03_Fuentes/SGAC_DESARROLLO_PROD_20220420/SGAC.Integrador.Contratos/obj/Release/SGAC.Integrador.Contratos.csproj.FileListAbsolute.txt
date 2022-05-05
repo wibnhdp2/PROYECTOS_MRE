@@ -1,0 +1,16 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Contratos\bin\Release\SGAC.Integrador.Contratos.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Contratos\bin\Release\SGAC.Integrador.Contratos.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\bin\Release\SGAC.Integrador.Contratos.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\bin\Release\SGAC.Integrador.Contratos.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\bin\Release\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\bin\Release\SGAC.Integrador.Contratos.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.csproj.CoreCompileInputs.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Integrador.Contratos\obj\Release\SGAC.Integrador.Contratos.pdb

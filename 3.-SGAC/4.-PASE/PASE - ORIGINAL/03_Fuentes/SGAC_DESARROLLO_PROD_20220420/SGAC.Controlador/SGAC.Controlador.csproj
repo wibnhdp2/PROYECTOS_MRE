@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AC581B17-05C3-46C8-9A79-D9C468082E09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGAC.Controlador</RootNamespace>
+    <AssemblyName>SGAC.Controlador</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Proceso.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGAC.Accesorios\SGAC.Accesorios.csproj">
+      <Project>{38EC5AF7-7466-4FEB-949A-6C8085FD93AC}</Project>
+      <Name>SGAC.Accesorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Almacen.BL\SGAC.Almacen.BL.csproj">
+      <Project>{9249DF17-F7DC-495F-8494-6A61E5B66515}</Project>
+      <Name>SGAC.Almacen.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Almacen.Reportes.Negocio.BL\SGAC.Almacen.Reportes.BL.csproj">
+      <Project>{DA791D7F-AC06-4BF8-8F04-8FC5B1227512}</Project>
+      <Name>SGAC.Almacen.Reportes.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Cliente.Colas.BL\SGAC.Cliente.Colas.BL.csproj">
+      <Project>{BF337BC4-A41C-4B0E-BCEC-DDD5A1BAB9F9}</Project>
+      <Name>SGAC.Cliente.Colas.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Seguridad.BL\SGAC.Configuracion.Seguridad.BL.csproj">
+      <Project>{EAFDD123-0955-4FC5-B981-50ECFCD039D1}</Project>
+      <Name>SGAC.Configuracion.Seguridad.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Sistema.BL\SGAC.Configuracion.Sistema.BL.csproj">
+      <Project>{31AF564F-46F8-4CE2-B5B6-BA25F488106E}</Project>
+      <Name>SGAC.Configuracion.Sistema.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Contabilidad.CuentaCorriente.BL\SGAC.Contabilidad.CuentaCorriente.BL.csproj">
+      <Project>{03B97B44-F4FD-4D5F-BBFE-7A3CCD9ED6C3}</Project>
+      <Name>SGAC.Contabilidad.CuentaCorriente.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Contabilidad.Remesa.BL\SGAC.Contabilidad.Remesa.BL.csproj">
+      <Project>{516BB5F5-14CA-42D5-8F9C-480B8AB2EA80}</Project>
+      <Name>SGAC.Contabilidad.Remesa.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Contabilidad.Reportes\SGAC.Contabilidad.Reportes.BL.csproj">
+      <Project>{AA394562-31C5-4868-9AB8-DE173FEC2D9F}</Project>
+      <Name>SGAC.Contabilidad.Reportes.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Registro.Actuacion.BL\SGAC.Registro.Actuacion.BL.csproj">
+      <Project>{134EA632-66C1-49E7-8D60-3DEEAD14B3E2}</Project>
+      <Name>SGAC.Registro.Actuacion.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Registro.Persona.BL\SGAC.Registro.Persona.BL.csproj">
+      <Project>{59028A80-BE8E-4A4B-BE4A-11FCCD7222D5}</Project>
+      <Name>SGAC.Registro.Persona.BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

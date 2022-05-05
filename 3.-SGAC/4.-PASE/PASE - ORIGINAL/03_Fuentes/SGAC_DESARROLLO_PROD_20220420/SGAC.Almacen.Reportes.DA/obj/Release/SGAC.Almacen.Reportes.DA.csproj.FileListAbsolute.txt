@@ -1,0 +1,3 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Almacen.Reportes.DA\obj\Release\SGAC.Almacen.Reportes.DA.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Almacen.Reportes.DA\obj\Release\SGAC.Almacen.Reportes.DA.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Almacen.Reportes.DA\obj\Release\SGAC.Almacen.Reportes.DA.csproj.CoreCompileInputs.cache

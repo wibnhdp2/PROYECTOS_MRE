@@ -1,0 +1,2 @@
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SUNARP.Registro.Inscripcion.DA\obj\Release\SUNARP.Registro.Inscripcion.DA.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SUNARP.Registro.Inscripcion.DA\obj\Release\SUNARP.Registro.Inscripcion.DA.csproj.CoreCompileInputs.cache

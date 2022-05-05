@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default.aspx" title="Inicio"  description="">
+      <siteMapNode title="Registro">
+        <siteMapNode url="~/Registro/FrmRegistroEmpresa.aspx" title="Registro Persona Jurídica"  description="" />
+        <siteMapNode url="~/Registro/FrmBusquedaPersona.aspx" title="Búsqueda de Persona"  description="" />
+        <siteMapNode url="~/Registro/FrmRegistroPersona.aspx" title="Registro Único"  description="" />        
+        <siteMapNode url="~/Registro/FrmBusquedaActuacion.aspx" title="Búsqueda Actuación"  description="" />
+        <siteMapNode url="~/Registro/FrmTramite.aspx" title="Trámites"  description="">
+          <siteMapNode url="~/Registro/FrmActoCivil.aspx" title="Acto Civil"  description="" />
+          <siteMapNode url="~/Registro/FrmActoGeneral.aspx" title="Acto General"  description="" />
+          <siteMapNode url="~/Registro/FrmActoJudicial.aspx" title="Exhortos Consulares"  description="" />
+          <siteMapNode url="~/Registro/FrmActoMigratorio.aspx" title="Acto Migratorio"  description="" />
+          <siteMapNode url="~/Registro/FrmActoMilitar.aspx" title="Acto Militar"  description="" />
+          <siteMapNode url="~/Registro/FrmActoNotarialProtocolares.aspx" title="Escritura Pública"  description="" />
+          <siteMapNode url="~/Registro/FrmActuacion.aspx" title="Actuaciones Consulares"  description="" />
+          <siteMapNode url="~/Registro/FrmActuacionNotarialExtraProtocolar.aspx" title="Acto Notarial Extra Protocolar"  description="" />
+          <siteMapNode url="~/Registro/FrmAnularTramite.aspx" title="Anular Actuación"  description="" />
+          <siteMapNode url="~/Registro/FrmReasignacionActuacion.aspx" title="Reasignacion de Actuación"  description="" />
+          <siteMapNode url="~/Registro/FrmRegistroActuacion.aspx" title="Registro de Actuación Consular"  description="" />
+        </siteMapNode>
+      </siteMapNode>
+
+      <siteMapNode title="Consulta" description="">
+        <siteMapNode url="~/Consulta/FrmExpediente.aspx" title="Expedientes"  description="" />
+        <siteMapNode url="~/Consulta/FrmMigratorio.aspx" title="Consulta Actos Migratorios"  description="" />
+        <siteMapNode url="~/Consulta/FrmProtocolar.aspx" title="Consulta Actos Notariales"  description="" />
+      </siteMapNode>
+
+      <siteMapNode title="ASN" description="">
+        <siteMapNode url="~/Registro/FrmRegistroAsistencia.aspx" title="Registro de ASN"  description="" />
+        <siteMapNode url="~/Registro/FrmRegistroAsistenciaImpresion.aspx" title="Reporte de ASN"  description="" />
+      </siteMapNode>
+
+      <siteMapNode title="Almacenes" description="">
+        <siteMapNode url="~/Almacen/frmAlmacenReporte.aspx" title="Reportes de Almacén"  description="" />
+        <siteMapNode url="~/Almacen/frmControlStock.aspx" title="Control de Stocks"  description="" />
+        <siteMapNode url="~/Almacen/frmListadoInsumos.aspx" title="Lista de Insumos"  description="" />
+        <siteMapNode url="~/Almacen/frmMovimiento.aspx" title="Movimientos"  description="" />
+        <siteMapNode url="~/Almacen/frmPedido.aspx" title="Pedido"  description="" />
+      </siteMapNode>
+      
+      <siteMapNode title="Contabilidad" description="">
+        <siteMapNode url="~/Contabilidad/FrmCajaChica.aspx" title="Caja Chica"  description="" />
+        <siteMapNode url="~/Contabilidad/FrmEstadoBancarioConsulta.aspx" title="Estado Bancario"  description="" />
+        <siteMapNode url="~/Contabilidad/FrmLibroContableReporte.aspx" title="Libros Contables"  description="" />        
+        <siteMapNode url="~/Contabilidad/FrmRemesaConsulta.aspx" title="Remesas Consulares"  description="" />
+      </siteMapNode>
+      
+      <siteMapNode title="Configuración" description="">
+        <siteMapNode title="Tipo de Cambio" description="">
+          <siteMapNode url="~/Configuracion/FrmTipoCambio.aspx" title="Tipo Cambio Consular"  description="" />
+          <siteMapNode url="~/Configuracion/FrmTipoCambioBancario.aspx" title="Tipo Cambio Bancario"  description="" />
+        </siteMapNode>
+        <siteMapNode url="~/Configuracion/FrmCuentaCorriente.aspx" title="Cuenta Corriente"  description="" />
+        <siteMapNode title="Seguridad" description="">
+          <siteMapNode url="~/Configuracion/FrmRol.aspx" title="Roles"  description="" />
+          <siteMapNode url="~/Configuracion/FrmUsuario.aspx" title="Usuarios"  description="" />
+          <siteMapNode url="~/Configuracion/FrmFormulario.aspx" title="Formularios del Sistema"  description="" />
+        </siteMapNode>
+        <siteMapNode title="Colas de Atención" description="">
+          <siteMapNode title="Mantenimiento" description="">
+            <siteMapNode url="~/Colas/FrmServicioConsular.aspx" title="Servicios"  description="" />
+            <siteMapNode url="~/Colas/FrmConfiguracionVentanilla.aspx" title="Ventanilla"  description="" />
+            <siteMapNode url="~/Colas/FrmPerfilAtencion.aspx" title="Perfil de Atención"  description="" />
+            <siteMapNode url="~/Colas/FrmTelevisorRegistro.aspx" title="Televisores"  description="" />
+            <siteMapNode url="~/Colas/FrmTicketeraRegistro.aspx" title="Ticketera"  description="" />
+            <siteMapNode url="~/Colas/FrmVideoRegistro.aspx" title="Videos"  description="" />
+          </siteMapNode>
+          <siteMapNode title="Reportes" description="">
+            <siteMapNode url="~/Colas/FrmReporteColas.aspx" title="Reportes de Colas de Atención"  description="" />
+          </siteMapNode>
+        </siteMapNode>        
+        <siteMapNode title="Sistema" description="">
+          <siteMapNode url="~/Configuracion/FrmTablasMaestras.aspx" title="Tablas Maestras"  description="" />
+          <siteMapNode url=" " title="Tablas Generales" description="">
+            <siteMapNode url="~/Configuracion/FrmOficinaConsular.aspx" title="Oficina Consular"  description="" />
+            <siteMapNode url="~/Configuracion/FrmTarifario.aspx" title="Tarifario Consular"  description="" />
+            <siteMapNode url="~/Configuracion/FrmUbicacionGeografica.aspx" title="Ubicación Geográfica"  description="" />
+          </siteMapNode>
+          <siteMapNode url="~/Configuracion/FrmParametro.aspx" title="Parámetros del Sistema"  description="" />
+        </siteMapNode>
+        <siteMapNode url="~/Configuracion/FrmAuditoria.aspx" title="Auditoría"  description="" />
+      </siteMapNode>
+      <siteMapNode title="Reportes" description="">
+        <siteMapNode url="~/Reportes/FrmReportesGerenciales.aspx" title="Reportes Gerenciales" description="" />
+      </siteMapNode>
+    </siteMapNode>
+  </siteMap>
+  

@@ -1,0 +1,260 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SGAC.WebApp.SiteMaster"  %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="AjaxM" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head runat="server" charset="utf-8">
+    
+    <meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=10" />
+    <meta http-equiv="Content-Language" content="es"/>
+    
+    <meta http-equiv="PRAGMA" content="NO-CACHE"/>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+    <meta http-equiv="Expires" content="0"/>
+
+    <link rel="SHORTCUT ICON" href="Images/escudo.ico" />
+    <title>Sistema de Gesti&oacute;n de Autoadhesivos Consulares</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    <script type="text/javascript" src="Scripts/jquery.min.js"></script>        
+                                       
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript" language="javascript">
+        if (history.forward(1)) { location.replace(history.forward(1)) }
+
+        function inhabilitar() {
+            alert("función inhabilitada.");
+            return false;
+        }
+
+        document.oncontextmenu = inhabilitar;
+        </script>
+   
+   <style type="text/css">
+    .btnCerrarSesion
+    {	
+	    background-color:#560e27;	
+	    text-indent:0;
+	    border:1px outset white;
+	    width:91px;
+	    color: White;
+	    cursor:pointer;
+	    width:100px;
+	    height: 25px;
+    }
+    .btnCerrarSesion:hover {
+	    background-color:#cccccc;
+	    cursor:pointer;
+	    color: #560e27;
+	    width:100px;
+	    height: 25px;
+    }
+   
+   </style>
+
+</head>
+
+
+<script type="text/javascript" language="javascript">
+
+   
+    function HoraConsular() {
+        var HorarioDiferencia = $("#<%=hdn_horariodiferencia.ClientID %>").val();
+        var HorarioVerano = $("#<%=hdn_horarioverano.ClientID %>").val();
+        $.ajax({
+            type: "GET",
+            async: false,
+            url: getAbsolutePath() + "/HoraConsular.ashx?HorarioDiferencia=" + HorarioDiferencia + "&HorarioVerano=" + HorarioVerano,
+            cache: false,
+            success: function (response) {
+                $("#DateTimeConsular").html(response);
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                //alert(thrownError);
+            }
+        });
+    }
+
+    function getAbsolutePath() {
+        var loc = window.location; //URL de la aplicación
+        var pathName = loc.pathname.substring(1, loc.pathname.length); // Obtiene el Path de la URL nenos un "/", no incluye protocol ni carpeta virtual del IIS
+        var carpeta = pathName.substring(0, pathName.indexOf("/")); // Obtiene la carpeta Virtual del IIS
+        return loc.protocol + '//'+ loc.host + '/'+ carpeta; // Junto el origen [hhtp://{Protocol}] mas la carpeta virtual [{carpeta}]
+    }
+
+//        $(document).ready(function () {
+//            <% if(!HttpContext.Current.Request.Url.ToString().Contains("Login")) %>
+//            <%{ %>
+//                var menuTable = document.getElementById("<%=NavigationMenu.ClientID%>");
+//                var menuLinks = menuTable.getElementsByTagName("a");
+//                for (i = 0; i < menuLinks.length; i++) {
+//                    menuLinks[i].onclick = function () { bPreguntar = false; }
+//                }
+//                setOnClickMenuItems(menuTable.nextSibling);
+//                
+//            <%} %>
+//        });
+
+//   function setOnClickMenuItems(currentMenuItemsContainer){
+//        var id = currentMenuItemsContainer.id;
+//        var len = id.length;
+//        if(id != null && typeof(id) != "undefined" && id.substring(0,14) == "NavigationMenu" && id.substring(parseInt(len)-5,parseInt(len)) == "Items")
+//        {
+//            var subMenuLinks = currentMenuItemsContainer.getElementsByTagName("a");
+//            for(i=0;i<subMenuLinks.length;i++)
+//            {
+//                subMenuLinks[i].onclick = function(){ bPreguntar = false; }
+//            }
+//            setOnClickMenuItems(currentMenuItemsContainer.nextSibling);
+//        }
+//   }
+    var bPreguntar = true;
+
+    function bPregunta() {
+        bPreguntar = false;
+        return true;
+    }
+
+
+     var cantValidaciones = 0;
+
+         function VerifySessionState(result) {
+
+             if (result.d) {
+                 $("#EstadoSession").text("activo");
+             }
+             else
+                 $("#EstadoSession").text("expiro");
+
+             $("#cantValidaciones").text(cantValidaciones);
+             cantValidaciones++;
+
+         }
+
+      
+        
+</script>
+
+
+  
+
+<body style="background-color: #848484" >
+    <form runat="server" enctype="multipart/form-data">
+    <AjaxM:ToolkitScriptManager ID="smMaster" runat="server" ScriptMode="Release" EnableScriptLocalization="True"
+        EnableScriptGlobalization="true" EnablePartialRendering="true" OnAsyncPostBackError="smMaster_AsyncPostBackError"
+        AsyncPostBackTimeout="36000000" />
+    <div class="page" align="center">
+        <div class="header">
+            <div class="title">
+                <table cellspacing="0" cellpadding="0" border="0" bgcolor="#431425" width="1024px">
+                    <tr>
+                        <td height="112px" valign="bottom" colspan="3">
+                            <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/header.png" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="500px">
+                        <div style="margin-left:30px;">
+                        <asp:Label ID="lblOficinaConsular" runat="server" Text="" CssClass="textHeader"></asp:Label><br />
+                        <asp:Label ID="lblOficinaItinerante" runat="server" Visible="false" Text="" CssClass="textHeader"></asp:Label>
+                            <asp:Label ID="EstadoSession" runat="server"  style="display:none;"/>                            
+                            <asp:Label ID="cantValidaciones" runat="server" style="display:none;"/>
+                        </div>
+                           
+                        </td>
+                        <td width="300px" align="center">
+                            <asp:UpdatePanel ID="updTipoCambio" runat="server" UpdateMode="Conditional">
+                                <ContentTemplate>
+                                    <asp:Label ID="lblTipoCambio" runat="server" Text="" CssClass="textHeader"></asp:Label>
+                                    &nbsp;
+                                </ContentTemplate>
+                            </asp:UpdatePanel>
+                            <asp:Label ID="lblTipoCambioValue" runat="server" Text="" CssClass="textHeader"></asp:Label>
+                        </td>
+                        <td align="right" width="100px">
+                            <div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                <table cellspacing="0" cellpadding="0" border="0" bgcolor="#431425" width="1024px">
+                    <tr>
+                        <td height="20px" width="80%" colspan="2">
+                            <div style="position: static; z-index: 99">
+                                <asp:Menu ID="NavigationMenu" runat="server" Orientation="Horizontal"
+                                    IncludeStyleBlock="False" RenderingMode="Table" 
+                                    CssClass="staticMenu" StaticMenuItemStyle-CssClass="staticMenuItem" StaticHoverStyle-CssClass="staticHoverItem"
+                                    DynamicMenuItemStyle-CssClass="staticMenuItem" 
+                                    DynamicHoverStyle-CssClass="staticHoverItem" 
+                                    >
+                                    <StaticMenuItemStyle ItemSpacing="0" />
+                                   </asp:Menu>
+                            </div>
+                        </td>
+                        <td align="left" width="15%" valign="middle">
+                               <asp:Button ID="btnCerrarSesion" runat="server" Text="Cerrar Sesi&oacute;n"  Visible = "false" CssClass="btnCerrarSesion"
+                                onclick="btnCerrarSesion_Click" />
+                        </td>
+                        <td height="10px" valign="middle" align="right">
+                            <asp:Label ID="lblUserWelcome" runat="server" Text="" CssClass="lblWelcome"></asp:Label><br />
+                            <asp:Label ID="lblRol" runat="server" Text="" CssClass="lblWelcome"></asp:Label>
+                        </td>
+                    </tr>
+                </table>
+                <table cellspacing="0" cellpadding="0" border="0" bgcolor="#431425" width="1024px">
+                    <tr>
+                        <td align="center">
+                            <asp:UpdateProgress ID="UpdateProgress1" runat="server" DisplayAfter="100">
+                            </asp:UpdateProgress>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+
+                            <div class="main">
+                                <%--<asp:SiteMapPath ID="SiteMapPath1" runat="server">
+                                </asp:SiteMapPath>--%>
+                                <asp:HiddenField ID="hdn_horariodiferencia" runat="server" />
+                                <asp:HiddenField ID="hdn_horarioverano" runat="server" />
+                                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="footer">
+                                Derechos Reservados <a href="http://www.rree.gob.pe/" target="_blank">Ministerio de
+                                    Relaciones Exteriores</a>                                    
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <table cellspacing="0" cellpadding="0" border="0" width="1024px" align="center">
+        <tr>
+            <td>
+                <div id="confirm-dialog">
+                </div>
+                <div id="confirm-dialog-2">
+                </div>
+                <div id="msg-dialog">
+                </div>
+                <div id="confirm-dialog-save">
+                </div>
+                <div id="confirm-dialog-delete">
+                </div>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+
+</html>

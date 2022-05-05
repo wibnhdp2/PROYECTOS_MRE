@@ -1,0 +1,19 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.WebApp\obj\Release\SGAC.WebApp.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.WebApp\obj\Release\Interop.MSXML2.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.WebApp\obj\Release\Interop.WIA.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.WebApp\obj\Release\SGAC.WebApp.csproj.ResolveComReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.WebApp\obj\Release\RdlCompile.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.WebApp\obj\Release\RdlCompile.compiled
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\SGAC.WebApp.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\Interop.MSXML2.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\Interop.WIA.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\SGAC.WebApp.csproj.ResolveComReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\RdlCompile.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\RdlCompile.compiled
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\SGAC.WebApp.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\Interop.MSXML2.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\Interop.WIA.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\SGAC.WebApp.csproj.ResolveComReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\RdlCompile.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\RdlCompile.compiled
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.WebApp\obj\Release\SGAC.WebApp.csproj.CoreCompileInputs.cache
