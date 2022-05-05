@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsConsultaCarnet" targetNamespace="http://tempuri.org/dtsConsultaCarnet.xsd" xmlns:mstns="http://tempuri.org/dtsConsultaCarnet.xsd" xmlns="http://tempuri.org/dtsConsultaCarnet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsConsultaCarnet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsConsultaCarnet" msprop:Generator_UserDSName="dtsConsultaCarnet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblConsultaCarnet" msprop:Generator_TableClassName="tblConsultaCarnetDataTable" msprop:Generator_TableVarName="tabletblConsultaCarnet" msprop:Generator_TablePropName="tblConsultaCarnet" msprop:Generator_RowDeletingName="tblConsultaCarnetRowDeleting" msprop:Generator_RowChangingName="tblConsultaCarnetRowChanging" msprop:Generator_RowEvHandlerName="tblConsultaCarnetRowChangeEventHandler" msprop:Generator_RowDeletedName="tblConsultaCarnetRowDeleted" msprop:Generator_UserTableName="tblConsultaCarnet" msprop:Generator_RowChangedName="tblConsultaCarnetRowChanged" msprop:Generator_RowEvArgName="tblConsultaCarnetRowChangeEvent" msprop:Generator_RowClassName="tblConsultaCarnetRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Num_solicitud" msprop:Generator_ColumnVarNameInTable="columnNum_solicitud" msprop:Generator_ColumnPropNameInRow="Num_solicitud" msprop:Generator_ColumnPropNameInTable="Num_solicitudColumn" msprop:Generator_UserColumnName="Num_solicitud" type="xs:string" minOccurs="0" />
+              <xs:element name="Apellidos_nombres" msprop:Generator_ColumnVarNameInTable="columnApellidos_nombres" msprop:Generator_ColumnPropNameInRow="Apellidos_nombres" msprop:Generator_ColumnPropNameInTable="Apellidos_nombresColumn" msprop:Generator_UserColumnName="Apellidos_nombres" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_nacimientofecha" msprop:Generator_ColumnVarNameInTable="columnFecha_nacimientofecha" msprop:Generator_ColumnPropNameInRow="Fecha_nacimientofecha" msprop:Generator_ColumnPropNameInTable="Fecha_nacimientofechaColumn" msprop:Generator_UserColumnName="Fecha_nacimientofecha" type="xs:string" minOccurs="0" />
+              <xs:element name="Tipodoc" msprop:Generator_ColumnVarNameInTable="columnTipodoc" msprop:Generator_ColumnPropNameInRow="Tipodoc" msprop:Generator_ColumnPropNameInTable="TipodocColumn" msprop:Generator_UserColumnName="Tipodoc" type="xs:string" minOccurs="0" />
+              <xs:element name="Documentonumero" msprop:Generator_ColumnVarNameInTable="columnDocumentonumero" msprop:Generator_ColumnPropNameInRow="Documentonumero" msprop:Generator_ColumnPropNameInTable="DocumentonumeroColumn" msprop:Generator_UserColumnName="Documentonumero" type="xs:string" minOccurs="0" />
+              <xs:element name="Status_mig" msprop:Generator_ColumnVarNameInTable="columnStatus_mig" msprop:Generator_ColumnPropNameInRow="Status_mig" msprop:Generator_ColumnPropNameInTable="Status_migColumn" msprop:Generator_UserColumnName="Status_mig" type="xs:string" minOccurs="0" />
+              <xs:element name="Documento_titular" msprop:Generator_ColumnVarNameInTable="columnDocumento_titular" msprop:Generator_ColumnPropNameInRow="Documento_titular" msprop:Generator_ColumnPropNameInTable="Documento_titularColumn" msprop:Generator_UserColumnName="Documento_titular" type="xs:string" minOccurs="0" />
+              <xs:element name="Pais_nacionalidad" msprop:Generator_ColumnVarNameInTable="columnPais_nacionalidad" msprop:Generator_ColumnPropNameInRow="Pais_nacionalidad" msprop:Generator_ColumnPropNameInTable="Pais_nacionalidadColumn" msprop:Generator_UserColumnName="Pais_nacionalidad" type="xs:string" minOccurs="0" />
+              <xs:element name="Calidad_migratoria" msprop:Generator_ColumnVarNameInTable="columnCalidad_migratoria" msprop:Generator_ColumnPropNameInRow="Calidad_migratoria" msprop:Generator_ColumnPropNameInTable="Calidad_migratoriaColumn" msprop:Generator_UserColumnName="Calidad_migratoria" type="xs:string" minOccurs="0" />
+              <xs:element name="Estado" msprop:Generator_ColumnVarNameInTable="columnEstado" msprop:Generator_ColumnPropNameInRow="Estado" msprop:Generator_ColumnPropNameInTable="EstadoColumn" msprop:Generator_UserColumnName="Estado" type="xs:string" minOccurs="0" />
+              <xs:element name="Numero_carne" msprop:Generator_ColumnVarNameInTable="columnNumero_carne" msprop:Generator_ColumnPropNameInRow="Numero_carne" msprop:Generator_ColumnPropNameInTable="Numero_carneColumn" msprop:Generator_UserColumnName="Numero_carne" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_emision" msprop:Generator_ColumnVarNameInTable="columnFecha_emision" msprop:Generator_ColumnPropNameInRow="Fecha_emision" msprop:Generator_ColumnPropNameInTable="Fecha_emisionColumn" msprop:Generator_UserColumnName="Fecha_emision" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_vencimiento" msprop:Generator_ColumnVarNameInTable="columnFecha_vencimiento" msprop:Generator_ColumnPropNameInRow="Fecha_vencimiento" msprop:Generator_ColumnPropNameInTable="Fecha_vencimientoColumn" msprop:Generator_UserColumnName="Fecha_vencimiento" type="xs:string" minOccurs="0" />
+              <xs:element name="Oficina_consular_extranjera" msprop:Generator_ColumnVarNameInTable="columnOficina_consular_extranjera" msprop:Generator_ColumnPropNameInRow="Oficina_consular_extranjera" msprop:Generator_ColumnPropNameInTable="Oficina_consular_extranjeraColumn" msprop:Generator_UserColumnName="Oficina_consular_extranjera" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,164 @@
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\AjaxControlToolkit.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\HtmlSanitizationLibrary.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\HtmlSanitizationLibrary.xml
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.xml
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.cache
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.compiled
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csprojResolveAssemblyReference.cache
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.dll
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.pdb
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\HtmlSanitizationLibrary.xml
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\Newtonsoft.Json.pdb
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\Newtonsoft.Json.xml
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\obj\Debug\SolCARDIP.csprojResolveAssemblyReference.cache
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\obj\Debug\RdlCompile.cache
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\obj\Debug\RdlCompile.compiled
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\obj\Debug\SolCARDIP.dll
+D:\NUNJA\05_CARDIP\BackUp\Aplicacion\SolCARDIP_20181220\SolCARDIP\obj\Debug\SolCARDIP.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csprojResolveAssemblyReference.cache
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.cache
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.compiled
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
+D:\CARDIP\05_CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.dll
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.pdb
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.csprojResolveAssemblyReference.cache
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\RdlCompile.cache
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\RdlCompile.compiled
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.dll
+E:\TRABAJO\unidadD\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.pdb
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.dll.config
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.pdb
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\Newtonsoft.Json.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\Microsoft.ReportViewer.Common.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.csprojAssemblyReference.cache
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\RdlCompile.cache
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\RdlCompile.compiled
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.dll
+E:\TRABAJO\SolCARDIP ORIGINAL\SolCARDIP\obj\Debug\SolCARDIP.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll.config
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.Common.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.xml
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csprojAssemblyReference.cache
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.dll
+D:\FuentesCS\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.pdb
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.cache
+D:\FuentesCS\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.compiled
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll.config
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.Common.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.pdb
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+E:\TRABAJO\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.AssemblyReference.cache
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.cache
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\RdlCompile.compiled
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
+E:\TRABAJO\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll.config
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
+D:\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.dll
+D:\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.dll
+D:\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.dll
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+D:\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.Common.dll
+D:\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.pdb
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+D:\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+D:\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.xml
+D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.AssemblyReference.cache
+D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
+D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
+D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
+D:\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll.config
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Newtonsoft.Json.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\SolCARDIP.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP\SolCARDIP\obj\Debug\SolCARDIP.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolCARDIP", "SolCARDIP\SolCARDIP.csproj", "{4957A0E4-3A27-4D10-A803-62306CD7431F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolCARDIP.Librerias.EntidadesNegocio", "SolCARDIP.Librerias.EntidadesNegocio\SolCARDIP.Librerias.EntidadesNegocio.csproj", "{4BBB045F-FEE5-4F89-82B2-CE45415DBD98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolCARDIP.Librerias.AccesoDatos", "SolCARDIP.Librerias.AccesoDatos\SolCARDIP.Librerias.AccesoDatos.csproj", "{E3E23459-DEC0-4CB1-8B4C-647667FDC707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolCARDIP.Librerias.ReglasNegocio", "SolCARDIP.Librerias.ReglasNegocio\SolCARDIP.Librerias.ReglasNegocio.csproj", "{4D3D37C1-E937-4966-A9D2-308FC2D0F1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4957A0E4-3A27-4D10-A803-62306CD7431F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4957A0E4-3A27-4D10-A803-62306CD7431F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4957A0E4-3A27-4D10-A803-62306CD7431F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4957A0E4-3A27-4D10-A803-62306CD7431F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBB045F-FEE5-4F89-82B2-CE45415DBD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBB045F-FEE5-4F89-82B2-CE45415DBD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBB045F-FEE5-4F89-82B2-CE45415DBD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBB045F-FEE5-4F89-82B2-CE45415DBD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E23459-DEC0-4CB1-8B4C-647667FDC707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E23459-DEC0-4CB1-8B4C-647667FDC707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E23459-DEC0-4CB1-8B4C-647667FDC707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E23459-DEC0-4CB1-8B4C-647667FDC707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3D37C1-E937-4966-A9D2-308FC2D0F1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3D37C1-E937-4966-A9D2-308FC2D0F1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3D37C1-E937-4966-A9D2-308FC2D0F1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3D37C1-E937-4966-A9D2-308FC2D0F1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
