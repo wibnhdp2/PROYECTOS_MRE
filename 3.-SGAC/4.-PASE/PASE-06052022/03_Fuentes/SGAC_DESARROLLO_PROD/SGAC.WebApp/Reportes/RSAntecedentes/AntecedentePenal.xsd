@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AntecedentePenal" targetNamespace="http://tempuri.org/AntecedentePenal.xsd" xmlns:mstns="http://tempuri.org/AntecedentePenal.xsd" xmlns="http://tempuri.org/AntecedentePenal.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AntecedentePenal" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="AntecedentePenal" msprop:Generator_UserDSName="AntecedentePenal">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTAntecedentePenal" msprop:Generator_TableClassName="DTAntecedentePenalDataTable" msprop:Generator_TableVarName="tableDTAntecedentePenal" msprop:Generator_RowChangedName="DTAntecedentePenalRowChanged" msprop:Generator_TablePropName="DTAntecedentePenal" msprop:Generator_RowDeletingName="DTAntecedentePenalRowDeleting" msprop:Generator_RowChangingName="DTAntecedentePenalRowChanging" msprop:Generator_RowEvHandlerName="DTAntecedentePenalRowChangeEventHandler" msprop:Generator_RowDeletedName="DTAntecedentePenalRowDeleted" msprop:Generator_RowClassName="DTAntecedentePenalRow" msprop:Generator_UserTableName="DTAntecedentePenal" msprop:Generator_RowEvArgName="DTAntecedentePenalRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="anpe_iAntecedentePenalId" msprop:Generator_ColumnVarNameInTable="columnanpe_iAntecedentePenalId" msprop:Generator_ColumnPropNameInRow="anpe_iAntecedentePenalId" msprop:Generator_ColumnPropNameInTable="anpe_iAntecedentePenalIdColumn" msprop:Generator_UserColumnName="anpe_iAntecedentePenalId" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_iActuacionDetalleId" msprop:Generator_ColumnVarNameInTable="columnanpe_iActuacionDetalleId" msprop:Generator_ColumnPropNameInRow="anpe_iActuacionDetalleId" msprop:Generator_ColumnPropNameInTable="anpe_iActuacionDetalleIdColumn" msprop:Generator_UserColumnName="anpe_iActuacionDetalleId" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_vNumeroSolicitud" msprop:Generator_ColumnVarNameInTable="columnanpe_vNumeroSolicitud" msprop:Generator_ColumnPropNameInRow="anpe_vNumeroSolicitud" msprop:Generator_ColumnPropNameInTable="anpe_vNumeroSolicitudColumn" msprop:Generator_UserColumnName="anpe_vNumeroSolicitud" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_iFuncionarioId" msprop:Generator_ColumnVarNameInTable="columnanpe_iFuncionarioId" msprop:Generator_ColumnPropNameInRow="anpe_iFuncionarioId" msprop:Generator_ColumnPropNameInTable="anpe_iFuncionarioIdColumn" msprop:Generator_UserColumnName="anpe_iFuncionarioId" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_dFechaSolicitud" msprop:Generator_ColumnVarNameInTable="columnanpe_dFechaSolicitud" msprop:Generator_ColumnPropNameInRow="anpe_dFechaSolicitud" msprop:Generator_ColumnPropNameInTable="anpe_dFechaSolicitudColumn" msprop:Generator_UserColumnName="anpe_dFechaSolicitud" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_vNumeroOficioRpta" msprop:Generator_ColumnVarNameInTable="columnanpe_vNumeroOficioRpta" msprop:Generator_ColumnPropNameInRow="anpe_vNumeroOficioRpta" msprop:Generator_ColumnPropNameInTable="anpe_vNumeroOficioRptaColumn" msprop:Generator_UserColumnName="anpe_vNumeroOficioRpta" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_dFechaRespuesta" msprop:Generator_ColumnVarNameInTable="columnanpe_dFechaRespuesta" msprop:Generator_ColumnPropNameInRow="anpe_dFechaRespuesta" msprop:Generator_ColumnPropNameInTable="anpe_dFechaRespuestaColumn" msprop:Generator_UserColumnName="anpe_dFechaRespuesta" type="xs:string" minOccurs="0" />
+              <xs:element name="anpe_vObservacion" msprop:Generator_ColumnVarNameInTable="columnanpe_vObservacion" msprop:Generator_ColumnPropNameInRow="anpe_vObservacion" msprop:Generator_ColumnPropNameInTable="anpe_vObservacionColumn" msprop:Generator_UserColumnName="anpe_vObservacion" type="xs:string" minOccurs="0" />
+              <xs:element name="pago_FMontoSolesConsulares" msprop:Generator_ColumnVarNameInTable="columnpago_FMontoSolesConsulares" msprop:Generator_ColumnPropNameInRow="pago_FMontoSolesConsulares" msprop:Generator_ColumnPropNameInTable="pago_FMontoSolesConsularesColumn" msprop:Generator_UserColumnName="pago_FMontoSolesConsulares" type="xs:string" minOccurs="0" />
+              <xs:element name="pago_FMontoMonedaLocal" msprop:Generator_ColumnVarNameInTable="columnpago_FMontoMonedaLocal" msprop:Generator_ColumnPropNameInRow="pago_FMontoMonedaLocal" msprop:Generator_ColumnPropNameInTable="pago_FMontoMonedaLocalColumn" msprop:Generator_UserColumnName="pago_FMontoMonedaLocal" type="xs:string" minOccurs="0" />
+              <xs:element name="vSolicitante" msprop:Generator_ColumnVarNameInTable="columnvSolicitante" msprop:Generator_ColumnPropNameInRow="vSolicitante" msprop:Generator_ColumnPropNameInTable="vSolicitanteColumn" msprop:Generator_UserColumnName="vSolicitante" type="xs:string" minOccurs="0" />
+              <xs:element name="vUsuarioFuncionario" msprop:Generator_ColumnVarNameInTable="columnvUsuarioFuncionario" msprop:Generator_ColumnPropNameInRow="vUsuarioFuncionario" msprop:Generator_ColumnPropNameInTable="vUsuarioFuncionarioColumn" msprop:Generator_UserColumnName="vUsuarioFuncionario" type="xs:string" minOccurs="0" />
+              <xs:element name="iNumero" msprop:Generator_ColumnVarNameInTable="columniNumero" msprop:Generator_ColumnPropNameInRow="iNumero" msprop:Generator_ColumnPropNameInTable="iNumeroColumn" msprop:Generator_UserColumnName="iNumero" type="xs:string" minOccurs="0" />
+              <xs:element name="vNumeroDocumento" msprop:Generator_ColumnVarNameInTable="columnvNumeroDocumento" msprop:Generator_ColumnPropNameInRow="vNumeroDocumento" msprop:Generator_ColumnPropNameInTable="vNumeroDocumentoColumn" msprop:Generator_UserColumnName="vNumeroDocumento" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

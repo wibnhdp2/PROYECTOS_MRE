@@ -1,0 +1,112 @@
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.WinApp.exe.config
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.WinApp.exe
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.WinApp.pdb
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.CSharp.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.VisualBasic.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Data.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Deployment.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Drawing.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Management.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Runtime.Serialization.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.ServiceModel.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Web.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Web.Services.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Windows.Forms.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Xml.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Xml.Linq.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\DL.DAC.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\Interop.WMPLib.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\bin\Debug\AxInterop.WMPLib.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\Interop.WMPLib.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.csproj.ResolveComReference.cache
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmConfiguracionSistema.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmReporteVistaPrevia.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmLogin.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmReporteTipos.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmCargaDatos.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmVerArchivoTexto.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmConfiguracionImpresora.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmDemos.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmTelevisorDisplay.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmEmisionTicket.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmDescargaDatos.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmMenuServicio.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmTicketLlamada.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.MDIMenu.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.Properties.Resources.resources
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\RdlCompile.cache
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\RdlCompile.compiled
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.exe
+D:\Disco D\Proyectos\Thomas Greg\sgac_sourcecode_20160108T0205\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.WinApp.exe.config
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.WinApp.exe
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.WinApp.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.CSharp.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.VisualBasic.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.Accesorios.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Data.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Deployment.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Drawing.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Management.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Runtime.Serialization.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.ServiceModel.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Web.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Web.Services.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Windows.Forms.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Xml.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\System.Xml.Linq.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.MRE.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\DL.DAC.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.Accesorios.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.MRE.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\SGAC.BE.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\Interop.WMPLib.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\bin\Debug\AxInterop.WMPLib.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\Interop.WMPLib.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.csproj.ResolveComReference.cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmConfiguracionSistema.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmReporteVistaPrevia.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmLogin.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmReporteTipos.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmCargaDatos.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmVerArchivoTexto.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmConfiguracionImpresora.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmTelevisorDisplay.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmEmisionTicket.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmDescargaDatos.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmMenuServicio.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.FrmTicketLlamada.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.MDIMenu.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.Properties.Resources.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\RdlCompile.cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\RdlCompile.compiled
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.exe
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.WinApp\obj\x86\Debug\SGAC.WinApp.pdb

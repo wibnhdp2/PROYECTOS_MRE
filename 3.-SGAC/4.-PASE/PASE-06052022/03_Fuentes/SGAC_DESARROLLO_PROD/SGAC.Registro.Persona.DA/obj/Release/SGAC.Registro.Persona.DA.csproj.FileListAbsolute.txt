@@ -1,0 +1,4 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Registro.Persona.DA\obj\Release\SGAC.Registro.Persona.DA.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Registro.Persona.DA\obj\Release\SGAC.Registro.Persona.DA.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Registro.Persona.DA\obj\Release\SGAC.Registro.Persona.DA.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Registro.Persona.DA\obj\Release\SGAC.Registro.Persona.DA.csproj.CoreCompileInputs.cache

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsProtocolar" targetNamespace="http://tempuri.org/dsProtocolar.xsd" xmlns:mstns="http://tempuri.org/dsProtocolar.xsd" xmlns="http://tempuri.org/dsProtocolar.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsProtocolar" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsProtocolar" msprop:Generator_UserDSName="dsProtocolar">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Minuta" msprop:Generator_TableClassName="MinutaDataTable" msprop:Generator_TableVarName="tableMinuta" msprop:Generator_TablePropName="Minuta" msprop:Generator_RowDeletingName="MinutaRowDeleting" msprop:Generator_RowChangingName="MinutaRowChanging" msprop:Generator_RowEvHandlerName="MinutaRowChangeEventHandler" msprop:Generator_RowDeletedName="MinutaRowDeleted" msprop:Generator_UserTableName="Minuta" msprop:Generator_RowChangedName="MinutaRowChanged" msprop:Generator_RowEvArgName="MinutaRowChangeEvent" msprop:Generator_RowClassName="MinutaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ancu_vCuerpo" msprop:Generator_ColumnVarNameInTable="columnancu_vCuerpo" msprop:Generator_ColumnPropNameInRow="ancu_vCuerpo" msprop:Generator_ColumnPropNameInTable="ancu_vCuerpoColumn" msprop:Generator_UserColumnName="ancu_vCuerpo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Parte" msprop:Generator_TableClassName="ParteDataTable" msprop:Generator_TableVarName="tableParte" msprop:Generator_TablePropName="Parte" msprop:Generator_RowDeletingName="ParteRowDeleting" msprop:Generator_RowChangingName="ParteRowChanging" msprop:Generator_RowEvHandlerName="ParteRowChangeEventHandler" msprop:Generator_RowDeletedName="ParteRowDeleted" msprop:Generator_UserTableName="Parte" msprop:Generator_RowChangedName="ParteRowChanged" msprop:Generator_RowEvArgName="ParteRowChangeEvent" msprop:Generator_RowClassName="ParteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TextoParte" msprop:Generator_ColumnVarNameInTable="columnTextoParte" msprop:Generator_ColumnPropNameInRow="TextoParte" msprop:Generator_ColumnPropNameInTable="TextoParteColumn" msprop:Generator_UserColumnName="TextoParte" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Escritura" msprop:Generator_TableClassName="EscrituraDataTable" msprop:Generator_TableVarName="tableEscritura" msprop:Generator_RowChangedName="EscrituraRowChanged" msprop:Generator_TablePropName="Escritura" msprop:Generator_RowDeletingName="EscrituraRowDeleting" msprop:Generator_RowChangingName="EscrituraRowChanging" msprop:Generator_RowEvHandlerName="EscrituraRowChangeEventHandler" msprop:Generator_RowDeletedName="EscrituraRowDeleted" msprop:Generator_RowClassName="EscrituraRow" msprop:Generator_UserTableName="Escritura" msprop:Generator_RowEvArgName="EscrituraRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ancu_vCuerpo" msprop:Generator_ColumnVarNameInTable="columnancu_vCuerpo" msprop:Generator_ColumnPropNameInRow="ancu_vCuerpo" msprop:Generator_ColumnPropNameInTable="ancu_vCuerpoColumn" msprop:Generator_UserColumnName="ancu_vCuerpo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Testimonio" msprop:Generator_TableClassName="TestimonioDataTable" msprop:Generator_TableVarName="tableTestimonio" msprop:Generator_RowChangedName="TestimonioRowChanged" msprop:Generator_TablePropName="Testimonio" msprop:Generator_RowDeletingName="TestimonioRowDeleting" msprop:Generator_RowChangingName="TestimonioRowChanging" msprop:Generator_RowEvHandlerName="TestimonioRowChangeEventHandler" msprop:Generator_RowDeletedName="TestimonioRowDeleted" msprop:Generator_RowClassName="TestimonioRow" msprop:Generator_UserTableName="Testimonio" msprop:Generator_RowEvArgName="TestimonioRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TextoTestimonio" msprop:Generator_ColumnVarNameInTable="columnTextoTestimonio" msprop:Generator_ColumnPropNameInRow="TextoTestimonio" msprop:Generator_ColumnPropNameInTable="TextoTestimonioColumn" msprop:Generator_UserColumnName="TextoTestimonio" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ConsultaEP" msprop:Generator_TableClassName="ConsultaEPDataTable" msprop:Generator_TableVarName="tableConsultaEP" msprop:Generator_RowChangedName="ConsultaEPRowChanged" msprop:Generator_TablePropName="ConsultaEP" msprop:Generator_RowDeletingName="ConsultaEPRowDeleting" msprop:Generator_RowChangingName="ConsultaEPRowChanging" msprop:Generator_RowEvHandlerName="ConsultaEPRowChangeEventHandler" msprop:Generator_RowDeletedName="ConsultaEPRowDeleted" msprop:Generator_RowClassName="ConsultaEPRow" msprop:Generator_UserTableName="ConsultaEP" msprop:Generator_RowEvArgName="ConsultaEPRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="vNumeroEscrituraPublica" msprop:Generator_ColumnVarNameInTable="columnvNumeroEscrituraPublica" msprop:Generator_ColumnPropNameInRow="vNumeroEscrituraPublica" msprop:Generator_ColumnPropNameInTable="vNumeroEscrituraPublicaColumn" msprop:Generator_UserColumnName="vNumeroEscrituraPublica" type="xs:string" minOccurs="0" />
+              <xs:element name="dFecAprobacion" msprop:Generator_ColumnVarNameInTable="columndFecAprobacion" msprop:Generator_ColumnPropNameInRow="dFecAprobacion" msprop:Generator_ColumnPropNameInTable="dFecAprobacionColumn" msprop:Generator_UserColumnName="dFecAprobacion" type="xs:string" minOccurs="0" />
+              <xs:element name="vPersonaRecurrente" msprop:Generator_ColumnVarNameInTable="columnvPersonaRecurrente" msprop:Generator_ColumnPropNameInRow="vPersonaRecurrente" msprop:Generator_ColumnPropNameInTable="vPersonaRecurrenteColumn" msprop:Generator_UserColumnName="vPersonaRecurrente" type="xs:string" minOccurs="0" />
+              <xs:element name="vTipoActoNotarial" msprop:Generator_ColumnVarNameInTable="columnvTipoActoNotarial" msprop:Generator_ColumnPropNameInRow="vTipoActoNotarial" msprop:Generator_ColumnPropNameInTable="vTipoActoNotarialColumn" msprop:Generator_UserColumnName="vTipoActoNotarial" type="xs:string" minOccurs="0" />
+              <xs:element name="vSubTipoActoNotarial" msprop:Generator_ColumnVarNameInTable="columnvSubTipoActoNotarial" msprop:Generator_ColumnPropNameInRow="vSubTipoActoNotarial" msprop:Generator_ColumnPropNameInTable="vSubTipoActoNotarialColumn" msprop:Generator_UserColumnName="vSubTipoActoNotarial" type="xs:string" minOccurs="0" />
+              <xs:element name="vEstado" msprop:Generator_ColumnVarNameInTable="columnvEstado" msprop:Generator_ColumnPropNameInRow="vEstado" msprop:Generator_ColumnPropNameInTable="vEstadoColumn" msprop:Generator_UserColumnName="vEstado" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FormatoEscritura" msprop:Generator_TableClassName="FormatoEscrituraDataTable" msprop:Generator_TableVarName="tableFormatoEscritura" msprop:Generator_TablePropName="FormatoEscritura" msprop:Generator_RowDeletingName="FormatoEscrituraRowDeleting" msprop:Generator_RowChangingName="FormatoEscrituraRowChanging" msprop:Generator_RowEvHandlerName="FormatoEscrituraRowChangeEventHandler" msprop:Generator_RowDeletedName="FormatoEscrituraRowDeleted" msprop:Generator_UserTableName="FormatoEscritura" msprop:Generator_RowChangedName="FormatoEscrituraRowChanged" msprop:Generator_RowEvArgName="FormatoEscrituraRowChangeEvent" msprop:Generator_RowClassName="FormatoEscrituraRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TextoEscritura" msprop:Generator_ColumnVarNameInTable="columnTextoEscritura" msprop:Generator_ColumnPropNameInRow="TextoEscritura" msprop:Generator_ColumnPropNameInTable="TextoEscrituraColumn" msprop:Generator_UserColumnName="TextoEscritura" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,2733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D46B9DC2-61D3-41CE-ADDE-27EAD7E01F79}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGAC.WebApp</RootNamespace>
+    <AssemblyName>SGAC.WebApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <PublishDatabaseSettings>
+      <Objects>
+        <ObjectGroup Name="ApplicationServices-Deployment" Order="1" Enabled="False">
+          <Destination Path="" />
+          <Object Type="dbFullSql">
+            <PreSource Path="Data Source=.\SQLEXPRESS%3bAttachDbFilename=|DataDirectory|\aspnetdb.mdf%3bIntegrated Security=True%3bUser Instance=True" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" DriDefaults="True" />
+            <Source Path="obj\Debug\AutoScripts\ApplicationServices-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+        <ObjectGroup Name="strConexSGAC-Deployment" Order="2" Enabled="False">
+          <Destination Path="Data Source=SRVDOM%3bInitial Catalog=BD_SGAC_G2%3bPersist Security Info=True%3bUser ID=testing%3bPassword=12345678" />
+          <Object Type="dbFullSql" Enabled="True">
+            <PreSource Path="Data Source=SRVDOM%3bInitial Catalog=BD_SGAC%3bPersist Security Info=True%3bUser ID=AU_SGAC%3bPassword=PRETESTING%3bMultipleActiveResultSets=True%3bApplication Name=EntityFramework" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" DriDefaults="True" />
+            <Source Path="obj\Debug\AutoScripts\strConexSGAC-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+        <ObjectGroup Name="BD_SGACConnectionString-Deployment" Order="3" Enabled="False">
+          <Destination Path="" />
+          <Object Type="dbFullSql">
+            <PreSource Path="Data Source=192.168.0.101%3bInitial Catalog=BD_SGAC%3bPersist Security Info=True%3bUser ID=sa%3bPassword=12345678" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" DriDefaults="True" />
+            <Source Path="obj\Debug\AutoScripts\BD_SGACConnectionString-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+        <ObjectGroup Name="Entities-Deployment" Order="4" Enabled="False">
+          <Destination Path="" />
+          <Object Type="dbFullSql">
+            <PreSource Path="Data Source=192.168.10.101%3bInitial Catalog=BD_SGAC%3bPersist Security Info=True%3bUser ID=sa%3bPassword=12345678%3bApplication Name=EntityFramework" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" DriDefaults="True" />
+            <Source Path="obj\Debug\AutoScripts\Entities-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+        <ObjectGroup Name="ConnectionString-Deployment" Order="5">
+          <Destination Path="" />
+          <Object Type="dbFullSql">
+            <PreSource Path="Data Source=SRVDOM%3bInitial Catalog=BD_SGAC%3bIntegrated Security=False%3bUser ID=sa%3bPassword=12345678" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" DriDefaults="True" />
+            <Source Path="obj\Debug\AutoScripts\ConnectionString-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+      </Objects>
+    </PublishDatabaseSettings>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <PackageAsSingleFile>false</PackageAsSingleFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.50927.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\0.Library\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML">
+      <HintPath>..\..\PROYECTO - EJEMPLOS\SGAC.Consultas\SGAC.Consultas\bin\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel">
+      <HintPath>..\..\PROYECTO - EJEMPLOS\SGAC.Consultas\SGAC.Consultas\bin\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlSanitizationLibrary, Version=4.2.0.0, Culture=neutral, PublicKeyToken=d127efab8a9c114f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\HtmlSanitizationLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\0.Library\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Core">
+      <HintPath>..\..\0.Library\Microsoft.AspNet.SignalR.Core.1.2.1\lib\net40\Microsoft.AspNet.SignalR.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Owin">
+      <HintPath>..\..\0.Library\Microsoft.AspNet.SignalR.Owin.1.2.1\lib\net40\Microsoft.AspNet.SignalR.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.SystemWeb">
+      <HintPath>..\..\0.Library\Microsoft.AspNet.SignalR.SystemWeb.1.2.1\lib\net40\Microsoft.AspNet.SignalR.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\..\0.Library\Microsoft.Owin.Host.SystemWeb.1.0.1\lib\net40\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\0.Library\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\0.Library\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\..\0.Library\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="PDF417FontNet">
+      <HintPath>..\..\0.Library\MW6PDF417\PDF417FontNet.dll</HintPath>
+    </Reference>
+    <Reference Include="SAE.UInterfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\SAE.UInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.DirectoryServices">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.DirectoryServices.AccountManagement">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Extensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.EnterpriseServices">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.DynamicData">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Entity">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Accesorios\FrmCaptcha.aspx" />
+    <Content Include="Accesorios\FrmDigitaliza.aspx" />
+    <Content Include="Accesorios\SharedControls\ctrlActuacionPago.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlBajaAutoadhesivo.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlBusquedaAutoadhesivo.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlBusquedaAvanzada.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlBusquedaPopup.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlReimprimirbtn.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlSubirExcel.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlToolBarConfirmButton.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlAdjunto_.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlAdjunto.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlAdjuntoNotarial.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlBusqueda.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlCargando.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlDate.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlDecimal.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlGridParticipante.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlMessageConfirm.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlOficinaConsular.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlFecha.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlScanner.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlTelefono.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlToolBarConfirm.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlUbigeo.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlUbigeoLineal.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlUploader.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlUploadSUNARP.ascx" />
+    <Content Include="Accesorios\VisorPDF.aspx" />
+    <Content Include="Accesorios\VisPDF.aspx" />
+    <Content Include="Accesorios\VistaPreviaPDF.aspx" />
+    <Content Include="Almacen\frmAlmacenReporte.aspx" />
+    <Content Include="Almacen\FrmDarBaja.aspx" />
+    <Content Include="Almacen\frmReporteRS.aspx" />
+    <Content Include="Configuracion\FrmBuscarFuncionario.aspx" />
+    <Content Include="Configuracion\frmBusquedaActuacionAdmin.aspx" />
+    <Content Include="Configuracion\FrmCajaChica.aspx" />
+    <Content Include="Configuracion\FrmConsuladoTipoPagoTarifario.aspx" />
+    <Content Include="Configuracion\FrmCorrelativo.aspx" />
+    <Content Include="Configuracion\FrmExpedienteMigratorio.aspx" />
+    <Content Include="Configuracion\frmFormatoMargenesImpresion.aspx" />
+    <Content Include="Configuracion\FrmLibro.aspx" />
+    <Content Include="Configuracion\FrmNorma.aspx" />
+    <Content Include="Configuracion\FrmPais.aspx" />
+    <Content Include="Configuracion\FrmPlantillaTraduccion.aspx" />
+    <Content Include="Configuracion\frmReactivarActuacion.aspx" />
+    <Content Include="Configuracion\frmReactivarInsumos.aspx" />
+    <Content Include="Configuracion\frmRecalculoSaldoInsumos.aspx" />
+    <Content Include="Configuracion\FrmTipoActoProtocolarTarifario.aspx" />
+    <Content Include="Configuracion\FrmTipoPagoNormaTarifario.aspx" />
+    <Content Include="Consulta\FrmAutoadhesivoConsular.aspx" />
+    <Content Include="Consulta\FrmFichaRegistral.aspx" />
+    <Content Include="Consulta\FrmProtocolar.aspx" />
+    <Content Include="Contabilidad\FrmCajaChica.aspx" />
+    <Content Include="Configuracion\FrmCuentaCorrienteSaldo.aspx" />
+    <Content Include="FrmNotificacion.aspx" />
+    <Content Include="Images\Autoadhesivo.jpg" />
+    <Content Include="Images\Autoadhesivo_.jpg" />
+    <Content Include="Images\buscar-acta.png" />
+    <Content Include="Images\clip_image027.gif" />
+    <Content Include="Images\close.png" />
+    <Content Include="Images\downArrow.png" />
+    <Content Include="Images\escudo.ico" />
+    <Content Include="Images\Escudo.jpg" />
+    <Content Include="Images\EscudoPeru_2015.jpg" />
+    <Content Include="Images\espera.gif" />
+    <Content Include="Images\excel_icon_small.gif" />
+    <Content Include="Images\group.png" />
+    <Content Include="Images\headRegistro.gif" />
+    <Content Include="Images\imagen-no-disponible.jpg" />
+    <Content Include="Almacen\frmListadoInsumos.aspx" />
+    <Content Include="Almacen\frmMovimiento.aspx" />
+    <Content Include="Almacen\frmPedido.aspx" />
+    <Content Include="Almacen\frmControlStock.aspx" />
+    <Content Include="Almacen\FrmReporte.aspx" />
+    <Content Include="Colas\FrmConfiguracionVentanilla.aspx" />
+    <Content Include="Colas\FrmPerfilAtencion.aspx" />
+    <Content Include="Colas\FrmReporteColas.aspx" />
+    <Content Include="Colas\FrmServicioConsular.aspx" />
+    <Content Include="Colas\FrmTelevisorRegistro.aspx" />
+    <Content Include="Colas\FrmTicketeraRegistro.aspx" />
+    <Content Include="Colas\FrmVideoRegistro.aspx" />
+    <Content Include="Colas\frmVisorColas.aspx" />
+    <Content Include="Colas\FrmVisorRDCL.aspx" />
+    <Content Include="Configuracion\FrmAuditoria.aspx" />
+    <Content Include="Configuracion\FrmCuentaCorriente.aspx" />
+    <Content Include="Configuracion\FrmFormulario.aspx" />
+    <Content Include="Configuracion\FrmOficinaConsular.aspx" />
+    <Content Include="Configuracion\FrmParametro.aspx" />
+    <Content Include="Configuracion\FrmRol.aspx" />
+    <Content Include="Configuracion\FrmTablasMaestras.aspx" />
+    <Content Include="Configuracion\FrmTarifario.aspx" />
+    <Content Include="Configuracion\FrmTipoCambio.aspx" />
+    <Content Include="Configuracion\FrmTipoCambioBancario.aspx" />
+    <Content Include="Configuracion\FrmUbicacionGeografica.aspx" />
+    <Content Include="Configuracion\FrmUsuario.aspx" />
+    <Content Include="Consulta\FrmExpediente.aspx" />
+    <Content Include="Consulta\FrmMigratorio.aspx" />
+    <Content Include="Contabilidad\FrmCuentaRendicion.aspx" />
+    <Content Include="Contabilidad\FrmEstadoBancarioConsulta.aspx" />
+    <Content Include="Contabilidad\FrmLibroContableReporte.aspx" />
+    <Content Include="Contabilidad\FrmRemesaConsulta.aspx" />
+    <Content Include="Contabilidad\FrmReporteContables.aspx" />
+    <Content Include="Cuenta\FrmLogin.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Images\ajax-loader.gif" />
+    <Content Include="Images\calendar.png" />
+    <Content Include="Images\cargando.gif" />
+    <Content Include="Images\img_16_buscar.png" />
+    <Content Include="Images\img_16_buscar_disabled.png" />
+    <Content Include="Images\img_16_calc.png" />
+    <Content Include="Images\img_16_limpiar_gris.png" />
+    <Content Include="Images\img_16_search_disabled.png" />
+    <Content Include="Images\img_16_status4.png" />
+    <Content Include="Images\img_16_vincular.png" />
+    <Content Include="Images\img_32_down.png" />
+    <Content Include="Images\img_32_up.png" />
+    <Content Include="Images\img_noDisponible.jpg" />
+    <Content Include="Images\loader.gif" />
+    <Content Include="Images\lpasaporteemi.gif" />
+    <Content Include="Images\lpasaporterev.gif" />
+    <Content Include="Images\MRE.png" />
+    <Content Include="Images\NoCorre.jpg" />
+    <Content Include="Images\recibir_pedido.png" />
+    <Content Include="Images\salvoconducto.png" />
+    <Content Include="Images\UnLink.png" />
+    <Content Include="PageError\DeniedPage.aspx" />
+    <Content Include="PageError\GenericErrorPage.aspx" />
+    <Content Include="PageError\NotFoundPage.aspx" />
+    <Content Include="Refirma\img\escudo.png" />
+    <Content Include="Refirma\img\iFirma1.png" />
+    <Content Include="Registro\FrmActaConformidadActoNotarial.aspx" />
+    <Content Include="Registro\FrmActoNotarialProtocolares.aspx" />
+    <Content Include="Registro\FrmActuacionNotarialExtraProtocolar.aspx" />
+    <Content Include="Registro\FrmBusqueda.aspx" />
+    <Content Include="Registro\FrmCambiaEstadoMigratorio.aspx" />
+    <Content Include="Registro\FrmFormatoCivil.aspx" />
+    <Content Include="Registro\frmGuiaDespacho.aspx" />
+    <Content Include="Registro\FrmPreviewEP.aspx" />
+    <Content Include="Registro\FrmPreviewNotarial.aspx" />
+    <Content Include="Registro\FrmRegistroBeneficiario.aspx" />
+    <Content Include="Registro\FrmRepAnotacion.aspx" />
+    <Content Include="Registro\FrmRepAutoadhesivoProtocolar.aspx" />
+    <Content Include="Registro\frmReporteMigratorio.aspx" />
+    <Content Include="Registro\FrmReporteRune.aspx" />
+    <Content Include="Registro\FrmReporteSupervivencia.aspx" />
+    <Content Include="Registro\Images\ajax-loader.gif" />
+    <Content Include="Images\escaneado.PNG" />
+    <Content Include="Images\EscudoMilitar_20150206.png" />
+    <Content Include="Images\img_16_acta.png" />
+    <Content Include="Images\img_16_aprobar.png" />
+    <Content Include="Images\img_16_baja.png" />
+    <Content Include="Images\img_16_bajar.png" />
+    <Content Include="Images\img_16_delete.png" />
+    <Content Include="Images\img_16_estado_tramite.png" />
+    <Content Include="Images\img_16_limpiar.png" />
+    <Content Include="Images\img_16_notificados.png" />
+    <Content Include="Images\img_16_notification.png" />
+    <Content Include="Images\img_16_preview.png" />
+    <Content Include="Images\img_16_print_disabled.png" />
+    <Content Include="Images\captureBTN.png" />
+    <Content Include="Images\Firma.png" />
+    <Content Include="Images\ima.jpg" />
+    <Content Include="Images\img_16_add_disabled.png" />
+    <Content Include="Images\img_16_calendar.png" />
+    <Content Include="Images\img_16_calendar_disabled.png" />
+    <Content Include="Images\img_16_close.png" />
+    <Content Include="Images\img_16_delete_disabled.png" />
+    <Content Include="Images\img_16_edit_disabled.png" />
+    <Content Include="Images\img_16_email_disabled.png" />
+    <Content Include="Images\img_16_order_attend.png" />
+    <Content Include="Images\img_16_reasignar.png" />
+    <Content Include="Images\img_16_refresh.png" />
+    <Content Include="Images\img_16_scanner.png" />
+    <Content Include="Images\img_16_status1.png" />
+    <Content Include="Images\img_16_status2.png" />
+    <Content Include="Images\img_16_status3.png" />
+    <Content Include="Images\img_16_statusN.png" />
+    <Content Include="Images\img_16_tramite_anular.png" />
+    <Content Include="Images\img_16_tramite_aprobar.png" />
+    <Content Include="Images\img_16_tramite_dar_baja.png" />
+    <Content Include="Images\img_16_tramite_rechazar.png" />
+    <Content Include="Images\img_16_validate_user.png" />
+    <Content Include="Images\img_32_add_page.png" />
+    <Content Include="Images\img_32_barcode.png" />
+    <Content Include="Images\img_32_delete_page.png" />
+    <Content Include="Images\img_cerrar.gif" />
+    <Content Include="Images\img_reporte_logo.png" />
+    <Content Include="Images\MRE1.png" />
+    <Content Include="Images\Page_one.png" />
+    <Content Include="Images\Page_two.png" />
+    <Content Include="Images\scanner_fondo.png" />
+    <Content Include="Images\submitBTN.png" />
+    <Content Include="Registro\FrmActoGeneral.aspx" />
+    <Content Include="Registro\FrmActoCivil.aspx" />
+    <Content Include="Registro\FrmActuacion.aspx" />
+    <Content Include="Registro\FrmActoJudicial.aspx" />
+    <Content Include="Registro\FrmAnularTramite.aspx" />
+    <Content Include="Registro\FrmActoMilitar.aspx" />
+    <Content Include="Registro\FrmReasignacionActuacion.aspx" />
+    <Content Include="Registro\FrmCapturaImagen.aspx" />
+    <Content Include="Registro\FrmBusquedaActuacion.aspx" />
+    <Content Include="Registro\FrmRegistroAsistencia.aspx" />
+    <Content Include="Registro\FrmRegistroAsistenciaImpresion.aspx" />
+    <Content Include="Registro\FrmRegistroEmpresa.aspx" />
+    <Content Include="Registro\FrmRegistroPersona.aspx" />
+    <Content Include="Registro\FrmBusquedaPersona.aspx" />
+    <Content Include="Accesorios\SharedControls\ctrlPageBar.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlToolBarImage.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlToolBarButton.ascx" />
+    <Content Include="Accesorios\SharedControls\ctrlValidation.ascx" />
+    <Content Include="Accesorios\SysTablesXML\SysTables.xml" />
+    <Content Include="Images\CBarras.PNG" />
+    <Content Include="Images\Escudo.PNG" />
+    <Content Include="Images\header.png" />
+    <Content Include="Images\i.p.buscar.gif" />
+    <Content Include="Images\img_16_accounting.png" />
+    <Content Include="Images\img_16_add.png" />
+    <Content Include="Images\img_16_button_save.png" />
+    <Content Include="Images\img_16_undo.png" />
+    <Content Include="Images\img_16_configuration.png" />
+    <Content Include="Images\img_16_document.png" />
+    <Content Include="Images\img_16_error.png" />
+    <Content Include="Images\img_16_info.png" />
+    <Content Include="Images\img_16_login.png" />
+    <Content Include="Images\img_16_message.png" />
+    <Content Include="Images\img_16_money.png" />
+    <Content Include="Images\img_16_notify.png" />
+    <Content Include="Images\img_16_other.png" />
+    <Content Include="Images\img_16_parameters.png" />
+    <Content Include="Images\img_16_people.png" />
+    <Content Include="Images\img_16_save.png" />
+    <Content Include="Images\img_16_download.png" />
+    <Content Include="Images\img_16_edit.png" />
+    <Content Include="Images\img_16_email.png" />
+    <Content Include="Images\img_16_export_excel.png" />
+    <Content Include="Images\img_16_logout.png" />
+    <Content Include="Images\img_16_pdf.png" />
+    <Content Include="Images\img_16_print.png" />
+    <Content Include="Images\img_16_save_disabled.png" />
+    <Content Include="Images\img_16_search.png" />
+    <Content Include="Images\img_16_search_2.png" />
+    <Content Include="Images\img_16_success.png" />
+    <Content Include="Images\img_16_undo_disabled.png" />
+    <Content Include="Images\img_16_upload.png" />
+    <Content Include="Images\img_16_warehouse.png" />
+    <Content Include="Images\img_16_warning.png" />
+    <Content Include="Images\img_24_pdf.png" />
+    <Content Include="Images\img_24_warning.png" />
+    <Content Include="Images\img_32notification.png" />
+    <Content Include="Images\img_32_add.png" />
+    <Content Include="Images\img_32_back.png" />
+    <Content Include="Images\img_32_calendar.png" />
+    <Content Include="Images\img_32_configuration.png" />
+    <Content Include="Images\img_32_export-excel.png" />
+    <Content Include="Images\img_32_export-image.png" />
+    <Content Include="Images\img_32_export-word.png" />
+    <Content Include="Images\img_32_export_pdf.png" />
+    <Content Include="Images\img_32_home.png" />
+    <Content Include="Images\img_32_login.png" />
+    <Content Include="Images\img_32_logout.png" />
+    <Content Include="Images\img_32_notification_smile.png" />
+    <Content Include="Images\img_32_printer.png" />
+    <Content Include="Images\img_32_refresh.png" />
+    <Content Include="Images\img_48_user_gray.png" />
+    <Content Include="Images\img_arrow_down.png" />
+    <Content Include="Images\img_flag_en.png" />
+    <Content Include="Images\img_flag_es.png" />
+    <Content Include="Images\img_gridbuscar.gif" />
+    <Content Include="Images\img_grid_delete.png" />
+    <Content Include="Images\img_grid_modify.png" />
+    <Content Include="Images\img_16_home.png" />
+    <Content Include="Images\img_msg_error.png" />
+    <Content Include="Images\img_msg_info.png" />
+    <Content Include="Images\img_msg_information.png" />
+    <Content Include="Images\img_msg_question.png" />
+    <Content Include="Images\img_msg_warning.png" />
+    <Content Include="Images\img_option_apply.png" />
+    <Content Include="Images\img_option_cancel.png" />
+    <Content Include="Images\img_sel_check.png" />
+    <Content Include="Images\img_title.png" />
+    <Content Include="Images\MRE_Cabecera.PNG" />
+    <Content Include="Images\NavFirstPage.gif" />
+    <Content Include="Images\NavFirstPageDisabled.gif" />
+    <Content Include="Images\NavLastPage.gif" />
+    <Content Include="Images\NavLastPageDisabled.GIF" />
+    <Content Include="Images\NavNextPage.gif" />
+    <Content Include="Images\NavNextPageDisabled.gif" />
+    <Content Include="Images\NavPreviousPage.gif" />
+    <Content Include="Images\NavPreviousPageDisabled.gif" />
+    <Content Include="Images\People.png" />
+    <Content Include="Registro\FrmRepAutoadhesivo.aspx" />
+    <Content Include="Registro\FrmTramite.aspx" />
+    <Content Include="Registro\frmUpload.aspx" />
+    <Content Include="Registro\Plantillas\acta-defuncion.html" />
+    <Content Include="Registro\Plantillas\acta-diligenciamiento.html" />
+    <Content Include="Registro\Plantillas\acta-complementaria.html" />
+    <Content Include="Registro\Plantillas\Acta_Nacimiento_RegistroCivil.htm" />
+    <Content Include="Registro\Plantillas\CorreoDesbloqueo.html" />
+    <Content Include="Registro\Plantillas\CorreoRegistroPersona.html" />
+    <Content Include="Registro\Plantillas\CorreoRegistroActuacion.html" />
+    <Content Include="Registro\Plantillas\mensaje-espera.html" />
+    <Content Include="Registro\Plantillas\cuarta-notificacion-exhorto.html" />
+    <Content Include="Registro\Plantillas\primera-notificacion-exhorto.html" />
+    <Content Include="Registro\Plantillas\quinta-notificacion-exhorto.htm" />
+    <Content Include="Registro\Plantillas\segunda-notificacion-exhorto.html" />
+    <Content Include="Registro\Plantillas\tercera-notificacion-exhorto.html" />
+    <Content Include="Registro\Preview\FrmPreviewActaDefuncion.aspx" />
+    <Content Include="Registro\Preview\FrmPreview_ActoMilitar_Constancia.aspx" />
+    <Content Include="Registro\Preview\FrmPreview_ActoMilitar_Inscripcion.aspx" />
+    <Content Include="Registro\FrmReporteMigratorioHtml.aspx" />
+    <Content Include="Registro\Services\Services.asmx" />
+    <Content Include="Reportes\frmPreviewMigratorio.aspx" />
+    <Content Include="Reportes\FrmPreviewReportesGerenciales.aspx" />
+    <Content Include="Reportes\frmReporteAntecedentesPenales.aspx" />
+    <Content Include="Reportes\frmReporteMigratorio.aspx" />
+    <Content Include="Reportes\FrmReportesGerenciales.aspx" />
+    <Content Include="Reportes\frmVisorActoCivil.aspx" />
+    <Content Include="Reportes\FrmVisorProtocolar.aspx" />
+    <Content Include="Reportes\FrmVisorRDLC.aspx" />
+    <Content Include="Reportes\frmVisorReporte.aspx" />
+    <Content Include="Reportes\RSMigratorio\rsLaminaDGC001.aspx" />
+    <Content Include="Scripts\jquery-1.10.2-modal.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-menu.js" />
+    <Content Include="Scripts\jquery-ui-1.10.1.reporte.min.js" />
+    <Content Include="Scripts\jquery-ui.js" />
+    <Content Include="Scripts\jquery.alphanumeric.js" />
+    <Content Include="Scripts\jquery.blockUI.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jquery.numeric.js" />
+    <Content Include="Scripts\jquery.signalR-1.2.1.js" />
+    <Content Include="Scripts\jquery.signalR-1.2.1.min.js" />
+    <Content Include="Scripts\jquery.timers.js" />
+    <Content Include="Scripts\jquery.webcam.js" />
+    <Content Include="Scripts\site.js" />
+    <Content Include="Scripts\jquery-1.10.2-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.10.4.custom.js" />
+    <Content Include="Scripts\jquery-ui-1.10.4.custom.min.js" />
+    <Content Include="Scripts\jquery.colorbox.js" />
+    <Content Include="Scripts\jquery.js" />
+    <Content Include="Scripts\tinymce\classes\AddOnManager.js" />
+    <Content Include="Scripts\tinymce\classes\Compat.js" />
+    <Content Include="Scripts\tinymce\classes\dom\BookmarkManager.js" />
+    <Content Include="Scripts\tinymce\classes\dom\ControlSelection.js" />
+    <Content Include="Scripts\tinymce\classes\dom\DomQuery.js" />
+    <Content Include="Scripts\tinymce\classes\dom\DOMUtils.js" />
+    <Content Include="Scripts\tinymce\classes\dom\ElementUtils.js" />
+    <Content Include="Scripts\tinymce\classes\dom\EventUtils.js" />
+    <Content Include="Scripts\tinymce\classes\dom\Range.js" />
+    <Content Include="Scripts\tinymce\classes\dom\RangeUtils.js" />
+    <Content Include="Scripts\tinymce\classes\dom\ScriptLoader.js" />
+    <Content Include="Scripts\tinymce\classes\dom\Selection.js" />
+    <Content Include="Scripts\tinymce\classes\dom\Serializer.js" />
+    <Content Include="Scripts\tinymce\classes\dom\Sizzle.jQuery.js" />
+    <Content Include="Scripts\tinymce\classes\dom\Sizzle.js" />
+    <Content Include="Scripts\tinymce\classes\dom\StyleSheetLoader.js" />
+    <Content Include="Scripts\tinymce\classes\dom\TreeWalker.js" />
+    <Content Include="Scripts\tinymce\classes\dom\TridentSelection.js" />
+    <Content Include="Scripts\tinymce\classes\Editor.js" />
+    <Content Include="Scripts\tinymce\classes\EditorCommands.js" />
+    <Content Include="Scripts\tinymce\classes\EditorManager.js" />
+    <Content Include="Scripts\tinymce\classes\EditorObservable.js" />
+    <Content Include="Scripts\tinymce\classes\EnterKey.js" />
+    <Content Include="Scripts\tinymce\classes\Env.js" />
+    <Content Include="Scripts\tinymce\classes\fmt\Preview.js" />
+    <Content Include="Scripts\tinymce\classes\FocusManager.js" />
+    <Content Include="Scripts\tinymce\classes\ForceBlocks.js" />
+    <Content Include="Scripts\tinymce\classes\Formatter.js" />
+    <Content Include="Scripts\tinymce\classes\html\DomParser.js" />
+    <Content Include="Scripts\tinymce\classes\html\Entities.js" />
+    <Content Include="Scripts\tinymce\classes\html\Node.js" />
+    <Content Include="Scripts\tinymce\classes\html\SaxParser.js" />
+    <Content Include="Scripts\tinymce\classes\html\Schema.js" />
+    <Content Include="Scripts\tinymce\classes\html\Serializer.js" />
+    <Content Include="Scripts\tinymce\classes\html\Styles.js" />
+    <Content Include="Scripts\tinymce\classes\html\Writer.js" />
+    <Content Include="Scripts\tinymce\classes\jquery.tinymce.js" />
+    <Content Include="Scripts\tinymce\classes\LegacyInput.js" />
+    <Content Include="Scripts\tinymce\classes\NodeChange.js" />
+    <Content Include="Scripts\tinymce\classes\Shortcuts.js" />
+    <Content Include="Scripts\tinymce\classes\ui\AbsoluteLayout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Button.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ButtonGroup.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Checkbox.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Collection.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ColorBox.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ColorButton.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ColorPicker.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ComboBox.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Container.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Control.js" />
+    <Content Include="Scripts\tinymce\classes\ui\DomUtils.js" />
+    <Content Include="Scripts\tinymce\classes\ui\DragHelper.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ElementPath.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Factory.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FieldSet.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FilePicker.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FitLayout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FlexLayout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FloatPanel.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FlowLayout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Form.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FormatControls.js" />
+    <Content Include="Scripts\tinymce\classes\ui\FormItem.js" />
+    <Content Include="Scripts\tinymce\classes\ui\GridLayout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Iframe.js" />
+    <Content Include="Scripts\tinymce\classes\ui\KeyboardNavigation.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Label.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Layout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ListBox.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Menu.js" />
+    <Content Include="Scripts\tinymce\classes\ui\MenuBar.js" />
+    <Content Include="Scripts\tinymce\classes\ui\MenuButton.js" />
+    <Content Include="Scripts\tinymce\classes\ui\MenuItem.js" />
+    <Content Include="Scripts\tinymce\classes\ui\MessageBox.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Movable.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Panel.js" />
+    <Content Include="Scripts\tinymce\classes\ui\PanelButton.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Path.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Radio.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Resizable.js" />
+    <Content Include="Scripts\tinymce\classes\ui\ResizeHandle.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Scrollable.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Selector.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Spacer.js" />
+    <Content Include="Scripts\tinymce\classes\ui\SplitButton.js" />
+    <Content Include="Scripts\tinymce\classes\ui\StackLayout.js" />
+    <Content Include="Scripts\tinymce\classes\ui\TabPanel.js" />
+    <Content Include="Scripts\tinymce\classes\ui\TextBox.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Throbber.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Toolbar.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Tooltip.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Widget.js" />
+    <Content Include="Scripts\tinymce\classes\ui\Window.js" />
+    <Content Include="Scripts\tinymce\classes\UndoManager.js" />
+    <Content Include="Scripts\tinymce\classes\util\Class.js" />
+    <Content Include="Scripts\tinymce\classes\util\Color.js" />
+    <Content Include="Scripts\tinymce\classes\util\EventDispatcher.js" />
+    <Content Include="Scripts\tinymce\classes\util\I18n.js" />
+    <Content Include="Scripts\tinymce\classes\util\JSON.js" />
+    <Content Include="Scripts\tinymce\classes\util\JSONP.js" />
+    <Content Include="Scripts\tinymce\classes\util\JSONRequest.js" />
+    <Content Include="Scripts\tinymce\classes\util\LocalStorage.js" />
+    <Content Include="Scripts\tinymce\classes\util\Observable.js" />
+    <Content Include="Scripts\tinymce\classes\util\Quirks.js" />
+    <Content Include="Scripts\tinymce\classes\util\Tools.js" />
+    <Content Include="Scripts\tinymce\classes\util\URI.js" />
+    <Content Include="Scripts\tinymce\classes\util\VK.js" />
+    <Content Include="Scripts\tinymce\classes\util\XHR.js" />
+    <Content Include="Scripts\tinymce\classes\WindowManager.js" />
+    <Content Include="Scripts\tinymce\jquery.tinymce.min.js" />
+    <Content Include="Scripts\tinymce\langs\es.js" />
+    <Content Include="Scripts\tinymce\license.txt" />
+    <Content Include="Scripts\tinymce\plugins\advlist\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\advlist\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\anchor\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\anchor\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\autolink\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\autolink\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\autoresize\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\autoresize\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\autosave\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\autosave\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\bbcode\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\bbcode\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\charmap\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\charmap\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\code\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\code\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\colorpicker\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\colorpicker\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\css\dialog.css" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\buttons.png" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\icons.gif" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\items.gif" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\menu_arrow.gif" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\menu_check.gif" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\progress.gif" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\img\tabs.gif" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\tiny_mce_popup.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\utils\editable_selects.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\utils\form_utils.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\utils\mctabs.js" />
+    <Content Include="Scripts\tinymce\plugins\compat3x\utils\validate.js" />
+    <Content Include="Scripts\tinymce\plugins\contextmenu\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\contextmenu\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\directionality\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\directionality\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-cool.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-cry.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-embarassed.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-foot-in-mouth.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-frown.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-innocent.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-kiss.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-laughing.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-money-mouth.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-sealed.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-smile.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-surprised.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-tongue-out.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-undecided.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-wink.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\img\smiley-yell.gif" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\emoticons\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\example\dialog.html" />
+    <Content Include="Scripts\tinymce\plugins\example\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\example\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\example_dependency\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\example_dependency\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\fullpage\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\fullpage\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\fullscreen\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\fullscreen\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\hr\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\hr\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\image\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\image\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\importcss\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\importcss\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\insertdatetime\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\insertdatetime\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\layer\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\layer\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\legacyoutput\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\legacyoutput\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\link\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\link\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\lists\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\lists\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\media\moxieplayer.swf" />
+    <Content Include="Scripts\tinymce\plugins\media\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\media\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\nonbreaking\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\nonbreaking\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\noneditable\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\noneditable\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\pagebreak\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\pagebreak\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\classes\Clipboard.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\classes\Plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\classes\Quirks.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\classes\Utils.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\classes\WordFilter.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\plugin.dev.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\paste\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\preview\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\preview\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\print\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\print\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\save\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\save\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\searchreplace\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\searchreplace\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\spellchecker\classes\DomTextMatcher.js" />
+    <Content Include="Scripts\tinymce\plugins\spellchecker\classes\Plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\spellchecker\plugin.dev.js" />
+    <Content Include="Scripts\tinymce\plugins\spellchecker\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\spellchecker\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\tabfocus\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\tabfocus\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\table\classes\CellSelection.js" />
+    <Content Include="Scripts\tinymce\plugins\table\classes\Dialogs.js" />
+    <Content Include="Scripts\tinymce\plugins\table\classes\Plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\table\classes\Quirks.js" />
+    <Content Include="Scripts\tinymce\plugins\table\classes\TableGrid.js" />
+    <Content Include="Scripts\tinymce\plugins\table\plugin.dev.js" />
+    <Content Include="Scripts\tinymce\plugins\table\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\table\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\template\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\template\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\textcolor\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\textcolor\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\textpattern\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\textpattern\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\css\visualblocks.css" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\address.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\article.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\aside.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\blockquote.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\div.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\dl.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\figure.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\h1.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\h2.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\h3.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\h4.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\h5.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\h6.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\hgroup.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\ol.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\p.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\pre.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\section.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\img\ul.gif" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\visualblocks\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\visualchars\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\visualchars\plugin.min.js" />
+    <Content Include="Scripts\tinymce\plugins\wordcount\plugin.js" />
+    <Content Include="Scripts\tinymce\plugins\wordcount\plugin.min.js" />
+    <Content Include="Scripts\tinymce\skins\lightgray\content.inline.min.css" />
+    <Content Include="Scripts\tinymce\skins\lightgray\content.min.css" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce-small.svg" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce.svg" />
+    <Content Include="Scripts\tinymce\skins\lightgray\img\anchor.gif" />
+    <Content Include="Scripts\tinymce\skins\lightgray\img\loader.gif" />
+    <Content Include="Scripts\tinymce\skins\lightgray\img\object.gif" />
+    <Content Include="Scripts\tinymce\skins\lightgray\img\trans.gif" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.ie7.min.css" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.min.css" />
+    <Content Include="Scripts\tinymce\themes\modern\theme.js" />
+    <Content Include="Scripts\tinymce\themes\modern\theme.min.js" />
+    <Content Include="Scripts\tinymce\tinymce.dev.js" />
+    <Content Include="Scripts\tinymce\tinymce.jquery.dev.js" />
+    <Content Include="Scripts\tinymce\tinymce.jquery.js" />
+    <Content Include="Scripts\tinymce\tinymce.jquery.min.js" />
+    <Content Include="Scripts\tinymce\tinymce.js" />
+    <Content Include="Scripts\tinymce\tinymce.min.js" />
+    <Content Include="Scripts\toastr.js" />
+    <Content Include="Scripts\toastr.min.js" />
+    <Content Include="Scripts\Validacion\bootstrap.js" />
+    <Content Include="Scripts\Validacion\bootstrap.min.js" />
+    <Content Include="Scripts\Validacion\dataTables\dataTables.bootstrap.css" />
+    <Content Include="Scripts\Validacion\dataTables\dataTables.bootstrap.js" />
+    <Content Include="Scripts\Validacion\dataTables\jquery.dataTables.js" />
+    <Content Include="Scripts\Validacion\jquery.min.js" />
+    <Content Include="Scripts\Validacion\jquery.showLoading.js" />
+    <Content Include="Scripts\Validacion\jquery.showLoading.min.js" />
+    <Content Include="Scripts\Validacion\Mensajes.js" />
+    <Content Include="Scripts\Validacion\Text.js" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Service References\WSPideReniec\configuration91.svcinfo" />
+    <None Include="Service References\WSPideReniec\configuration.svcinfo" />
+    <None Include="Service References\WSPideReniec\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Styles\bootstrap.css" />
+    <Content Include="Styles\colorbox\colorbox.css" />
+    <Content Include="Styles\colorbox\images\ajax-loader.gif" />
+    <Content Include="Styles\colorbox\images\border.png" />
+    <Content Include="Styles\colorbox\images\content.jpg" />
+    <Content Include="Styles\colorbox\images\controls.png" />
+    <Content Include="Styles\colorbox\images\img_close.png" />
+    <Content Include="Styles\colorbox\images\img_close_hover.png" />
+    <Content Include="Styles\colorbox\images\loading.gif" />
+    <Content Include="Styles\colorbox\images\loading_background.png" />
+    <Content Include="Styles\colorbox\images\overlay.png" />
+    <Content Include="Styles\css\bootstrap.css" />
+    <Content Include="Styles\css\showLoading.css" />
+    <Content Include="Styles\css\style.css" />
+    <Content Include="Styles\css\tinyMCE.css" />
+    <Content Include="Styles\Master.css" />
+    <Content Include="Styles\modal.css" />
+    <Content Include="Styles\PopUpEspera.css" />
+    <Content Include="Styles\print.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Styles\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Styles\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Styles\smoothness\images\ui-icons_222222_256x240.png" />
+    <Content Include="Styles\smoothness\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Styles\smoothness\images\ui-icons_454545_256x240.png" />
+    <Content Include="Styles\smoothness\images\ui-icons_888888_256x240.png" />
+    <Content Include="Styles\smoothness\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Styles\smoothness\jquery-ui-1.10.4.custom.css" />
+    <Content Include="Styles\smoothness\jquery-ui-1.10.4.custom.min.css" />
+    <Content Include="Styles\spsam.css" />
+    <Content Include="Styles\svisas.css" />
+    <Content Include="Styles\toastr.css" />
+    <Content Include="Styles\toastr.min.css" />
+    <Content Include="Sunarp\frmSolicitudInscripcionSunarp.aspx" />
+    <Content Include="Sunarp\Refirma.aspx" />
+    <Content Include="Sunarp\RefirmaService.asmx" />
+    <Content Include="Sunarp\SeguimientoSolicitudesSunarp.aspx" />
+    <Content Include="Userimages\Firma.PNG" />
+    <Content Include="Userimages\Foto.PNG" />
+    <Content Include="Vacia.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebcamResources\jscam.swf" />
+    <Content Include="WebcamResources\jscam.xml" />
+    <Content Include="WebcamResources\jscam_canvas_only.swf" />
+    <Content Include="XMLFiles\ComandosXML.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accesorios\CampoValor.cs" />
+    <Compile Include="Accesorios\clsRespuesta.cs" />
+    <Compile Include="Accesorios\Comun.cs" />
+    <Compile Include="Accesorios\comun_Part1.cs" />
+    <Compile Include="Accesorios\comun_Part2.cs" />
+    <Compile Include="Accesorios\comun_Part3.cs" />
+    <Compile Include="Accesorios\ConvertirImagen.cs" />
+    <Compile Include="Accesorios\DocumentoFirma.cs" />
+    <Compile Include="Accesorios\DocumentoiTextSharp.cs" />
+    <Compile Include="Accesorios\Empresa.cs" />
+    <Compile Include="Accesorios\FrmCaptcha.aspx.cs">
+      <DependentUpon>FrmCaptcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\FrmCaptcha.aspx.designer.cs">
+      <DependentUpon>FrmCaptcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\FrmDigitaliza.aspx.cs">
+      <DependentUpon>FrmDigitaliza.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\FrmDigitaliza.aspx.designer.cs">
+      <DependentUpon>FrmDigitaliza.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\funcionario.cs" />
+    <Compile Include="Accesorios\ImagenNotarial.cs" />
+    <Compile Include="Accesorios\Participante.cs" />
+    <Compile Include="Accesorios\PDFCeldas.cs" />
+    <Compile Include="Accesorios\PDFComun.cs" />
+    <Compile Include="Accesorios\Persona.cs" />
+    <Compile Include="Accesorios\Scanner.cs" />
+    <Compile Include="Accesorios\SessionHelper.cs" />
+    <Compile Include="Accesorios\SharedControls\ctrlActuacionPago.ascx.cs">
+      <DependentUpon>ctrlActuacionPago.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlActuacionPago.ascx.designer.cs">
+      <DependentUpon>ctrlActuacionPago.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBajaAutoadhesivo.ascx.cs">
+      <DependentUpon>ctrlBajaAutoadhesivo.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBajaAutoadhesivo.ascx.designer.cs">
+      <DependentUpon>ctrlBajaAutoadhesivo.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusquedaAutoadhesivo.ascx.cs">
+      <DependentUpon>ctrlBusquedaAutoadhesivo.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusquedaAutoadhesivo.ascx.designer.cs">
+      <DependentUpon>ctrlBusquedaAutoadhesivo.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusquedaAvanzada.ascx.cs">
+      <DependentUpon>ctrlBusquedaAvanzada.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusquedaAvanzada.ascx.designer.cs">
+      <DependentUpon>ctrlBusquedaAvanzada.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusquedaPopup.ascx.cs">
+      <DependentUpon>ctrlBusquedaPopup.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusquedaPopup.ascx.designer.cs">
+      <DependentUpon>ctrlBusquedaPopup.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlReimprimirbtn.ascx.cs">
+      <DependentUpon>ctrlReimprimirbtn.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlReimprimirbtn.ascx.designer.cs">
+      <DependentUpon>ctrlReimprimirbtn.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlSubirExcel.ascx.cs">
+      <DependentUpon>ctrlSubirExcel.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlSubirExcel.ascx.designer.cs">
+      <DependentUpon>ctrlSubirExcel.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarConfirmButton.ascx.cs">
+      <DependentUpon>ctrlToolBarConfirmButton.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarConfirmButton.ascx.designer.cs">
+      <DependentUpon>ctrlToolBarConfirmButton.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlAdjunto_.ascx.cs">
+      <DependentUpon>ctrlAdjunto_.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlAdjunto_.ascx.designer.cs">
+      <DependentUpon>ctrlAdjunto_.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlAdjunto.ascx.cs">
+      <DependentUpon>ctrlAdjunto.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlAdjunto.ascx.designer.cs">
+      <DependentUpon>ctrlAdjunto.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlAdjuntoNotarial.ascx.cs">
+      <DependentUpon>ctrlAdjuntoNotarial.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlAdjuntoNotarial.ascx.designer.cs">
+      <DependentUpon>ctrlAdjuntoNotarial.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusqueda.ascx.cs">
+      <DependentUpon>ctrlBusqueda.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlBusqueda.ascx.designer.cs">
+      <DependentUpon>ctrlBusqueda.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlCargando.ascx.cs">
+      <DependentUpon>ctrlCargando.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlCargando.ascx.designer.cs">
+      <DependentUpon>ctrlCargando.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlDate.ascx.cs">
+      <DependentUpon>ctrlDate.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlDate.ascx.designer.cs">
+      <DependentUpon>ctrlDate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlGridParticipante.ascx.cs">
+      <DependentUpon>ctrlGridParticipante.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlGridParticipante.ascx.designer.cs">
+      <DependentUpon>ctrlGridParticipante.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlMessageConfirm.ascx.cs">
+      <DependentUpon>ctrlMessageConfirm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlMessageConfirm.ascx.designer.cs">
+      <DependentUpon>ctrlMessageConfirm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlScanner.ascx.cs">
+      <DependentUpon>ctrlScanner.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlScanner.ascx.designer.cs">
+      <DependentUpon>ctrlScanner.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlTelefono.ascx.cs">
+      <DependentUpon>ctrlTelefono.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlTelefono.ascx.designer.cs">
+      <DependentUpon>ctrlTelefono.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUbigeo.ascx.cs">
+      <DependentUpon>ctrlUbigeo.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUbigeo.ascx.designer.cs">
+      <DependentUpon>ctrlUbigeo.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUbigeoLineal.ascx.cs">
+      <DependentUpon>ctrlUbigeoLineal.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUbigeoLineal.ascx.designer.cs">
+      <DependentUpon>ctrlUbigeoLineal.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUploader.ascx.cs">
+      <DependentUpon>ctrlUploader.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUploader.ascx.designer.cs">
+      <DependentUpon>ctrlUploader.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUploadSUNARP.ascx.cs">
+      <DependentUpon>ctrlUploadSUNARP.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlUploadSUNARP.ascx.designer.cs">
+      <DependentUpon>ctrlUploadSUNARP.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\MyHub.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlDecimal.ascx.cs">
+      <DependentUpon>ctrlDecimal.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlDecimal.ascx.designer.cs">
+      <DependentUpon>ctrlDecimal.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlOficinaConsular.ascx.cs">
+      <DependentUpon>ctrlOficinaConsular.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlOficinaConsular.ascx.designer.cs">
+      <DependentUpon>ctrlOficinaConsular.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlFecha.ascx.cs">
+      <DependentUpon>ctrlFecha.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlFecha.ascx.designer.cs">
+      <DependentUpon>ctrlFecha.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarConfirm.ascx.cs">
+      <DependentUpon>ctrlToolBarConfirm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarConfirm.ascx.designer.cs">
+      <DependentUpon>ctrlToolBarConfirm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\Tarifa.cs" />
+    <Compile Include="Accesorios\UIConvert.cs" />
+    <Compile Include="Accesorios\VisorPDF.aspx.cs">
+      <DependentUpon>VisorPDF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\VisorPDF.aspx.designer.cs">
+      <DependentUpon>VisorPDF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\VisPDF.aspx.cs">
+      <DependentUpon>VisPDF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\VisPDF.aspx.designer.cs">
+      <DependentUpon>VisPDF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\VistaPreviaPDF.aspx.cs">
+      <DependentUpon>VistaPreviaPDF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\VistaPreviaPDF.aspx.designer.cs">
+      <DependentUpon>VistaPreviaPDF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\dsOrdenServicio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsOrdenServicio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\frmAlmacenReporte.aspx.cs">
+      <DependentUpon>frmAlmacenReporte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\frmAlmacenReporte.aspx.designer.cs">
+      <DependentUpon>frmAlmacenReporte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\FrmDarBaja.aspx.cs">
+      <DependentUpon>FrmDarBaja.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\FrmDarBaja.aspx.designer.cs">
+      <DependentUpon>FrmDarBaja.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\frmListadoInsumos.aspx.cs">
+      <DependentUpon>frmListadoInsumos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\frmListadoInsumos.aspx.designer.cs">
+      <DependentUpon>frmListadoInsumos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\frmMovimiento.aspx.cs">
+      <DependentUpon>frmMovimiento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\frmMovimiento.aspx.designer.cs">
+      <DependentUpon>frmMovimiento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\frmPedido.aspx.cs">
+      <DependentUpon>frmPedido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\frmPedido.aspx.designer.cs">
+      <DependentUpon>frmPedido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\frmControlStock.aspx.cs">
+      <DependentUpon>frmControlStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\frmControlStock.aspx.designer.cs">
+      <DependentUpon>frmControlStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\FrmReporte.aspx.cs">
+      <DependentUpon>FrmReporte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\FrmReporte.aspx.designer.cs">
+      <DependentUpon>FrmReporte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\frmReporteRS.aspx.cs">
+      <DependentUpon>frmReporteRS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Almacen\frmReporteRS.aspx.designer.cs">
+      <DependentUpon>frmReporteRS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BD_SGAC_DEVDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BD_SGAC_DEVDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmConfiguracionVentanilla.aspx.cs">
+      <DependentUpon>FrmConfiguracionVentanilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmConfiguracionVentanilla.aspx.designer.cs">
+      <DependentUpon>FrmConfiguracionVentanilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmPerfilAtencion.aspx.cs">
+      <DependentUpon>FrmPerfilAtencion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmPerfilAtencion.aspx.designer.cs">
+      <DependentUpon>FrmPerfilAtencion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmReporteColas.aspx.cs">
+      <DependentUpon>FrmReporteColas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmReporteColas.aspx.designer.cs">
+      <DependentUpon>FrmReporteColas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmServicioConsular.aspx.cs">
+      <DependentUpon>FrmServicioConsular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmServicioConsular.aspx.designer.cs">
+      <DependentUpon>FrmServicioConsular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmTelevisorRegistro.aspx.cs">
+      <DependentUpon>FrmTelevisorRegistro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmTelevisorRegistro.aspx.designer.cs">
+      <DependentUpon>FrmTelevisorRegistro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmTicketeraRegistro.aspx.cs">
+      <DependentUpon>FrmTicketeraRegistro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmTicketeraRegistro.aspx.designer.cs">
+      <DependentUpon>FrmTicketeraRegistro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmVideoRegistro.aspx.cs">
+      <DependentUpon>FrmVideoRegistro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmVideoRegistro.aspx.designer.cs">
+      <DependentUpon>FrmVideoRegistro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\frmVisorColas.aspx.cs">
+      <DependentUpon>frmVisorColas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\frmVisorColas.aspx.designer.cs">
+      <DependentUpon>frmVisorColas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colas\FrmVisorRDCL.aspx.cs">
+      <DependentUpon>FrmVisorRDCL.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Colas\FrmVisorRDCL.aspx.designer.cs">
+      <DependentUpon>FrmVisorRDCL.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmAuditoria.aspx.cs">
+      <DependentUpon>FrmAuditoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmAuditoria.aspx.designer.cs">
+      <DependentUpon>FrmAuditoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmBuscarFuncionario.aspx.cs">
+      <DependentUpon>FrmBuscarFuncionario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmBuscarFuncionario.aspx.designer.cs">
+      <DependentUpon>FrmBuscarFuncionario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\frmBusquedaActuacionAdmin.aspx.cs">
+      <DependentUpon>frmBusquedaActuacionAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\frmBusquedaActuacionAdmin.aspx.designer.cs">
+      <DependentUpon>frmBusquedaActuacionAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmCajaChica.aspx.cs">
+      <DependentUpon>FrmCajaChica.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmCajaChica.aspx.designer.cs">
+      <DependentUpon>FrmCajaChica.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmConsuladoTipoPagoTarifario.aspx.cs">
+      <DependentUpon>FrmConsuladoTipoPagoTarifario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmConsuladoTipoPagoTarifario.aspx.designer.cs">
+      <DependentUpon>FrmConsuladoTipoPagoTarifario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmCorrelativo.aspx.cs">
+      <DependentUpon>FrmCorrelativo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmCorrelativo.aspx.designer.cs">
+      <DependentUpon>FrmCorrelativo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmCuentaCorriente.aspx.cs">
+      <DependentUpon>FrmCuentaCorriente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmCuentaCorriente.aspx.designer.cs">
+      <DependentUpon>FrmCuentaCorriente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmExpedienteMigratorio.aspx.cs">
+      <DependentUpon>FrmExpedienteMigratorio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmExpedienteMigratorio.aspx.designer.cs">
+      <DependentUpon>FrmExpedienteMigratorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\frmFormatoMargenesImpresion.aspx.cs">
+      <DependentUpon>frmFormatoMargenesImpresion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\frmFormatoMargenesImpresion.aspx.designer.cs">
+      <DependentUpon>frmFormatoMargenesImpresion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmFormulario.aspx.cs">
+      <DependentUpon>FrmFormulario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmFormulario.aspx.designer.cs">
+      <DependentUpon>FrmFormulario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmLibro.aspx.cs">
+      <DependentUpon>FrmLibro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmLibro.aspx.designer.cs">
+      <DependentUpon>FrmLibro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmNorma.aspx.cs">
+      <DependentUpon>FrmNorma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmNorma.aspx.designer.cs">
+      <DependentUpon>FrmNorma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmOficinaConsular.aspx.cs">
+      <DependentUpon>FrmOficinaConsular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmOficinaConsular.aspx.designer.cs">
+      <DependentUpon>FrmOficinaConsular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmPais.aspx.cs">
+      <DependentUpon>FrmPais.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmPais.aspx.designer.cs">
+      <DependentUpon>FrmPais.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmParametro.aspx.cs">
+      <DependentUpon>FrmParametro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmParametro.aspx.designer.cs">
+      <DependentUpon>FrmParametro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\frmReactivarActuacion.aspx.cs">
+      <DependentUpon>frmReactivarActuacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\frmReactivarActuacion.aspx.designer.cs">
+      <DependentUpon>frmReactivarActuacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmPlantillaTraduccion.aspx.cs">
+      <DependentUpon>FrmPlantillaTraduccion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmPlantillaTraduccion.aspx.designer.cs">
+      <DependentUpon>FrmPlantillaTraduccion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\frmReactivarInsumos.aspx.cs">
+      <DependentUpon>frmReactivarInsumos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\frmReactivarInsumos.aspx.designer.cs">
+      <DependentUpon>frmReactivarInsumos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\frmRecalculoSaldoInsumos.aspx.cs">
+      <DependentUpon>frmRecalculoSaldoInsumos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\frmRecalculoSaldoInsumos.aspx.designer.cs">
+      <DependentUpon>frmRecalculoSaldoInsumos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmRol.aspx.cs">
+      <DependentUpon>FrmRol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmRol.aspx.designer.cs">
+      <DependentUpon>FrmRol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmTablasMaestras.aspx.cs">
+      <DependentUpon>FrmTablasMaestras.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmTablasMaestras.aspx.designer.cs">
+      <DependentUpon>FrmTablasMaestras.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmTarifario.aspx.cs">
+      <DependentUpon>FrmTarifario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmTarifario.aspx.designer.cs">
+      <DependentUpon>FrmTarifario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoActoProtocolarTarifario.aspx.cs">
+      <DependentUpon>FrmTipoActoProtocolarTarifario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoActoProtocolarTarifario.aspx.designer.cs">
+      <DependentUpon>FrmTipoActoProtocolarTarifario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoCambio.aspx.cs">
+      <DependentUpon>FrmTipoCambio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoCambio.aspx.designer.cs">
+      <DependentUpon>FrmTipoCambio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoCambioBancario.aspx.cs">
+      <DependentUpon>FrmTipoCambioBancario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoCambioBancario.aspx.designer.cs">
+      <DependentUpon>FrmTipoCambioBancario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoPagoNormaTarifario.aspx.cs">
+      <DependentUpon>FrmTipoPagoNormaTarifario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmTipoPagoNormaTarifario.aspx.designer.cs">
+      <DependentUpon>FrmTipoPagoNormaTarifario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmUbicacionGeografica.aspx.cs">
+      <DependentUpon>FrmUbicacionGeografica.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmUbicacionGeografica.aspx.designer.cs">
+      <DependentUpon>FrmUbicacionGeografica.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmUsuario.aspx.cs">
+      <DependentUpon>FrmUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmUsuario.aspx.designer.cs">
+      <DependentUpon>FrmUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmAutoadhesivoConsular.aspx.cs">
+      <DependentUpon>FrmAutoadhesivoConsular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmAutoadhesivoConsular.aspx.designer.cs">
+      <DependentUpon>FrmAutoadhesivoConsular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmExpediente.aspx.cs">
+      <DependentUpon>FrmExpediente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmExpediente.aspx.designer.cs">
+      <DependentUpon>FrmExpediente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmFichaRegistral.aspx.cs">
+      <DependentUpon>FrmFichaRegistral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmFichaRegistral.aspx.designer.cs">
+      <DependentUpon>FrmFichaRegistral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmMigratorio.aspx.cs">
+      <DependentUpon>FrmMigratorio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmMigratorio.aspx.designer.cs">
+      <DependentUpon>FrmMigratorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmProtocolar.aspx.cs">
+      <DependentUpon>FrmProtocolar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmProtocolar.aspx.designer.cs">
+      <DependentUpon>FrmProtocolar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\DsContabilidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsContabilidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\DsReportesContabilidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsReportesContabilidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\FrmCajaChica.aspx.cs">
+      <DependentUpon>FrmCajaChica.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\FrmCajaChica.aspx.designer.cs">
+      <DependentUpon>FrmCajaChica.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\FrmCuentaCorrienteSaldo.aspx.cs">
+      <DependentUpon>FrmCuentaCorrienteSaldo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Configuracion\FrmCuentaCorrienteSaldo.aspx.designer.cs">
+      <DependentUpon>FrmCuentaCorrienteSaldo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\FrmCuentaRendicion.aspx.cs">
+      <DependentUpon>FrmCuentaRendicion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\FrmCuentaRendicion.aspx.designer.cs">
+      <DependentUpon>FrmCuentaRendicion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\FrmEstadoBancarioConsulta.aspx.cs">
+      <DependentUpon>FrmEstadoBancarioConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\FrmEstadoBancarioConsulta.aspx.designer.cs">
+      <DependentUpon>FrmEstadoBancarioConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\FrmLibroContableReporte.aspx.cs">
+      <DependentUpon>FrmLibroContableReporte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\FrmLibroContableReporte.aspx.designer.cs">
+      <DependentUpon>FrmLibroContableReporte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\FrmRemesaConsulta.aspx.cs">
+      <DependentUpon>FrmRemesaConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\FrmRemesaConsulta.aspx.designer.cs">
+      <DependentUpon>FrmRemesaConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\FrmReporteContables.aspx.cs">
+      <DependentUpon>FrmReporteContables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\FrmReporteContables.aspx.designer.cs">
+      <DependentUpon>FrmReporteContables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cuenta\FrmLogin.aspx.cs">
+      <DependentUpon>FrmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cuenta\FrmLogin.aspx.designer.cs">
+      <DependentUpon>FrmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNotificacion.aspx.cs">
+      <DependentUpon>FrmNotificacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmNotificacion.aspx.designer.cs">
+      <DependentUpon>FrmNotificacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HoraConsular.ashx.cs">
+      <DependentUpon>HoraConsular.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageHandler.ashx.cs">
+      <DependentUpon>ImageHandler.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="LoadImagen.ashx.cs">
+      <DependentUpon>LoadImagen.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="PageError\DeniedPage.aspx.cs">
+      <DependentUpon>DeniedPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageError\DeniedPage.aspx.designer.cs">
+      <DependentUpon>DeniedPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageError\GenericErrorPage.aspx.cs">
+      <DependentUpon>GenericErrorPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageError\GenericErrorPage.aspx.designer.cs">
+      <DependentUpon>GenericErrorPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageError\NotFoundPage.aspx.cs">
+      <DependentUpon>NotFoundPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageError\NotFoundPage.aspx.designer.cs">
+      <DependentUpon>NotFoundPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Refirma\clsParametros.cs" />
+    <Compile Include="Registro\FrmActaConformidadActoNotarial.aspx.cs">
+      <DependentUpon>FrmActaConformidadActoNotarial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActaConformidadActoNotarial.aspx.designer.cs">
+      <DependentUpon>FrmActaConformidadActoNotarial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActoNotarialProtocolares.aspx.cs">
+      <DependentUpon>FrmActoNotarialProtocolares.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActoNotarialProtocolares.aspx.designer.cs">
+      <DependentUpon>FrmActoNotarialProtocolares.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActoGeneral.aspx.cs">
+      <DependentUpon>FrmActoGeneral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActoGeneral.aspx.designer.cs">
+      <DependentUpon>FrmActoGeneral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActoCivil.aspx.cs">
+      <DependentUpon>FrmActoCivil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActoCivil.aspx.designer.cs">
+      <DependentUpon>FrmActoCivil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActuacion.aspx.cs">
+      <DependentUpon>FrmActuacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActuacion.aspx.designer.cs">
+      <DependentUpon>FrmActuacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActoJudicial.aspx.cs">
+      <DependentUpon>FrmActoJudicial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActoJudicial.aspx.designer.cs">
+      <DependentUpon>FrmActoJudicial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActuacionNotarialExtraProtocolar.aspx.cs">
+      <DependentUpon>FrmActuacionNotarialExtraProtocolar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActuacionNotarialExtraProtocolar.aspx.designer.cs">
+      <DependentUpon>FrmActuacionNotarialExtraProtocolar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmAnularTramite.aspx.cs">
+      <DependentUpon>FrmAnularTramite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmAnularTramite.aspx.designer.cs">
+      <DependentUpon>FrmAnularTramite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmBusqueda.aspx.cs">
+      <DependentUpon>FrmBusqueda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmBusqueda.aspx.designer.cs">
+      <DependentUpon>FrmBusqueda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmCambiaEstadoMigratorio.aspx.cs">
+      <DependentUpon>FrmCambiaEstadoMigratorio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmCambiaEstadoMigratorio.aspx.designer.cs">
+      <DependentUpon>FrmCambiaEstadoMigratorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmActoMilitar.aspx.cs">
+      <DependentUpon>FrmActoMilitar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmActoMilitar.aspx.designer.cs">
+      <DependentUpon>FrmActoMilitar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmFormatoCivil.aspx.cs">
+      <DependentUpon>FrmFormatoCivil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmFormatoCivil.aspx.designer.cs">
+      <DependentUpon>FrmFormatoCivil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\frmGuiaDespacho.aspx.cs">
+      <DependentUpon>frmGuiaDespacho.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\frmGuiaDespacho.aspx.designer.cs">
+      <DependentUpon>frmGuiaDespacho.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmPreviewEP.aspx.cs">
+      <DependentUpon>FrmPreviewEP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmPreviewEP.aspx.designer.cs">
+      <DependentUpon>FrmPreviewEP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmPreviewNotarial.aspx.cs">
+      <DependentUpon>FrmPreviewNotarial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmPreviewNotarial.aspx.designer.cs">
+      <DependentUpon>FrmPreviewNotarial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmReasignacionActuacion.aspx.cs">
+      <DependentUpon>FrmReasignacionActuacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmReasignacionActuacion.aspx.designer.cs">
+      <DependentUpon>FrmReasignacionActuacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmCapturaImagen.aspx.cs">
+      <DependentUpon>FrmCapturaImagen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmBusquedaActuacion.aspx.cs">
+      <DependentUpon>FrmBusquedaActuacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmBusquedaActuacion.aspx.designer.cs">
+      <DependentUpon>FrmBusquedaActuacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroAsistencia.aspx.cs">
+      <DependentUpon>FrmRegistroAsistencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroAsistencia.aspx.designer.cs">
+      <DependentUpon>FrmRegistroAsistencia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroAsistenciaImpresion.aspx.cs">
+      <DependentUpon>FrmRegistroAsistenciaImpresion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroAsistenciaImpresion.aspx.designer.cs">
+      <DependentUpon>FrmRegistroAsistenciaImpresion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroBeneficiario.aspx.cs">
+      <DependentUpon>FrmRegistroBeneficiario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroBeneficiario.aspx.designer.cs">
+      <DependentUpon>FrmRegistroBeneficiario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroEmpresa.aspx.cs">
+      <DependentUpon>FrmRegistroEmpresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroEmpresa.aspx.designer.cs">
+      <DependentUpon>FrmRegistroEmpresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroPersona.aspx.cs">
+      <DependentUpon>FrmRegistroPersona.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRegistroPersona.aspx.designer.cs">
+      <DependentUpon>FrmRegistroPersona.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmBusquedaPersona.aspx.cs">
+      <DependentUpon>FrmBusquedaPersona.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmBusquedaPersona.aspx.designer.cs">
+      <DependentUpon>FrmBusquedaPersona.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\MyBasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlPageBar.ascx.cs">
+      <DependentUpon>ctrlPageBar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlPageBar.ascx.designer.cs">
+      <DependentUpon>ctrlPageBar.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarImage.ascx.cs">
+      <DependentUpon>ctrlToolBarImage.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarImage.ascx.designer.cs">
+      <DependentUpon>ctrlToolBarImage.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarButton.ascx.cs">
+      <DependentUpon>ctrlToolBarButton.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlToolBarButton.ascx.designer.cs">
+      <DependentUpon>ctrlToolBarButton.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlValidation.ascx.cs">
+      <DependentUpon>ctrlValidation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accesorios\SharedControls\ctrlValidation.ascx.designer.cs">
+      <DependentUpon>ctrlValidation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Accesorios\SysTables.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro\FrmRepAnotacion.aspx.cs">
+      <DependentUpon>FrmRepAnotacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRepAnotacion.aspx.designer.cs">
+      <DependentUpon>FrmRepAnotacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRepAutoadhesivo.aspx.cs">
+      <DependentUpon>FrmRepAutoadhesivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRepAutoadhesivo.aspx.designer.cs">
+      <DependentUpon>FrmRepAutoadhesivo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmRepAutoadhesivoProtocolar.aspx.cs">
+      <DependentUpon>FrmRepAutoadhesivoProtocolar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmRepAutoadhesivoProtocolar.aspx.designer.cs">
+      <DependentUpon>FrmRepAutoadhesivoProtocolar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\frmReporteMigratorio.aspx.cs">
+      <DependentUpon>frmReporteMigratorio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\frmReporteMigratorio.aspx.designer.cs">
+      <DependentUpon>frmReporteMigratorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmReporteRune.aspx.cs">
+      <DependentUpon>FrmReporteRune.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmReporteRune.aspx.designer.cs">
+      <DependentUpon>FrmReporteRune.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmReporteSupervivencia.aspx.cs">
+      <DependentUpon>FrmReporteSupervivencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmReporteSupervivencia.aspx.designer.cs">
+      <DependentUpon>FrmReporteSupervivencia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmTramite.aspx.cs">
+      <DependentUpon>FrmTramite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmTramite.aspx.designer.cs">
+      <DependentUpon>FrmTramite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\frmUpload.aspx.cs">
+      <DependentUpon>frmUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\frmUpload.aspx.designer.cs">
+      <DependentUpon>frmUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\Preview\FrmPreviewActaDefuncion.aspx.cs">
+      <DependentUpon>FrmPreviewActaDefuncion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\Preview\FrmPreviewActaDefuncion.aspx.designer.cs">
+      <DependentUpon>FrmPreviewActaDefuncion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\Preview\FrmPreview_ActoMilitar_Constancia.aspx.cs">
+      <DependentUpon>FrmPreview_ActoMilitar_Constancia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\Preview\FrmPreview_ActoMilitar_Constancia.aspx.designer.cs">
+      <DependentUpon>FrmPreview_ActoMilitar_Constancia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\Preview\FrmPreview_ActoMilitar_Inscripcion.aspx.cs">
+      <DependentUpon>FrmPreview_ActoMilitar_Inscripcion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\Preview\FrmPreview_ActoMilitar_Inscripcion.aspx.designer.cs">
+      <DependentUpon>FrmPreview_ActoMilitar_Inscripcion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\FrmReporteMigratorioHtml.aspx.cs">
+      <DependentUpon>FrmReporteMigratorioHtml.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro\FrmReporteMigratorioHtml.aspx.designer.cs">
+      <DependentUpon>FrmReporteMigratorioHtml.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\Services\Services.asmx.cs">
+      <DependentUpon>Services.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Registro\Sticker.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sticker.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Almacen\Almacen.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Almacen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Asistencia.cs">
+      <DependentUpon>Asistencia.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Asistencia.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Asistencia.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsActoCivil.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsActoCivil.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsActoJudicial.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsActoJudicial.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsActoMigratorio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsActoMigratorio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsActoMilitar.cs">
+      <DependentUpon>dsActoMilitar.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\dsActoMilitar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsActoMilitar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsActoProtocolar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsActoProtocolar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsActuacioneMensuales.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsActuacioneMensuales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsCertificadoConsularAntecedentesPenales1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCertificadoConsularAntecedentesPenales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsReportesGerenciales.cs">
+      <DependentUpon>dsReportesGerenciales.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\dsReportesGerenciales.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportesGerenciales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsTitulares.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsTitulares.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmPreviewMigratorio.aspx.cs">
+      <DependentUpon>frmPreviewMigratorio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmPreviewMigratorio.aspx.designer.cs">
+      <DependentUpon>frmPreviewMigratorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmPreviewReportesGerenciales.aspx.cs">
+      <DependentUpon>FrmPreviewReportesGerenciales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmPreviewReportesGerenciales.aspx.designer.cs">
+      <DependentUpon>FrmPreviewReportesGerenciales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmReporteAntecedentesPenales.aspx.cs">
+      <DependentUpon>frmReporteAntecedentesPenales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmReporteAntecedentesPenales.aspx.designer.cs">
+      <DependentUpon>frmReporteAntecedentesPenales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmReporteMigratorio.aspx.cs">
+      <DependentUpon>frmReporteMigratorio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmReporteMigratorio.aspx.designer.cs">
+      <DependentUpon>frmReporteMigratorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReportesGerenciales.aspx.cs">
+      <DependentUpon>FrmReportesGerenciales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReportesGerenciales.aspx.designer.cs">
+      <DependentUpon>FrmReportesGerenciales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmVisorActoCivil.aspx.cs">
+      <DependentUpon>frmVisorActoCivil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmVisorActoCivil.aspx.designer.cs">
+      <DependentUpon>frmVisorActoCivil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmVisorProtocolar.aspx.cs">
+      <DependentUpon>FrmVisorProtocolar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmVisorProtocolar.aspx.designer.cs">
+      <DependentUpon>FrmVisorProtocolar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmVisorRDLC.aspx.cs">
+      <DependentUpon>FrmVisorRDLC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmVisorRDLC.aspx.designer.cs">
+      <DependentUpon>FrmVisorRDLC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmVisorReporte.aspx.cs">
+      <DependentUpon>frmVisorReporte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmVisorReporte.aspx.designer.cs">
+      <DependentUpon>frmVisorReporte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RSAntecedentes\AntecedentePenal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AntecedentePenal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RSColas\dsColas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsColas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RSMigratorio\dsMigratorio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsMigratorio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RSMigratorio\rsLaminaDGC001.aspx.cs">
+      <DependentUpon>rsLaminaDGC001.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\RSMigratorio\rsLaminaDGC001.aspx.designer.cs">
+      <DependentUpon>rsLaminaDGC001.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RSNotarial\ActoNotarial.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ActoNotarial.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RSNotarial\dsProtocolar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsProtocolar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\WSPideReniec\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Sunarp\frmSolicitudInscripcionSunarp.aspx.cs">
+      <DependentUpon>frmSolicitudInscripcionSunarp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sunarp\frmSolicitudInscripcionSunarp.aspx.designer.cs">
+      <DependentUpon>frmSolicitudInscripcionSunarp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sunarp\Refirma.aspx.cs">
+      <DependentUpon>Refirma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sunarp\Refirma.aspx.designer.cs">
+      <DependentUpon>Refirma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sunarp\RefirmaService.asmx.cs">
+      <DependentUpon>RefirmaService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Sunarp\SeguimientoSolicitudesSunarp.aspx.cs">
+      <DependentUpon>SeguimientoSolicitudesSunarp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sunarp\SeguimientoSolicitudesSunarp.aspx.designer.cs">
+      <DependentUpon>SeguimientoSolicitudesSunarp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vacia.aspx.cs">
+      <DependentUpon>Vacia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vacia.aspx.designer.cs">
+      <DependentUpon>Vacia.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="bin\App_Code\" />
+    <Folder Include="Registro\subReporte\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <Content Include="ImageHandler.ashx" />
+    <None Include="Almacen\dsOrdenServicio.xsc">
+      <DependentUpon>dsOrdenServicio.xsd</DependentUpon>
+    </None>
+    <None Include="Almacen\dsOrdenServicio.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsOrdenServicio.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Almacen\dsOrdenServicio.xss">
+      <DependentUpon>dsOrdenServicio.xsd</DependentUpon>
+    </None>
+    <None Include="BD_SGAC_DEVDataSet.xsc">
+      <DependentUpon>BD_SGAC_DEVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BD_SGAC_DEVDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BD_SGAC_DEVDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BD_SGAC_DEVDataSet.xss">
+      <DependentUpon>BD_SGAC_DEVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Contabilidad\DsContabilidad.xsc">
+      <DependentUpon>DsContabilidad.xsd</DependentUpon>
+    </None>
+    <None Include="Contabilidad\DsContabilidad.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsContabilidad.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Contabilidad\DsContabilidad.xss">
+      <DependentUpon>DsContabilidad.xsd</DependentUpon>
+    </None>
+    <Content Include="LoadImagen.ashx" />
+    <Content Include="HoraConsular.ashx" />
+    <Content Include="Fonts\impact.ttf" />
+    <Content Include="Fonts\cour.ttf" />
+    <Content Include="Fonts\courbd.ttf" />
+    <Content Include="Fonts\courbi.ttf" />
+    <Content Include="Fonts\couri.ttf" />
+    <Content Include="Fonts\calibri.ttf" />
+    <Content Include="Fonts\calibrib.ttf" />
+    <Content Include="Fonts\calibrii.ttf" />
+    <Content Include="Fonts\calibril.ttf" />
+    <Content Include="Fonts\calibrili.ttf" />
+    <Content Include="Fonts\calibriz.ttf" />
+    <Content Include="Fonts\ARIALN.TTF" />
+    <Content Include="Fonts\ARIALNB.TTF" />
+    <None Include="Contabilidad\DsReportesContabilidad.xsc">
+      <DependentUpon>DsReportesContabilidad.xsd</DependentUpon>
+    </None>
+    <None Include="Contabilidad\DsReportesContabilidad.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsReportesContabilidad.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Contabilidad\DsReportesContabilidad.xss">
+      <DependentUpon>DsReportesContabilidad.xsd</DependentUpon>
+    </None>
+    <Content Include="documents\20211025151017339.pdf" />
+    <None Include="Properties\PublishProfiles\Perfil1.pubxml" />
+    <None Include="Registro\Sticker.xsc">
+      <DependentUpon>Sticker.xsd</DependentUpon>
+    </None>
+    <None Include="Registro\Sticker.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Sticker.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Registro\Sticker.xss">
+      <DependentUpon>Sticker.xsd</DependentUpon>
+    </None>
+    <None Include="Almacen\Almacen.xsc">
+      <DependentUpon>Almacen.xsd</DependentUpon>
+    </None>
+    <None Include="Almacen\Almacen.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Almacen.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Almacen\Almacen.xss">
+      <DependentUpon>Almacen.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\Asistencia.xsc">
+      <DependentUpon>Asistencia.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\Asistencia.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Asistencia.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\Asistencia.xss">
+      <DependentUpon>Asistencia.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoCivil.xsc">
+      <DependentUpon>dsActoCivil.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoCivil.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsActoCivil.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsActoCivil.xss">
+      <DependentUpon>dsActoCivil.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoJudicial.xsc">
+      <DependentUpon>dsActoJudicial.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoJudicial.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsActoJudicial.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsActoJudicial.xss">
+      <DependentUpon>dsActoJudicial.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoMigratorio.xsc">
+      <DependentUpon>dsActoMigratorio.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoMigratorio.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsActoMigratorio.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsActoMigratorio.xss">
+      <DependentUpon>dsActoMigratorio.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoMilitar.xsc">
+      <DependentUpon>dsActoMilitar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoMilitar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsActoMilitar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsActoMilitar.xss">
+      <DependentUpon>dsActoMilitar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoProtocolar.xsc">
+      <DependentUpon>dsActoProtocolar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActoProtocolar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsActoProtocolar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsActoProtocolar.xss">
+      <DependentUpon>dsActoProtocolar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActuacioneMensuales.xsc">
+      <DependentUpon>dsActuacioneMensuales.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsActuacioneMensuales.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsActuacioneMensuales.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsActuacioneMensuales.xss">
+      <DependentUpon>dsActuacioneMensuales.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsCertificadoConsularAntecedentesPenales.xsc">
+      <DependentUpon>dsCertificadoConsularAntecedentesPenales.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsCertificadoConsularAntecedentesPenales.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCertificadoConsularAntecedentesPenales1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes\dsCertificadoConsularAntecedentesPenales.xss">
+      <DependentUpon>dsCertificadoConsularAntecedentesPenales.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsReportesGerenciales.xsc">
+      <DependentUpon>dsReportesGerenciales.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsReportesGerenciales.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportesGerenciales.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsReportesGerenciales.xss">
+      <DependentUpon>dsReportesGerenciales.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsTitulares.xsc">
+      <DependentUpon>dsTitulares.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsTitulares.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsTitulares.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsTitulares.xss">
+      <DependentUpon>dsTitulares.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSAntecedentes\AntecedentePenal.xsc">
+      <DependentUpon>AntecedentePenal.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSAntecedentes\AntecedentePenal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AntecedentePenal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RSAntecedentes\AntecedentePenal.xss">
+      <DependentUpon>AntecedentePenal.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSColas\dsColas.xsc">
+      <DependentUpon>dsColas.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSColas\dsColas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsColas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RSColas\dsColas.xss">
+      <DependentUpon>dsColas.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSMigratorio\dsMigratorio.xsc">
+      <DependentUpon>dsMigratorio.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSMigratorio\dsMigratorio.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMigratorio.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes\RSMigratorio\dsMigratorio.xss">
+      <DependentUpon>dsMigratorio.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSNotarial\ActoNotarial.xsc">
+      <DependentUpon>ActoNotarial.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSNotarial\ActoNotarial.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ActoNotarial.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RSNotarial\ActoNotarial.xss">
+      <DependentUpon>ActoNotarial.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSNotarial\dsProtocolar.xsc">
+      <DependentUpon>dsProtocolar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RSNotarial\dsProtocolar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsProtocolar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RSNotarial\dsProtocolar.xss">
+      <DependentUpon>dsProtocolar.xsd</DependentUpon>
+    </None>
+    <None Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Site.Master" />
+    <Content Include="web.sitemap" />
+    <None Include="Scripts\tinymce\langs\readme.md" />
+    <Content Include="Scripts\tinymce\skins\lightgray\AbsoluteLayout.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Animations.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Button.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ButtonGroup.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Checkbox.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ColorBox.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ColorButton.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ColorPicker.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ComboBox.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Container.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Content.Inline.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Content.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Content.Objects.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\FieldSet.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\FitLayout.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\FloatPanel.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\FlowLayout.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\readme.md" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce-small.eot" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce-small.json" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce-small.ttf" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce-small.woff" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce.eot" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce.json" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce.ttf" />
+    <Content Include="Scripts\tinymce\skins\lightgray\fonts\tinymce.woff" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Icons.Ie7.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Icons.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Iframe.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Label.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ListBox.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Menu.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\MenuBar.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\MenuButton.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\MenuItem.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Mixins.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Panel.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Path.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Radio.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Reset.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ResizeHandle.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Scrollable.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.dev.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.ie7.dev.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.ie7.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\skin.modern.dev.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Spacer.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\SplitButton.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\StackLayout.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\TabPanel.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\TextBox.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Throbber.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\TinyMCE.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\ToolTip.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Variables.less" />
+    <Content Include="Scripts\tinymce\skins\lightgray\Window.less" />
+    <None Include="Service References\WSPideReniec\ReniecConsultaDni.wsdl" />
+    <None Include="Service References\WSPideReniec\SGAC.WebApp.WSPideReniec.resultadoActualizacionCredencial.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\WSPideReniec\SGAC.WebApp.WSPideReniec.resultadoConsulta.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Styles\css\bootstrap.css.map" />
+    <None Include="Userimages\479274.pdf" />
+    <None Include="WebcamResources\jscam.as" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGAC.Accesorios\SGAC.Accesorios.csproj">
+      <Project>{38EC5AF7-7466-4FEB-949A-6C8085FD93AC}</Project>
+      <Name>SGAC.Accesorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Almacen.BL\SGAC.Almacen.BL.csproj">
+      <Project>{9249DF17-F7DC-495F-8494-6A61E5B66515}</Project>
+      <Name>SGAC.Almacen.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Almacen.Reportes.Negocio.BL\SGAC.Almacen.Reportes.BL.csproj">
+      <Project>{DA791D7F-AC06-4BF8-8F04-8FC5B1227512}</Project>
+      <Name>SGAC.Almacen.Reportes.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Auditoria.BL\SGAC.Auditoria.BL.csproj">
+      <Project>{1BF23F4E-C537-4956-8F45-829E9F49BD9A}</Project>
+      <Name>SGAC.Auditoria.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.BE.MRE\SGAC.BE.MRE.csproj">
+      <Project>{3839B18A-3137-4CB7-B3C2-411F48FD727C}</Project>
+      <Name>SGAC.BE.MRE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.BE\SGAC.BE.csproj">
+      <Project>{1E705259-BE1F-4946-8819-24C093A7B43C}</Project>
+      <Name>SGAC.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Cliente.Colas.BL\SGAC.Cliente.Colas.BL.csproj">
+      <Project>{BF337BC4-A41C-4B0E-BCEC-DDD5A1BAB9F9}</Project>
+      <Name>SGAC.Cliente.Colas.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL.csproj">
+      <Project>{6174B95B-3BF0-45BB-9D72-CFAEBC9EA60A}</Project>
+      <Name>SGAC.Configuracion.Maestro.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Seguridad.BL\SGAC.Configuracion.Seguridad.BL.csproj">
+      <Project>{EAFDD123-0955-4FC5-B981-50ECFCD039D1}</Project>
+      <Name>SGAC.Configuracion.Seguridad.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Sistema.BL\SGAC.Configuracion.Sistema.BL.csproj">
+      <Project>{31AF564F-46F8-4CE2-B5B6-BA25F488106E}</Project>
+      <Name>SGAC.Configuracion.Sistema.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Contabilidad.CuentaCorriente.BL\SGAC.Contabilidad.CuentaCorriente.BL.csproj">
+      <Project>{03B97B44-F4FD-4D5F-BBFE-7A3CCD9ED6C3}</Project>
+      <Name>SGAC.Contabilidad.CuentaCorriente.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Contabilidad.Remesa.BL\SGAC.Contabilidad.Remesa.BL.csproj">
+      <Project>{516BB5F5-14CA-42D5-8F9C-480B8AB2EA80}</Project>
+      <Name>SGAC.Contabilidad.Remesa.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Contabilidad.Reportes\SGAC.Contabilidad.Reportes.BL.csproj">
+      <Project>{AA394562-31C5-4868-9AB8-DE173FEC2D9F}</Project>
+      <Name>SGAC.Contabilidad.Reportes.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Controlador\SGAC.Controlador.csproj">
+      <Project>{AC581B17-05C3-46C8-9A79-D9C468082E09}</Project>
+      <Name>SGAC.Controlador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Registro.Actuacion.BL\SGAC.Registro.Actuacion.BL.csproj">
+      <Project>{134EA632-66C1-49E7-8D60-3DEEAD14B3E2}</Project>
+      <Name>SGAC.Registro.Actuacion.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Registro.Persona.BL\SGAC.Registro.Persona.BL.csproj">
+      <Project>{59028A80-BE8E-4A4B-BE4A-11FCCD7222D5}</Project>
+      <Name>SGAC.Registro.Persona.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Reportes.BL\SGAC.Reportes.BL.csproj">
+      <Project>{FCA8E708-FADD-42A0-AEF3-0A4C4A2D36F0}</Project>
+      <Name>SGAC.Reportes.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SUNARP.BE\SUNARP.BE.csproj">
+      <Project>{119BED8F-0D83-4915-993A-A312C652599E}</Project>
+      <Name>SUNARP.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SUNARP.Registro.Inscripcion.BL\SUNARP.Registro.Inscripcion.BL.csproj">
+      <Project>{F5475925-8323-4458-BB1D-D40E91A414E1}</Project>
+      <Name>SUNARP.Registro.Inscripcion.BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reportes\rsActoCivilNacimiento2.rdlc" />
+    <Content Include="Reportes\RS1\rsAsistenciaPAH.rdlc" />
+    <Content Include="Reportes\RS1\rsAsistenciaPAHL.rdlc" />
+    <Content Include="Reportes\RSColas\rsAfluenciaClientes.rdlc" />
+    <Content Include="Reportes\RSColas\rsAfluenciaVentanilla.rdlc" />
+    <Content Include="Reportes\RSColas\rsAfluenciaVentanillaAtendidas.rdlc" />
+    <Content Include="Reportes\RSColas\rsAgenciaRemota.rdlc" />
+    <Content Include="Reportes\RSColas\rsAtencionesUsuario.rdlc" />
+    <Content Include="Reportes\RSColas\rsAtencionxTipoAtencion.rdlc" />
+    <Content Include="Reportes\RSColas\rsEvaluacionAtencionxTipoAtencion.rdlc" />
+    <Content Include="Reportes\RSColas\rsProductividadOperadores.rdlc" />
+    <Content Include="Reportes\RSColas\rsRendimientoProcesos.rdlc" />
+    <Content Include="Reportes\RSColas\rsTicketsAtendidosNoAtendidos.rdlc" />
+    <Content Include="Reportes\RSColas\rsTiempoAtencionxTransaccion.rdlc" />
+    <Content Include="Reportes\RSColas\rsTiempoEsperaxCliente.rdlc" />
+    <Content Include="Reportes\rsActoMilitarConstancia.rdlc" />
+    <Content Include="Reportes\rsActoMilitarInscripcion.rdlc" />
+    <Content Include="Reportes\rsActoCivilDefuncion.rdlc" />
+    <Content Include="Reportes\rsActoCivilMatrimonio.rdlc" />
+    <Content Include="Reportes\rsActoCivilNacimiento.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MSXML2">
+      <Guid>{F5078F18-C551-11D3-89B9-0000F81FE221}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WIA">
+      <Guid>{94A0E92D-43C0-494E-AC29-FD45948A5221}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contabilidad\rsEstadoBancario.rdlc" />
+    <Content Include="Contabilidad\rsRemesaConsular.rdlc" />
+    <Content Include="Contabilidad\rsLibroDocumentoUnico.rdlc" />
+    <Content Include="Registro\crRegisterUnico.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contabilidad\rsLibroCaja.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Almacen\rsInsumosRemitidos.rdlc" />
+    <Content Include="Almacen\rsInsumosDetallado.rdlc" />
+    <Content Include="Contabilidad\rsLibroAutoadhesivos.rdlc" />
+    <Content Include="Contabilidad\rsSaldosConsulares.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsLaminaDGC001.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsLaminaDGC005.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsLaminaDGC006.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC001.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC002.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC003.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC004.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC005.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC006.rdlc" />
+    <Content Include="Reportes\RSColas\rsListaTicketsEmitidos.rdlc" />
+    <Content Include="Reportes\RSColas\rsSeguimientoControl.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsCategoriaVenta.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsMayorVentaPais.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReGeContinente.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsRecordActuacion.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsRecordVentaUsuario.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsTarifaConsulaPais.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsVentaxMes.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsMayorVentaDetalle.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReGeCategorias.rdlc" />
+    <Content Include="Almacen\rsOrdenServicio.rdlc" />
+    <Content Include="Contabilidad\rsConciliacionBancaria.rdlc" />
+    <Content Include="Contabilidad\rsActuacionesUsuarioOficinaConsular.rdlc" />
+    <Content Include="Contabilidad\rsAutoAdhesivosUsuarioOficinaConsular.rdlc" />
+    <Content Include="Contabilidad\rsRegistroGeneral.rdlc" />
+    <Content Include="Contabilidad\rsRegistroGeneral_original.rdlc" />
+    <Content Include="Registro\Copy of crRegisterUnico.rdlc" />
+    <Content Include="Contabilidad\rsActuacionesAnuladas.rdlc" />
+    <Content Include="Contabilidad\rsActuacionesTarifaOficinaConsular.rdlc" />
+    <Content Include="Contabilidad\Copy of rsLibroAutoadhesivos.rdlc" />
+    <Content Include="Contabilidad\rsResumenBancos.rdlc" />
+    <Content Include="Contabilidad\rsFormatoEnvioRENIEC.rdlc" />
+    <Content Include="Contabilidad\rsGuiaDespachoRENIEC.rdlc" />
+    <Content Include="Contabilidad\rsRendicionCuentas.rdlc" />
+    <Content Include="Registro\rsAnotacion.rdlc" />
+    <Content Include="Registro\rsStikerPrint.rdlc" />
+    <Content Include="Reportes\rsActoJudicialConsulta.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsConsolidado.rdlc" />
+    <Content Include="Reportes\rsActoMigratorioConsulta.rdlc" />
+    <Content Include="Reportes\rsActoProtocolar.rdlc" />
+    <Content Include="Reportes\rsActoJudicialConsulta2.rdlc" />
+    <Content Include="Reportes\rsActoJudicialExhortos.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsCanActuacionesConsulares.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsCanTarifasRegistradas.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsPersonasNacionalidad.rdlc" />
+    <Content Include="Contabilidad\rsFormatoEnvioRecuperadosRENIEC.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsRankingRecaudacionActuacion.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsCuadroSaldosAutoahdesivos.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsRankingCaptacion.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsCuadroSaldosAutoahdesivosUtilizados.rdlc" />
+    <Content Include="Almacen\rsControlStock.rdlc" />
+    <Content Include="Contabilidad\rsRegistroGeneralCaracas.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsActuacionesUsuarioPeriodo.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsConsolidadoActuacionesUsuario.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsRecaudacionItinerante.rdlc" />
+    <Content Include="Reportes\Reniec\rsTramitesIncompletos.rdlc" />
+    <Content Include="Reportes\rsFichasRegistrales.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsConsolidadoActuacionesPorTipoPago.rdlc" />
+    <Content Include="Contabilidad\rsListadoRegistroCivilActaNacimiento.rdlc" />
+    <Content Include="Reportes\Reniec\SolicitudInscripcion\rsInscNacimientoMayorEdadSolicita.rdlc" />
+    <Content Include="Reportes\Reniec\SolicitudInscripcion\rsInscNacimientoMayorEdad.rdlc" />
+    <Content Include="Reportes\Reniec\SolicitudInscripcion\rsInscNacimientoMenorEdad.rdlc" />
+    <Content Include="Reportes\RSAntecedentes\rsAntecedentePenal.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsPersonasNacionalidad_NOHEAD.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsTitulares_HEAD.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsTitulares_NOHEAD.rdlc" />
+    <Content Include="Reportes\Reniec\rsConciliacionRENIEC.rdlc" />
+    <Content Include="Reportes\rsCertificadoConsularAntecedentesPenales_OTR_NR.rdlc" />
+    <Content Include="Reportes\rsCertificadoConsularAntecedentesPenales_CAST_NR.rdlc" />
+    <Content Include="Reportes\rsCertificadoConsularAntecedentesPenales_CAST_SR.rdlc" />
+    <Content Include="Reportes\rsCertificadoConsularAntecedentesPenales_OTR_SR.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReporteActuacionesMensuales.rdlc" />
+    <Content Include="Contabilidad\rsRendicionCuentasNOHEAD.rdlc" />
+    <Content Include="Reportes\RSAntecedentes\rsAntecedentePenal_Usuario.rdlc" />
+    <Content Include="Registro\crConstanciaInscripcion.rdlc" />
+    <Content Include="Registro\crConstanciaInscripcionIngles.rdlc" />
+    <Content Include="Registro\crConstanciaInscripcion_Idioma_CAST.rdlc" />
+    <Content Include="Registro\crConstanciaInscripcion_Idioma_OTR.rdlc" />
+    <EmbeddedResource Include="Reportes\RSGerenciales\rsReGeCategoria__.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsMinuta.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsParte.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsConsultaEscrituras.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsActaConformidad.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC005_2.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsConsolidadoPorAnio.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsInventarioDocumentos.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsPasaporteGeneral.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsSalvoconductoGeneral.rdlc" />
+    <Content Include="Reportes\RSMigratorio\rsMigratorioDGC005_3.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsConsultaAutViajeMenor.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsTitulares.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReporteCorrelativoTarifa.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReporteRecaudacionDiario.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReporteRecaudacionMensualizada.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReporteRecaudacionTarifa.rdlc" />
+    <Content Include="Reportes\RSGerenciales\rsReporteCargaInicial.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsEscritura.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsPoderFueraRegistro.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsAutorizacionViaje.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsSupervivencia.rdlc" />
+    <Content Include="Reportes\RSNotarial\rsTestimonio.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\WSPideReniec\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>60027</DevelopmentServerPort>
+          <DevelopmentServerVPath>/sgac_webapp</DevelopmentServerVPath>
+          <IISUrl>http://localhost:60027/sgac_webapp</IISUrl>
+          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
+          <IISAppRootUrl>http://localhost:60027/sgac_webapp</IISAppRootUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

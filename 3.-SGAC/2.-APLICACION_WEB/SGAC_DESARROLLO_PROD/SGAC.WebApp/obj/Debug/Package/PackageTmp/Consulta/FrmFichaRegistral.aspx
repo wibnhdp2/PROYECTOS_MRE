@@ -366,6 +366,10 @@
                                             <HeaderStyle HorizontalAlign="Center" />
                                             <ItemStyle HorizontalAlign="Center" Width="80px" />
                                         </asp:BoundField>
+                                        <asp:BoundField HeaderText="Oficina Consular" DataField="OFCO_VNOMBRE">
+                                            <HeaderStyle HorizontalAlign="Center" />
+                                            <ItemStyle HorizontalAlign="Center" Width="80px" />
+                                        </asp:BoundField>
                                         <asp:BoundField HeaderText="Oficio Envío SIO" DataField="fire_vNumeroOficio">
                                             <HeaderStyle HorizontalAlign="Center" />
                                             <ItemStyle HorizontalAlign="Center" Width="80px" />
@@ -388,6 +392,7 @@
                                             <HeaderStyle HorizontalAlign="Center" />
                                             <ItemStyle Width="30px" HorizontalAlign="Center" />
                                         </asp:TemplateField>
+
                                     </Columns>
                                     <SelectedRowStyle CssClass="slt" />
                                 </asp:GridView>
