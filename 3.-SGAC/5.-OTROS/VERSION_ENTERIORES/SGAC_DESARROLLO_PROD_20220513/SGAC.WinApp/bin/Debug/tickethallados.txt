@@ -1,0 +1,12 @@
+                                 REPORTE SISTEMA DE COLAS
+                                 ========================
+
+ Se han encontrado tickets en los siguientes dias:
+    DIA    
+ ----------
+ 25/01/2016
+ 01/06/2016
+ 10/06/2016
+ 15/06/2016
+ 20/06/2016
+ 28/06/2016

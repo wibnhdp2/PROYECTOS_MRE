@@ -1,0 +1,307 @@
+/*
+    ColorBox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    overflow: hidden;
+}
+#cboxOverlay
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+#cboxMiddleLeft, #cboxBottomLeft
+{
+    clear: left;
+}
+#cboxContent
+{
+    position: relative;
+}
+#cboxLoadedContent
+{
+    overflow: auto;
+}
+#cboxTitle
+{
+    margin: 0;
+}
+#cboxLoadingOverlay, #cboxLoadingGraphic
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow
+{
+    cursor: pointer;
+}
+.cboxPhoto
+{
+    float: left;
+    margin: auto;
+    border: 0;
+    display: block;
+}
+.cboxIframe
+{
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+}
+
+/* 
+    User Style:
+    Change the following styles to modify the appearance of ColorBox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay
+{
+    background: url(images/overlay.png) repeat 0 0;
+}
+#colorbox
+{
+    /*background-color: #0e1a42;*/
+}
+
+
+/******************controls.png***********************************************/
+#cboxTopLeft
+{
+    width: 21px;
+    height: 21px;
+    background: url(images/controls.png) no-repeat -100px 0;
+}
+#cboxTopRight
+{
+    width: 21px;
+    height: 21px;
+    background: url(images/controls.png) no-repeat -129px 0;
+}
+#cboxBottomLeft
+{
+    width: 21px;
+    height: 21px;
+    background: url(images/controls.png) no-repeat -100px -29px;
+}
+#cboxBottomRight
+{
+    width: 21px;
+    height: 21px;
+    background: url(images/controls.png) no-repeat -129px -29px;
+}
+/*****************************************************************/
+
+#cboxMiddleLeft
+{
+    width: 21px;
+    background: url(images/controls.png) left top repeat-y;
+}
+#cboxMiddleRight
+{
+    width: 21px;
+    background: url(images/controls.png) right top repeat-y;
+}
+#cboxTopCenter
+{
+    height: 21px;
+    background: url(images/border.png) 0 0 repeat-x;
+}
+#cboxBottomCenter
+{
+    height: 21px;
+    background: url(images/border.png) 0 -29px repeat-x;
+}
+/*****************************************************************/
+
+#cboxContent
+{
+    /*background: url(images/content.jpg) right bottom no-repeat;*/
+    /*background: overflow: hidden;*/
+    background-color: Silver /*#8196B7*/;
+}
+#cboxError
+{
+    padding: 50px;
+    border: 1px solid #ccc;
+}
+#cboxLoadedContent
+{
+    margin-top: 28px;
+}
+#cboxTitle
+{
+    position: absolute;    
+    left: 0;
+    text-align: center;
+    width: 100%;
+    color: #431425;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial;
+    top:4px;
+}
+#cboxCurrent
+{
+    position: absolute;    
+    left: 65px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Arial;
+    top:4px;
+}
+#cboxSlideshow
+{
+    position: absolute;    
+    right: 30px;
+    background-image: url('images/play_grey.gif');
+    background-repeat: no-repeat;
+    width: 23px;
+    height: 23px;
+    text-indent: -9999px;
+    top:1px;
+}
+
+
+.cboxSlideshow_on #cboxSlideshow
+{
+    background-image: url('images/play_grey.gif');
+    background-repeat: no-repeat;
+}
+.cboxSlideshow_on #cboxSlideshow.hover
+{
+    background-image: url('images/play_blue.gif');
+    background-repeat: no-repeat;
+}
+.cboxSlideshow_off #cboxSlideshow
+{
+    background-image: url('images/pause_grey.gif');
+    background-repeat: no-repeat;
+}
+.cboxSlideshow_off #cboxSlideshow.hover
+{
+    background-image: url('images/pause_blue.gif');
+    background-repeat: no-repeat;
+}
+
+#cboxPrevious
+{
+    position: absolute;    
+    left: 5px; /*background: url(images/controls.png) no-repeat -75px 0;*/
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background-image: url('images/prev_grey.gif');
+    background-repeat: no-repeat;
+    top:1px;
+}
+#cboxPrevious.hover
+{
+    /*background-position: -75px -25px;*/
+    background-image: url('images/prev_blue.gif');
+    background-repeat: no-repeat;
+}
+#cboxNext
+{
+    position: absolute;    
+    left: 35px; /*background: url(images/controls.png) no-repeat -50px 0;*/
+    background-image: url('images/next_grey.gif');
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    top:1px;
+}
+#cboxNext.hover
+{
+    /*background-position: -50px -25px;*/
+    background-image: url('images/next_blue.gif');
+    background-repeat: no-repeat;
+}
+#cboxLoadingOverlay
+{
+    background: url(images/loading_background.png) no-repeat center center;
+}
+#cboxLoadingGraphic
+{
+    background: url(images/loading.gif) no-repeat center center;
+}
+#cboxClose
+{
+    position: absolute;    
+    right: 0; /*background: url(images/controls.png) no-repeat -25px 0;*/
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background-image: url('images/img_close.png');
+    background-repeat: no-repeat;
+    top:1px;
+}
+#cboxClose.hover
+{
+    /*background-position: 25px 25px;*/
+    background-image: url('images/img_close_hover.png');
+    background-repeat: no-repeat;
+}
+
+/*
+  The following fixes a problem where IE7 and IE8 replace a PNG's alpha transparency with a black fill
+  when an alpha filter (opacity change) is set on the element or ancestor element.  This style is not applied to IE9.
+*/
+.cboxIE #cboxTopLeft, .cboxIE #cboxTopCenter, .cboxIE #cboxTopRight, .cboxIE #cboxBottomLeft, .cboxIE #cboxBottomCenter, .cboxIE #cboxBottomRight, .cboxIE #cboxMiddleLeft, .cboxIE #cboxMiddleRight
+{
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#5A80BD,endColorstr=#5A80BD);
+}
+
+/*
+  The following provides PNG transparency support for IE6
+*/
+.cboxIE6 #cboxTopLeft
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxTopCenter
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxTopRight
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxBottomLeft
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxBottomCenter
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxBottomRight
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxMiddleLeft
+{
+    background-color: #999999;
+}
+.cboxIE6 #cboxMiddleRight
+{
+    background-color: #999999;
+}
+
+
+.blue_border_example {
+    border: 10px solid blue;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 0 25px blue;
+}

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsOrdenServicio" targetNamespace="http://tempuri.org/dsOrdenServicio.xsd" xmlns:mstns="http://tempuri.org/dsOrdenServicio.xsd" xmlns="http://tempuri.org/dsOrdenServicio.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsOrdenServicio" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsOrdenServicio" msprop:Generator_UserDSName="dsOrdenServicio">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="movi_iMovimientoId" msprop:Generator_ColumnVarNameInTable="columnmovi_iMovimientoId" msprop:Generator_ColumnPropNameInRow="movi_iMovimientoId" msprop:Generator_ColumnPropNameInTable="movi_iMovimientoIdColumn" msprop:Generator_UserColumnName="movi_iMovimientoId" type="xs:string" minOccurs="0" />
+              <xs:element name="RangoIni" msprop:Generator_ColumnVarNameInTable="columnRangoIni" msprop:Generator_ColumnPropNameInRow="RangoIni" msprop:Generator_ColumnPropNameInTable="RangoIniColumn" msprop:Generator_UserColumnName="RangoIni" type="xs:string" minOccurs="0" />
+              <xs:element name="RangoFin" msprop:Generator_ColumnVarNameInTable="columnRangoFin" msprop:Generator_ColumnPropNameInRow="RangoFin" msprop:Generator_ColumnPropNameInTable="RangoFinColumn" msprop:Generator_UserColumnName="RangoFin" type="xs:string" minOccurs="0" />
+              <xs:element name="Cant" msprop:Generator_ColumnVarNameInTable="columnCant" msprop:Generator_ColumnPropNameInRow="Cant" msprop:Generator_ColumnPropNameInTable="CantColumn" msprop:Generator_UserColumnName="Cant" type="xs:string" minOccurs="0" />
+              <xs:element name="Observacion" msprop:Generator_ColumnVarNameInTable="columnObservacion" msprop:Generator_ColumnPropNameInRow="Observacion" msprop:Generator_ColumnPropNameInTable="ObservacionColumn" msprop:Generator_UserColumnName="Observacion" type="xs:string" minOccurs="0" />
+              <xs:element name="mode_sEstadoId" msprop:Generator_ColumnVarNameInTable="columnmode_sEstadoId" msprop:Generator_ColumnPropNameInRow="mode_sEstadoId" msprop:Generator_ColumnPropNameInTable="mode_sEstadoIdColumn" msprop:Generator_UserColumnName="mode_sEstadoId" type="xs:string" minOccurs="0" />
+              <xs:element name="mode_iMovimientoId" msprop:Generator_ColumnVarNameInTable="columnmode_iMovimientoId" msprop:Generator_ColumnPropNameInRow="mode_iMovimientoId" msprop:Generator_ColumnPropNameInTable="mode_iMovimientoIdColumn" msprop:Generator_UserColumnName="mode_iMovimientoId" type="xs:string" minOccurs="0" />
+              <xs:element name="mode_iMovimientoDetalleId" msprop:Generator_ColumnVarNameInTable="columnmode_iMovimientoDetalleId" msprop:Generator_ColumnPropNameInRow="mode_iMovimientoDetalleId" msprop:Generator_ColumnPropNameInTable="mode_iMovimientoDetalleIdColumn" msprop:Generator_UserColumnName="mode_iMovimientoDetalleId" type="xs:string" minOccurs="0" />
+              <xs:element name="mode_iActuacionId" msprop:Generator_ColumnVarNameInTable="columnmode_iActuacionId" msprop:Generator_ColumnPropNameInRow="mode_iActuacionId" msprop:Generator_ColumnPropNameInTable="mode_iActuacionIdColumn" msprop:Generator_UserColumnName="mode_iActuacionId" type="xs:string" minOccurs="0" />
+              <xs:element name="mode_iActuaciondetalleId" msprop:Generator_ColumnVarNameInTable="columnmode_iActuaciondetalleId" msprop:Generator_ColumnPropNameInRow="mode_iActuaciondetalleId" msprop:Generator_ColumnPropNameInTable="mode_iActuaciondetalleIdColumn" msprop:Generator_UserColumnName="mode_iActuaciondetalleId" type="xs:string" minOccurs="0" />
+              <xs:element name="movi_sEstadoId" msprop:Generator_ColumnVarNameInTable="columnmovi_sEstadoId" msprop:Generator_ColumnPropNameInRow="movi_sEstadoId" msprop:Generator_ColumnPropNameInTable="movi_sEstadoIdColumn" msprop:Generator_UserColumnName="movi_sEstadoId" type="xs:string" minOccurs="0" />
+              <xs:element name="Estado" msprop:Generator_ColumnVarNameInTable="columnEstado" msprop:Generator_ColumnPropNameInRow="Estado" msprop:Generator_ColumnPropNameInTable="EstadoColumn" msprop:Generator_UserColumnName="Estado" type="xs:string" minOccurs="0" />
+              <xs:element name="esta_vGrupo" msprop:Generator_ColumnVarNameInTable="columnesta_vGrupo" msprop:Generator_ColumnPropNameInRow="esta_vGrupo" msprop:Generator_ColumnPropNameInTable="esta_vGrupoColumn" msprop:Generator_UserColumnName="esta_vGrupo" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_Atendido" msprop:Generator_ColumnVarNameInTable="columnFecha_Atendido" msprop:Generator_ColumnPropNameInRow="Fecha_Atendido" msprop:Generator_ColumnPropNameInTable="Fecha_AtendidoColumn" msprop:Generator_UserColumnName="Fecha_Atendido" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

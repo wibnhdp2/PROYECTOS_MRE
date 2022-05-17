@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{134EA632-66C1-49E7-8D60-3DEEAD14B3E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGAC.Registro.Actuacion.BL</RootNamespace>
+    <AssemblyName>SGAC.Registro.Actuacion.BL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActaJudicialConsultaBL.cs" />
+    <Compile Include="ActaJudicialMantenimientoBL.cs" />
+    <Compile Include="ActoCivilConsultaBL.cs" />
+    <Compile Include="ActoCivilMantenimientoBL.cs" />
+    <Compile Include="ActoJudicialConsultaBL.cs" />
+    <Compile Include="ActoJudicialMantenimientoBL.cs" />
+    <Compile Include="ActoJudicialNotificacionConsultaBL.cs" />
+    <Compile Include="ActoJudicialNotificacionMantenimientoBL.cs" />
+    <Compile Include="ActoJudicialParticipanteConsultaBL.cs" />
+    <Compile Include="ActoMigratorioConsultaBL.cs" />
+    <Compile Include="ActoMigratorioMantenimientoBL.cs" />
+    <Compile Include="ActoMilitarConsultaBL.cs" />
+    <Compile Include="ActoMilitarMantenimientoBL.cs" />
+    <Compile Include="ActoNotarialConsultaBL.cs" />
+    <Compile Include="ActoNotarialCuerpoConsultaBL.cs" />
+    <Compile Include="ActoNotarialExtraProtocolarMantenimiento.cs" />
+    <Compile Include="ActoNotarialMantenimiento.cs" />
+    <Compile Include="ActoNotarialPrimigeniaConsultaBL.cs" />
+    <Compile Include="ActoNotarialPrimigeniaMantenimientoBL.cs" />
+    <Compile Include="ActoNotarial_NormaMantenimientoBL.cs" />
+    <Compile Include="ActoNotarial_NormasConsultaBL.cs" />
+    <Compile Include="ActuacionAdjuntoConsultaBL.cs" />
+    <Compile Include="ActuacionAdjuntoMantenimientoBL.cs" />
+    <Compile Include="ActuacionAnotacionConsultaBL.cs" />
+    <Compile Include="ActuacionAnotacionMantenimientoBL.cs" />
+    <Compile Include="ActuacionConsultaBL.cs" />
+    <Compile Include="ActuacionMantenimientoBL.cs" />
+    <Compile Include="ActuacionPagoConsultaBL.cs" />
+    <Compile Include="ActuacionPagoMantenimientoBL.cs" />
+    <Compile Include="Antecedente_PenalBL.cs" />
+    <Compile Include="Antecedente_Penal_DetalleBL.cs" />
+    <Compile Include="FichaEnviadaBL.cs" />
+    <Compile Include="FichaRegistralBL.cs" />
+    <Compile Include="FichaRegistralHistoricoBL.cs" />
+    <Compile Include="FichaRegistralParticipanteBL.cs" />
+    <Compile Include="GuiaDespachoBL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stock_Almacen_ConsultaBL.cs" />
+    <Compile Include="TramiteConsultaBL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGAC.Accesorios\SGAC.Accesorios.csproj">
+      <Project>{38EC5AF7-7466-4FEB-949A-6C8085FD93AC}</Project>
+      <Name>SGAC.Accesorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Auditoria.BL\SGAC.Auditoria.BL.csproj">
+      <Project>{1BF23F4E-C537-4956-8F45-829E9F49BD9A}</Project>
+      <Name>SGAC.Auditoria.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.BE.MRE\SGAC.BE.MRE.csproj">
+      <Project>{3839B18A-3137-4CB7-B3C2-411F48FD727C}</Project>
+      <Name>SGAC.BE.MRE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.BE\SGAC.BE.csproj">
+      <Project>{1E705259-BE1F-4946-8819-24C093A7B43C}</Project>
+      <Name>SGAC.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL.csproj">
+      <Project>{6174B95B-3BF0-45BB-9D72-CFAEBC9EA60A}</Project>
+      <Name>SGAC.Configuracion.Maestro.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Configuracion.Sistema.BL\SGAC.Configuracion.Sistema.BL.csproj">
+      <Project>{31AF564F-46F8-4CE2-B5B6-BA25F488106E}</Project>
+      <Name>SGAC.Configuracion.Sistema.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.DA.MRE\SGAC.DA.MRE.csproj">
+      <Project>{FEDEB779-76D3-4299-AC22-E488427F663A}</Project>
+      <Name>SGAC.DA.MRE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Registro.Actuacion.DA\SGAC.Registro.Actuacion.DA.csproj">
+      <Project>{3A0BF458-79D0-45B8-B95D-7F1B3EB0CE4F}</Project>
+      <Name>SGAC.Registro.Actuacion.DA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGAC.Registro.Persona.BL\SGAC.Registro.Persona.BL.csproj">
+      <Project>{59028A80-BE8E-4A4B-BE4A-11FCCD7222D5}</Project>
+      <Name>SGAC.Registro.Persona.BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

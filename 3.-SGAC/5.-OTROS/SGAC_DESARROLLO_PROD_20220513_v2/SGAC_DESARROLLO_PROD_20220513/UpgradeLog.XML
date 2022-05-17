@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SGAC">
+</Property><Property Name="Solution File" Value="D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.sln">
+</Property><Property Name="Date" Value="viernes, 21 de enero de 2022">
+</Property><Property Name="Time" Value="11:44">
+</Property></Properties><Event ErrorLevel="0" Project="SGAC.BE" Source="SGAC.BE\SGAC.BE.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.BE" Source="SGAC.BE\SGAC.BE.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Cliente.Colas.DA" Source="SGAC.Cliente.Colas.DA\SGAC.Cliente.Colas.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Cliente.Colas.DA" Source="SGAC.Cliente.Colas.DA\SGAC.Cliente.Colas.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Cliente.Colas.BL" Source="SGAC.Cliente.Colas.BL\SGAC.Cliente.Colas.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Cliente.Colas.BL" Source="SGAC.Cliente.Colas.BL\SGAC.Cliente.Colas.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.WinApp" Source="SGAC.WinApp\SGAC.WinApp.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.WinApp" Source="SGAC.WinApp\SGAC.WinApp.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Accesorios" Source="SGAC.Accesorios\SGAC.Accesorios.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Accesorios" Source="SGAC.Accesorios\SGAC.Accesorios.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Contabilidad.CuentaCorriente.BL" Source="SGAC.Contabilidad.CuentaCorriente.BL\SGAC.Contabilidad.CuentaCorriente.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Contabilidad.CuentaCorriente.BL" Source="SGAC.Contabilidad.CuentaCorriente.BL\SGAC.Contabilidad.CuentaCorriente.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Contabilidad.CuentaCorriente.DA" Source="SGAC.Contabilidad.CuentaCorriente.DA\SGAC.Contabilidad.CuentaCorriente.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Contabilidad.CuentaCorriente.DA" Source="SGAC.Contabilidad.CuentaCorriente.DA\SGAC.Contabilidad.CuentaCorriente.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Contabilidad.Remesa.BL" Source="SGAC.Contabilidad.Remesa.BL\SGAC.Contabilidad.Remesa.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Contabilidad.Remesa.BL" Source="SGAC.Contabilidad.Remesa.BL\SGAC.Contabilidad.Remesa.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Contabilidad.Remesa.DA" Source="SGAC.Contabilidad.Remesa.DA\SGAC.Contabilidad.Remesa.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Contabilidad.Remesa.DA" Source="SGAC.Contabilidad.Remesa.DA\SGAC.Contabilidad.Remesa.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Registro.Persona.BL" Source="SGAC.Registro.Persona.BL\SGAC.Registro.Persona.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Registro.Persona.BL" Source="SGAC.Registro.Persona.BL\SGAC.Registro.Persona.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Registro.Persona.DA" Source="SGAC.Registro.Persona.DA\SGAC.Registro.Persona.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Registro.Persona.DA" Source="SGAC.Registro.Persona.DA\SGAC.Registro.Persona.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Configuracion.Seguridad.BL" Source="SGAC.Configuracion.Seguridad.BL\SGAC.Configuracion.Seguridad.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Configuracion.Seguridad.BL" Source="SGAC.Configuracion.Seguridad.BL\SGAC.Configuracion.Seguridad.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Configuracion.Seguridad.DA" Source="SGAC.Configuracion.Seguridad.DA\SGAC.Configuracion.Seguridad.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Configuracion.Seguridad.DA" Source="SGAC.Configuracion.Seguridad.DA\SGAC.Configuracion.Seguridad.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Configuracion.Sistema.DA" Source="SGAC.Configuracion.Sistema.DA\SGAC.Configuracion.Sistema.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Configuracion.Sistema.DA" Source="SGAC.Configuracion.Sistema.DA\SGAC.Configuracion.Sistema.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Configuracion.Sistema.BL" Source="SGAC.Configuracion.Sistema.BL\SGAC.Configuracion.Sistema.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Configuracion.Sistema.BL" Source="SGAC.Configuracion.Sistema.BL\SGAC.Configuracion.Sistema.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Contabilidad.Reportes.BL" Source="SGAC.Contabilidad.Reportes\SGAC.Contabilidad.Reportes.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Contabilidad.Reportes.BL" Source="SGAC.Contabilidad.Reportes\SGAC.Contabilidad.Reportes.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Contabilidad.Reportes.DA" Source="SGAC.Contabilidad.Reportes.DA\SGAC.Contabilidad.Reportes.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Contabilidad.Reportes.DA" Source="SGAC.Contabilidad.Reportes.DA\SGAC.Contabilidad.Reportes.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Registro.Actuacion.BL" Source="SGAC.Registro.Actuacion.BL\SGAC.Registro.Actuacion.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Registro.Actuacion.BL" Source="SGAC.Registro.Actuacion.BL\SGAC.Registro.Actuacion.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Registro.Actuacion.DA" Source="SGAC.Registro.Actuacion.DA\SGAC.Registro.Actuacion.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Registro.Actuacion.DA" Source="SGAC.Registro.Actuacion.DA\SGAC.Registro.Actuacion.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Almacen.DA" Source="SGAC.Almacen.DA\SGAC.Almacen.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Almacen.DA" Source="SGAC.Almacen.DA\SGAC.Almacen.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Almacen.BL" Source="SGAC.Almacen.BL\SGAC.Almacen.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Almacen.BL" Source="SGAC.Almacen.BL\SGAC.Almacen.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Controlador" Source="SGAC.Controlador\SGAC.Controlador.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Controlador" Source="SGAC.Controlador\SGAC.Controlador.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Integrador.Host" Source="SGAC.Integrador.Host\SGAC.Integrador.Host.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Integrador.Host" Source="SGAC.Integrador.Host\SGAC.Integrador.Host.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Integrador.Contratos" Source="SGAC.Integrador.Contratos\SGAC.Integrador.Contratos.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Integrador.Contratos" Source="SGAC.Integrador.Contratos\SGAC.Integrador.Contratos.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Integrador.Implementacion" Source="SGAC.Integrador.Implementacion\SGAC.Integrador.Implementacion.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Integrador.Implementacion" Source="SGAC.Integrador.Implementacion\SGAC.Integrador.Implementacion.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Configuracion.Maestro.DA" Source="SGAC.Configuracion.Maestro.DA\SGAC.Configuracion.Maestro.DA\SGAC.Configuracion.Maestro.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Configuracion.Maestro.DA" Source="SGAC.Configuracion.Maestro.DA\SGAC.Configuracion.Maestro.DA\SGAC.Configuracion.Maestro.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Configuracion.Maestro.BL" Source="SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Configuracion.Maestro.BL" Source="SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.BE.MRE" Source="SGAC.BE.MRE\SGAC.BE.MRE.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.BE.MRE" Source="SGAC.BE.MRE\SGAC.BE.MRE.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.DA.MRE" Source="SGAC.DA.MRE\SGAC.DA.MRE.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.DA.MRE" Source="SGAC.DA.MRE\SGAC.DA.MRE.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Almacen.Reportes.BL" Source="SGAC.Almacen.Reportes.Negocio.BL\SGAC.Almacen.Reportes.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Almacen.Reportes.BL" Source="SGAC.Almacen.Reportes.Negocio.BL\SGAC.Almacen.Reportes.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Almacen.Reportes.DA" Source="SGAC.Almacen.Reportes.DA\SGAC.Almacen.Reportes.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Almacen.Reportes.DA" Source="SGAC.Almacen.Reportes.DA\SGAC.Almacen.Reportes.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Digitalizacion" Source="SGAC.Digitalizacion\SGAC.Digitalizacion.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Digitalizacion" Source="SGAC.Digitalizacion\SGAC.Digitalizacion.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Reportes.BL" Source="SGAC.Reportes.BL\SGAC.Reportes.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Reportes.BL" Source="SGAC.Reportes.BL\SGAC.Reportes.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Reportes.DA" Source="SGAC.Reportes.DA\SGAC.Reportes.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Reportes.DA" Source="SGAC.Reportes.DA\SGAC.Reportes.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Auditoria.BL" Source="SGAC.Auditoria.BL\SGAC.Auditoria.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Auditoria.BL" Source="SGAC.Auditoria.BL\SGAC.Auditoria.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.Auditoria.DA" Source="SGAC.Auditoria.DA\SGAC.Auditoria.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.Auditoria.DA" Source="SGAC.Auditoria.DA\SGAC.Auditoria.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SGAC.WebApp" Source="SGAC.WebApp\SGAC.WebApp.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SGAC.WebApp" Source="SGAC.WebApp\SGAC.WebApp.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SUNARP.BE" Source="SUNARP.BE\SUNARP.BE.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SUNARP.BE" Source="SUNARP.BE\SUNARP.BE.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SUNARP.Registro.Inscripcion.BL" Source="SUNARP.Registro.Inscripcion.BL\SUNARP.Registro.Inscripcion.BL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SUNARP.Registro.Inscripcion.BL" Source="SUNARP.Registro.Inscripcion.BL\SUNARP.Registro.Inscripcion.BL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SUNARP.Registro.Inscripcion.DA" Source="SUNARP.Registro.Inscripcion.DA\SUNARP.Registro.Inscripcion.DA.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SUNARP.Registro.Inscripcion.DA" Source="SUNARP.Registro.Inscripcion.DA\SUNARP.Registro.Inscripcion.DA.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="SGAC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SGAC.sln" Description="Converted">
+</Event></UpgradeLog>

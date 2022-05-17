@@ -1,0 +1,4 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Contabilidad.CuentaCorriente.DA\obj\Release\SGAC.Contabilidad.CuentaCorriente.DA.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Contabilidad.CuentaCorriente.DA\obj\Release\SGAC.Contabilidad.CuentaCorriente.DA.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Contabilidad.CuentaCorriente.DA\obj\Release\SGAC.Contabilidad.CuentaCorriente.DA.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Contabilidad.CuentaCorriente.DA\obj\Release\SGAC.Contabilidad.CuentaCorriente.DA.csproj.CoreCompileInputs.cache

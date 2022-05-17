@@ -1,0 +1,798 @@
+﻿<?xml version="1.0"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <connectionStrings>
+    <add name="BD_SGAC_G2ConnectionString" connectionString="Data Source=SRVBD;Initial Catalog=BD_SGAC_G3;Integrated Security=True" providerName="System.Data.SqlClient"/>
+    <add name="BD_SGAC_DEV" connectionString="Data Source=SRVDOM;Initial Catalog=BD_SGAC_MRE;Integrated Security=True" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+  <appSettings>
+    <add key="xmlFilePath" value="..\\Accessories\\SysTablesXML\\SysTables.xml"/>
+    <add key="UploadWarningMsje" value="No ha seleccionado el archivo a subir."/>
+    <add key="UploadInvalidFileMsje" value="Archivo Inválido. Por favor Verifique la Extensión."/>
+    <add key="UploadInvalidSizeMsje" value="Tamaño de Archivo no permitido."/>
+    <add key="UploadSucessMsje" value="Archivo Subido Correctamente."/>
+    <add key="UploadErrorMsje" value="Directorio Inválido."/>
+    <add key="UploadPath" value="\\Consulares1\sgac\Uploads\"/>
+    <!--<add key="UploadPath" value="D:\\"/>-->
+    <add key="PackageView" value="Userimages"/>
+    <add key="CantidadRegistrosMax" value="50000"/>
+    <!--<add key="ConexionSGAC" value="Data Source=CONSULARES1;Initial Catalog=BD_SGAC;User ID=AU_SGAC;Password=PRETESTING;Trusted_Connection=False"/>-->
+    <add key="ConexionSGAC" value="Data Source=CGBS1DGC04\SQLEXPRESS2012;Initial Catalog=BD_SGAC;Integrated Security=True"/>
+    <add key="CrystalImageCleaner-AutoStart" value="true"/>
+    <add key="CrystalImageCleaner-Sleep" value="60000"/>
+    <add key="CrystalImageCleaner-Age" value="120000"/>
+    <add key="ChartImageHandler" value="storage=file;timeout=25;dir=c:\TempImageFiles\;"/>
+    <add key="DominioActivo" value="1"/>
+    <add key="DominioRuta" value="LDAP://rree.gob.pe/DC=rree, DC=gob, DC=pe"/>
+    <add key="DominioNombre" value="MRENT"/>
+    <!--<add key="NombreDominio" value="LDAP://rree.gob.pe/DC=rree, DC=gob, DC=pe"/>
+    <add key="NombreDominio" value="MRENT"/>-->
+    <add key="FormatoFechas" value="MMM-dd-yyyy"/>
+    <add key="FormatoFechasInicio" value="MMM-01-yyyy"/>
+    <add key="FormatoFechaLarga" value="MMM-dd-yyyy HH:mm:ss"/>
+    <add key="FormatoHora" value="HH:mm:ss"/>
+    <add key="FormatoMonto" value="#,##0.00"/>
+    <add key="FormatoEntero" value="#,##0"/>
+    <add key="FormatoFechaContable" value="{0:MMM-dd-yyyy}"/>
+    <add key="FormatoDecimalContable" value="{0:#.00000}"/>
+    <add key="FormatoDecimalTCB" value="#,##0.00000"/>
+    <add key="FormatoDecimalTCC" value="#,##0.00"/>
+    <add key="sessionFormatoDecimalTCB" value="{0:0.00000}"/>
+    <add key="sessionFormatoDecimalTCC" value="{0:0.00}"/>
+    <add key="TamanoPaginaContabilidad" value="A4"/>
+    <add key="SSRS" value="http://YOUR-REPORTSERVER-URL"/>
+    <add key="rvUser" value="GENERIC-USERNAME"/>
+    <add key="rvPassword" value="GENERIC-PASSWORD"/>
+    <add key="rvDomain" value="YOUR-REPORTSERVER-DOMAIN"/>
+    <add key="" value="A4"/>
+    <add key="Pasaporte_Top" value="510.23622047245"/>
+    <add key="Pasaporte_Left" value="94.48818897638"/>
+    <add key="Salvoconducto_Top" value="510.23622047245"/>
+    <add key="Salvoconducto_Left" value="94.48818897638"/>
+    <add key="IntentosSession" value="3"/>
+    <!--<add key="edadmaximo" value="4"/>-->
+    <add key="edadmaximo" value="0"/>
+    <add key="edadminimamilitar" value="17"/>
+    <add key="validarchars" value="',\,á,é,í,ó,ú,ü,ñ,Ñ,ä,ë,ï,ö,ü,Á,É,Í,Ó,Ú,Ä,Ë,Ï,Ö,Ü,#,$,%,/,(,),=,',¡,+,*,´,¨,[,{,},],`,|,°,¬,!,^,~,¡"/>
+    <add key="ValidarText" value="',\,á,é,í,ó,ú,ü,ä,ë,ï,ö,ü,Á,É,Í,Ó,Ú,Ä,Ë,Ï,Ö,Ü,#,$,%,/,(,),=,',¡,+,*,´,¨,[,{,},],`,|,°,¬,!,^,~,¡,_,-,?,¿"/>
+    <add key="ValidarNumeroEntero" value="',\,á,é,í,ó,ú,ü,ñ,Ñ,ä,ë,ï,ö,ü,Á,É,Í,Ó,Ú,Ä,Ë,Ï,Ö,Ü,#,$,%,/,(,),=,',¡,+,*,´,¨,[,{,},],`,|,°,¬,!,^,~,¡,.,-"/>
+    <add key="ValidarNumeroDecimal" value="',\,á,é,í,ó,ú,ü,ñ,Ñ,ä,ë,ï,ö,ü,Á,É,Í,Ó,Ú,Ä,Ë,Ï,Ö,Ü,#,$,%,/,(,),=,',¡,+,*,´,¨,[,{,},],`,|,°,¬,!,^,~,¡,.,-"/>
+    <add key="Nacimiento" value="4811,4812,4813,4814,4815,4816"/>
+    <add key="Defuncion" value="4831,4834,4835"/>
+    <!--4832,4833 -->
+    <add key="Matrimonio" value="4822,4823,4824"/>
+    <!-- 4821 -->
+    <add key="DniInvalidos" value="00000000,11111111,22222222,33333333,44444444,55555555,66666666,77777777,88888888,99999999"/>
+    <!--<add key="EmailTo" value="SGAC.PRUEBAS@GMAIL.COM"/>-->
+    <add key="EmailTo" value="mmarquez@rree.gob.pe"/>
+    <add key="EmailCC" value=""/>
+    <add key="EmailCCO" value=""/>
+    <add key="MonedaIdDolar" value="42"/>
+    <add key="MonedaIdEuro" value="3"/>
+    <add key="MonedaIdSol" value="102"/>
+    <add key="FormatoProtocolar" value="8050,8051"/>
+    <add key="FlujoActoGeneral" value="1"/>
+    <add key="CantidadTarifaAutodhesivo" value="3"/>
+    <!--Variables de Configuración de AutoAdhesivos (HTML)-->
+    <add key="HTML_FontSize" value="10"/>
+    <!-- Indica el tamaño de letra de todo el texto. -->
+    <add key="HTML_MarginLeft" value="15"/>
+    <!-- Indica el margen izquierdo de todo el texto. -->
+    <add key="HTML_MarginTop" value="22"/>
+    <!-- Indica el margen superior de todo el texto. -->
+    <add key="HTML_Espaciado" value="12"/>
+    <!-- Indica el espacio entre el texto y el códgo de barra. -->
+    <add key="HTML_BarCodeHeight" value="50"/>
+    <!-- Indica el alto del códgo de barra. -->
+    <add key="HTML_BarCodeWidth" value="230"/>
+    <!-- Indica el ancho del códgo de barra. -->
+    <!--Variables de Configuración de AutoAdhesivos (iTextSharp)-->
+    <add key="FontSize" value="8.5"/>
+    <!-- Indica el tamaño de letra de todo el texto. -->
+    <add key="MarginLeft" value="52"/>
+    <!-- 60 -->
+    <!-- Indica el margen izquierdo de todo el texto. -->
+    <add key="MarginTop" value="50"/>
+    <!-- 55 -->
+    <!-- Indica el margen superior de todo el texto. -->
+    <add key="LineSpacing" value="10"/>
+    <!-- Indica el interlineado de todo el texto. -->
+    <add key="NombreConsuladoAncho" value="230"/>
+    <!-- Indica el ancho que ocupará el título con la descripción del consulado. -->
+    <add key="AplicarImagenFondo" value="false"/>
+    <!-- Imprime una imagen de autoadhesivo de fondo (pruebas técnicas). -->
+    <add key="BarCodeHeight" value="50"/>
+    <!-- Indica el alto que del código de barra. -->
+    <add key="BarCodeWidth" value="180"/>
+    <!-- Indica el ancho que del código de barra. -->
+    <add key="BarCodeLeft" value="-5"/>
+    <!-- -5 -->
+    <!-- Indica el margen izquierdo del código de barra. -->
+    <add key="BarCodeTop" value="5"/>
+    <!-- Indica el margen superior del código de barra. -->
+    <add key="BarCodeFontSize" value="16"/>
+    <!-- Indica tamaño en letra del código de barra. -->
+    <add key="Linea1Titulo" value="Fecha: "/>
+    <!-- Etiqueta previa al texto de la primera línea del autoadhesivo. -->
+    <add key="Linea1TituloNegrita" value="True"/>
+    <!-- Indica si la etiqueta de la primera línea está en negrita. -->
+    <add key="Linea1TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la primera línea está en negrita. -->
+    <add key="Linea2Titulo" value=""/>
+    <!-- Etiqueta previa al texto de la segunda línea del autoadhesivo. -->
+    <add key="Linea2TituloNegrita" value="False"/>
+    <!-- Indica si la etiqueta de la segunda línea está en negrita. -->
+    <add key="Linea2TextoNegrita" value="True"/>
+    <!-- Indica si el texto de la segunda línea está en negrita. -->
+    <add key="Linea3Titulo" value=""/>
+    <!-- Etiqueta previa al texto de la tercera línea del autoadhesivo. -->
+    <add key="Linea3TituloNegrita" value="False"/>
+    <!-- Indica si la etiqueta de la tercera línea está en negrita. -->
+    <add key="Linea3TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la tercera línea está en negrita. -->
+    <add key="Linea4Titulo" value="Número de Órden: "/>
+    <!-- Etiqueta previa al texto de la cuarta línea del autoadhesivo. -->
+    <add key="Linea4TituloNegrita" value="True"/>
+    <!-- Indica si la etiqueta de la cuarta línea está en negrita. -->
+    <add key="Linea4TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la cuarta línea está en negrita. -->
+    <add key="Linea5Titulo" value="Número de Actuación: "/>
+    <!-- Etiqueta previa al texto de la quinta línea del autoadhesivo. -->
+    <add key="Linea5TituloNegrita" value="True"/>
+    <!-- Indica si la etiqueta de la quinta línea está en negrita. -->
+    <add key="Linea5TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la quinta línea está en negrita. -->
+    <add key="Linea6Titulo" value="Número de Tarifa: "/>
+    <!-- Etiqueta previa al texto de la sexta línea del autoadhesivo. -->
+    <add key="Linea6TituloNegrita" value="True"/>
+    <!-- Indica si la etiqueta de la sexta línea está en negrita. -->
+    <add key="Linea6TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la sexta línea está en negrita. -->
+    <add key="Linea7Titulo" value="Tasa: "/>
+    <!-- Etiqueta previa al texto de la séptima línea del autoadhesivo. -->
+    <add key="Linea7TituloNegrita" value="True"/>
+    <!-- Indica si la etiqueta de la séptima línea está en negrita. -->
+    <add key="Linea7TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la séptima línea está en negrita. -->
+    <add key="Linea8Titulo" value=""/>
+    <!-- Etiqueta previa al texto de la octava línea del autoadhesivo. -->
+    <add key="Linea8TituloNegrita" value="False"/>
+    <!-- Indica si la etiqueta de la octava línea está en negrita. -->
+    <add key="Linea8TextoNegrita" value="False"/>
+    <!-- Indica si el texto de la octava línea está en negrita. -->
+    <!-- 1: Modo inicial (HTML) -->
+    <!-- 2: iTextSharp          -->
+    <add key="ModoVistaAutoadhesivo" value="1"/>
+    <!-- Indica si el autoadhesivo se imprime via html (1)  o itextsharp (2). -->
+    <add key="validarCaracterRune" value="-,.,á,é,í,ó,ú,Á,É,Í,Ó,Ú,´,ä,ë,ï,ö,ü,Ä,Ë,Ï,Ö,Ü,¨,à,è,ì,ò,ù,À,È,Ì,Ò,Ù,`,',ç,Ç,&amp;"/>
+    <add key="CantCaracteresNomMigratorio" value="32"/>
+    <add key="CantCaracteresApeMigratorio" value="27"/>
+    <add key="CantCaracteresVisa" value="30"/>
+    <!-- Extraprotocolar Impresión Documentos -->
+    <add key="vFontFamilyExtraProtocolar" value="Arial"/>
+    <add key="fFontSizeExtraProtocolarPFD" value="7"/>
+    <add key="fFontSizeExtraProtocolar" value="12"/>
+    <add key="NotarialIdioma" value="11553"/>
+    <!-- Posición XY de campos en Formatos de Acto Civil -->
+    <!-- Ini Formato: Nacimiento (FN) -->
+    <add key="FNCuiY" value="40"/>
+    <add key="FNCuiX" value="223"/>
+    <add key="FNFechaY" value="65"/>
+    <add key="FNFechaX" value="142"/>
+    <add key="FNHoraY" value="64"/>
+    <add key="FNHoraX" value="355"/>
+    <add key="FNLugarTipoY" value="79"/>
+    <add key="FNLugarTipoX" value="136"/>
+    <add key="FNLugarOcurrenciaY" value="79"/>
+    <add key="FNLugarOcurrenciaX" value="157"/>
+    <add key="FNLugarUbi01X" value="1"/>
+    <add key="FNLugarUbi01Y" value="95"/>
+    <add key="FNLugarUbi01DescX" value="34"/>
+    <add key="FNLugarUbi01DescY" value="95"/>
+    <add key="FNLugarUbi02X" value="298"/>
+    <add key="FNLugarUbi02Y" value="95"/>
+    <add key="FNLugarUbi02DescX" value="333"/>
+    <add key="FNLugarUbi02DescY" value="95"/>
+    <add key="FNLugarUbi03X" value="1"/>
+    <add key="FNLugarUbi03Y" value="115"/>
+    <add key="FNLugarUbi03DescX" value="34"/>
+    <add key="FNLugarUbi03DescY" value="115"/>
+    <!-- inicio poblado-->
+    <add key="FNLugarUbi04X" value="298"/>
+    <add key="FNLugarUbi04Y" value="118"/>
+    <add key="FNLugarUbi04DescX" value="333"/>
+    <add key="FNLugarUbi04DescY" value="118"/>
+    <!-- fin poblado-->
+    <add key="FNGeneroX" value="36"/>
+    <add key="FNGeneroY" value="138"/>
+    <add key="FNGeneroDescX" value="94"/>
+    <add key="FNGeneroDescY" value="136"/>
+    <add key="FNNombresX" value="2"/>
+    <add key="FNNombresY" value="160"/>
+    <add key="FNPrimerApellidoX" value="2"/>
+    <add key="FNPrimerApellidoY" value="180"/>
+    <add key="FNSegundoApellidoX" value="2"/>
+    <add key="FNSegundopellidoY" value="200"/>
+    <add key="FNPadreNombresX" value="2"/>
+    <add key="FNPadreNombresY" value="230"/>
+    <add key="FNPadrePrimerApellidoX" value="2"/>
+    <add key="FNPadrePrimerApellidoY" value="245"/>
+    <add key="FNPadreSegundopellidoX" value="2"/>
+    <add key="FNPadreSegundopellidoY" value="263"/>
+    <add key="FNPadreDocTipoX" value="92"/>
+    <add key="FNPadreDocTipoY" value="286"/>
+    <add key="FNPadreDocNumeroX" value="235"/>
+    <add key="FNPadreDocNumeroY" value="288"/>
+    <add key="FNPadreNacionalidadX" value="440"/>
+    <add key="FNPadreNacionalidadY" value="289"/>
+    <add key="FNMadreNombresX" value="2"/>
+    <add key="FNMadreNombresY" value="310"/>
+    <add key="FNMadrePrimerApellidoX" value="2"/>
+    <add key="FNMadrePrimerApellidoY" value="329"/>
+    <add key="FNMadreSegundoApellidoX" value="2"/>
+    <add key="FNMadreSegundopellidoY" value="345"/>
+    <add key="FNMadreDocTipoX" value="92"/>
+    <add key="FNMadreDocTipoY" value="361"/>
+    <add key="FNMadreDocNumeroX" value="230"/>
+    <add key="FNMadreDocNumeroY" value="361"/>
+    <add key="FNMadreNacionalidadX" value="438"/>
+    <add key="FNMadreNacionalidadY" value="363"/>
+    <add key="FNDireccionX" value="63"/>
+    <add key="FNDireccionY" value="375"/>
+    <add key="FNDireccionUbi01X" value="2"/>
+    <add key="FNDireccionUbi01Y" value="390"/>
+    <add key="FNDireccionUbi01DescX" value="36"/>
+    <add key="FNDireccionUbi01DescY" value="389"/>
+    <add key="FNDireccionUbi02X" value="300"/>
+    <add key="FNDireccionUbi02Y" value="390"/>
+    <add key="FNDireccionUbi02DescX" value="335"/>
+    <add key="FNDireccionUbi02DescY" value="390"/>
+    <add key="FNDireccionUbi03X" value="2"/>
+    <add key="FNDireccionUbi03Y" value="406"/>
+    <add key="FNDireccionUbi03DescX" value="37"/>
+    <add key="FNDireccionUbi03DescY" value="406"/>
+    <!-- inicio poblado-->
+    <add key="FNDireccionUbi04X" value="300"/>
+    <add key="FNDireccionUbi04Y" value="406"/>
+    <add key="FNDireccionUbi04DescX" value="335"/>
+    <add key="FNDireccionUbi04DescY" value="406"/>
+    <!-- fin poblado-->
+    <add key="FNRegistroFechaX" value="104"/>
+    <add key="FNRegistroFechaY" value="438"/>
+    <add key="FNRegistroUbi01X" value="2"/>
+    <add key="FNRegistroUbi01Y" value="458"/>
+    <add key="FNRegistroUbi01DescX" value="36"/>
+    <add key="FNRegistroUbi01DescY" value="458"/>
+    <add key="FNRegistroUbi02X" value="300"/>
+    <add key="FNRegistroUbi02Y" value="458"/>
+    <add key="FNRegistroUbi02DescX" value="329"/>
+    <add key="FNRegistroUbi02DescY" value="458"/>
+    <add key="FNRegistroUbi03X" value="2"/>
+    <add key="FNRegistroUbi03Y" value="471"/>
+    <add key="FNRegistroUbi03DescX" value="36"/>
+    <add key="FNRegistroUbi03DescY" value="471"/>
+    <!-- inicio poblado-->
+    <add key="FNRegistroUbi04X" value="300"/>
+    <add key="FNRegistroUbi04Y" value="471"/>
+    <add key="FNRegistroUbi04DescX" value="329"/>
+    <add key="FNRegistroUbi04DescY" value="471"/>
+    <!-- fin poblado-->
+    <add key="FNDeclarante1VinculoX" value="91"/>
+    <add key="FNDeclarante1VinculoY" value="495"/>
+    <add key="FNDeclarante1NombresX" value="2"/>
+    <add key="FNDeclarante1NombresY" value="510"/>
+    <add key="FNDeclarante1PrimerApellidoX" value="2"/>
+    <add key="FNDeclarante1PrimerApellidoY" value="525"/>
+    <add key="FNDeclarante1SegundoApellidoX" value="2"/>
+    <add key="FNDeclarante1SegundopellidoY" value="540"/>
+    <add key="FNDeclarante1DocTipoX" value="300"/>
+    <add key="FNDeclarante1DocTipoY" value="493"/>
+    <add key="FNDeclarante1DocNumeroX" value="405"/>
+    <add key="FNDeclarante1DocNumeroY" value="493"/>
+    <add key="FNDeclarante2VinculoX" value="90"/>
+    <add key="FNDeclarante2VinculoY" value="557"/>
+    <add key="FNDeclarante2NombresX" value="2"/>
+    <add key="FNDeclarante2NombresY" value="574"/>
+    <add key="FNDeclarante2PrimerApellidoX" value="2"/>
+    <add key="FNDeclarante2PrimerApellidoY" value="589"/>
+    <add key="FNDeclarante2SegundoApellidoX" value="2"/>
+    <add key="FNDeclarante2SegundopellidoY" value="605"/>
+    <add key="FNDeclarante2DocTipoX" value="301"/>
+    <add key="FNDeclarante2DocTipoY" value="555"/>
+    <add key="FNDeclarante2DocNumeroX" value="405"/>
+    <add key="FNDeclarante2DocNumeroY" value="554"/>
+    <add key="FNRegistradorNombresX" value="100"/>
+    <add key="FNRegistradorNombresY" value="620"/>
+    <add key="FNRegistradorDocNumeroX" value="25"/>
+    <add key="FNRegistradorDocNumeroY" value="640"/>
+    <add key="FNObservacionesX" value="60"/>
+    <!--180-->
+    <add key="FNObservacionesY" value="650"/>
+    <!--Testar firma y huella-->
+    <add key="FNFirmaDeclaranteX" value="180"/>
+    <!--<add key="FNFirmaDeclaranteY" value="740"/>-->
+    <add key="FNFirmaDeclaranteY" value="710"/>
+    <add key="FNHuellaDeclaranteX" value="180"/>
+    <!--<add key="FNHuellaDeclaranteY" value="800"/>-->
+    <add key="FNHuellaDeclaranteY" value="770"/>
+    <!-- Fin Formato: Nacimiento -->
+    <!--Ini Formato: Matrimonio-->
+    <add key="FMFechaCelebracionY" value="-8"/>
+    <!---15 -10 -12-->
+    <add key="FMFechaCelebracionX" value="2"/>
+    <!--0-->
+    <add key="FMFechaCelebracionMesX" value="35"/>
+    <!--25 30-->
+    <add key="FMFechaCelebracionAnioX" value="70"/>
+    <!--50 60-->
+    <add key="FMLugarNacimientoUbi01Y" value="-29"/>
+    <!---33 -40 -35 -30 -33 -27-->
+    <add key="FMLugarNacimientoUbi03Y" value="-46"/>
+    <!---48, 51 -60 -55 -50 -53 -->
+    <add key="FMLugarUbi01X" value="0"/>
+    <!--10 05 5-->
+    <add key="FMLugarUbi01DescX" value="32"/>
+    <!--24 28 32-->
+    <add key="FMLugarUbi02X" value="0"/>
+    <!--10 02 05 10 5-->
+    <add key="FMLugarUbi02DescX" value="30"/>
+    <!--24 26-->
+    <add key="FMLugarUbi03X" value="0"/>
+    <!--10 15 5-->
+    <add key="FMLugarUbi03DescX" value="32"/>
+    <!--24 28-->
+    <add key="FMLugarCentroPobladoX" value="8"/>
+    <!--10 02 05 10-->
+    <add key="FMLugarCentroPobladoDescX" value="30"/>
+    <!--24 26-->
+    <add key="FMCelebranteIdentidadY" value="-63"/>
+    <!-- -64 -70 -68 -65 -63 -->
+    <add key="FMCelebranteTipoDocX" value="0"/>
+    <!--5 0 -2-->
+    <add key="FMCelebranteNumeroDocX" value="30"/>
+    <!--28 25 28-->
+    <add key="FMCelebranteNombresY" value="-80"/>
+    <!---78 -82-->
+    <add key="FMCelebranteNombresX" value="2"/>
+    <!-- 0 10-->
+    <add key="FMCelebrantePrimerApellidoY" value="-95"/>
+    <!---94 -100-->
+    <add key="FMCelebrantePrimerApellidoX" value="2"/>
+    <!--10-->
+    <add key="FMCelebranteSegundoApellidoY" value="-110"/>
+    <!---108 -113-->
+    <add key="FMCelebranteSegundoApellidoX" value="2"/>
+    <!--10-->
+    <add key="FMCelebranteCargoY" value="-130"/>
+    <!---129 -133-->
+    <add key="FMCelebranteCargoX" value="5"/>
+    <!--bn 5-->
+    <!--5-->
+    <add key="FMCelebranteExpedienteY" value="-145"/>
+    <!---143 -148 -147 -145 -->
+    <add key="FMCelebranteExpedienteX" value="2"/>
+    <!--5-->
+    <add key="FMConyuge1NombresY" value="-185"/>
+    <!---184 -188-->
+    <add key="FMConyuge1NombresX" value="2"/>
+    <!--10-->
+    <add key="FMConyuge1PrimerApellidoY" value="-205"/>
+    <!---204 -208-->
+    <add key="FMConyuge1PrimerApellidoX" value="2"/>
+    <!--10-->
+    <add key="FMConyuge1SegundoApellidoY" value="-220"/>
+    <!---220 -224-->
+    <add key="FMConyuge1SegundoApellidoX" value="2"/>
+    <!--10-->
+    <add key="FMConyuge1DocTipoY" value="-237"/>
+    <!-- -237 -239 -->
+    <add key="FMConyuge1DocTipoX" value="0"/>
+    <!--5 2-->
+    <add key="FMConyuge1DocNumeroX" value="60"/>
+    <!--32-->
+    <add key="FMConyuge1NacionalidadX" value="-8"/>
+    <!--8 -2-->
+    <add key="FMConyuge1NacionalidadDescX" value="65"/>
+    <!--40 60-->
+    <add key="FMConyuge1EdadY" value="-250"/>
+    <!-- -251 -256 -250 -->
+    <add key="FMConyuge1EdadX" value="15"/>
+    <!--15-->
+    <add key="FMConyuge1EstadoCivilX" value="2"/>
+    <!-- 5 -->
+    <add key="FMConyuge1NacimientoUbi01Y" value="-274"/>
+    <!-- -274 -->
+    <add key="FMConyuge1NacimientoUbi01X" value="0"/>
+    <!--10 5-->
+    <add key="FMConyuge1NacimientoUbi01DescX" value="32"/>
+    <!--24-->
+    <add key="FMConyuge1NacimientoUbi02X" value="0"/>
+    <!--10 3-->
+    <add key="FMConyuge1NacimientoUbi02DescX" value="32"/>
+    <!--24-->
+    <add key="FMConyuge1NacimientoUbi03Y" value="-290"/>
+    <!---288-->
+    <add key="FMConyuge1NacimientoUbi03X" value="0"/>
+    <!--10 5-->
+    <add key="FMConyuge1NacimientoUbi03DescX" value="32"/>
+    <!--24-->
+    <add key="FMConyuge1CentroPobladoX" value="5"/>
+    <!--10-->
+    <add key="FMConyuge1CentroPobladoDescX" value="30"/>
+    <!--24-->
+    <add key="FMConyuge2NombresY" value="-320"/>
+    <!---320-->
+    <add key="FMConyuge2NombresX" value="5"/>
+    <!--10-->
+    <add key="FMConyuge2PrimerApellidoY" value="-339"/>
+    <!---339-->
+    <add key="FMConyuge2PrimerApellidoX" value="5"/>
+    <!--10-->
+    <add key="FMConyuge2SegundoApellidoY" value="-355"/>
+    <!---355-->
+    <add key="FMConyuge2SegundoApellidoX" value="5"/>
+    <!--10-->
+    <add key="FMConyuge2DocTipoY" value="-370"/>
+    <!-- -368 -366 -->
+    <add key="FMConyuge2DocTipoX" value="0"/>
+    <!--5 2-->
+    <add key="FMConyuge2DocNumeroX" value="60"/>
+    <!--32-->
+    <add key="FMConyuge2NacionalidadX" value="-8"/>
+    <!--5 -2-->
+    <add key="FMConyuge2NacionalidadDescX" value="65"/>
+    <!--40 60-->
+    <add key="FMConyuge2EdadY" value="-388"/>
+    <!-- -386 -->
+    <add key="FMConyuge2EdadX" value="5"/>
+    <!--5-->
+    <add key="FMConyuge2EstadoCivilX" value="4"/>
+    <!--5-->
+    <add key="FMConyuge2NacimientoUbi01Y" value="-409"/>
+    <!-- -409 -411 -413 -->
+    <add key="FMConyuge2NacimientoUbi01X" value="0"/>
+    <!--10 5-->
+    <add key="FMConyuge2NacimientoUbi01DescX" value="35"/>
+    <!--24-->
+    <add key="FMConyuge2NacimientoUbi02X" value="0"/>
+    <!--10 3-->
+    <add key="FMConyuge2NacimientoUbi02DescX" value="28"/>
+    <!--24-->
+    <add key="FMConyuge2NacimientoUbi03Y" value="-428"/>
+    <!-- -425 -->
+    <add key="FMConyuge2NacimientoUbi03X" value="0"/>
+    <!--10 5-->
+    <add key="FMConyuge2NacimientoUbi03DescX" value="35"/>
+    <!--24-->
+    <add key="FMConyuge2CentroPobladoX" value="5"/>
+    <!--10-->
+    <add key="FMConyuge2CentroPobladoDescX" value="35"/>
+    <!--24-->
+    <add key="FMFechaRegistroY" value="-451"/>
+    <!-- -449 -->
+    <add key="FMFechaRegistroX" value="5"/>
+    <!--10-->
+    <add key="FMFechaRegistroMesX" value="37"/>
+    <!--25-->
+    <add key="FMFechaRegistroAnioX" value="70"/>
+    <!-- 50 67 -->
+    <add key="FMOfiRegistralUbi01Y" value="-485"/>
+    <!-- -483 -->
+    <add key="FMOfiRegistralUbi01X" value="0"/>
+    <!-- 10 5-->
+    <add key="FMOfiRegistralUbi01DescX" value="38"/>
+    <!-- 24 35 -->
+    <add key="FMOfiRegistralUbi02X" value="0"/>
+    <!--10 5-->
+    <add key="FMOfiRegistralUbi02DescX" value="35"/>
+    <!--24 35-->
+    <add key="FMOfiRegistralUbi03Y" value="-502"/>
+    <!-- -500 -502-->
+    <add key="FMOfiRegistralUbi03X" value="0"/>
+    <!--10 5-->
+    <add key="FMOfiRegistralUbi03DescX" value="38"/>
+    <!-- 24 35 38-->
+    <add key="FMOfiRegistralCentroPobladoX" value="4"/>
+    <!--5-->
+    <add key="FMOfiRegistralCentroPobladoDescX" value="30"/>
+    <!--24-->
+    <add key="FMRegistradorNombresY" value="-535"/>
+    <!-- -534 -533 -535-->
+    <add key="FMRegistradorNombresX" value="5"/>
+    <!--10-->
+    <add key="FMRegistradorDocNumeroY" value="-554"/>
+    <!-- -550 -552 -554 -->
+    <add key="FMRegistradorDocNumeroX" value="5"/>
+    <!--13-->
+    <add key="FMObservacionesY" value="-569"/>
+    <!-- -567 -569 -->
+    <add key="FMObservacionesX" value="10"/>
+    <!--15-->
+    <!--Fin Formato: Matrimonio-->
+    <!-- Ini Formato: Defunción -->
+    <add key="FDFechaY" value="65"/>
+    <add key="FDFechaX" value="143"/>
+    <add key="FDHoraY" value="65"/>
+    <add key="FDHoraX" value="355"/>
+    <add key="FDLugarTipoY" value="95"/>
+    <!--79-->
+    <add key="FDLugarTipoX" value="1"/>
+    <!--136-->
+    <add key="FDLugarOcurrenciaY" value="95"/>
+    <!--79-->
+    <add key="FDLugarOcurrenciaX" value="20"/>
+    <!--157-->
+    <add key="FDLugarUbi01X" value="1"/>
+    <add key="FDLugarUbi01Y" value="115"/>
+    <add key="FDLugarUbi01DescX" value="34"/>
+    <add key="FDLugarUbi01DescY" value="115"/>
+    <add key="FDLugarUbi02X" value="298"/>
+    <add key="FDLugarUbi02Y" value="113"/>
+    <!-- 115 -->
+    <add key="FDLugarUbi02DescX" value="333"/>
+    <add key="FDLugarUbi02DescY" value="115"/>
+    <add key="FDLugarUbi03X" value="1"/>
+    <add key="FDLugarUbi03Y" value="135"/>
+    <add key="FDLugarUbi03DescX" value="34"/>
+    <add key="FDLugarUbi03DescY" value="135"/>
+    <!-- inicio poblado-->
+    <add key="FDLugarUbi04X" value="298"/>
+    <add key="FDLugarUbi04Y" value="135"/>
+    <add key="FDLugarUbi04DescX" value="333"/>
+    <add key="FDLugarUbi04DescY" value="135"/>
+    <!-- fin poblado-->
+    <add key="FDNombresFallecidoX" value="2"/>
+    <add key="FDNombresFallecidoY" value="188"/>
+    <!-- 190 -->
+    <add key="FDPrimerApellidoFallecidoX" value="2"/>
+    <add key="FDPrimerApellidoFallecidoY" value="206"/>
+    <!-- 208 -->
+    <add key="FDSegundoApellidoFallecidoX" value="2"/>
+    <add key="FDSegundopellidoFallecidoY" value="223"/>
+    <!-- 225 -->
+    <add key="FDFallecidoDocTipoX" value="93"/>
+    <add key="FDFallecidoDocTipoY" value="240"/>
+    <add key="FDFallecidoDocNumeroX" value="233"/>
+    <add key="FDFallecidoDocNumeroY" value="240"/>
+    <add key="FDFallecidoEdadX" value="405"/>
+    <add key="FDFallecidoEdadY" value="240"/>
+    <add key="FDFallecidoTipoNacionalidadX" value="70"/>
+    <!--73-->
+    <add key="FDFallecidoTipoNacionalidadY" value="258"/>
+    <!--260-->
+    <add key="FDFallecidoNacionalidadX" value="128"/>
+    <!--128 130-->
+    <add key="FDFallecidoNacionalidadY" value="256"/>
+    <!--258 260-->
+    <add key="FDLugarUbi01FallecidoX" value="1"/>
+    <add key="FDLugarUbi01FallecidoY" value="285"/>
+    <add key="FDLugarUbi01DescFallecidoX" value="34"/>
+    <add key="FDLugarUbi01DescFallecidoY" value="285"/>
+    <add key="FDLugarUbi02FallecidoX" value="298"/>
+    <add key="FDLugarUbi02FallecidoY" value="285"/>
+    <add key="FDLugarUbi02DescFallecidoX" value="333"/>
+    <add key="FDLugarUbi02DescFallecidoY" value="285"/>
+    <add key="FDLugarUbi03FallecidoX" value="1"/>
+    <add key="FDLugarUbi03FallecidoY" value="305"/>
+    <add key="FDLugarUbi03DescFallecidoX" value="34"/>
+    <add key="FDLugarUbi03DescFallecidoY" value="305"/>
+    <!-- inicio poblado-->
+    <add key="FDLugarUbi04FallecidoX" value="298"/>
+    <add key="FDLugarUbi04FallecidoY" value="305"/>
+    <add key="FDLugarUbi04DescFallecidoX" value="333"/>
+    <add key="FDLugarUbi04DescFallecidoY" value="305"/>
+    <!-- fin poblado-->
+    <add key="FDPadreNombresX" value="2"/>
+    <add key="FDPadreNombresY" value="340"/>
+    <!--342-->
+    <add key="FDPadrePrimerApellidoX" value="2"/>
+    <add key="FDPadrePrimerApellidoY" value="358"/>
+    <add key="FDPadreSegundopellidoX" value="2"/>
+    <add key="FDPadreSegundopellidoY" value="378"/>
+    <add key="FDMadreNombresX" value="2"/>
+    <add key="FDMadreNombresY" value="408"/>
+    <add key="FDMadrePrimerApellidoX" value="2"/>
+    <add key="FDMadrePrimerApellidoY" value="425"/>
+    <add key="FDMadreSegundoApellidoX" value="2"/>
+    <add key="FDMadreSegundopellidoY" value="443"/>
+    <add key="FDRegistroFechaX" value="108"/>
+    <!--110-->
+    <add key="FDRegistroFechaY" value="470"/>
+    <add key="FDRegistroUbi01X" value="2"/>
+    <add key="FDRegistroUbi01Y" value="490"/>
+    <add key="FDRegistroUbi01DescX" value="40"/>
+    <add key="FDRegistroUbi01DescY" value="490"/>
+    <add key="FDRegistroUbi02X" value="305"/>
+    <add key="FDRegistroUbi02Y" value="490"/>
+    <add key="FDRegistroUbi02DescX" value="334"/>
+    <add key="FDRegistroUbi02DescY" value="490"/>
+    <add key="FDRegistroUbi03X" value="2"/>
+    <!---1-->
+    <add key="FDRegistroUbi03Y" value="510"/>
+    <add key="FDRegistroUbi03DescX" value="39"/>
+    <add key="FDRegistroUbi03DescY" value="510"/>
+    <!-- inicio poblacion -->
+    <add key="FDRegistroUbi04X" value="305"/>
+    <add key="FDRegistroUbi04Y" value="510"/>
+    <add key="FDRegistroUbi04DescX" value="334"/>
+    <add key="FDRegistroUbi04DescY" value="510"/>
+    <!-- fin poblacion -->
+    <add key="FDDeclarante1NombresX" value="2"/>
+    <add key="FDDeclarante1NombresY" value="540"/>
+    <add key="FDDeclarante1PrimerApellidoX" value="2"/>
+    <add key="FDDeclarante1PrimerApellidoY" value="560"/>
+    <add key="FDDeclarante1SegundoApellidoX" value="2"/>
+    <add key="FDDeclarante1SegundopellidoY" value="575"/>
+    <add key="FDDeclarante1DocTipoX" value="280"/>
+    <!--285-->
+    <add key="FDDeclarante1DocTipoY" value="530"/>
+    <!--530-->
+    <add key="FDDeclarante1DocNumeroX" value="405"/>
+    <!--405-->
+    <add key="FDDeclarante1DocNumeroY" value="530"/>
+    <!--530-->
+    <add key="FDRegistradorNombresX" value="95"/>
+    <add key="FDRegistradorNombresY" value="592"/>
+    <!--595-->
+    <add key="FDRegistradorDocNumeroX" value="33"/>
+    <!--40-->
+    <add key="FDRegistradorDocNumeroY" value="610"/>
+    <add key="FDObservacionesX" value="65"/>
+    <!--105-->
+    <add key="FDObservacionesY" value="655"/>
+    <!-- Fin Formato: Defunción -->
+    <!-- Formato Notarial : Márgenes -->
+    <add key="FNMargenIzquierdo" value="138.88"/>
+    <add key="FNMargenDerecho" value="48.55555"/>
+    <!-- Fin Formato -->
+    <!-- Valor en día para la eliminacion de Actuaciones -->
+    <!--<add key="sDiaActuacionHabiles" value="30"/>-->
+    <add key="sDiasActuacionesHabilesJefatura" value="10"/>
+    <add key="sDiasActuacionesHabilesConsulado" value="5"/>
+    <add key="vMsjDiasActuacionHabiles" value="No se puede actualizar el trámite por que se encuentra fuera del rango permitido."/>
+    <!-- Numero de Caracteres Maximo Permitido para Anotaciones - Civil -->
+    <add key="iCaracteresMaximo" value="6500"/>
+    <!-- Numero de Caracteres Maximo Permitido en los formatos - Registro Civil -->
+    <add key="LimiteCaracteresderecha" value="22"/>
+    <add key="LimiteCaracteresizquierda" value="26"/>
+    <add key="LimiteCaracteresDocumento" value="10"/>
+    <add key="LimiteCaracteresVinculo" value="10"/>
+    <add key="FechaUpdate" value="11/10/2016"/>
+  </appSettings>
+  <system.web>
+    <machineKey validation="3DES"/>
+    <httpHandlers>
+      <remove verb="*" path="*.asmx"/>
+      <add verb="*" path="*.asmx" validate="false" type="System.Web.Script.Services.ScriptHandlerFactory,System.Web.Extensions, Version=1.0.61025.0, Culture=neutral,PublicKeyToken=31bf3856ad364e35"/>
+      <add verb="*" path="*_AppService.axd" validate="false" type="System.Web.Script.Services.ScriptHandlerFactory,System.Web.Extensions, Version=1.0.61025.0, Culture=neutral,PublicKeyToken=31bf3856ad364e35"/>
+      <add verb="GET,HEAD" path="ScriptResource.axd" type="System.Web.Handlers.ScriptResourceHandler,System.Web.Extensions, Version=1.0.61025.0, Culture=neutral,PublicKeyToken=31bf3856ad364e35" validate="false"/>
+      <add path="Reserved.ReportViewerWebControl.axd" verb="*" type="Microsoft.Reporting.WebForms.HttpHandler, Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" validate="false"/>
+      <!--<add path="CrystalImageHandler.aspx" verb="GET" type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>-->
+      <add path="ChartImg.axd" verb="GET,HEAD,POST" type="System.Web.UI.DataVisualization.Charting.ChartHttpHandler, System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" validate="false"/>
+    </httpHandlers>
+    <httpModules>
+      <add name="ScriptModule" type="System.Web.Handlers.ScriptModule, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+    </httpModules>
+    <compilation debug="true" targetFramework="4.0">
+      <assemblies>
+        <add assembly="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+        <add assembly="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+        <add assembly="Microsoft.Build.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+        <add assembly="System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+        <!--<add assembly="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692FBEA5521E1304"/>
+        <add assembly="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>-->
+        <add assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35"/>
+        <add assembly="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+        <add assembly="System.Web.Extensions.Design, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35"/>
+        <add assembly="System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+        <add assembly="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+      </assemblies>
+      <buildProviders>
+        <add extension=".rdlc" type="Microsoft.Reporting.RdlBuildProvider, Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+      </buildProviders>
+    </compilation>
+    <httpRuntime maxRequestLength="102400" executionTimeout="360000" requestValidationMode="2.0"/>
+    <!--
+      Seccion que contempla la globalización del aplicativo (es-PE, es-ES, en-US o culture="en-US" uiculture="en")
+    -->
+    <globalization culture="es-PE" uiCulture="es-PE"/>
+    <sessionState cookieless="false" timeout="25" mode="InProc"/>
+    <!--<authentication mode="Windows"/>-->
+    <authentication mode="Forms">
+      <forms name=".FORM" loginUrl="~/Cuenta/FrmLogin.aspx" defaultUrl="~/Cuenta/FrmLogin.aspx" protection="None" timeout="3000" path="/"/>
+    </authentication>
+    <authorization>
+      <allow users="*"/>
+    </authorization>
+    <!--
+      La sección <customErrors> habilita la configuración de 
+      las acciones que se deben realizar si un error no controlado tiene lugar
+      durante la ejecución de una solicitud. Específicamente, 
+      permite a los desarrolladores configurar páginas de error html 
+      que se mostrarán en lugar de un seguimiento de pila de errores.   
+            
+      mode="RemoteOnly" Al realizar el pase a producción debera establecerse obligatoriamente
+      mode="On"
+      mode="Off"
+    -->
+    <customErrors mode="RemoteOnly" defaultRedirect="PageError/GenericErrorPage.aspx">
+      <error statusCode="404" redirect="PageError/NotFoundPage.aspx"/>
+    </customErrors>
+    <pages enableEventValidation="false" validateRequest="false" maintainScrollPositionOnPostBack="true">
+      <controls>
+        <add tagPrefix="asp" namespace="System.Web.UI.DataVisualization.Charting" assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+        <add tagPrefix="asp" namespace="System.Web.UI" assembly="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+      </controls>
+    </pages>
+    <membership>
+      <providers>
+        <clear/>
+        <add name="AspNetSqlMembershipProvider" type="System.Web.Security.SqlMembershipProvider" connectionStringName="ApplicationServices" enablePasswordRetrieval="false" enablePasswordReset="true" requiresQuestionAndAnswer="false" requiresUniqueEmail="false" maxInvalidPasswordAttempts="5" minRequiredPasswordLength="6" minRequiredNonalphanumericCharacters="0" passwordAttemptWindow="10" applicationName="/"/>
+      </providers>
+    </membership>
+    <profile>
+      <providers>
+        <clear/>
+        <add name="AspNetSqlProfileProvider" type="System.Web.Profile.SqlProfileProvider" connectionStringName="ApplicationServices" applicationName="/"/>
+      </providers>
+    </profile>
+    <roleManager enabled="false">
+      <providers>
+        <clear/>
+        <add name="AspNetSqlRoleProvider" type="System.Web.Security.SqlRoleProvider" connectionStringName="ApplicationServices" applicationName="/"/>
+        <add name="AspNetWindowsTokenRoleProvider" type="System.Web.Security.WindowsTokenRoleProvider" applicationName="/"/>
+      </providers>
+    </roleManager>
+    <webServices>
+      <protocols>
+        <add name="HttpGet"/>
+        <add name="HttpPost"/>
+      </protocols>
+    </webServices>
+  </system.web>
+  <system.webServer>
+    <httpProtocol>
+      <customHeaders>
+        <add name="X-Frame-Options" value="SAMEORIGIN"/>
+      </customHeaders>
+    </httpProtocol>
+    <modules>
+      <add name="ScriptModule" preCondition="integratedMode" type="System.Web.Handlers.ScriptModule, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+    </modules>
+    <validation validateIntegratedModeConfiguration="false"/>
+    <handlers>
+      <remove name="WebServiceHandlerFactory-Integrated"/>
+      <remove name="ChartImageHandler"/>
+      <remove name="WebServiceHandlerFactory-Integrated"/>
+      <add name="ReportViewerWebControlHandler" preCondition="integratedMode" verb="*" path="Reserved.ReportViewerWebControl.axd" type="Microsoft.Reporting.WebForms.HttpHandler, Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+      <!--<add name="CrystalImageHandler.aspx_GET" verb="GET" path="CrystalImageHandler.aspx"
+           type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"
+           preCondition="integratedMode"/>-->
+      <add name="ChartImageHandler" preCondition="integratedMode" verb="GET,HEAD,POST" path="ChartImg.axd" type="System.Web.UI.DataVisualization.Charting.ChartHttpHandler, System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+      <add name="ScriptHandlerFactory" verb="*" path="*.asmx" preCondition="integratedMode" type="System.Web.Script.Services.ScriptHandlerFactory, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+      <add name="ScriptHandlerFactoryAppServices" verb="*" path="*_AppService.axd" preCondition="integratedMode" type="System.Web.Script.Services.ScriptHandlerFactory, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+      <add name="ScriptResource" preCondition="integratedMode" verb="GET,HEAD" path="ScriptResource.axd" type="System.Web.Handlers.ScriptResourceHandler, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+    </handlers>
+    <defaultDocument>
+      <files>
+        <add value="FrmLogin.aspx"/>
+      </files>
+    </defaultDocument>
+  </system.webServer>
+  <system.web.extensions>
+    <scripting>
+      <webServices>
+        <jsonSerialization maxJsonLength="5000000"/>
+      </webServices>
+    </scripting>
+  </system.web.extensions>
+</configuration>

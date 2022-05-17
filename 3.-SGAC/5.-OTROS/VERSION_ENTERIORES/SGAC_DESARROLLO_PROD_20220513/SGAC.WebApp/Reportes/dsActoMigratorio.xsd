@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsActoMigratorio" targetNamespace="http://tempuri.org/dsActoMigratorio.xsd" xmlns:mstns="http://tempuri.org/dsActoMigratorio.xsd" xmlns="http://tempuri.org/dsActoMigratorio.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsActoMigratorio" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsActoMigratorio" msprop:Generator_UserDSName="dsActoMigratorio">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Expediente" msprop:Generator_TableClassName="ExpedienteDataTable" msprop:Generator_TableVarName="tableExpediente" msprop:Generator_TablePropName="Expediente" msprop:Generator_RowDeletingName="ExpedienteRowDeleting" msprop:Generator_RowChangingName="ExpedienteRowChanging" msprop:Generator_RowEvHandlerName="ExpedienteRowChangeEventHandler" msprop:Generator_RowDeletedName="ExpedienteRowDeleted" msprop:Generator_UserTableName="Expediente" msprop:Generator_RowChangedName="ExpedienteRowChanged" msprop:Generator_RowEvArgName="ExpedienteRowChangeEvent" msprop:Generator_RowClassName="ExpedienteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="acmi_iActoMigratorioId" msprop:Generator_ColumnVarNameInTable="columnacmi_iActoMigratorioId" msprop:Generator_ColumnPropNameInRow="acmi_iActoMigratorioId" msprop:Generator_ColumnPropNameInTable="acmi_iActoMigratorioIdColumn" msprop:Generator_UserColumnName="acmi_iActoMigratorioId" type="xs:long" minOccurs="0" />
+              <xs:element name="acmi_iActuacionDetalleId" msprop:Generator_ColumnVarNameInTable="columnacmi_iActuacionDetalleId" msprop:Generator_ColumnPropNameInRow="acmi_iActuacionDetalleId" msprop:Generator_ColumnPropNameInTable="acmi_iActuacionDetalleIdColumn" msprop:Generator_UserColumnName="acmi_iActuacionDetalleId" type="xs:long" minOccurs="0" />
+              <xs:element name="pers_iPersonaId" msprop:Generator_ColumnVarNameInTable="columnpers_iPersonaId" msprop:Generator_ColumnPropNameInRow="pers_iPersonaId" msprop:Generator_ColumnPropNameInTable="pers_iPersonaIdColumn" msprop:Generator_UserColumnName="pers_iPersonaId" type="xs:long" minOccurs="0" />
+              <xs:element name="acmi_sTipoDocumentoMigratorioId" msprop:Generator_ColumnVarNameInTable="columnacmi_sTipoDocumentoMigratorioId" msprop:Generator_ColumnPropNameInRow="acmi_sTipoDocumentoMigratorioId" msprop:Generator_ColumnPropNameInTable="acmi_sTipoDocumentoMigratorioIdColumn" msprop:Generator_UserColumnName="acmi_sTipoDocumentoMigratorioId" type="xs:short" minOccurs="0" />
+              <xs:element name="acmi_vTipoDocumentoMigratorio" msprop:Generator_ColumnVarNameInTable="columnacmi_vTipoDocumentoMigratorio" msprop:Generator_ColumnPropNameInRow="acmi_vTipoDocumentoMigratorio" msprop:Generator_ColumnPropNameInTable="acmi_vTipoDocumentoMigratorioColumn" msprop:Generator_UserColumnName="acmi_vTipoDocumentoMigratorio" type="xs:string" minOccurs="0" />
+              <xs:element name="acmi_sTipoId" msprop:Generator_ColumnVarNameInTable="columnacmi_sTipoId" msprop:Generator_ColumnPropNameInRow="acmi_sTipoId" msprop:Generator_ColumnPropNameInTable="acmi_sTipoIdColumn" msprop:Generator_UserColumnName="acmi_sTipoId" type="xs:short" minOccurs="0" />
+              <xs:element name="ACMI_VTIPO" msprop:Generator_ColumnVarNameInTable="columnACMI_VTIPO" msprop:Generator_ColumnPropNameInRow="ACMI_VTIPO" msprop:Generator_ColumnPropNameInTable="ACMI_VTIPOColumn" msprop:Generator_UserColumnName="ACMI_VTIPO" type="xs:string" minOccurs="0" />
+              <xs:element name="acmi_sSubTipoId" msprop:Generator_ColumnVarNameInTable="columnacmi_sSubTipoId" msprop:Generator_ColumnPropNameInRow="acmi_sSubTipoId" msprop:Generator_ColumnPropNameInTable="acmi_sSubTipoIdColumn" msprop:Generator_UserColumnName="acmi_sSubTipoId" type="xs:short" minOccurs="0" />
+              <xs:element name="ACMI_VSUBTIPO" msprop:Generator_ColumnVarNameInTable="columnACMI_VSUBTIPO" msprop:Generator_ColumnPropNameInRow="ACMI_VSUBTIPO" msprop:Generator_ColumnPropNameInTable="ACMI_VSUBTIPOColumn" msprop:Generator_UserColumnName="ACMI_VSUBTIPO" type="xs:string" minOccurs="0" />
+              <xs:element name="acmi_vNumeroExpediente" msprop:Generator_ColumnVarNameInTable="columnacmi_vNumeroExpediente" msprop:Generator_ColumnPropNameInRow="acmi_vNumeroExpediente" msprop:Generator_ColumnPropNameInTable="acmi_vNumeroExpedienteColumn" msprop:Generator_UserColumnName="acmi_vNumeroExpediente" type="xs:string" minOccurs="0" />
+              <xs:element name="acmi_vNumeroDocumento" msprop:Generator_ColumnVarNameInTable="columnacmi_vNumeroDocumento" msprop:Generator_ColumnPropNameInRow="acmi_vNumeroDocumento" msprop:Generator_ColumnPropNameInTable="acmi_vNumeroDocumentoColumn" msprop:Generator_UserColumnName="acmi_vNumeroDocumento" type="xs:string" minOccurs="0" />
+              <xs:element name="acmi_dFechaCreacion" msprop:Generator_ColumnVarNameInTable="columnacmi_dFechaCreacion" msprop:Generator_ColumnPropNameInRow="acmi_dFechaCreacion" msprop:Generator_ColumnPropNameInTable="acmi_dFechaCreacionColumn" msprop:Generator_UserColumnName="acmi_dFechaCreacion" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="actu_sOficinaConsularId" msprop:Generator_ColumnVarNameInTable="columnactu_sOficinaConsularId" msprop:Generator_ColumnPropNameInRow="actu_sOficinaConsularId" msprop:Generator_ColumnPropNameInTable="actu_sOficinaConsularIdColumn" msprop:Generator_UserColumnName="actu_sOficinaConsularId" type="xs:short" minOccurs="0" />
+              <xs:element name="actu_vOficinaConsular" msprop:Generator_ColumnVarNameInTable="columnactu_vOficinaConsular" msprop:Generator_ColumnPropNameInRow="actu_vOficinaConsular" msprop:Generator_ColumnPropNameInTable="actu_vOficinaConsularColumn" msprop:Generator_UserColumnName="actu_vOficinaConsular" type="xs:string" minOccurs="0" />
+              <xs:element name="acmi_sEstadoID" msprop:Generator_ColumnVarNameInTable="columnacmi_sEstadoID" msprop:Generator_ColumnPropNameInRow="acmi_sEstadoID" msprop:Generator_ColumnPropNameInTable="acmi_sEstadoIDColumn" msprop:Generator_UserColumnName="acmi_sEstadoID" type="xs:short" minOccurs="0" />
+              <xs:element name="acmi_vEstado" msprop:Generator_ColumnVarNameInTable="columnacmi_vEstado" msprop:Generator_ColumnPropNameInRow="acmi_vEstado" msprop:Generator_ColumnPropNameInTable="acmi_vEstadoColumn" msprop:Generator_UserColumnName="acmi_vEstado" type="xs:string" minOccurs="0" />
+              <xs:element name="PERS_VDATOS" msprop:Generator_ColumnVarNameInTable="columnPERS_VDATOS" msprop:Generator_ColumnPropNameInRow="PERS_VDATOS" msprop:Generator_ColumnPropNameInTable="PERS_VDATOSColumn" msprop:Generator_UserColumnName="PERS_VDATOS" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BD_SGACModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="AL_INSUMO">
+      <EntityTypeMapping TypeName="BD_SGACModel.AL_INSUMO">
+        <MappingFragment StoreEntitySet="AL_INSUMO">
+          <ScalarProperty Name="insu_dFechaModificacion" ColumnName="insu_dFechaModificacion" />
+          <ScalarProperty Name="insu_vIPModificacion" ColumnName="insu_vIPModificacion" />
+          <ScalarProperty Name="insu_sUsuarioModificacion" ColumnName="insu_sUsuarioModificacion" />
+          <ScalarProperty Name="insu_dFechaCreacion" ColumnName="insu_dFechaCreacion" />
+          <ScalarProperty Name="insu_vIPCreacion" ColumnName="insu_vIPCreacion" />
+          <ScalarProperty Name="insu_sUsuarioCreacion" ColumnName="insu_sUsuarioCreacion" />
+          <ScalarProperty Name="insu_sEstadoId" ColumnName="insu_sEstadoId" />
+          <ScalarProperty Name="insu_dFechaRegistro" ColumnName="insu_dFechaRegistro" />
+          <ScalarProperty Name="insu_vCodigoUnicoFabrica" ColumnName="insu_vCodigoUnicoFabrica" />
+          <ScalarProperty Name="insu_vPrefijoNumeracion" ColumnName="insu_vPrefijoNumeracion" />
+          <ScalarProperty Name="insu_sInsumoTipoId" ColumnName="insu_sInsumoTipoId" />
+          <ScalarProperty Name="insu_iMovimientoId" ColumnName="insu_iMovimientoId" />
+          <ScalarProperty Name="insu_iInsumoId" ColumnName="insu_iInsumoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AL_INSUMOHISTORICO">
+      <EntityTypeMapping TypeName="BD_SGACModel.AL_INSUMOHISTORICO">
+        <MappingFragment StoreEntitySet="AL_INSUMOHISTORICO">
+          <ScalarProperty Name="inhi_dFechaModificacion" ColumnName="inhi_dFechaModificacion" />
+          <ScalarProperty Name="inhi_vIPModificacion" ColumnName="inhi_vIPModificacion" />
+          <ScalarProperty Name="inhi_sUsuarioModificacion" ColumnName="inhi_sUsuarioModificacion" />
+          <ScalarProperty Name="inhi_dFechaCreacion" ColumnName="inhi_dFechaCreacion" />
+          <ScalarProperty Name="inhi_vIPCreacion" ColumnName="inhi_vIPCreacion" />
+          <ScalarProperty Name="inhi_sUsuarioCreacion" ColumnName="inhi_sUsuarioCreacion" />
+          <ScalarProperty Name="inhi_sEstadoId" ColumnName="inhi_sEstadoId" />
+          <ScalarProperty Name="inhi_vObservacion" ColumnName="inhi_vObservacion" />
+          <ScalarProperty Name="inhi_dFechaRegistro" ColumnName="inhi_dFechaRegistro" />
+          <ScalarProperty Name="inhi_iInsumoId" ColumnName="inhi_iInsumoId" />
+          <ScalarProperty Name="inhi_iInsumoHistoricoId" ColumnName="inhi_iInsumoHistoricoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AL_MOVIMIENTO">
+      <EntityTypeMapping TypeName="BD_SGACModel.AL_MOVIMIENTO">
+        <MappingFragment StoreEntitySet="AL_MOVIMIENTO">
+          <ScalarProperty Name="movi_dFechaModificacion" ColumnName="movi_dFechaModificacion" />
+          <ScalarProperty Name="movi_vIPModificacion" ColumnName="movi_vIPModificacion" />
+          <ScalarProperty Name="movi_sUsuarioModificacion" ColumnName="movi_sUsuarioModificacion" />
+          <ScalarProperty Name="movi_dFechaCreacion" ColumnName="movi_dFechaCreacion" />
+          <ScalarProperty Name="movi_vIPCreacion" ColumnName="movi_vIPCreacion" />
+          <ScalarProperty Name="movi_sUsuarioCreacion" ColumnName="movi_sUsuarioCreacion" />
+          <ScalarProperty Name="movi_sEstadoId" ColumnName="movi_sEstadoId" />
+          <ScalarProperty Name="movi_vActaRemision" ColumnName="movi_vActaRemision" />
+          <ScalarProperty Name="movi_vPrefijoNumeracion" ColumnName="movi_vPrefijoNumeracion" />
+          <ScalarProperty Name="movi_dFechaRegistro" ColumnName="movi_dFechaRegistro" />
+          <ScalarProperty Name="movi_sInsumoTipoId" ColumnName="movi_sInsumoTipoId" />
+          <ScalarProperty Name="movi_sBodegaDestinoId" ColumnName="movi_sBodegaDestinoId" />
+          <ScalarProperty Name="movi_sBovedaTipoIdDestino" ColumnName="movi_sBovedaTipoIdDestino" />
+          <ScalarProperty Name="movi_sOficinaConsularIdDestino" ColumnName="movi_sOficinaConsularIdDestino" />
+          <ScalarProperty Name="movi_sBodegaOrigenId" ColumnName="movi_sBodegaOrigenId" />
+          <ScalarProperty Name="movi_sBovedaTipoIdOrigen" ColumnName="movi_sBovedaTipoIdOrigen" />
+          <ScalarProperty Name="movi_sOficinaConsularIdOrigen" ColumnName="movi_sOficinaConsularIdOrigen" />
+          <ScalarProperty Name="movi_dFechaValija" ColumnName="movi_dFechaValija" />
+          <ScalarProperty Name="movi_cPedidoCodigo" ColumnName="movi_cPedidoCodigo" />
+          <ScalarProperty Name="movi_cMovimientoCodigo" ColumnName="movi_cMovimientoCodigo" />
+          <ScalarProperty Name="movi_sMovimientoMotivoId" ColumnName="movi_sMovimientoMotivoId" />
+          <ScalarProperty Name="movi_sMovimientoTipoId" ColumnName="movi_sMovimientoTipoId" />
+          <ScalarProperty Name="movi_iMovimientoId" ColumnName="movi_iMovimientoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AL_MOVIMIENTODETALLE">
+      <EntityTypeMapping TypeName="BD_SGACModel.AL_MOVIMIENTODETALLE">
+        <MappingFragment StoreEntitySet="AL_MOVIMIENTODETALLE">
+          <ScalarProperty Name="mode_dFechaModificacion" ColumnName="mode_dFechaModificacion" />
+          <ScalarProperty Name="mode_vIPModificacion" ColumnName="mode_vIPModificacion" />
+          <ScalarProperty Name="mode_sUsuarioModificacion" ColumnName="mode_sUsuarioModificacion" />
+          <ScalarProperty Name="mode_dFechaCreacion" ColumnName="mode_dFechaCreacion" />
+          <ScalarProperty Name="mode_vIPCreacion" ColumnName="mode_vIPCreacion" />
+          <ScalarProperty Name="mode_sUsuarioCreacion" ColumnName="mode_sUsuarioCreacion" />
+          <ScalarProperty Name="mode_sEstadoId" ColumnName="mode_sEstadoId" />
+          <ScalarProperty Name="mode_vObservacion" ColumnName="mode_vObservacion" />
+          <ScalarProperty Name="mode_ICantidad" ColumnName="mode_ICantidad" />
+          <ScalarProperty Name="mode_vRangoFinal" ColumnName="mode_vRangoFinal" />
+          <ScalarProperty Name="mode_vRangoInicial" ColumnName="mode_vRangoInicial" />
+          <ScalarProperty Name="mode_iActuacionDetalleId" ColumnName="mode_iActuacionDetalleId" />
+          <ScalarProperty Name="mode_iActuacionId" ColumnName="mode_iActuacionId" />
+          <ScalarProperty Name="mode_iMovimientoId" ColumnName="mode_iMovimientoId" />
+          <ScalarProperty Name="mode_iMovimientoDetalleId" ColumnName="mode_iMovimientoDetalleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AL_PEDIDO">
+      <EntityTypeMapping TypeName="BD_SGACModel.AL_PEDIDO">
+        <MappingFragment StoreEntitySet="AL_PEDIDO">
+          <ScalarProperty Name="pedi_dFechaModificacion" ColumnName="pedi_dFechaModificacion" />
+          <ScalarProperty Name="pedi_vIPModificacion" ColumnName="pedi_vIPModificacion" />
+          <ScalarProperty Name="pedi_sUsuarioModificacion" ColumnName="pedi_sUsuarioModificacion" />
+          <ScalarProperty Name="pedi_dFechaCreacion" ColumnName="pedi_dFechaCreacion" />
+          <ScalarProperty Name="pedi_vIPCreacion" ColumnName="pedi_vIPCreacion" />
+          <ScalarProperty Name="pedi_sUsuarioCreacion" ColumnName="pedi_sUsuarioCreacion" />
+          <ScalarProperty Name="pedi_sEstadoId" ColumnName="pedi_sEstadoId" />
+          <ScalarProperty Name="pedi_vObservacion" ColumnName="pedi_vObservacion" />
+          <ScalarProperty Name="pedi_ICantidad" ColumnName="pedi_ICantidad" />
+          <ScalarProperty Name="pedi_vDescripcion" ColumnName="pedi_vDescripcion" />
+          <ScalarProperty Name="pedi_vActaRemision" ColumnName="pedi_vActaRemision" />
+          <ScalarProperty Name="pedi_dFechaRegistro" ColumnName="pedi_dFechaRegistro" />
+          <ScalarProperty Name="pedi_sInsumoTipoId" ColumnName="pedi_sInsumoTipoId" />
+          <ScalarProperty Name="pedi_sBodegaDestinoId" ColumnName="pedi_sBodegaDestinoId" />
+          <ScalarProperty Name="pedi_sBovedaTipoIdDestino" ColumnName="pedi_sBovedaTipoIdDestino" />
+          <ScalarProperty Name="pedi_sOficinaConsularIdDestino" ColumnName="pedi_sOficinaConsularIdDestino" />
+          <ScalarProperty Name="pedi_sBodegaOrigenId" ColumnName="pedi_sBodegaOrigenId" />
+          <ScalarProperty Name="pedi_sBovedaTipoIdOrigen" ColumnName="pedi_sBovedaTipoIdOrigen" />
+          <ScalarProperty Name="pedi_sOficinaConsularIdOrigen" ColumnName="pedi_sOficinaConsularIdOrigen" />
+          <ScalarProperty Name="pedi_cPedidoCodigo" ColumnName="pedi_cPedidoCodigo" />
+          <ScalarProperty Name="pedi_sPedidoMotivoId" ColumnName="pedi_sPedidoMotivoId" />
+          <ScalarProperty Name="pedi_sPedidoTipoId" ColumnName="pedi_sPedidoTipoId" />
+          <ScalarProperty Name="pedi_iPedidoId" ColumnName="pedi_iPedidoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AL_PEDIDOHISTORICO">
+      <EntityTypeMapping TypeName="BD_SGACModel.AL_PEDIDOHISTORICO">
+        <MappingFragment StoreEntitySet="AL_PEDIDOHISTORICO">
+          <ScalarProperty Name="pehi_dFechaModificacion" ColumnName="pehi_dFechaModificacion" />
+          <ScalarProperty Name="pehi_vIPModificacion" ColumnName="pehi_vIPModificacion" />
+          <ScalarProperty Name="pehi_sUsuarioModificacion" ColumnName="pehi_sUsuarioModificacion" />
+          <ScalarProperty Name="pehi_dFechaCreacion" ColumnName="pehi_dFechaCreacion" />
+          <ScalarProperty Name="pehi_vIPCreacion" ColumnName="pehi_vIPCreacion" />
+          <ScalarProperty Name="pehi_sUsuarioCreacion" ColumnName="pehi_sUsuarioCreacion" />
+          <ScalarProperty Name="pehi_sEstadoId" ColumnName="pehi_sEstadoId" />
+          <ScalarProperty Name="pehi_vObservacion" ColumnName="pehi_vObservacion" />
+          <ScalarProperty Name="pehi_sMotivoId" ColumnName="pehi_sMotivoId" />
+          <ScalarProperty Name="pehi_dFechaRegistro" ColumnName="pehi_dFechaRegistro" />
+          <ScalarProperty Name="pehi_iPedidoId" ColumnName="pehi_iPedidoId" />
+          <ScalarProperty Name="pehi_iPedidoHistoricoId" ColumnName="pehi_iPedidoHistoricoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_PERFILATENCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_PERFILATENCION">
+        <MappingFragment StoreEntitySet="CL_PERFILATENCION">
+          <ScalarProperty Name="peat_dFechaModificacion" ColumnName="peat_dFechaModificacion" />
+          <ScalarProperty Name="peat_vIPModificacion" ColumnName="peat_vIPModificacion" />
+          <ScalarProperty Name="peat_sUsuarioModificacion" ColumnName="peat_sUsuarioModificacion" />
+          <ScalarProperty Name="peat_dFechaCreacion" ColumnName="peat_dFechaCreacion" />
+          <ScalarProperty Name="peat_vIPCreacion" ColumnName="peat_vIPCreacion" />
+          <ScalarProperty Name="peat_sUsuarioCreacion" ColumnName="peat_sUsuarioCreacion" />
+          <ScalarProperty Name="peat_cEstado" ColumnName="peat_cEstado" />
+          <ScalarProperty Name="peat_ITiempoAtencion" ColumnName="peat_ITiempoAtencion" />
+          <ScalarProperty Name="peat_INumeroTicket" ColumnName="peat_INumeroTicket" />
+          <ScalarProperty Name="peat_vDescripcion" ColumnName="peat_vDescripcion" />
+          <ScalarProperty Name="peat_sOficinaConsularId" ColumnName="peat_sOficinaConsularId" />
+          <ScalarProperty Name="peat_IPerfilId" ColumnName="peat_IPerfilId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_SERVICIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_SERVICIO">
+        <MappingFragment StoreEntitySet="CL_SERVICIO">
+          <ScalarProperty Name="serv_dFechaModificacion" ColumnName="serv_dFechaModificacion" />
+          <ScalarProperty Name="serv_vIPModificacion" ColumnName="serv_vIPModificacion" />
+          <ScalarProperty Name="serv_sUsuarioModificacion" ColumnName="serv_sUsuarioModificacion" />
+          <ScalarProperty Name="serv_dFechaCreacion" ColumnName="serv_dFechaCreacion" />
+          <ScalarProperty Name="serv_vIPCreacion" ColumnName="serv_vIPCreacion" />
+          <ScalarProperty Name="serv_sUsuarioCreacion" ColumnName="serv_sUsuarioCreacion" />
+          <ScalarProperty Name="serv_cEstado" ColumnName="serv_cEstado" />
+          <ScalarProperty Name="serv_sTipo" ColumnName="serv_sTipo" />
+          <ScalarProperty Name="serv_sServicioIdCab" ColumnName="serv_sServicioIdCab" />
+          <ScalarProperty Name="serv_IOrden" ColumnName="serv_IOrden" />
+          <ScalarProperty Name="serv_vDescripcion" ColumnName="serv_vDescripcion" />
+          <ScalarProperty Name="serv_sOficinaConsularId" ColumnName="serv_sOficinaConsularId" />
+          <ScalarProperty Name="serv_sServicioId" ColumnName="serv_sServicioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_TELEVISOR">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_TELEVISOR">
+        <MappingFragment StoreEntitySet="CL_TELEVISOR">
+          <ScalarProperty Name="telv_dFechaModificacion" ColumnName="telv_dFechaModificacion" />
+          <ScalarProperty Name="telv_vIPModificacion" ColumnName="telv_vIPModificacion" />
+          <ScalarProperty Name="telv_sUsuarioModificacion" ColumnName="telv_sUsuarioModificacion" />
+          <ScalarProperty Name="telv_dFechaCreacion" ColumnName="telv_dFechaCreacion" />
+          <ScalarProperty Name="telv_vIPCreacion" ColumnName="telv_vIPCreacion" />
+          <ScalarProperty Name="telv_sUsuarioCreacion" ColumnName="telv_sUsuarioCreacion" />
+          <ScalarProperty Name="telv_cEstado" ColumnName="telv_cEstado" />
+          <ScalarProperty Name="telv_vCaracteristicas" ColumnName="telv_vCaracteristicas" />
+          <ScalarProperty Name="telv_vSerie" ColumnName="telv_vSerie" />
+          <ScalarProperty Name="telv_vModelo" ColumnName="telv_vModelo" />
+          <ScalarProperty Name="telv_vMarca" ColumnName="telv_vMarca" />
+          <ScalarProperty Name="telv_vDescripcion" ColumnName="telv_vDescripcion" />
+          <ScalarProperty Name="telv_sOficinaConsularId" ColumnName="telv_sOficinaConsularId" />
+          <ScalarProperty Name="telv_sTelevisorId" ColumnName="telv_sTelevisorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_TICKET">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_TICKET">
+        <MappingFragment StoreEntitySet="CL_TICKET">
+          <ScalarProperty Name="tick_sVentanillaId" ColumnName="tick_sVentanillaId" />
+          <ScalarProperty Name="tick_dFechaModificacion" ColumnName="tick_dFechaModificacion" />
+          <ScalarProperty Name="tick_vIPModificacion" ColumnName="tick_vIPModificacion" />
+          <ScalarProperty Name="tick_sUsuarioModificacion" ColumnName="tick_sUsuarioModificacion" />
+          <ScalarProperty Name="tick_dFechaCreacion" ColumnName="tick_dFechaCreacion" />
+          <ScalarProperty Name="tick_vIPCreacion" ColumnName="tick_vIPCreacion" />
+          <ScalarProperty Name="tick_sUsuarioCreacion" ColumnName="tick_sUsuarioCreacion" />
+          <ScalarProperty Name="tick_cEstado" ColumnName="tick_cEstado" />
+          <ScalarProperty Name="tick_sUsuarioAtendio" ColumnName="tick_sUsuarioAtendio" />
+          <ScalarProperty Name="tick_vLLamada" ColumnName="tick_vLLamada" />
+          <ScalarProperty Name="tick_sTicketeraId" ColumnName="tick_sTicketeraId" />
+          <ScalarProperty Name="tick_sTipoEstado" ColumnName="tick_sTipoEstado" />
+          <ScalarProperty Name="tick_sTamanoTicket" ColumnName="tick_sTamanoTicket" />
+          <ScalarProperty Name="tick_sTipoCliente" ColumnName="tick_sTipoCliente" />
+          <ScalarProperty Name="tick_sPrioridadId" ColumnName="tick_sPrioridadId" />
+          <ScalarProperty Name="tick_dAtencionFinal" ColumnName="tick_dAtencionFinal" />
+          <ScalarProperty Name="tick_dAtencionInicio" ColumnName="tick_dAtencionInicio" />
+          <ScalarProperty Name="tick_dFechaHoraGeneracion" ColumnName="tick_dFechaHoraGeneracion" />
+          <ScalarProperty Name="tick_iNumero" ColumnName="tick_iNumero" />
+          <ScalarProperty Name="tick_iPersonalId" ColumnName="tick_iPersonalId" />
+          <ScalarProperty Name="tick_sTipoServicioId" ColumnName="tick_sTipoServicioId" />
+          <ScalarProperty Name="tick_iTicketId" ColumnName="tick_iTicketId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_TICKETERA">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_TICKETERA">
+        <MappingFragment StoreEntitySet="CL_TICKETERA">
+          <ScalarProperty Name="tira_dFechaModificacion" ColumnName="tira_dFechaModificacion" />
+          <ScalarProperty Name="tira_vIPModificacion" ColumnName="tira_vIPModificacion" />
+          <ScalarProperty Name="tira_sUsuarioModificacion" ColumnName="tira_sUsuarioModificacion" />
+          <ScalarProperty Name="tira_dFechaCreacion" ColumnName="tira_dFechaCreacion" />
+          <ScalarProperty Name="tira_vIPCreacion" ColumnName="tira_vIPCreacion" />
+          <ScalarProperty Name="tira_sUsuarioCreacion" ColumnName="tira_sUsuarioCreacion" />
+          <ScalarProperty Name="tira_cEstado" ColumnName="tira_cEstado" />
+          <ScalarProperty Name="tira_vCaracteristicas" ColumnName="tira_vCaracteristicas" />
+          <ScalarProperty Name="tira_vSerie" ColumnName="tira_vSerie" />
+          <ScalarProperty Name="tira_vModelo" ColumnName="tira_vModelo" />
+          <ScalarProperty Name="tira_vMarca" ColumnName="tira_vMarca" />
+          <ScalarProperty Name="tira_vNombre" ColumnName="tira_vNombre" />
+          <ScalarProperty Name="tira_sOficinaConsularId" ColumnName="tira_sOficinaConsularId" />
+          <ScalarProperty Name="tira_sTicketeraId" ColumnName="tira_sTicketeraId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_VENTANILLA">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_VENTANILLA">
+        <MappingFragment StoreEntitySet="CL_VENTANILLA">
+          <ScalarProperty Name="vent_dFechaModificacion" ColumnName="vent_dFechaModificacion" />
+          <ScalarProperty Name="vent_vIPModificacion" ColumnName="vent_vIPModificacion" />
+          <ScalarProperty Name="vent_sUsuarioModificacion" ColumnName="vent_sUsuarioModificacion" />
+          <ScalarProperty Name="vent_dFechaCreacion" ColumnName="vent_dFechaCreacion" />
+          <ScalarProperty Name="vent_vIPCreacion" ColumnName="vent_vIPCreacion" />
+          <ScalarProperty Name="vent_sUsuarioCreacion" ColumnName="vent_sUsuarioCreacion" />
+          <ScalarProperty Name="vent_cEstado" ColumnName="vent_cEstado" />
+          <ScalarProperty Name="vent_sSectorId" ColumnName="vent_sSectorId" />
+          <ScalarProperty Name="vent_INumeroOrden" ColumnName="vent_INumeroOrden" />
+          <ScalarProperty Name="vent_vDescripcion" ColumnName="vent_vDescripcion" />
+          <ScalarProperty Name="vent_sOficinaConsularId" ColumnName="vent_sOficinaConsularId" />
+          <ScalarProperty Name="vent_sVentanillaId" ColumnName="vent_sVentanillaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_VENTANILLASERVICIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_VENTANILLASERVICIO">
+        <MappingFragment StoreEntitySet="CL_VENTANILLASERVICIO">
+          <ScalarProperty Name="vede_dFechaModificacion" ColumnName="vede_dFechaModificacion" />
+          <ScalarProperty Name="vede_vIPModificacion" ColumnName="vede_vIPModificacion" />
+          <ScalarProperty Name="vede_sUsuarioModificacion" ColumnName="vede_sUsuarioModificacion" />
+          <ScalarProperty Name="vede_dFechaCreacion" ColumnName="vede_dFechaCreacion" />
+          <ScalarProperty Name="vede_vIPCreacion" ColumnName="vede_vIPCreacion" />
+          <ScalarProperty Name="vede_sUsuarioCreacion" ColumnName="vede_sUsuarioCreacion" />
+          <ScalarProperty Name="vede_cEstado" ColumnName="vede_cEstado" />
+          <ScalarProperty Name="vede_IObligatorio" ColumnName="vede_IObligatorio" />
+          <ScalarProperty Name="vede_sServicioId" ColumnName="vede_sServicioId" />
+          <ScalarProperty Name="vede_sVentanillaId" ColumnName="vede_sVentanillaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CL_VIDEO">
+      <EntityTypeMapping TypeName="BD_SGACModel.CL_VIDEO">
+        <MappingFragment StoreEntitySet="CL_VIDEO">
+          <ScalarProperty Name="vide_dFechaModificacion" ColumnName="vide_dFechaModificacion" />
+          <ScalarProperty Name="vide_vIPModificacion" ColumnName="vide_vIPModificacion" />
+          <ScalarProperty Name="vide_sUsuarioModificacion" ColumnName="vide_sUsuarioModificacion" />
+          <ScalarProperty Name="vide_dFechaCreacion" ColumnName="vide_dFechaCreacion" />
+          <ScalarProperty Name="vide_vIPCreacion" ColumnName="vide_vIPCreacion" />
+          <ScalarProperty Name="vide_sUsuarioCreacion" ColumnName="vide_sUsuarioCreacion" />
+          <ScalarProperty Name="vide_cEstado" ColumnName="vide_cEstado" />
+          <ScalarProperty Name="vide_vUrl" ColumnName="vide_vUrl" />
+          <ScalarProperty Name="vide_IOrden" ColumnName="vide_IOrden" />
+          <ScalarProperty Name="vide_vDescripcion" ColumnName="vide_vDescripcion" />
+          <ScalarProperty Name="vide_sOficinaConsularId" ColumnName="vide_sOficinaConsularId" />
+          <ScalarProperty Name="vide_sVideoId" ColumnName="vide_sVideoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CO_CUENTACORRIENTE">
+      <EntityTypeMapping TypeName="BD_SGACModel.CO_CUENTACORRIENTE">
+        <MappingFragment StoreEntitySet="CO_CUENTACORRIENTE">
+          <ScalarProperty Name="cuco_dFechaModificacion" ColumnName="cuco_dFechaModificacion" />
+          <ScalarProperty Name="cuco_vIPModificacion" ColumnName="cuco_vIPModificacion" />
+          <ScalarProperty Name="cuco_sUsuarioModificacion" ColumnName="cuco_sUsuarioModificacion" />
+          <ScalarProperty Name="cuco_dFechaCreacion" ColumnName="cuco_dFechaCreacion" />
+          <ScalarProperty Name="cuco_vIPCreacion" ColumnName="cuco_vIPCreacion" />
+          <ScalarProperty Name="cuco_sUsuarioCreacion" ColumnName="cuco_sUsuarioCreacion" />
+          <ScalarProperty Name="cuco_cEstado" ColumnName="cuco_cEstado" />
+          <ScalarProperty Name="cuco_vObservacion" ColumnName="cuco_vObservacion" />
+          <ScalarProperty Name="cuco_sSituacionId" ColumnName="cuco_sSituacionId" />
+          <ScalarProperty Name="cuco_vSucursal" ColumnName="cuco_vSucursal" />
+          <ScalarProperty Name="cuco_vRepresentante" ColumnName="cuco_vRepresentante" />
+          <ScalarProperty Name="cuco_vNumero" ColumnName="cuco_vNumero" />
+          <ScalarProperty Name="cuco_sMonedaId" ColumnName="cuco_sMonedaId" />
+          <ScalarProperty Name="cuco_sBancoId" ColumnName="cuco_sBancoId" />
+          <ScalarProperty Name="cuco_sTipoId" ColumnName="cuco_sTipoId" />
+          <ScalarProperty Name="cuco_sOficinaConsularId" ColumnName="cuco_sOficinaConsularId" />
+          <ScalarProperty Name="cuco_sCuentaCorrienteId" ColumnName="cuco_sCuentaCorrienteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CO_REMESA">
+      <EntityTypeMapping TypeName="BD_SGACModel.CO_REMESA">
+        <MappingFragment StoreEntitySet="CO_REMESA">
+          <ScalarProperty Name="reme_dFechaModificacion" ColumnName="reme_dFechaModificacion" />
+          <ScalarProperty Name="reme_vIPModificacion" ColumnName="reme_vIPModificacion" />
+          <ScalarProperty Name="reme_sUsuarioModificacion" ColumnName="reme_sUsuarioModificacion" />
+          <ScalarProperty Name="reme_dFechaCreacion" ColumnName="reme_dFechaCreacion" />
+          <ScalarProperty Name="reme_vIPCreacion" ColumnName="reme_vIPCreacion" />
+          <ScalarProperty Name="reme_sUsuarioCreacion" ColumnName="reme_sUsuarioCreacion" />
+          <ScalarProperty Name="reme_sEstadoId" ColumnName="reme_sEstadoId" />
+          <ScalarProperty Name="reme_vObservacion" ColumnName="reme_vObservacion" />
+          <ScalarProperty Name="reme_vResponsableEnvio" ColumnName="reme_vResponsableEnvio" />
+          <ScalarProperty Name="reme_dFechaEnvio" ColumnName="reme_dFechaEnvio" />
+          <ScalarProperty Name="reme_FMonto" ColumnName="reme_FMonto" />
+          <ScalarProperty Name="reme_sMonedaId" ColumnName="reme_sMonedaId" />
+          <ScalarProperty Name="reme_vNumeroEnvio" ColumnName="reme_vNumeroEnvio" />
+          <ScalarProperty Name="reme_sCuentaCorrienteId" ColumnName="reme_sCuentaCorrienteId" />
+          <ScalarProperty Name="reme_cPeriodo" ColumnName="reme_cPeriodo" />
+          <ScalarProperty Name="reme_sOficinaConsularDestinoId" ColumnName="reme_sOficinaConsularDestinoId" />
+          <ScalarProperty Name="reme_sOficinaConsularOrigenId" ColumnName="reme_sOficinaConsularOrigenId" />
+          <ScalarProperty Name="reme_sTipoId" ColumnName="reme_sTipoId" />
+          <ScalarProperty Name="reme_iRemesaId" ColumnName="reme_iRemesaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CO_REMESADETALLE">
+      <EntityTypeMapping TypeName="BD_SGACModel.CO_REMESADETALLE">
+        <MappingFragment StoreEntitySet="CO_REMESADETALLE">
+          <ScalarProperty Name="rede_dFechaModificacion" ColumnName="rede_dFechaModificacion" />
+          <ScalarProperty Name="rede_vIPModificacion" ColumnName="rede_vIPModificacion" />
+          <ScalarProperty Name="rede_sUsuarioModificacion" ColumnName="rede_sUsuarioModificacion" />
+          <ScalarProperty Name="rede_dFechaCreacion" ColumnName="rede_dFechaCreacion" />
+          <ScalarProperty Name="rede_vIPCreacion" ColumnName="rede_vIPCreacion" />
+          <ScalarProperty Name="rede_sUsuarioCreacion" ColumnName="rede_sUsuarioCreacion" />
+          <ScalarProperty Name="rede_sEstadoId" ColumnName="rede_sEstadoId" />
+          <ScalarProperty Name="rede_bMesFlag" ColumnName="rede_bMesFlag" />
+          <ScalarProperty Name="rede_vObservacion" ColumnName="rede_vObservacion" />
+          <ScalarProperty Name="rede_sTarifarioId" ColumnName="rede_sTarifarioId" />
+          <ScalarProperty Name="rede_vRecurrente" ColumnName="rede_vRecurrente" />
+          <ScalarProperty Name="rede_vResponsableEnvio" ColumnName="rede_vResponsableEnvio" />
+          <ScalarProperty Name="rede_vNroVoucher" ColumnName="rede_vNroVoucher" />
+          <ScalarProperty Name="rede_FMonto" ColumnName="rede_FMonto" />
+          <ScalarProperty Name="rede_sMonedaId" ColumnName="rede_sMonedaId" />
+          <ScalarProperty Name="rede_FTipoCambioConsular" ColumnName="rede_FTipoCambioConsular" />
+          <ScalarProperty Name="rede_FTipoCambioBancario" ColumnName="rede_FTipoCambioBancario" />
+          <ScalarProperty Name="rede_dFechaEnvio" ColumnName="rede_dFechaEnvio" />
+          <ScalarProperty Name="rede_cPeriodo" ColumnName="rede_cPeriodo" />
+          <ScalarProperty Name="rede_sTipoId" ColumnName="rede_sTipoId" />
+          <ScalarProperty Name="rede_iRemesaId" ColumnName="rede_iRemesaId" />
+          <ScalarProperty Name="rede_iRemesaDetalleId" ColumnName="rede_iRemesaDetalleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CO_TRANSACCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.CO_TRANSACCION">
+        <MappingFragment StoreEntitySet="CO_TRANSACCION">
+          <ScalarProperty Name="tran_dFechaModificacion" ColumnName="tran_dFechaModificacion" />
+          <ScalarProperty Name="tran_vIPModificacion" ColumnName="tran_vIPModificacion" />
+          <ScalarProperty Name="tran_sUsuarioModificacion" ColumnName="tran_sUsuarioModificacion" />
+          <ScalarProperty Name="tran_dFechaCreacion" ColumnName="tran_dFechaCreacion" />
+          <ScalarProperty Name="tran_vIPCreacion" ColumnName="tran_vIPCreacion" />
+          <ScalarProperty Name="tran_sUsuarioCreacion" ColumnName="tran_sUsuarioCreacion" />
+          <ScalarProperty Name="tran_cEstado" ColumnName="tran_cEstado" />
+          <ScalarProperty Name="tran_vObservacion" ColumnName="tran_vObservacion" />
+          <ScalarProperty Name="tran_vFuncionarioEnvio" ColumnName="tran_vFuncionarioEnvio" />
+          <ScalarProperty Name="tran_cPeriodo" ColumnName="tran_cPeriodo" />
+          <ScalarProperty Name="tran_dFechaOperacion" ColumnName="tran_dFechaOperacion" />
+          <ScalarProperty Name="tran_vNumeroOperacion" ColumnName="tran_vNumeroOperacion" />
+          <ScalarProperty Name="tran_FSaldo" ColumnName="tran_FSaldo" />
+          <ScalarProperty Name="tran_FMonto" ColumnName="tran_FMonto" />
+          <ScalarProperty Name="tran_sMonedaId" ColumnName="tran_sMonedaId" />
+          <ScalarProperty Name="tran_sTipoId" ColumnName="tran_sTipoId" />
+          <ScalarProperty Name="tran_sMovimientoTipoId" ColumnName="tran_sMovimientoTipoId" />
+          <ScalarProperty Name="tran_sOficinaConsularId" ColumnName="tran_sOficinaConsularId" />
+          <ScalarProperty Name="tran_sCuentaCorrienteId" ColumnName="tran_sCuentaCorrienteId" />
+          <ScalarProperty Name="tran_iTransaccionId" ColumnName="tran_iTransaccionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTOMIGRATORIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTOMIGRATORIO">
+        <MappingFragment StoreEntitySet="RE_ACTOMIGRATORIO">
+          <ScalarProperty Name="acmi_dFechaModificacion" ColumnName="acmi_dFechaModificacion" />
+          <ScalarProperty Name="acmi_vIPModificacion" ColumnName="acmi_vIPModificacion" />
+          <ScalarProperty Name="acmi_sUsuarioModificacion" ColumnName="acmi_sUsuarioModificacion" />
+          <ScalarProperty Name="acmi_dFechaCreacion" ColumnName="acmi_dFechaCreacion" />
+          <ScalarProperty Name="acmi_vIPCreacion" ColumnName="acmi_vIPCreacion" />
+          <ScalarProperty Name="acmi_sUsuarioCreacion" ColumnName="acmi_sUsuarioCreacion" />
+          <ScalarProperty Name="acmi_sEstadoId" ColumnName="acmi_sEstadoId" />
+          <ScalarProperty Name="acmi_vObservaciones" ColumnName="acmi_vObservaciones" />
+          <ScalarProperty Name="acmi_vNumeroDocumentoAnterior" ColumnName="acmi_vNumeroDocumentoAnterior" />
+          <ScalarProperty Name="acmi_vNumeroDocumento" ColumnName="acmi_vNumeroDocumento" />
+          <ScalarProperty Name="acmi_dFechaExpiracion" ColumnName="acmi_dFechaExpiracion" />
+          <ScalarProperty Name="acmi_dFechaExpedicion" ColumnName="acmi_dFechaExpedicion" />
+          <ScalarProperty Name="acmi_vNumeroLamina" ColumnName="acmi_vNumeroLamina" />
+          <ScalarProperty Name="acmi_vNumeroExpediente" ColumnName="acmi_vNumeroExpediente" />
+          <ScalarProperty Name="acmi_sSubTipoId" ColumnName="acmi_sSubTipoId" />
+          <ScalarProperty Name="acmi_sTipoId" ColumnName="acmi_sTipoId" />
+          <ScalarProperty Name="acmi_sTipoDocumentoMigratorioId" ColumnName="acmi_sTipoDocumentoMigratorioId" />
+          <ScalarProperty Name="acmi_IFuncionarioId" ColumnName="acmi_IFuncionarioId" />
+          <ScalarProperty Name="acmi_iActuacionDetalleId" ColumnName="acmi_iActuacionDetalleId" />
+          <ScalarProperty Name="acmi_iActoMigratorioId" ColumnName="acmi_iActoMigratorioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTOMIGRATORIOFORMATO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTOMIGRATORIOFORMATO">
+        <MappingFragment StoreEntitySet="RE_ACTOMIGRATORIOFORMATO">
+          <ScalarProperty Name="amfr_vNumeroPasaporte" ColumnName="amfr_vNumeroPasaporte" />
+          <ScalarProperty Name="amfr_sTipoNumeroPasaporteId" ColumnName="amfr_sTipoNumeroPasaporteId" />
+          <ScalarProperty Name="amfr_dFechaModificacion" ColumnName="amfr_dFechaModificacion" />
+          <ScalarProperty Name="amfr_vIPModificacion" ColumnName="amfr_vIPModificacion" />
+          <ScalarProperty Name="amfr_sUsuarioModificacion" ColumnName="amfr_sUsuarioModificacion" />
+          <ScalarProperty Name="amfr_dFechaCreacion" ColumnName="amfr_dFechaCreacion" />
+          <ScalarProperty Name="amfr_vIPCreacion" ColumnName="amfr_vIPCreacion" />
+          <ScalarProperty Name="amfr_sUsuarioCreacion" ColumnName="amfr_sUsuarioCreacion" />
+          <ScalarProperty Name="amfr_cEstado" ColumnName="amfr_cEstado" />
+          <ScalarProperty Name="amfr_vObservaciones" ColumnName="amfr_vObservaciones" />
+          <ScalarProperty Name="amfr_vMotivoPrensa" ColumnName="amfr_vMotivoPrensa" />
+          <ScalarProperty Name="amfr_sCargoPrensaId" ColumnName="amfr_sCargoPrensaId" />
+          <ScalarProperty Name="amfr_vMedioComunicacionPrensa" ColumnName="amfr_vMedioComunicacionPrensa" />
+          <ScalarProperty Name="amfr_bFlagVisaPrensa" ColumnName="amfr_bFlagVisaPrensa" />
+          <ScalarProperty Name="amfr_vDocumentoAutoriza" ColumnName="amfr_vDocumentoAutoriza" />
+          <ScalarProperty Name="amfr_sCancilleriaSolicitaAutorizacionId" ColumnName="amfr_sCancilleriaSolicitaAutorizacionId" />
+          <ScalarProperty Name="amfr_vInstitucionRealizaVisaDiplomatica" ColumnName="amfr_vInstitucionRealizaVisaDiplomatica" />
+          <ScalarProperty Name="amfr_vInstitucionSolicitaVisaDiplomatica" ColumnName="amfr_vInstitucionSolicitaVisaDiplomatica" />
+          <ScalarProperty Name="amfr_vMotivoVisaDiplomatica" ColumnName="amfr_vMotivoVisaDiplomatica" />
+          <ScalarProperty Name="amfr_sCargoDiplomaticoId" ColumnName="amfr_sCargoDiplomaticoId" />
+          <ScalarProperty Name="amfr_bFlagVisaDiplomatica" ColumnName="amfr_bFlagVisaDiplomatica" />
+          <ScalarProperty Name="amfr_sCargoFuncionarioId" ColumnName="amfr_sCargoFuncionarioId" />
+          <ScalarProperty Name="amfr_dFechaDIGEMIN" ColumnName="amfr_dFechaDIGEMIN" />
+          <ScalarProperty Name="amfr_vNumDocumentoDIGEMIN" ColumnName="amfr_vNumDocumentoDIGEMIN" />
+          <ScalarProperty Name="amfr_sTipoDocumentoDIGEMINId" ColumnName="amfr_sTipoDocumentoDIGEMINId" />
+          <ScalarProperty Name="amfr_dFechaRREE" ColumnName="amfr_dFechaRREE" />
+          <ScalarProperty Name="amfr_vNumDocumentoRREE" ColumnName="amfr_vNumDocumentoRREE" />
+          <ScalarProperty Name="amfr_sTipoDocumentoRREEId" ColumnName="amfr_sTipoDocumentoRREEId" />
+          <ScalarProperty Name="amfr_sTipoAutorizacionId" ColumnName="amfr_sTipoAutorizacionId" />
+          <ScalarProperty Name="amfr_dPasaporteRevalidarFechaExpiracion" ColumnName="amfr_dPasaporteRevalidarFechaExpiracion" />
+          <ScalarProperty Name="amfr_dPasaporteRevalidarFechaExpedicion" ColumnName="amfr_dPasaporteRevalidarFechaExpedicion" />
+          <ScalarProperty Name="amfr_sPasaporteRevalidarOficinaMigracionId" ColumnName="amfr_sPasaporteRevalidarOficinaMigracionId" />
+          <ScalarProperty Name="amfr_sPasaporteRevalidarOficinaConsularId" ColumnName="amfr_sPasaporteRevalidarOficinaConsularId" />
+          <ScalarProperty Name="amfr_sDiasPermanencia" ColumnName="amfr_sDiasPermanencia" />
+          <ScalarProperty Name="amfr_vVisaCodificacion" ColumnName="amfr_vVisaCodificacion" />
+          <ScalarProperty Name="amfr_bAcuerdoProgramaFlag" ColumnName="amfr_bAcuerdoProgramaFlag" />
+          <ScalarProperty Name="amfr_sTitularFamiliaId" ColumnName="amfr_sTitularFamiliaId" />
+          <ScalarProperty Name="amfr_iActoMigratorioId" ColumnName="amfr_iActoMigratorioId" />
+          <ScalarProperty Name="amfr_iActoMigratorioFormatoId" ColumnName="amfr_iActoMigratorioFormatoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTONOTARIALCUERPO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTONOTARIALCUERPO">
+        <MappingFragment StoreEntitySet="RE_ACTONOTARIALCUERPO">
+          <ScalarProperty Name="ancu_dFechaModificacion" ColumnName="ancu_dFechaModificacion" />
+          <ScalarProperty Name="ancu_vIPModificacion" ColumnName="ancu_vIPModificacion" />
+          <ScalarProperty Name="ancu_sUsuarioModificacion" ColumnName="ancu_sUsuarioModificacion" />
+          <ScalarProperty Name="ancu_dFechaCreacion" ColumnName="ancu_dFechaCreacion" />
+          <ScalarProperty Name="ancu_vIPCreacion" ColumnName="ancu_vIPCreacion" />
+          <ScalarProperty Name="ancu_sUsuarioCreacion" ColumnName="ancu_sUsuarioCreacion" />
+          <ScalarProperty Name="ancu_cEstado" ColumnName="ancu_cEstado" />
+          <ScalarProperty Name="ancu_bFlagExtraprotocolarCuerpo" ColumnName="ancu_bFlagExtraprotocolarCuerpo" />
+          <ScalarProperty Name="ancu_vFirmaIlegible" ColumnName="ancu_vFirmaIlegible" />
+          <ScalarProperty Name="ancu_vCuerpo" ColumnName="ancu_vCuerpo" />
+          <ScalarProperty Name="ancu_iActoNotarialId" ColumnName="ancu_iActoNotarialId" />
+          <ScalarProperty Name="ancu_iActoNotarialCuerpoId" ColumnName="ancu_iActoNotarialCuerpoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTONOTARIALDOCUMENTO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTONOTARIALDOCUMENTO">
+        <MappingFragment StoreEntitySet="RE_ACTONOTARIALDOCUMENTO">
+          <ScalarProperty Name="ando_dFechaModificacion" ColumnName="ando_dFechaModificacion" />
+          <ScalarProperty Name="ando_vIPModificacion" ColumnName="ando_vIPModificacion" />
+          <ScalarProperty Name="ando_sUsuarioModificacion" ColumnName="ando_sUsuarioModificacion" />
+          <ScalarProperty Name="ando_dFechaCreacion" ColumnName="ando_dFechaCreacion" />
+          <ScalarProperty Name="ando_vIPCreacion" ColumnName="ando_vIPCreacion" />
+          <ScalarProperty Name="ando_sUsuarioCreacion" ColumnName="ando_sUsuarioCreacion" />
+          <ScalarProperty Name="ando_cEstado" ColumnName="ando_cEstado" />
+          <ScalarProperty Name="ando_vRutaArchivo" ColumnName="ando_vRutaArchivo" />
+          <ScalarProperty Name="ando_vDetalleDocumento" ColumnName="ando_vDetalleDocumento" />
+          <ScalarProperty Name="ando_vDescripcion" ColumnName="ando_vDescripcion" />
+          <ScalarProperty Name="ando_sSubTipoInformacionId" ColumnName="ando_sSubTipoInformacionId" />
+          <ScalarProperty Name="ando_sTipoInformacionId" ColumnName="ando_sTipoInformacionId" />
+          <ScalarProperty Name="ando_sTipoDocumentoId" ColumnName="ando_sTipoDocumentoId" />
+          <ScalarProperty Name="ando_iActoNotarialId" ColumnName="ando_iActoNotarialId" />
+          <ScalarProperty Name="ando_iActoNotarialDocumentoId" ColumnName="ando_iActoNotarialDocumentoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTONOTARIALPARTICIPANTE">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTONOTARIALPARTICIPANTE">
+        <MappingFragment StoreEntitySet="RE_ACTONOTARIALPARTICIPANTE">
+          <ScalarProperty Name="anpa_dFechaModificacion" ColumnName="anpa_dFechaModificacion" />
+          <ScalarProperty Name="anpa_vIPModificacion" ColumnName="anpa_vIPModificacion" />
+          <ScalarProperty Name="anpa_sUsuarioModificacion" ColumnName="anpa_sUsuarioModificacion" />
+          <ScalarProperty Name="anpa_dFechaCreacion" ColumnName="anpa_dFechaCreacion" />
+          <ScalarProperty Name="anpa_vIPCreacion" ColumnName="anpa_vIPCreacion" />
+          <ScalarProperty Name="anpa_sUsuarioCreacion" ColumnName="anpa_sUsuarioCreacion" />
+          <ScalarProperty Name="anpa_cEstado" ColumnName="anpa_cEstado" />
+          <ScalarProperty Name="anpa_bFlagHuella" ColumnName="anpa_bFlagHuella" />
+          <ScalarProperty Name="anpa_bFlagFirma" ColumnName="anpa_bFlagFirma" />
+          <ScalarProperty Name="anpa_sTipoParticipanteId" ColumnName="anpa_sTipoParticipanteId" />
+          <ScalarProperty Name="anpa_iEmpresaId" ColumnName="anpa_iEmpresaId" />
+          <ScalarProperty Name="anpa_iPersonaId" ColumnName="anpa_iPersonaId" />
+          <ScalarProperty Name="anpa_iActoNotarialId" ColumnName="anpa_iActoNotarialId" />
+          <ScalarProperty Name="anpa_iActoNotarialParticipanteId" ColumnName="anpa_iActoNotarialParticipanteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTONOTARIALSEGUIMIENTO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTONOTARIALSEGUIMIENTO">
+        <MappingFragment StoreEntitySet="RE_ACTONOTARIALSEGUIMIENTO">
+          <ScalarProperty Name="anse_dFechaModificacion" ColumnName="anse_dFechaModificacion" />
+          <ScalarProperty Name="anse_vIPModificacion" ColumnName="anse_vIPModificacion" />
+          <ScalarProperty Name="anse_sUsuarioModificacion" ColumnName="anse_sUsuarioModificacion" />
+          <ScalarProperty Name="anse_dFechaCreacion" ColumnName="anse_dFechaCreacion" />
+          <ScalarProperty Name="anse_vIPCreacion" ColumnName="anse_vIPCreacion" />
+          <ScalarProperty Name="anse_sUsuarioCreacion" ColumnName="anse_sUsuarioCreacion" />
+          <ScalarProperty Name="anse_cEstado" ColumnName="anse_cEstado" />
+          <ScalarProperty Name="anse_dFechaRegistro" ColumnName="anse_dFechaRegistro" />
+          <ScalarProperty Name="anse_sEtapaId" ColumnName="anse_sEtapaId" />
+          <ScalarProperty Name="anse_iActoNotarialId" ColumnName="anse_iActoNotarialId" />
+          <ScalarProperty Name="anse_iActoNotarialSeguimientoId" ColumnName="anse_iActoNotarialSeguimientoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTUACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTUACION">
+        <MappingFragment StoreEntitySet="RE_ACTUACION">
+          <ScalarProperty Name="actu_iEmpresaRecurrenteId" ColumnName="actu_iEmpresaRecurrenteId" />
+          <ScalarProperty Name="actu_dFechaModificacion" ColumnName="actu_dFechaModificacion" />
+          <ScalarProperty Name="actu_vIPModificacion" ColumnName="actu_vIPModificacion" />
+          <ScalarProperty Name="actu_sUsuarioModificacion" ColumnName="actu_sUsuarioModificacion" />
+          <ScalarProperty Name="actu_dFechaCreacion" ColumnName="actu_dFechaCreacion" />
+          <ScalarProperty Name="actu_vIPCreacion" ColumnName="actu_vIPCreacion" />
+          <ScalarProperty Name="actu_sUsuarioCreacion" ColumnName="actu_sUsuarioCreacion" />
+          <ScalarProperty Name="actu_sEstado" ColumnName="actu_sEstado" />
+          <ScalarProperty Name="actu_dFechaRegistro" ColumnName="actu_dFechaRegistro" />
+          <ScalarProperty Name="actu_IFuncionarioId" ColumnName="actu_IFuncionarioId" />
+          <ScalarProperty Name="actu_iPersonaRecurrenteId" ColumnName="actu_iPersonaRecurrenteId" />
+          <ScalarProperty Name="actu_FCantidad" ColumnName="actu_FCantidad" />
+          <ScalarProperty Name="actu_sOficinaConsularId" ColumnName="actu_sOficinaConsularId" />
+          <ScalarProperty Name="actu_iActuacionId" ColumnName="actu_iActuacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTUACIONADJUNTO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTUACIONADJUNTO">
+        <MappingFragment StoreEntitySet="RE_ACTUACIONADJUNTO">
+          <ScalarProperty Name="acad_bDigitalizadoCorrectaFlag" ColumnName="acad_bDigitalizadoCorrectaFlag" />
+          <ScalarProperty Name="acad_IDigitalizadoFuncionarioId" ColumnName="acad_IDigitalizadoFuncionarioId" />
+          <ScalarProperty Name="acad_dFechaModificacion" ColumnName="acad_dFechaModificacion" />
+          <ScalarProperty Name="acad_vIPModificacion" ColumnName="acad_vIPModificacion" />
+          <ScalarProperty Name="acad_sUsuarioModificacion" ColumnName="acad_sUsuarioModificacion" />
+          <ScalarProperty Name="acad_dFechaCreacion" ColumnName="acad_dFechaCreacion" />
+          <ScalarProperty Name="acad_vIPCreacion" ColumnName="acad_vIPCreacion" />
+          <ScalarProperty Name="acad_sUsuarioCreacion" ColumnName="acad_sUsuarioCreacion" />
+          <ScalarProperty Name="acad_cEstado" ColumnName="acad_cEstado" />
+          <ScalarProperty Name="acad_vDescripcion" ColumnName="acad_vDescripcion" />
+          <ScalarProperty Name="acad_vNombreArchivo" ColumnName="acad_vNombreArchivo" />
+          <ScalarProperty Name="acad_sAdjuntoTipoId" ColumnName="acad_sAdjuntoTipoId" />
+          <ScalarProperty Name="acad_iActuacionDetalleId" ColumnName="acad_iActuacionDetalleId" />
+          <ScalarProperty Name="acad_iActuacionAdjuntoId" ColumnName="acad_iActuacionAdjuntoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTUACIONDETALLE">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTUACIONDETALLE">
+        <MappingFragment StoreEntitySet="RE_ACTUACIONDETALLE">
+          <ScalarProperty Name="acde_dFechaModificacion" ColumnName="acde_dFechaModificacion" />
+          <ScalarProperty Name="acde_vIPModificacion" ColumnName="acde_vIPModificacion" />
+          <ScalarProperty Name="acde_sUsuarioModificacion" ColumnName="acde_sUsuarioModificacion" />
+          <ScalarProperty Name="acde_dFechaCreacion" ColumnName="acde_dFechaCreacion" />
+          <ScalarProperty Name="acde_vIPCreacion" ColumnName="acde_vIPCreacion" />
+          <ScalarProperty Name="acde_sUsuarioCreacion" ColumnName="acde_sUsuarioCreacion" />
+          <ScalarProperty Name="acde_sEstadoId" ColumnName="acde_sEstadoId" />
+          <ScalarProperty Name="acde_iReferenciaId" ColumnName="acde_iReferenciaId" />
+          <ScalarProperty Name="acde_vMotivoAnulacion" ColumnName="acde_vMotivoAnulacion" />
+          <ScalarProperty Name="acde_IFuncionarioAnulaId" ColumnName="acde_IFuncionarioAnulaId" />
+          <ScalarProperty Name="acde_vNotas" ColumnName="acde_vNotas" />
+          <ScalarProperty Name="acde_IImpresionFuncionarioId" ColumnName="acde_IImpresionFuncionarioId" />
+          <ScalarProperty Name="acde_IFuncionarioContactoId" ColumnName="acde_IFuncionarioContactoId" />
+          <ScalarProperty Name="acde_IFuncionarioFirmanteId" ColumnName="acde_IFuncionarioFirmanteId" />
+          <ScalarProperty Name="acde_ICorrelativoTarifario" ColumnName="acde_ICorrelativoTarifario" />
+          <ScalarProperty Name="acde_ICorrelativoActuacion" ColumnName="acde_ICorrelativoActuacion" />
+          <ScalarProperty Name="acde_bRequisitosFlag" ColumnName="acde_bRequisitosFlag" />
+          <ScalarProperty Name="acde_dFechaRegistro" ColumnName="acde_dFechaRegistro" />
+          <ScalarProperty Name="acde_sItem" ColumnName="acde_sItem" />
+          <ScalarProperty Name="acde_sTarifarioId" ColumnName="acde_sTarifarioId" />
+          <ScalarProperty Name="acde_iActuacionId" ColumnName="acde_iActuacionId" />
+          <ScalarProperty Name="acde_iActuacionDetalleId" ColumnName="acde_iActuacionDetalleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTUACIONINSUMODETALLE">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTUACIONINSUMODETALLE">
+        <MappingFragment StoreEntitySet="RE_ACTUACIONINSUMODETALLE">
+          <ScalarProperty Name="aide_dFechaModificacion" ColumnName="aide_dFechaModificacion" />
+          <ScalarProperty Name="aide_vIPModificacion" ColumnName="aide_vIPModificacion" />
+          <ScalarProperty Name="aide_sUsuarioModificacion" ColumnName="aide_sUsuarioModificacion" />
+          <ScalarProperty Name="aide_dFechaCreacion" ColumnName="aide_dFechaCreacion" />
+          <ScalarProperty Name="aide_vIPCreacion" ColumnName="aide_vIPCreacion" />
+          <ScalarProperty Name="aide_sUsuarioCreacion" ColumnName="aide_sUsuarioCreacion" />
+          <ScalarProperty Name="aide_cEstado" ColumnName="aide_cEstado" />
+          <ScalarProperty Name="aide_dFechaImpresion" ColumnName="aide_dFechaImpresion" />
+          <ScalarProperty Name="aide_bFlagImpresion" ColumnName="aide_bFlagImpresion" />
+          <ScalarProperty Name="aide_sUsuarioVinculacionId" ColumnName="aide_sUsuarioVinculacionId" />
+          <ScalarProperty Name="aide_dFechaVinculacion" ColumnName="aide_dFechaVinculacion" />
+          <ScalarProperty Name="aide_iInsumoId" ColumnName="aide_iInsumoId" />
+          <ScalarProperty Name="aide_iActuacionDetalleId" ColumnName="aide_iActuacionDetalleId" />
+          <ScalarProperty Name="aide_iActuacionInsumoDetalleId" ColumnName="aide_iActuacionInsumoDetalleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTUACIONPARTICIPANTE">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTUACIONPARTICIPANTE">
+        <MappingFragment StoreEntitySet="RE_ACTUACIONPARTICIPANTE">
+          <ScalarProperty Name="acpa_dFechaModificacion" ColumnName="acpa_dFechaModificacion" />
+          <ScalarProperty Name="acpa_vIPModificacion" ColumnName="acpa_vIPModificacion" />
+          <ScalarProperty Name="acpa_sUsuarioModificacion" ColumnName="acpa_sUsuarioModificacion" />
+          <ScalarProperty Name="acpa_dFechaCreacion" ColumnName="acpa_dFechaCreacion" />
+          <ScalarProperty Name="acpa_vIPCreacion" ColumnName="acpa_vIPCreacion" />
+          <ScalarProperty Name="acpa_sUsuarioCreacion" ColumnName="acpa_sUsuarioCreacion" />
+          <ScalarProperty Name="acpa_cEstado" ColumnName="acpa_cEstado" />
+          <ScalarProperty Name="acpa_sTipoVinculoId" ColumnName="acpa_sTipoVinculoId" />
+          <ScalarProperty Name="acpa_sTipoDatoId" ColumnName="acpa_sTipoDatoId" />
+          <ScalarProperty Name="acpa_sTipoParticipanteId" ColumnName="acpa_sTipoParticipanteId" />
+          <ScalarProperty Name="acpa_iEmpresaId" ColumnName="acpa_iEmpresaId" />
+          <ScalarProperty Name="acpa_iPersonaId" ColumnName="acpa_iPersonaId" />
+          <ScalarProperty Name="acpa_iActuacionDetalleId" ColumnName="acpa_iActuacionDetalleId" />
+          <ScalarProperty Name="acpa_iActuacionParticipanteId" ColumnName="acpa_iActuacionParticipanteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_EMPRESA">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_EMPRESA">
+        <MappingFragment StoreEntitySet="RE_EMPRESA">
+          <ScalarProperty Name="empr_dFechaModificacion" ColumnName="empr_dFechaModificacion" />
+          <ScalarProperty Name="empr_vIPModificacion" ColumnName="empr_vIPModificacion" />
+          <ScalarProperty Name="empr_sUsuarioModificacion" ColumnName="empr_sUsuarioModificacion" />
+          <ScalarProperty Name="empr_dFechaCreacion" ColumnName="empr_dFechaCreacion" />
+          <ScalarProperty Name="empr_vIPCreacion" ColumnName="empr_vIPCreacion" />
+          <ScalarProperty Name="empr_sUsuarioCreacion" ColumnName="empr_sUsuarioCreacion" />
+          <ScalarProperty Name="empr_cEstado" ColumnName="empr_cEstado" />
+          <ScalarProperty Name="empr_vCorreo" ColumnName="empr_vCorreo" />
+          <ScalarProperty Name="empr_vTelefono" ColumnName="empr_vTelefono" />
+          <ScalarProperty Name="empr_vActividadComercial" ColumnName="empr_vActividadComercial" />
+          <ScalarProperty Name="empr_vNumeroDocumento" ColumnName="empr_vNumeroDocumento" />
+          <ScalarProperty Name="empr_vRazonSocial" ColumnName="empr_vRazonSocial" />
+          <ScalarProperty Name="empr_sTipoDocumentoId" ColumnName="empr_sTipoDocumentoId" />
+          <ScalarProperty Name="empr_sTipoEmpresaId" ColumnName="empr_sTipoEmpresaId" />
+          <ScalarProperty Name="empr_iEmpresaId" ColumnName="empr_iEmpresaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_EMPRESARESIDENCIA">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_EMPRESARESIDENCIA">
+        <MappingFragment StoreEntitySet="RE_EMPRESARESIDENCIA">
+          <ScalarProperty Name="emre_dFechaModificacion" ColumnName="emre_dFechaModificacion" />
+          <ScalarProperty Name="emre_vIPModificacion" ColumnName="emre_vIPModificacion" />
+          <ScalarProperty Name="emre_sUsuarioModificacion" ColumnName="emre_sUsuarioModificacion" />
+          <ScalarProperty Name="emre_dFechaCreacion" ColumnName="emre_dFechaCreacion" />
+          <ScalarProperty Name="emre_vIPCreacion" ColumnName="emre_vIPCreacion" />
+          <ScalarProperty Name="emre_sUsuarioCreacion" ColumnName="emre_sUsuarioCreacion" />
+          <ScalarProperty Name="emre_cEstado" ColumnName="emre_cEstado" />
+          <ScalarProperty Name="emre_iResidenciaId" ColumnName="emre_iResidenciaId" />
+          <ScalarProperty Name="emre_iEmpresaId" ColumnName="emre_iEmpresaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_PERSONAFILIACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_PERSONAFILIACION">
+        <MappingFragment StoreEntitySet="RE_PERSONAFILIACION">
+          <ScalarProperty Name="pefi_dFechaModificacion" ColumnName="pefi_dFechaModificacion" />
+          <ScalarProperty Name="pefi_vIPModificacion" ColumnName="pefi_vIPModificacion" />
+          <ScalarProperty Name="pefi_sUsuarioModificacion" ColumnName="pefi_sUsuarioModificacion" />
+          <ScalarProperty Name="pefi_dFechaCreacion" ColumnName="pefi_dFechaCreacion" />
+          <ScalarProperty Name="pefi_vIPCreacion" ColumnName="pefi_vIPCreacion" />
+          <ScalarProperty Name="pefi_sUsuarioCreacion" ColumnName="pefi_sUsuarioCreacion" />
+          <ScalarProperty Name="pefi_cEstado" ColumnName="pefi_cEstado" />
+          <ScalarProperty Name="pefi_vNroDocumento" ColumnName="pefi_vNroDocumento" />
+          <ScalarProperty Name="pefi_sTipoFilacionId" ColumnName="pefi_sTipoFilacionId" />
+          <ScalarProperty Name="pefi_sNacionalidad" ColumnName="pefi_sNacionalidad" />
+          <ScalarProperty Name="pefi_dFechaNacimiento" ColumnName="pefi_dFechaNacimiento" />
+          <ScalarProperty Name="pefi_vLugarNacimiento" ColumnName="pefi_vLugarNacimiento" />
+          <ScalarProperty Name="pefi_vNombreFiliacion" ColumnName="pefi_vNombreFiliacion" />
+          <ScalarProperty Name="pefi_iPersonaId" ColumnName="pefi_iPersonaId" />
+          <ScalarProperty Name="pefi_iPersonaFilacionId" ColumnName="pefi_iPersonaFilacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_PERSONAFOTO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_PERSONAFOTO">
+        <MappingFragment StoreEntitySet="RE_PERSONAFOTO">
+          <ScalarProperty Name="pefo_dFechaModificacion" ColumnName="pefo_dFechaModificacion" />
+          <ScalarProperty Name="pefo_vIPModificacion" ColumnName="pefo_vIPModificacion" />
+          <ScalarProperty Name="pefo_sUsuarioModificacion" ColumnName="pefo_sUsuarioModificacion" />
+          <ScalarProperty Name="pefo_dFechaCreacion" ColumnName="pefo_dFechaCreacion" />
+          <ScalarProperty Name="pefo_vIPCreacion" ColumnName="pefo_vIPCreacion" />
+          <ScalarProperty Name="pefo_sUsuarioCreacion" ColumnName="pefo_sUsuarioCreacion" />
+          <ScalarProperty Name="pefo_cEstado" ColumnName="pefo_cEstado" />
+          <ScalarProperty Name="pefo_GFoto" ColumnName="pefo_GFoto" />
+          <ScalarProperty Name="pefo_sFotoTipoId" ColumnName="pefo_sFotoTipoId" />
+          <ScalarProperty Name="pefo_iPersonaId" ColumnName="pefo_iPersonaId" />
+          <ScalarProperty Name="pefo_iPersonaFotoId" ColumnName="pefo_iPersonaFotoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_PERSONAIDENTIFICACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_PERSONAIDENTIFICACION">
+        <MappingFragment StoreEntitySet="RE_PERSONAIDENTIFICACION">
+          <ScalarProperty Name="peid_dFechaModificacion" ColumnName="peid_dFechaModificacion" />
+          <ScalarProperty Name="peid_vIPModificacion" ColumnName="peid_vIPModificacion" />
+          <ScalarProperty Name="peid_sUsuarioModificacion" ColumnName="peid_sUsuarioModificacion" />
+          <ScalarProperty Name="peid_dFechaCreacion" ColumnName="peid_dFechaCreacion" />
+          <ScalarProperty Name="peid_vIPCreacion" ColumnName="peid_vIPCreacion" />
+          <ScalarProperty Name="peid_sUsuarioCreacion" ColumnName="peid_sUsuarioCreacion" />
+          <ScalarProperty Name="peid_cEstado" ColumnName="peid_cEstado" />
+          <ScalarProperty Name="peid_bActivoEnRune" ColumnName="peid_bActivoEnRune" />
+          <ScalarProperty Name="peid_vLugarRenovacion" ColumnName="peid_vLugarRenovacion" />
+          <ScalarProperty Name="peid_dFecRenovacion" ColumnName="peid_dFecRenovacion" />
+          <ScalarProperty Name="peid_vLugarExpedicion" ColumnName="peid_vLugarExpedicion" />
+          <ScalarProperty Name="peid_dFecExpedicion" ColumnName="peid_dFecExpedicion" />
+          <ScalarProperty Name="peid_dFecVcto" ColumnName="peid_dFecVcto" />
+          <ScalarProperty Name="peid_vDocumentoNumero" ColumnName="peid_vDocumentoNumero" />
+          <ScalarProperty Name="peid_sDocumentoTipoId" ColumnName="peid_sDocumentoTipoId" />
+          <ScalarProperty Name="peid_iPersonaId" ColumnName="peid_iPersonaId" />
+          <ScalarProperty Name="peid_iPersonaIdentificacionId" ColumnName="peid_iPersonaIdentificacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_PERSONARESIDENCIA">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_PERSONARESIDENCIA">
+        <MappingFragment StoreEntitySet="RE_PERSONARESIDENCIA">
+          <ScalarProperty Name="pere_dFechaModificacion" ColumnName="pere_dFechaModificacion" />
+          <ScalarProperty Name="pere_vIPModificacion" ColumnName="pere_vIPModificacion" />
+          <ScalarProperty Name="pere_sUsuarioModificacion" ColumnName="pere_sUsuarioModificacion" />
+          <ScalarProperty Name="pere_dFechaCreacion" ColumnName="pere_dFechaCreacion" />
+          <ScalarProperty Name="pere_vIPCreacion" ColumnName="pere_vIPCreacion" />
+          <ScalarProperty Name="pere_sUsuarioCreacion" ColumnName="pere_sUsuarioCreacion" />
+          <ScalarProperty Name="pere_cEstado" ColumnName="pere_cEstado" />
+          <ScalarProperty Name="pere_iResidenciaId" ColumnName="pere_iResidenciaId" />
+          <ScalarProperty Name="pere_iPersonaId" ColumnName="pere_iPersonaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_REGISTROUNICO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_REGISTROUNICO">
+        <MappingFragment StoreEntitySet="RE_REGISTROUNICO">
+          <ScalarProperty Name="reun_dFechaModificacion" ColumnName="reun_dFechaModificacion" />
+          <ScalarProperty Name="reun_vIPModificacion" ColumnName="reun_vIPModificacion" />
+          <ScalarProperty Name="reun_sUsuarioModificacion" ColumnName="reun_sUsuarioModificacion" />
+          <ScalarProperty Name="reun_dFechaCreacion" ColumnName="reun_dFechaCreacion" />
+          <ScalarProperty Name="reun_vIPCreacion" ColumnName="reun_vIPCreacion" />
+          <ScalarProperty Name="reun_sUsuarioCreacion" ColumnName="reun_sUsuarioCreacion" />
+          <ScalarProperty Name="reun_cEstado" ColumnName="reun_cEstado" />
+          <ScalarProperty Name="reun_vNombreConvenio" ColumnName="reun_vNombreConvenio" />
+          <ScalarProperty Name="reun_sOcupacionExtranjero" ColumnName="reun_sOcupacionExtranjero" />
+          <ScalarProperty Name="reun_sOcupacionPeru" ColumnName="reun_sOcupacionPeru" />
+          <ScalarProperty Name="reun_bBeneficiadoExterior" ColumnName="reun_bBeneficiadoExterior" />
+          <ScalarProperty Name="reun_bAportaSeguroSocial" ColumnName="reun_bAportaSeguroSocial" />
+          <ScalarProperty Name="reun_bAfiliadoAFP" ColumnName="reun_bAfiliadoAFP" />
+          <ScalarProperty Name="reun_bAfiliadoSeguroSocial" ColumnName="reun_bAfiliadoSeguroSocial" />
+          <ScalarProperty Name="reun_cCuandoRetornaAlPeru" ColumnName="reun_cCuandoRetornaAlPeru" />
+          <ScalarProperty Name="reun_bPiensaRetornarAlPeru" ColumnName="reun_bPiensaRetornarAlPeru" />
+          <ScalarProperty Name="reun_cViveExteriorDesde" ColumnName="reun_cViveExteriorDesde" />
+          <ScalarProperty Name="reun_vEmergenciaCorreoElectronico" ColumnName="reun_vEmergenciaCorreoElectronico" />
+          <ScalarProperty Name="reun_vEmergenciaDireccionPeru" ColumnName="reun_vEmergenciaDireccionPeru" />
+          <ScalarProperty Name="reun_vEmergenciaTelefono" ColumnName="reun_vEmergenciaTelefono" />
+          <ScalarProperty Name="reun_vEmergenciaCodigoPostal" ColumnName="reun_vEmergenciaCodigoPostal" />
+          <ScalarProperty Name="reun_vEmergenciaDireccionLocal" ColumnName="reun_vEmergenciaDireccionLocal" />
+          <ScalarProperty Name="reun_sEmergenciaRelacionId" ColumnName="reun_sEmergenciaRelacionId" />
+          <ScalarProperty Name="reun_vEmergenciaNombre" ColumnName="reun_vEmergenciaNombre" />
+          <ScalarProperty Name="reun_iPersonaId" ColumnName="reun_iPersonaId" />
+          <ScalarProperty Name="reun_iRegistroUnicoId" ColumnName="reun_iRegistroUnicoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AC_FUNCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.AC_FUNCION">
+        <MappingFragment StoreEntitySet="AC_FUNCION">
+          <ScalarProperty Name="func_vNombreFuncion" ColumnName="func_vNombreFuncion" />
+          <ScalarProperty Name="func_vNombreClase" ColumnName="func_vNombreClase" />
+          <ScalarProperty Name="func_vNombreEnsamblado" ColumnName="func_vNombreEnsamblado" />
+          <ScalarProperty Name="func_vEntidad" ColumnName="func_vEntidad" />
+          <ScalarProperty Name="func_vAccion" ColumnName="func_vAccion" />
+          <ScalarProperty Name="func_IFuncionId" ColumnName="func_IFuncionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AC_GLOBALIZACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.AC_GLOBALIZACION">
+        <MappingFragment StoreEntitySet="AC_GLOBALIZACION">
+          <ScalarProperty Name="glob_vEspCadena" ColumnName="glob_vEspCadena" />
+          <ScalarProperty Name="glob_vIngCadena" ColumnName="glob_vIngCadena" />
+          <ScalarProperty Name="glob_vNomComando" ColumnName="glob_vNomComando" />
+          <ScalarProperty Name="glob_IGlobalizacionId" ColumnName="glob_IGlobalizacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_FORMULARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_FORMULARIO">
+        <MappingFragment StoreEntitySet="SE_FORMULARIO">
+          <ScalarProperty Name="form_dFechaModificacion" ColumnName="form_dFechaModificacion" />
+          <ScalarProperty Name="form_vIPModificacion" ColumnName="form_vIPModificacion" />
+          <ScalarProperty Name="form_sUsuarioModificacion" ColumnName="form_sUsuarioModificacion" />
+          <ScalarProperty Name="form_dFechaCreacion" ColumnName="form_dFechaCreacion" />
+          <ScalarProperty Name="form_vIPCreacion" ColumnName="form_vIPCreacion" />
+          <ScalarProperty Name="form_sUsuarioCreacion" ColumnName="form_sUsuarioCreacion" />
+          <ScalarProperty Name="form_cEstado" ColumnName="form_cEstado" />
+          <ScalarProperty Name="form_bVisible" ColumnName="form_bVisible" />
+          <ScalarProperty Name="form_sOrden" ColumnName="form_sOrden" />
+          <ScalarProperty Name="form_vImagen" ColumnName="form_vImagen" />
+          <ScalarProperty Name="form_vRuta" ColumnName="form_vRuta" />
+          <ScalarProperty Name="form_sReferenciaId" ColumnName="form_sReferenciaId" />
+          <ScalarProperty Name="form_vNombre" ColumnName="form_vNombre" />
+          <ScalarProperty Name="form_sComponenteId" ColumnName="form_sComponenteId" />
+          <ScalarProperty Name="form_sAplicacionId" ColumnName="form_sAplicacionId" />
+          <ScalarProperty Name="form_sFormularioId" ColumnName="form_sFormularioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_ROLCONFIGURACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_ROLCONFIGURACION">
+        <MappingFragment StoreEntitySet="SE_ROLCONFIGURACION">
+          <ScalarProperty Name="roco_dFechaModificacion" ColumnName="roco_dFechaModificacion" />
+          <ScalarProperty Name="roco_vIPModificacion" ColumnName="roco_vIPModificacion" />
+          <ScalarProperty Name="roco_sUsuarioModificacion" ColumnName="roco_sUsuarioModificacion" />
+          <ScalarProperty Name="roco_dFechaCreacion" ColumnName="roco_dFechaCreacion" />
+          <ScalarProperty Name="roco_vIPCreacion" ColumnName="roco_vIPCreacion" />
+          <ScalarProperty Name="roco_sUsuarioCreacion" ColumnName="roco_sUsuarioCreacion" />
+          <ScalarProperty Name="roco_cEstado" ColumnName="roco_cEstado" />
+          <ScalarProperty Name="roco_cHorario" ColumnName="roco_cHorario" />
+          <ScalarProperty Name="roco_vNombre" ColumnName="roco_vNombre" />
+          <ScalarProperty Name="roco_vRolOpcion" ColumnName="roco_vRolOpcion" />
+          <ScalarProperty Name="roco_sRolTipoId" ColumnName="roco_sRolTipoId" />
+          <ScalarProperty Name="roco_sAplicacionId" ColumnName="roco_sAplicacionId" />
+          <ScalarProperty Name="roco_sRolConfiguracionId" ColumnName="roco_sRolConfiguracionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_ROLOPCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_ROLOPCION">
+        <MappingFragment StoreEntitySet="SE_ROLOPCION">
+          <ScalarProperty Name="roop_dFechaModificacion" ColumnName="roop_dFechaModificacion" />
+          <ScalarProperty Name="roop_vIPModificacion" ColumnName="roop_vIPModificacion" />
+          <ScalarProperty Name="roop_sUsuarioModificacion" ColumnName="roop_sUsuarioModificacion" />
+          <ScalarProperty Name="roop_dFechaCreacion" ColumnName="roop_dFechaCreacion" />
+          <ScalarProperty Name="roop_vIPCreacion" ColumnName="roop_vIPCreacion" />
+          <ScalarProperty Name="roop_sUsuarioCreacion" ColumnName="roop_sUsuarioCreacion" />
+          <ScalarProperty Name="roop_cEstado" ColumnName="roop_cEstado" />
+          <ScalarProperty Name="roop_vAcciones" ColumnName="roop_vAcciones" />
+          <ScalarProperty Name="roop_sFormularioId" ColumnName="roop_sFormularioId" />
+          <ScalarProperty Name="roop_sRolOpcionId" ColumnName="roop_sRolOpcionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_USUARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_USUARIO">
+        <MappingFragment StoreEntitySet="SE_USUARIO">
+          <ScalarProperty Name="usua_dFechaModificacion" ColumnName="usua_dFechaModificacion" />
+          <ScalarProperty Name="usua_vIPModificacion" ColumnName="usua_vIPModificacion" />
+          <ScalarProperty Name="usua_sUsuarioModificacion" ColumnName="usua_sUsuarioModificacion" />
+          <ScalarProperty Name="usua_dFechaCreacion" ColumnName="usua_dFechaCreacion" />
+          <ScalarProperty Name="usua_vIPCreacion" ColumnName="usua_vIPCreacion" />
+          <ScalarProperty Name="usua_sUsuarioCreacion" ColumnName="usua_sUsuarioCreacion" />
+          <ScalarProperty Name="usua_cEstado" ColumnName="usua_cEstado" />
+          <ScalarProperty Name="usua_vDireccionIP" ColumnName="usua_vDireccionIP" />
+          <ScalarProperty Name="usua_dFechaCaducidad" ColumnName="usua_dFechaCaducidad" />
+          <ScalarProperty Name="usua_sReferenciaId" ColumnName="usua_sReferenciaId" />
+          <ScalarProperty Name="usua_vDireccion" ColumnName="usua_vDireccion" />
+          <ScalarProperty Name="usua_vTelefono" ColumnName="usua_vTelefono" />
+          <ScalarProperty Name="usua_vCorreoElectronico" ColumnName="usua_vCorreoElectronico" />
+          <ScalarProperty Name="usua_vDocumentoNumero" ColumnName="usua_vDocumentoNumero" />
+          <ScalarProperty Name="usua_sDocumentoTipoId" ColumnName="usua_sDocumentoTipoId" />
+          <ScalarProperty Name="usua_sPersonaTipoId" ColumnName="usua_sPersonaTipoId" />
+          <ScalarProperty Name="usua_vNombres" ColumnName="usua_vNombres" />
+          <ScalarProperty Name="usua_vApellidoMaterno" ColumnName="usua_vApellidoMaterno" />
+          <ScalarProperty Name="usua_vApellidoPaterno" ColumnName="usua_vApellidoPaterno" />
+          <ScalarProperty Name="usua_vAlias" ColumnName="usua_vAlias" />
+          <ScalarProperty Name="usua_sEmpresaId" ColumnName="usua_sEmpresaId" />
+          <ScalarProperty Name="usua_sUsuarioId" ColumnName="usua_sUsuarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_USUARIOROL">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_USUARIOROL">
+        <MappingFragment StoreEntitySet="SE_USUARIOROL">
+          <ScalarProperty Name="usro_dFechaModificacion" ColumnName="usro_dFechaModificacion" />
+          <ScalarProperty Name="usro_vIPModificacion" ColumnName="usro_vIPModificacion" />
+          <ScalarProperty Name="usro_sUsuarioModificacion" ColumnName="usro_sUsuarioModificacion" />
+          <ScalarProperty Name="usro_dFechaCreacion" ColumnName="usro_dFechaCreacion" />
+          <ScalarProperty Name="usro_vIPCreacion" ColumnName="usro_vIPCreacion" />
+          <ScalarProperty Name="usro_sUsuarioCreacion" ColumnName="usro_sUsuarioCreacion" />
+          <ScalarProperty Name="usro_cEstado" ColumnName="usro_cEstado" />
+          <ScalarProperty Name="usro_sAcceso" ColumnName="usro_sAcceso" />
+          <ScalarProperty Name="usro_sOficinaConsularId" ColumnName="usro_sOficinaConsularId" />
+          <ScalarProperty Name="usro_sRolConfiguracionId" ColumnName="usro_sRolConfiguracionId" />
+          <ScalarProperty Name="usro_sGrupoId" ColumnName="usro_sGrupoId" />
+          <ScalarProperty Name="usro_sUsuarioId" ColumnName="usro_sUsuarioId" />
+          <ScalarProperty Name="usro_sUsuarioRolId" ColumnName="usro_sUsuarioRolId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_AUDITORIA">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_AUDITORIA">
+        <MappingFragment StoreEntitySet="SI_AUDITORIA">
+          <ScalarProperty Name="audi_dFechaModificacion" ColumnName="audi_dFechaModificacion" />
+          <ScalarProperty Name="audi_vIPModificacion" ColumnName="audi_vIPModificacion" />
+          <ScalarProperty Name="audi_sUsuarioModificacion" ColumnName="audi_sUsuarioModificacion" />
+          <ScalarProperty Name="audi_dFechaCreacion" ColumnName="audi_dFechaCreacion" />
+          <ScalarProperty Name="audi_vIPCreacion" ColumnName="audi_vIPCreacion" />
+          <ScalarProperty Name="audi_sUsuarioCreacion" ColumnName="audi_sUsuarioCreacion" />
+          <ScalarProperty Name="audi_cEstado" ColumnName="audi_cEstado" />
+          <ScalarProperty Name="audi_vComentario" ColumnName="audi_vComentario" />
+          <ScalarProperty Name="audi_vHostName" ColumnName="audi_vHostName" />
+          <ScalarProperty Name="audi_vValorNuevo" ColumnName="audi_vValorNuevo" />
+          <ScalarProperty Name="audi_vCampos" ColumnName="audi_vCampos" />
+          <ScalarProperty Name="audi_iClavePrimaria" ColumnName="audi_iClavePrimaria" />
+          <ScalarProperty Name="audi_sTablaId" ColumnName="audi_sTablaId" />
+          <ScalarProperty Name="audi_sOperacionResultadoId" ColumnName="audi_sOperacionResultadoId" />
+          <ScalarProperty Name="audi_sOperacionTipoId" ColumnName="audi_sOperacionTipoId" />
+          <ScalarProperty Name="audi_sFormularioId" ColumnName="audi_sFormularioId" />
+          <ScalarProperty Name="audi_iAuditoriaId" ColumnName="audi_iAuditoriaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_BOVEDA">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_BOVEDA">
+        <MappingFragment StoreEntitySet="SI_BOVEDA">
+          <ScalarProperty Name="bove_dFechaModificacion" ColumnName="bove_dFechaModificacion" />
+          <ScalarProperty Name="bove_vIPModificacion" ColumnName="bove_vIPModificacion" />
+          <ScalarProperty Name="bove_sUsuarioModificacion" ColumnName="bove_sUsuarioModificacion" />
+          <ScalarProperty Name="bove_dFechaCreacion" ColumnName="bove_dFechaCreacion" />
+          <ScalarProperty Name="bove_vIPCreacion" ColumnName="bove_vIPCreacion" />
+          <ScalarProperty Name="bove_sUsuarioCreacion" ColumnName="bove_sUsuarioCreacion" />
+          <ScalarProperty Name="bove_cEstado" ColumnName="bove_cEstado" />
+          <ScalarProperty Name="bove_vNombre" ColumnName="bove_vNombre" />
+          <ScalarProperty Name="bove_sOficinaConsularId" ColumnName="bove_sOficinaConsularId" />
+          <ScalarProperty Name="bove_sTipoId" ColumnName="bove_sTipoId" />
+          <ScalarProperty Name="bove_IBovedaId" ColumnName="bove_IBovedaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_FERIADO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_FERIADO">
+        <MappingFragment StoreEntitySet="SI_FERIADO">
+          <ScalarProperty Name="feri_dFechaModificacion" ColumnName="feri_dFechaModificacion" />
+          <ScalarProperty Name="feri_vIPModificacion" ColumnName="feri_vIPModificacion" />
+          <ScalarProperty Name="feri_sUsuarioModificacion" ColumnName="feri_sUsuarioModificacion" />
+          <ScalarProperty Name="feri_dFechaCreacion" ColumnName="feri_dFechaCreacion" />
+          <ScalarProperty Name="feri_vIPCreacion" ColumnName="feri_vIPCreacion" />
+          <ScalarProperty Name="feri_sUsuarioCreacion" ColumnName="feri_sUsuarioCreacion" />
+          <ScalarProperty Name="feri_cEstado" ColumnName="feri_cEstado" />
+          <ScalarProperty Name="feri_vDescripcion" ColumnName="feri_vDescripcion" />
+          <ScalarProperty Name="feri_sAnio" ColumnName="feri_sAnio" />
+          <ScalarProperty Name="feri_dFecha" ColumnName="feri_dFecha" />
+          <ScalarProperty Name="feri_IFeriadoId" ColumnName="feri_IFeriadoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_OFICINACOMPLEMENTARIA">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_OFICINACOMPLEMENTARIA">
+        <MappingFragment StoreEntitySet="SI_OFICINACOMPLEMENTARIA">
+          <ScalarProperty Name="ofcm_dFechaModificacion" ColumnName="ofcm_dFechaModificacion" />
+          <ScalarProperty Name="ofcm_vIPModificacion" ColumnName="ofcm_vIPModificacion" />
+          <ScalarProperty Name="ofcm_sUsuarioModificacion" ColumnName="ofcm_sUsuarioModificacion" />
+          <ScalarProperty Name="ofcm_dFechaCreacion" ColumnName="ofcm_dFechaCreacion" />
+          <ScalarProperty Name="ofcm_vIPCreacion" ColumnName="ofcm_vIPCreacion" />
+          <ScalarProperty Name="ofcm_sUsuarioCreacion" ColumnName="ofcm_sUsuarioCreacion" />
+          <ScalarProperty Name="ofcm_cEstado" ColumnName="ofcm_cEstado" />
+          <ScalarProperty Name="ofcm_vNombre" ColumnName="ofcm_vNombre" />
+          <ScalarProperty Name="ofcm_vCodigo" ColumnName="ofcm_vCodigo" />
+          <ScalarProperty Name="ofcm_sTipoId" ColumnName="ofcm_sTipoId" />
+          <ScalarProperty Name="ofcm_sOficinaComplementariaId" ColumnName="ofcm_sOficinaComplementariaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_PARAMETRO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_PARAMETRO">
+        <MappingFragment StoreEntitySet="SI_PARAMETRO">
+          <ScalarProperty Name="para_dFechaModificacion" ColumnName="para_dFechaModificacion" />
+          <ScalarProperty Name="para_vIPModificacion" ColumnName="para_vIPModificacion" />
+          <ScalarProperty Name="para_sUsuarioModificacion" ColumnName="para_sUsuarioModificacion" />
+          <ScalarProperty Name="para_dFechaCreacion" ColumnName="para_dFechaCreacion" />
+          <ScalarProperty Name="para_vIPCreacion" ColumnName="para_vIPCreacion" />
+          <ScalarProperty Name="para_sUsuarioCreacion" ColumnName="para_sUsuarioCreacion" />
+          <ScalarProperty Name="para_cEstado" ColumnName="para_cEstado" />
+          <ScalarProperty Name="para_bPrecarga" ColumnName="para_bPrecarga" />
+          <ScalarProperty Name="para_dVigenciaFin" ColumnName="para_dVigenciaFin" />
+          <ScalarProperty Name="para_dVigenciaInicio" ColumnName="para_dVigenciaInicio" />
+          <ScalarProperty Name="para_bVisible" ColumnName="para_bVisible" />
+          <ScalarProperty Name="para_tOrden" ColumnName="para_tOrden" />
+          <ScalarProperty Name="para_vReferencia" ColumnName="para_vReferencia" />
+          <ScalarProperty Name="para_vValor" ColumnName="para_vValor" />
+          <ScalarProperty Name="para_vDescripcion" ColumnName="para_vDescripcion" />
+          <ScalarProperty Name="para_vGrupo" ColumnName="para_vGrupo" />
+          <ScalarProperty Name="para_sParametroId" ColumnName="para_sParametroId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_TARIFARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_TARIFARIO">
+        <MappingFragment StoreEntitySet="SI_TARIFARIO">
+          <ScalarProperty Name="tari_dFechaModificacion" ColumnName="tari_dFechaModificacion" />
+          <ScalarProperty Name="tari_vIPModificacion" ColumnName="tari_vIPModificacion" />
+          <ScalarProperty Name="tari_sUsuarioModificacion" ColumnName="tari_sUsuarioModificacion" />
+          <ScalarProperty Name="tari_dFechaCreacion" ColumnName="tari_dFechaCreacion" />
+          <ScalarProperty Name="tari_vIPCreacion" ColumnName="tari_vIPCreacion" />
+          <ScalarProperty Name="tari_sUsuarioCreacion" ColumnName="tari_sUsuarioCreacion" />
+          <ScalarProperty Name="tari_sEstadoId" ColumnName="tari_sEstadoId" />
+          <ScalarProperty Name="tari_bHabilitaCantidad" ColumnName="tari_bHabilitaCantidad" />
+          <ScalarProperty Name="tari_dVigenciaFin" ColumnName="tari_dVigenciaFin" />
+          <ScalarProperty Name="tari_dVigenciaInicio" ColumnName="tari_dVigenciaInicio" />
+          <ScalarProperty Name="tari_bTarifarioDependienteFlag" ColumnName="tari_bTarifarioDependienteFlag" />
+          <ScalarProperty Name="tari_FMontoExceso" ColumnName="tari_FMontoExceso" />
+          <ScalarProperty Name="tari_ITopeCantidad" ColumnName="tari_ITopeCantidad" />
+          <ScalarProperty Name="tari_sTopeUnidadId" ColumnName="tari_sTopeUnidadId" />
+          <ScalarProperty Name="tari_FCosto" ColumnName="tari_FCosto" />
+          <ScalarProperty Name="tari_vCalculoFormula" ColumnName="tari_vCalculoFormula" />
+          <ScalarProperty Name="tari_sCalculoTipoId" ColumnName="tari_sCalculoTipoId" />
+          <ScalarProperty Name="tari_sBasePercepcionId" ColumnName="tari_sBasePercepcionId" />
+          <ScalarProperty Name="tari_vDescripcion" ColumnName="tari_vDescripcion" />
+          <ScalarProperty Name="tari_vDescripcionCorta" ColumnName="tari_vDescripcionCorta" />
+          <ScalarProperty Name="tari_vLetra" ColumnName="tari_vLetra" />
+          <ScalarProperty Name="tari_sNumero" ColumnName="tari_sNumero" />
+          <ScalarProperty Name="tari_sSeccionId" ColumnName="tari_sSeccionId" />
+          <ScalarProperty Name="tari_sTarifarioId" ColumnName="tari_sTarifarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_TIPOCAMBIO_BANCARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_TIPOCAMBIO_BANCARIO">
+        <MappingFragment StoreEntitySet="SI_TIPOCAMBIO_BANCARIO">
+          <ScalarProperty Name="tiba_dFechaModificacion" ColumnName="tiba_dFechaModificacion" />
+          <ScalarProperty Name="tiba_vIPModificacion" ColumnName="tiba_vIPModificacion" />
+          <ScalarProperty Name="tiba_sUsuarioModificacion" ColumnName="tiba_sUsuarioModificacion" />
+          <ScalarProperty Name="tiba_dFechaCreacion" ColumnName="tiba_dFechaCreacion" />
+          <ScalarProperty Name="tiba_vIPCreacion" ColumnName="tiba_vIPCreacion" />
+          <ScalarProperty Name="tiba_sUsuarioCreacion" ColumnName="tiba_sUsuarioCreacion" />
+          <ScalarProperty Name="tiba_cEstado" ColumnName="tiba_cEstado" />
+          <ScalarProperty Name="tiba_sMonedaId" ColumnName="tiba_sMonedaId" />
+          <ScalarProperty Name="tiba_sOficinaConsularId" ColumnName="tiba_sOficinaConsularId" />
+          <ScalarProperty Name="tiba_FValorBancario" ColumnName="tiba_FValorBancario" />
+          <ScalarProperty Name="tiba_dFecha" ColumnName="tiba_dFecha" />
+          <ScalarProperty Name="tiba_iTipoCambioBancarioId" ColumnName="tiba_iTipoCambioBancarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_TIPOCAMBIO_CONSULAR">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_TIPOCAMBIO_CONSULAR">
+        <MappingFragment StoreEntitySet="SI_TIPOCAMBIO_CONSULAR">
+          <ScalarProperty Name="tico_dFechaModificacion" ColumnName="tico_dFechaModificacion" />
+          <ScalarProperty Name="tico_vIPModificacion" ColumnName="tico_vIPModificacion" />
+          <ScalarProperty Name="tico_sUsuarioModificacion" ColumnName="tico_sUsuarioModificacion" />
+          <ScalarProperty Name="tico_dFechaCreacion" ColumnName="tico_dFechaCreacion" />
+          <ScalarProperty Name="tico_vIPCreacion" ColumnName="tico_vIPCreacion" />
+          <ScalarProperty Name="tico_sUsuarioCreacion" ColumnName="tico_sUsuarioCreacion" />
+          <ScalarProperty Name="tico_cEstado" ColumnName="tico_cEstado" />
+          <ScalarProperty Name="tico_sMonedaId" ColumnName="tico_sMonedaId" />
+          <ScalarProperty Name="tico_sOficinaConsularId" ColumnName="tico_sOficinaConsularId" />
+          <ScalarProperty Name="tico_FValorConsular" ColumnName="tico_FValorConsular" />
+          <ScalarProperty Name="tico_FPromedio" ColumnName="tico_FPromedio" />
+          <ScalarProperty Name="tico_FPorcentaje" ColumnName="tico_FPorcentaje" />
+          <ScalarProperty Name="tico_FValorBancario" ColumnName="tico_FValorBancario" />
+          <ScalarProperty Name="tico_dFecha" ColumnName="tico_dFecha" />
+          <ScalarProperty Name="tico_iTipoCambioConsularId" ColumnName="tico_iTipoCambioConsularId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_UBICACIONGEOGRAFICA">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_UBICACIONGEOGRAFICA">
+        <MappingFragment StoreEntitySet="SI_UBICACIONGEOGRAFICA">
+          <ScalarProperty Name="ubge_dFechaModificacion" ColumnName="ubge_dFechaModificacion" />
+          <ScalarProperty Name="ubge_vIPModificacion" ColumnName="ubge_vIPModificacion" />
+          <ScalarProperty Name="ubge_sUsuarioModificacion" ColumnName="ubge_sUsuarioModificacion" />
+          <ScalarProperty Name="ubge_dFechaCreacion" ColumnName="ubge_dFechaCreacion" />
+          <ScalarProperty Name="ubge_vIPCreacion" ColumnName="ubge_vIPCreacion" />
+          <ScalarProperty Name="ubge_sUsuarioCreacion" ColumnName="ubge_sUsuarioCreacion" />
+          <ScalarProperty Name="ubge_cEstado" ColumnName="ubge_cEstado" />
+          <ScalarProperty Name="ubge_vDistrito" ColumnName="ubge_vDistrito" />
+          <ScalarProperty Name="ubge_vProvincia" ColumnName="ubge_vProvincia" />
+          <ScalarProperty Name="ubge_vDepartamento" ColumnName="ubge_vDepartamento" />
+          <ScalarProperty Name="ubge_cUbi03" ColumnName="ubge_cUbi03" />
+          <ScalarProperty Name="ubge_cUbi02" ColumnName="ubge_cUbi02" />
+          <ScalarProperty Name="ubge_cUbi01" ColumnName="ubge_cUbi01" />
+          <ScalarProperty Name="ubge_cCodigo" ColumnName="ubge_cCodigo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_PERFIL_OPCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_PERFIL_OPCION">
+        <MappingFragment StoreEntitySet="SE_PERFIL_OPCION">
+          <ScalarProperty Name="peop_dFechaModificacion" ColumnName="peop_dFechaModificacion" />
+          <ScalarProperty Name="peop_vIPModificacion" ColumnName="peop_vIPModificacion" />
+          <ScalarProperty Name="peop_sUsuarioModificacion" ColumnName="peop_sUsuarioModificacion" />
+          <ScalarProperty Name="peop_dFechaCreacion" ColumnName="peop_dFechaCreacion" />
+          <ScalarProperty Name="peop_vIPCreacion" ColumnName="peop_vIPCreacion" />
+          <ScalarProperty Name="peop_sUsuarioCreacion" ColumnName="peop_sUsuarioCreacion" />
+          <ScalarProperty Name="peop_cEstado" ColumnName="peop_cEstado" />
+          <ScalarProperty Name="peop_cExportar" ColumnName="peop_cExportar" />
+          <ScalarProperty Name="peop_cImprimir" ColumnName="peop_cImprimir" />
+          <ScalarProperty Name="peop_cConsultar" ColumnName="peop_cConsultar" />
+          <ScalarProperty Name="peop_cAnular" ColumnName="peop_cAnular" />
+          <ScalarProperty Name="peop_cModificar" ColumnName="peop_cModificar" />
+          <ScalarProperty Name="peop_cAdicionar" ColumnName="peop_cAdicionar" />
+          <ScalarProperty Name="peop_sOpcionId" ColumnName="peop_sOpcionId" />
+          <ScalarProperty Name="peop_sPerfilId" ColumnName="peop_sPerfilId" />
+          <ScalarProperty Name="peop_IPerfOpcId" ColumnName="peop_IPerfOpcId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SE_SISTEMA">
+      <EntityTypeMapping TypeName="BD_SGACModel.SE_SISTEMA">
+        <MappingFragment StoreEntitySet="SE_SISTEMA">
+          <ScalarProperty Name="sist_dFechaModificacion" ColumnName="sist_dFechaModificacion" />
+          <ScalarProperty Name="sist_vIPModificacion" ColumnName="sist_vIPModificacion" />
+          <ScalarProperty Name="sist_sUsuarioModificacion" ColumnName="sist_sUsuarioModificacion" />
+          <ScalarProperty Name="sist_dFechaCreacion" ColumnName="sist_dFechaCreacion" />
+          <ScalarProperty Name="sist_vIPCreacion" ColumnName="sist_vIPCreacion" />
+          <ScalarProperty Name="sist_sUsuarioCreacion" ColumnName="sist_sUsuarioCreacion" />
+          <ScalarProperty Name="sist_cEstado" ColumnName="sist_cEstado" />
+          <ScalarProperty Name="sist_sOrden" ColumnName="sist_sOrden" />
+          <ScalarProperty Name="sist_vExtension" ColumnName="sist_vExtension" />
+          <ScalarProperty Name="sist_GImagen" ColumnName="sist_GImagen" />
+          <ScalarProperty Name="sist_vGuid" ColumnName="sist_vGuid" />
+          <ScalarProperty Name="sist_vUrlProduccion" ColumnName="sist_vUrlProduccion" />
+          <ScalarProperty Name="sist_vUrlPruebas" ColumnName="sist_vUrlPruebas" />
+          <ScalarProperty Name="sist_vUrlDesarrollo" ColumnName="sist_vUrlDesarrollo" />
+          <ScalarProperty Name="sist_vAbreviatura" ColumnName="sist_vAbreviatura" />
+          <ScalarProperty Name="sist_vDescripcion" ColumnName="sist_vDescripcion" />
+          <ScalarProperty Name="sist_vNombre" ColumnName="sist_vNombre" />
+          <ScalarProperty Name="sist_sSistemaId" ColumnName="sist_sSistemaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_BANCO">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_BANCO">
+        <MappingFragment StoreEntitySet="MA_BANCO">
+          <ScalarProperty Name="banc_dFechaModificacion" ColumnName="banc_dFechaModificacion" />
+          <ScalarProperty Name="banc_vIPModificacion" ColumnName="banc_vIPModificacion" />
+          <ScalarProperty Name="banc_sUsuarioModificacion" ColumnName="banc_sUsuarioModificacion" />
+          <ScalarProperty Name="banc_dFechaCreacion" ColumnName="banc_dFechaCreacion" />
+          <ScalarProperty Name="banc_vIPCreacion" ColumnName="banc_vIPCreacion" />
+          <ScalarProperty Name="banc_sUsuarioCreacion" ColumnName="banc_sUsuarioCreacion" />
+          <ScalarProperty Name="banc_cEstado" ColumnName="banc_cEstado" />
+          <ScalarProperty Name="banc_vDescripcionLarga" ColumnName="banc_vDescripcionLarga" />
+          <ScalarProperty Name="banc_vDescripcionCorta" ColumnName="banc_vDescripcionCorta" />
+          <ScalarProperty Name="banc_sBancoId" ColumnName="banc_sBancoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_BASE_PERCEPCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_BASE_PERCEPCION">
+        <MappingFragment StoreEntitySet="MA_BASE_PERCEPCION">
+          <ScalarProperty Name="bape_dFechaModificacion" ColumnName="bape_dFechaModificacion" />
+          <ScalarProperty Name="bape_vIPModificacion" ColumnName="bape_vIPModificacion" />
+          <ScalarProperty Name="bape_sUsuarioModificacion" ColumnName="bape_sUsuarioModificacion" />
+          <ScalarProperty Name="bape_dFechaCreacion" ColumnName="bape_dFechaCreacion" />
+          <ScalarProperty Name="bape_vIPCreacion" ColumnName="bape_vIPCreacion" />
+          <ScalarProperty Name="bape_sUsuarioCreacion" ColumnName="bape_sUsuarioCreacion" />
+          <ScalarProperty Name="bape_cEstado" ColumnName="bape_cEstado" />
+          <ScalarProperty Name="bape_vDescripcion" ColumnName="bape_vDescripcion" />
+          <ScalarProperty Name="bape_vNombre" ColumnName="bape_vNombre" />
+          <ScalarProperty Name="bape_sBasePercepcionId" ColumnName="bape_sBasePercepcionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_CARGO_FUNCIONARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_CARGO_FUNCIONARIO">
+        <MappingFragment StoreEntitySet="MA_CARGO_FUNCIONARIO">
+          <ScalarProperty Name="carf_dFechaModificacion" ColumnName="carf_dFechaModificacion" />
+          <ScalarProperty Name="carf_vIPModificacion" ColumnName="carf_vIPModificacion" />
+          <ScalarProperty Name="carf_sUsuarioModificacion" ColumnName="carf_sUsuarioModificacion" />
+          <ScalarProperty Name="carf_dFechaCreacion" ColumnName="carf_dFechaCreacion" />
+          <ScalarProperty Name="carf_vIPCreacion" ColumnName="carf_vIPCreacion" />
+          <ScalarProperty Name="carf_sUsuarioCreacion" ColumnName="carf_sUsuarioCreacion" />
+          <ScalarProperty Name="carf_cEstado" ColumnName="carf_cEstado" />
+          <ScalarProperty Name="carf_vDescripcionLarga" ColumnName="carf_vDescripcionLarga" />
+          <ScalarProperty Name="carf_vDescripcionCorta" ColumnName="carf_vDescripcionCorta" />
+          <ScalarProperty Name="carf_sCargoFuncionarioId" ColumnName="carf_sCargoFuncionarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_CATEGORIA_FUNCIONARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_CATEGORIA_FUNCIONARIO">
+        <MappingFragment StoreEntitySet="MA_CATEGORIA_FUNCIONARIO">
+          <ScalarProperty Name="catf_dFechaModificacion" ColumnName="catf_dFechaModificacion" />
+          <ScalarProperty Name="catf_vIPModificacion" ColumnName="catf_vIPModificacion" />
+          <ScalarProperty Name="catf_sUsuarioModificacion" ColumnName="catf_sUsuarioModificacion" />
+          <ScalarProperty Name="catf_dFechaCreacion" ColumnName="catf_dFechaCreacion" />
+          <ScalarProperty Name="catf_vIPCreacion" ColumnName="catf_vIPCreacion" />
+          <ScalarProperty Name="catf_sUsuarioCreacion" ColumnName="catf_sUsuarioCreacion" />
+          <ScalarProperty Name="catf_cEstado" ColumnName="catf_cEstado" />
+          <ScalarProperty Name="catf_vDescripcionLarga" ColumnName="catf_vDescripcionLarga" />
+          <ScalarProperty Name="catf_vDescripcionCorta" ColumnName="catf_vDescripcionCorta" />
+          <ScalarProperty Name="catf_sCategoriaFuncionarioId" ColumnName="catf_sCategoriaFuncionarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_CONTINENTE">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_CONTINENTE">
+        <MappingFragment StoreEntitySet="MA_CONTINENTE">
+          <ScalarProperty Name="cont_dFechaModificacion" ColumnName="cont_dFechaModificacion" />
+          <ScalarProperty Name="cont_vIPModificacion" ColumnName="cont_vIPModificacion" />
+          <ScalarProperty Name="cont_sUsuarioModificacion" ColumnName="cont_sUsuarioModificacion" />
+          <ScalarProperty Name="cont_dFechaCreacion" ColumnName="cont_dFechaCreacion" />
+          <ScalarProperty Name="cont_vIPCreacion" ColumnName="cont_vIPCreacion" />
+          <ScalarProperty Name="cont_sUsuarioCreacion" ColumnName="cont_sUsuarioCreacion" />
+          <ScalarProperty Name="cont_cEstado" ColumnName="cont_cEstado" />
+          <ScalarProperty Name="cont_vNombre" ColumnName="cont_vNombre" />
+          <ScalarProperty Name="cont_sContinenteId" ColumnName="cont_sContinenteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_DOCUMENTO_IDENTIDAD">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_DOCUMENTO_IDENTIDAD">
+        <MappingFragment StoreEntitySet="MA_DOCUMENTO_IDENTIDAD">
+          <ScalarProperty Name="doid_dFechaModificacion" ColumnName="doid_dFechaModificacion" />
+          <ScalarProperty Name="doid_vIPModificacion" ColumnName="doid_vIPModificacion" />
+          <ScalarProperty Name="doid_sUsuarioModificacion" ColumnName="doid_sUsuarioModificacion" />
+          <ScalarProperty Name="doid_dFechaCreacion" ColumnName="doid_dFechaCreacion" />
+          <ScalarProperty Name="doid_vIPCreacion" ColumnName="doid_vIPCreacion" />
+          <ScalarProperty Name="doid_sUsuarioCreacion" ColumnName="doid_sUsuarioCreacion" />
+          <ScalarProperty Name="doid_cEstado" ColumnName="doid_cEstado" />
+          <ScalarProperty Name="doid_vDescripcionLarga" ColumnName="doid_vDescripcionLarga" />
+          <ScalarProperty Name="doid_vDescripcionCorta" ColumnName="doid_vDescripcionCorta" />
+          <ScalarProperty Name="doid_sTipoDocumentoIdentidadId" ColumnName="doid_sTipoDocumentoIdentidadId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_ESTADO">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_ESTADO">
+        <MappingFragment StoreEntitySet="MA_ESTADO">
+          <ScalarProperty Name="esta_dFechaModificacion" ColumnName="esta_dFechaModificacion" />
+          <ScalarProperty Name="esta_vIPModificacion" ColumnName="esta_vIPModificacion" />
+          <ScalarProperty Name="esta_sUsuarioModificacion" ColumnName="esta_sUsuarioModificacion" />
+          <ScalarProperty Name="esta_dFechaCreacion" ColumnName="esta_dFechaCreacion" />
+          <ScalarProperty Name="esta_vIPCreacion" ColumnName="esta_vIPCreacion" />
+          <ScalarProperty Name="esta_sUsuarioCreacion" ColumnName="esta_sUsuarioCreacion" />
+          <ScalarProperty Name="esta_cEstado" ColumnName="esta_cEstado" />
+          <ScalarProperty Name="esta_vGrupo" ColumnName="esta_vGrupo" />
+          <ScalarProperty Name="esta_vDescripcionLarga" ColumnName="esta_vDescripcionLarga" />
+          <ScalarProperty Name="esta_vDescripcionCorta" ColumnName="esta_vDescripcionCorta" />
+          <ScalarProperty Name="esta_sEstadoId" ColumnName="esta_sEstadoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_ESTADO_CIVIL">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_ESTADO_CIVIL">
+        <MappingFragment StoreEntitySet="MA_ESTADO_CIVIL">
+          <ScalarProperty Name="esci_dFechaModificacion" ColumnName="esci_dFechaModificacion" />
+          <ScalarProperty Name="esci_vIPModificacion" ColumnName="esci_vIPModificacion" />
+          <ScalarProperty Name="esci_sUsuarioModificacion" ColumnName="esci_sUsuarioModificacion" />
+          <ScalarProperty Name="esci_dFechaCreacion" ColumnName="esci_dFechaCreacion" />
+          <ScalarProperty Name="esci_vIPCreacion" ColumnName="esci_vIPCreacion" />
+          <ScalarProperty Name="esci_sUsuarioCreacion" ColumnName="esci_sUsuarioCreacion" />
+          <ScalarProperty Name="esci_cEstado" ColumnName="esci_cEstado" />
+          <ScalarProperty Name="esci_vDescripcionLarga" ColumnName="esci_vDescripcionLarga" />
+          <ScalarProperty Name="esci_vDescripcionCorta" ColumnName="esci_vDescripcionCorta" />
+          <ScalarProperty Name="esci_sEstadoCivilId" ColumnName="esci_sEstadoCivilId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_MONEDA">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_MONEDA">
+        <MappingFragment StoreEntitySet="MA_MONEDA">
+          <ScalarProperty Name="mone_dFechaModificacion" ColumnName="mone_dFechaModificacion" />
+          <ScalarProperty Name="mone_vIPModificacion" ColumnName="mone_vIPModificacion" />
+          <ScalarProperty Name="mone_sUsuarioModificacion" ColumnName="mone_sUsuarioModificacion" />
+          <ScalarProperty Name="mone_dFechaCreacion" ColumnName="mone_dFechaCreacion" />
+          <ScalarProperty Name="mone_vIPCreacion" ColumnName="mone_vIPCreacion" />
+          <ScalarProperty Name="mone_sUsuarioCreacion" ColumnName="mone_sUsuarioCreacion" />
+          <ScalarProperty Name="mone_cEstado" ColumnName="mone_cEstado" />
+          <ScalarProperty Name="mone_vCodigo" ColumnName="mone_vCodigo" />
+          <ScalarProperty Name="mone_vSimbolo" ColumnName="mone_vSimbolo" />
+          <ScalarProperty Name="mone_vDescripcion" ColumnName="mone_vDescripcion" />
+          <ScalarProperty Name="mone_vNombre" ColumnName="mone_vNombre" />
+          <ScalarProperty Name="mone_sMonedaId" ColumnName="mone_sMonedaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_PLANTILLA">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_PLANTILLA">
+        <MappingFragment StoreEntitySet="MA_PLANTILLA">
+          <ScalarProperty Name="plan_dFechaModificacion" ColumnName="plan_dFechaModificacion" />
+          <ScalarProperty Name="plan_vIPModificacion" ColumnName="plan_vIPModificacion" />
+          <ScalarProperty Name="plan_sUsuarioModificacion" ColumnName="plan_sUsuarioModificacion" />
+          <ScalarProperty Name="plan_dFechaCreacion" ColumnName="plan_dFechaCreacion" />
+          <ScalarProperty Name="plan_vIPCreacion" ColumnName="plan_vIPCreacion" />
+          <ScalarProperty Name="plan_sUsuarioCreacion" ColumnName="plan_sUsuarioCreacion" />
+          <ScalarProperty Name="plan_cEstado" ColumnName="plan_cEstado" />
+          <ScalarProperty Name="plan_vDescripcionLarga" ColumnName="plan_vDescripcionLarga" />
+          <ScalarProperty Name="plan_vDescripcionCorta" ColumnName="plan_vDescripcionCorta" />
+          <ScalarProperty Name="plan_sPlantillaId" ColumnName="plan_sPlantillaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_PROCESO">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_PROCESO">
+        <MappingFragment StoreEntitySet="MA_PROCESO">
+          <ScalarProperty Name="proc_dFechaModificacion" ColumnName="proc_dFechaModificacion" />
+          <ScalarProperty Name="proc_vIPModificacion" ColumnName="proc_vIPModificacion" />
+          <ScalarProperty Name="proc_sUsuarioModificacion" ColumnName="proc_sUsuarioModificacion" />
+          <ScalarProperty Name="proc_dFechaCreacion" ColumnName="proc_dFechaCreacion" />
+          <ScalarProperty Name="proc_vIPCreacion" ColumnName="proc_vIPCreacion" />
+          <ScalarProperty Name="proc_sUsuarioCreacion" ColumnName="proc_sUsuarioCreacion" />
+          <ScalarProperty Name="proc_cEstado" ColumnName="proc_cEstado" />
+          <ScalarProperty Name="proc_vDescripcion" ColumnName="proc_vDescripcion" />
+          <ScalarProperty Name="proc_vNombre" ColumnName="proc_vNombre" />
+          <ScalarProperty Name="proc_sProcesoId" ColumnName="proc_sProcesoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_REQUISITO_ACTUACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_REQUISITO_ACTUACION">
+        <MappingFragment StoreEntitySet="MA_REQUISITO_ACTUACION">
+          <ScalarProperty Name="reac_dFechaModificacion" ColumnName="reac_dFechaModificacion" />
+          <ScalarProperty Name="reac_vIPModificacion" ColumnName="reac_vIPModificacion" />
+          <ScalarProperty Name="reac_sUsuarioModificacion" ColumnName="reac_sUsuarioModificacion" />
+          <ScalarProperty Name="reac_dFechaCreacion" ColumnName="reac_dFechaCreacion" />
+          <ScalarProperty Name="reac_vIPCreacion" ColumnName="reac_vIPCreacion" />
+          <ScalarProperty Name="reac_sUsuarioCreacion" ColumnName="reac_sUsuarioCreacion" />
+          <ScalarProperty Name="reac_cEstado" ColumnName="reac_cEstado" />
+          <ScalarProperty Name="reac_vDescripcion" ColumnName="reac_vDescripcion" />
+          <ScalarProperty Name="reac_sRequisitoId" ColumnName="reac_sRequisitoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_SECCION">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_SECCION">
+        <MappingFragment StoreEntitySet="MA_SECCION">
+          <ScalarProperty Name="secc_dFechaModificacion" ColumnName="secc_dFechaModificacion" />
+          <ScalarProperty Name="secc_vIPModificacion" ColumnName="secc_vIPModificacion" />
+          <ScalarProperty Name="secc_sUsuarioModificacion" ColumnName="secc_sUsuarioModificacion" />
+          <ScalarProperty Name="secc_dFechaCreacion" ColumnName="secc_dFechaCreacion" />
+          <ScalarProperty Name="secc_vIPCreacion" ColumnName="secc_vIPCreacion" />
+          <ScalarProperty Name="secc_sUsuarioCreacion" ColumnName="secc_sUsuarioCreacion" />
+          <ScalarProperty Name="secc_cEstado" ColumnName="secc_cEstado" />
+          <ScalarProperty Name="secc_sFondoId" ColumnName="secc_sFondoId" />
+          <ScalarProperty Name="secc_vDescripcion" ColumnName="secc_vDescripcion" />
+          <ScalarProperty Name="secc_vNombre" ColumnName="secc_vNombre" />
+          <ScalarProperty Name="secc_sSeccionId" ColumnName="secc_sSeccionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_SERVICIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_SERVICIO">
+        <MappingFragment StoreEntitySet="MA_SERVICIO">
+          <ScalarProperty Name="serv_dFechaModificacion" ColumnName="serv_dFechaModificacion" />
+          <ScalarProperty Name="serv_vIPModificacion" ColumnName="serv_vIPModificacion" />
+          <ScalarProperty Name="serv_sUsuarioModificacion" ColumnName="serv_sUsuarioModificacion" />
+          <ScalarProperty Name="serv_dFechaCreacion" ColumnName="serv_dFechaCreacion" />
+          <ScalarProperty Name="serv_vIPCreacion" ColumnName="serv_vIPCreacion" />
+          <ScalarProperty Name="serv_sUsuarioCreacion" ColumnName="serv_sUsuarioCreacion" />
+          <ScalarProperty Name="serv_cEstado" ColumnName="serv_cEstado" />
+          <ScalarProperty Name="serv_vGrupo" ColumnName="serv_vGrupo" />
+          <ScalarProperty Name="serv_vDescripcionLarga" ColumnName="serv_vDescripcionLarga" />
+          <ScalarProperty Name="serv_vDescripcionCorta" ColumnName="serv_vDescripcionCorta" />
+          <ScalarProperty Name="serv_sServicioId" ColumnName="serv_sServicioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTUACIONANOTACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTUACIONANOTACION">
+        <MappingFragment StoreEntitySet="RE_ACTUACIONANOTACION">
+          <ScalarProperty Name="anot_dFechaModificacion" ColumnName="anot_dFechaModificacion" />
+          <ScalarProperty Name="anot_vIPModificacion" ColumnName="anot_vIPModificacion" />
+          <ScalarProperty Name="anot_sUsuarioModificacion" ColumnName="anot_sUsuarioModificacion" />
+          <ScalarProperty Name="anot_dFechaCreacion" ColumnName="anot_dFechaCreacion" />
+          <ScalarProperty Name="anot_vIPCreacion" ColumnName="anot_vIPCreacion" />
+          <ScalarProperty Name="anot_sUsuarioCreacion" ColumnName="anot_sUsuarioCreacion" />
+          <ScalarProperty Name="anot_cEstado" ColumnName="anot_cEstado" />
+          <ScalarProperty Name="anot_vComentarios" ColumnName="anot_vComentarios" />
+          <ScalarProperty Name="anot_dFechaRegistro" ColumnName="anot_dFechaRegistro" />
+          <ScalarProperty Name="anot_sMotivoCancelacion" ColumnName="anot_sMotivoCancelacion" />
+          <ScalarProperty Name="anot_iNumeroActaAnterior" ColumnName="anot_iNumeroActaAnterior" />
+          <ScalarProperty Name="anot_sTipoAnotacionId" ColumnName="anot_sTipoAnotacionId" />
+          <ScalarProperty Name="anot_iActuacionDetalleId" ColumnName="anot_iActuacionDetalleId" />
+          <ScalarProperty Name="anot_iActuacionAnotacionId" ColumnName="anot_iActuacionAnotacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTOJUDICIAL">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTOJUDICIAL">
+        <MappingFragment StoreEntitySet="RE_ACTOJUDICIAL">
+          <ScalarProperty Name="acju_vOrganoJudicial" ColumnName="acju_vOrganoJudicial" />
+          <ScalarProperty Name="acju_dFechaModificacion" ColumnName="acju_dFechaModificacion" />
+          <ScalarProperty Name="acju_vIPModificacion" ColumnName="acju_vIPModificacion" />
+          <ScalarProperty Name="acju_sUsuarioModificacion" ColumnName="acju_sUsuarioModificacion" />
+          <ScalarProperty Name="acju_dFechaCreacion" ColumnName="acju_dFechaCreacion" />
+          <ScalarProperty Name="acju_vIPCreacion" ColumnName="acju_vIPCreacion" />
+          <ScalarProperty Name="acju_sUsuarioCreacion" ColumnName="acju_sUsuarioCreacion" />
+          <ScalarProperty Name="acju_sEstadoId" ColumnName="acju_sEstadoId" />
+          <ScalarProperty Name="acju_vObservaciones" ColumnName="acju_vObservaciones" />
+          <ScalarProperty Name="acju_vNumeroOficio" ColumnName="acju_vNumeroOficio" />
+          <ScalarProperty Name="acju_vMateriaDemanda" ColumnName="acju_vMateriaDemanda" />
+          <ScalarProperty Name="acju_vNumeroHojaRemision" ColumnName="acju_vNumeroHojaRemision" />
+          <ScalarProperty Name="acju_vNumeroExpediente" ColumnName="acju_vNumeroExpediente" />
+          <ScalarProperty Name="acju_vJuzgado" ColumnName="acju_vJuzgado" />
+          <ScalarProperty Name="acju_dFechaRegistro" ColumnName="acju_dFechaRegistro" />
+          <ScalarProperty Name="acju_dFechaCitacion" ColumnName="acju_dFechaCitacion" />
+          <ScalarProperty Name="acju_dFechaAudiencia" ColumnName="acju_dFechaAudiencia" />
+          <ScalarProperty Name="acju_dFechaRecepcion" ColumnName="acju_dFechaRecepcion" />
+          <ScalarProperty Name="acju_sEntidadSolicitanteId" ColumnName="acju_sEntidadSolicitanteId" />
+          <ScalarProperty Name="acju_sTipoNotificacion" ColumnName="acju_sTipoNotificacion" />
+          <ScalarProperty Name="acju_iActuacionId" ColumnName="acju_iActuacionId" />
+          <ScalarProperty Name="acju_iActoJudicialId" ColumnName="acju_iActoJudicialId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTOMIGRATORIOHISTORICO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTOMIGRATORIOHISTORICO">
+        <MappingFragment StoreEntitySet="RE_ACTOMIGRATORIOHISTORICO">
+          <ScalarProperty Name="amhi_dFechaModificacion" ColumnName="amhi_dFechaModificacion" />
+          <ScalarProperty Name="amhi_vIPModificacion" ColumnName="amhi_vIPModificacion" />
+          <ScalarProperty Name="amhi_sUsuarioModificacion" ColumnName="amhi_sUsuarioModificacion" />
+          <ScalarProperty Name="amhi_dFechaCreacion" ColumnName="amhi_dFechaCreacion" />
+          <ScalarProperty Name="amhi_vIPCreacion" ColumnName="amhi_vIPCreacion" />
+          <ScalarProperty Name="amhi_sUsuarioCreacion" ColumnName="amhi_sUsuarioCreacion" />
+          <ScalarProperty Name="amhi_sEstadoId" ColumnName="amhi_sEstadoId" />
+          <ScalarProperty Name="amhi_vObservaciones" ColumnName="amhi_vObservaciones" />
+          <ScalarProperty Name="amhi_dFechaRegistro" ColumnName="amhi_dFechaRegistro" />
+          <ScalarProperty Name="amhi_sMotivoId" ColumnName="amhi_sMotivoId" />
+          <ScalarProperty Name="amhi_sInsumoId" ColumnName="amhi_sInsumoId" />
+          <ScalarProperty Name="amhi_IFuncionarioId" ColumnName="amhi_IFuncionarioId" />
+          <ScalarProperty Name="amhi_sTipoInsumoId" ColumnName="amhi_sTipoInsumoId" />
+          <ScalarProperty Name="amhi_iActoMigratorioId" ColumnName="amhi_iActoMigratorioId" />
+          <ScalarProperty Name="amhi_iActoMigratorioHistoricoId" ColumnName="amhi_iActoMigratorioHistoricoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_OCUPACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_OCUPACION">
+        <MappingFragment StoreEntitySet="MA_OCUPACION">
+          <ScalarProperty Name="ocup_dFechaModificacion" ColumnName="ocup_dFechaModificacion" />
+          <ScalarProperty Name="ocup_vIPModificacion" ColumnName="ocup_vIPModificacion" />
+          <ScalarProperty Name="ocup_sUsuarioModificacion" ColumnName="ocup_sUsuarioModificacion" />
+          <ScalarProperty Name="ocup_dFechaCreacion" ColumnName="ocup_dFechaCreacion" />
+          <ScalarProperty Name="ocup_vIPCreacion" ColumnName="ocup_vIPCreacion" />
+          <ScalarProperty Name="ocup_sUsuarioCreacion" ColumnName="ocup_sUsuarioCreacion" />
+          <ScalarProperty Name="ocup_cEstado" ColumnName="ocup_cEstado" />
+          <ScalarProperty Name="ocup_vDescripcionLarga" ColumnName="ocup_vDescripcionLarga" />
+          <ScalarProperty Name="ocup_vDescripcionCorta" ColumnName="ocup_vDescripcionCorta" />
+          <ScalarProperty Name="ocup_vCodigo" ColumnName="ocup_vCodigo" />
+          <ScalarProperty Name="ocup_sOcupacionId" ColumnName="ocup_sOcupacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MA_PROFESION">
+      <EntityTypeMapping TypeName="BD_SGACModel.MA_PROFESION">
+        <MappingFragment StoreEntitySet="MA_PROFESION">
+          <ScalarProperty Name="prof_dFechaModificacion" ColumnName="prof_dFechaModificacion" />
+          <ScalarProperty Name="prof_vIPModificacion" ColumnName="prof_vIPModificacion" />
+          <ScalarProperty Name="prof_sUsuarioModificacion" ColumnName="prof_sUsuarioModificacion" />
+          <ScalarProperty Name="prof_dFechaCreacion" ColumnName="prof_dFechaCreacion" />
+          <ScalarProperty Name="prof_vIPCreacion" ColumnName="prof_vIPCreacion" />
+          <ScalarProperty Name="prof_sUsuarioCreacion" ColumnName="prof_sUsuarioCreacion" />
+          <ScalarProperty Name="prof_cEstado" ColumnName="prof_cEstado" />
+          <ScalarProperty Name="prof_vDescripcionLarga" ColumnName="prof_vDescripcionLarga" />
+          <ScalarProperty Name="prof_vDescripcionCorta" ColumnName="prof_vDescripcionCorta" />
+          <ScalarProperty Name="prof_vCodigo" ColumnName="prof_vCodigo" />
+          <ScalarProperty Name="prof_sProfesionId" ColumnName="prof_sProfesionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_PAGO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_PAGO">
+        <MappingFragment StoreEntitySet="RE_PAGO">
+          <ScalarProperty Name="pago_dFechaModificacion" ColumnName="pago_dFechaModificacion" />
+          <ScalarProperty Name="pago_vIPModificacion" ColumnName="pago_vIPModificacion" />
+          <ScalarProperty Name="pago_sUsuarioModificacion" ColumnName="pago_sUsuarioModificacion" />
+          <ScalarProperty Name="pago_dFechaCreacion" ColumnName="pago_dFechaCreacion" />
+          <ScalarProperty Name="pago_vIPCreacion" ColumnName="pago_vIPCreacion" />
+          <ScalarProperty Name="pago_sUsuarioCreacion" ColumnName="pago_sUsuarioCreacion" />
+          <ScalarProperty Name="pago_cEstado" ColumnName="pago_cEstado" />
+          <ScalarProperty Name="pago_vNumeroVoucher" ColumnName="pago_vNumeroVoucher" />
+          <ScalarProperty Name="pago_vComentario" ColumnName="pago_vComentario" />
+          <ScalarProperty Name="pago_bPagadoFlag" ColumnName="pago_bPagadoFlag" />
+          <ScalarProperty Name="pago_vBancoNumeroOperacion" ColumnName="pago_vBancoNumeroOperacion" />
+          <ScalarProperty Name="pago_sBancoId" ColumnName="pago_sBancoId" />
+          <ScalarProperty Name="pago_FTipCambioConsular" ColumnName="pago_FTipCambioConsular" />
+          <ScalarProperty Name="pago_FTipCambioBancario" ColumnName="pago_FTipCambioBancario" />
+          <ScalarProperty Name="pago_FMontoSolesConsulares" ColumnName="pago_FMontoSolesConsulares" />
+          <ScalarProperty Name="pago_FMontoMonedaLocal" ColumnName="pago_FMontoMonedaLocal" />
+          <ScalarProperty Name="pago_sMonedaLocalId" ColumnName="pago_sMonedaLocalId" />
+          <ScalarProperty Name="pago_dFechaOperacion" ColumnName="pago_dFechaOperacion" />
+          <ScalarProperty Name="pago_sPagoTipoId" ColumnName="pago_sPagoTipoId" />
+          <ScalarProperty Name="pago_iActuacionDetalleId" ColumnName="pago_iActuacionDetalleId" />
+          <ScalarProperty Name="pago_iPagoId" ColumnName="pago_iPagoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_TARIFARIOREQUISITO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_TARIFARIOREQUISITO">
+        <MappingFragment StoreEntitySet="SI_TARIFARIOREQUISITO">
+          <ScalarProperty Name="tare_dFechaModificacion" ColumnName="tare_dFechaModificacion" />
+          <ScalarProperty Name="tare_vIPModificacion" ColumnName="tare_vIPModificacion" />
+          <ScalarProperty Name="tare_sUsuarioModificacion" ColumnName="tare_sUsuarioModificacion" />
+          <ScalarProperty Name="tare_dFechaCreacion" ColumnName="tare_dFechaCreacion" />
+          <ScalarProperty Name="tare_vIPCreacion" ColumnName="tare_vIPCreacion" />
+          <ScalarProperty Name="tare_sUsuarioCreacion" ColumnName="tare_sUsuarioCreacion" />
+          <ScalarProperty Name="tare_cEstado" ColumnName="tare_cEstado" />
+          <ScalarProperty Name="tare_sCondicionId" ColumnName="tare_sCondicionId" />
+          <ScalarProperty Name="tare_sTipoActaId" ColumnName="tare_sTipoActaId" />
+          <ScalarProperty Name="tare_sRequisitoId" ColumnName="tare_sRequisitoId" />
+          <ScalarProperty Name="tare_sTarifarioId" ColumnName="tare_sTarifarioId" />
+          <ScalarProperty Name="tare_sTarifarioRequisitoId" ColumnName="tare_sTarifarioRequisitoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_OFICINACONSULARFUNCIONARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_OFICINACONSULARFUNCIONARIO">
+        <MappingFragment StoreEntitySet="RE_OFICINACONSULARFUNCIONARIO">
+          <ScalarProperty Name="ocfu_dFechaModificacion" ColumnName="ocfu_dFechaModificacion" />
+          <ScalarProperty Name="ocfu_vIPModificacion" ColumnName="ocfu_vIPModificacion" />
+          <ScalarProperty Name="ocfu_sUsuarioModificacion" ColumnName="ocfu_sUsuarioModificacion" />
+          <ScalarProperty Name="ocfu_dFechaCreacion" ColumnName="ocfu_dFechaCreacion" />
+          <ScalarProperty Name="ocfu_vIPCreacion" ColumnName="ocfu_vIPCreacion" />
+          <ScalarProperty Name="ocfu_sUsuarioCreacion" ColumnName="ocfu_sUsuarioCreacion" />
+          <ScalarProperty Name="ocfu_cEstado" ColumnName="ocfu_cEstado" />
+          <ScalarProperty Name="ocfu_vObservacion" ColumnName="ocfu_vObservacion" />
+          <ScalarProperty Name="ocfu_dFechaFin" ColumnName="ocfu_dFechaFin" />
+          <ScalarProperty Name="ocfu_dFechaInicio" ColumnName="ocfu_dFechaInicio" />
+          <ScalarProperty Name="ocfu_sCargoFuncionarioId" ColumnName="ocfu_sCargoFuncionarioId" />
+          <ScalarProperty Name="ocfu_IFuncionarioId" ColumnName="ocfu_IFuncionarioId" />
+          <ScalarProperty Name="ocfu_sOficinaConsularId" ColumnName="ocfu_sOficinaConsularId" />
+          <ScalarProperty Name="ocfu_sOfiConFuncionarioId" ColumnName="ocfu_sOfiConFuncionarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_REPRESENTANTELEGAL">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_REPRESENTANTELEGAL">
+        <MappingFragment StoreEntitySet="RE_REPRESENTANTELEGAL">
+          <ScalarProperty Name="rele_dFechaModificacion" ColumnName="rele_dFechaModificacion" />
+          <ScalarProperty Name="rele_vIPModificacion" ColumnName="rele_vIPModificacion" />
+          <ScalarProperty Name="rele_sUsuarioModificacion" ColumnName="rele_sUsuarioModificacion" />
+          <ScalarProperty Name="rele_dFechaCreacion" ColumnName="rele_dFechaCreacion" />
+          <ScalarProperty Name="rele_vIPCreacion" ColumnName="rele_vIPCreacion" />
+          <ScalarProperty Name="rele_sUsuarioCreacion" ColumnName="rele_sUsuarioCreacion" />
+          <ScalarProperty Name="rele_cEstado" ColumnName="rele_cEstado" />
+          <ScalarProperty Name="rele_dFechaFin" ColumnName="rele_dFechaFin" />
+          <ScalarProperty Name="rele_dFechaInicio" ColumnName="rele_dFechaInicio" />
+          <ScalarProperty Name="rele_iPersonaId" ColumnName="rele_iPersonaId" />
+          <ScalarProperty Name="rele_iEmpresaId" ColumnName="rele_iEmpresaId" />
+          <ScalarProperty Name="rele_iRepresentanteLegalId" ColumnName="rele_iRepresentanteLegalId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_RESIDENCIA">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_RESIDENCIA">
+        <MappingFragment StoreEntitySet="RE_RESIDENCIA">
+          <ScalarProperty Name="resi_ICentroPobladoId" ColumnName="resi_ICentroPobladoId" />
+          <ScalarProperty Name="resi_dFechaModificacion" ColumnName="resi_dFechaModificacion" />
+          <ScalarProperty Name="resi_vIPModificacion" ColumnName="resi_vIPModificacion" />
+          <ScalarProperty Name="resi_sUsuarioModificacion" ColumnName="resi_sUsuarioModificacion" />
+          <ScalarProperty Name="resi_dFechaCreacion" ColumnName="resi_dFechaCreacion" />
+          <ScalarProperty Name="resi_vIPCreacion" ColumnName="resi_vIPCreacion" />
+          <ScalarProperty Name="resi_sUsuarioCreacion" ColumnName="resi_sUsuarioCreacion" />
+          <ScalarProperty Name="resi_cEstado" ColumnName="resi_cEstado" />
+          <ScalarProperty Name="resi_cResidenciaUbigeo" ColumnName="resi_cResidenciaUbigeo" />
+          <ScalarProperty Name="resi_vResidenciaTelefono" ColumnName="resi_vResidenciaTelefono" />
+          <ScalarProperty Name="resi_vCodigoPostal" ColumnName="resi_vCodigoPostal" />
+          <ScalarProperty Name="resi_vResidenciaDireccion" ColumnName="resi_vResidenciaDireccion" />
+          <ScalarProperty Name="resi_sResidenciaTipoId" ColumnName="resi_sResidenciaTipoId" />
+          <ScalarProperty Name="resi_iResidenciaId" ColumnName="resi_iResidenciaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_CENTROPOBLADO">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_CENTROPOBLADO">
+        <MappingFragment StoreEntitySet="SI_CENTROPOBLADO">
+          <ScalarProperty Name="cepo_cCodigo" ColumnName="cepo_cCodigo" />
+          <ScalarProperty Name="cepo_dFechaModificacion" ColumnName="cepo_dFechaModificacion" />
+          <ScalarProperty Name="cepo_vIPModificacion" ColumnName="cepo_vIPModificacion" />
+          <ScalarProperty Name="cepo_sUsuarioModificacion" ColumnName="cepo_sUsuarioModificacion" />
+          <ScalarProperty Name="cepo_dFechaCreacion" ColumnName="cepo_dFechaCreacion" />
+          <ScalarProperty Name="cepo_vIPCreacion" ColumnName="cepo_vIPCreacion" />
+          <ScalarProperty Name="cepo_sUsuarioCreacion" ColumnName="cepo_sUsuarioCreacion" />
+          <ScalarProperty Name="cepo_cEstado" ColumnName="cepo_cEstado" />
+          <ScalarProperty Name="cepo_vDescripcion" ColumnName="cepo_vDescripcion" />
+          <ScalarProperty Name="cepo_cUbigeo" ColumnName="cepo_cUbigeo" />
+          <ScalarProperty Name="cepo_ICentroPobladoId" ColumnName="cepo_ICentroPobladoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SI_OFICINACONSULAR">
+      <EntityTypeMapping TypeName="BD_SGACModel.SI_OFICINACONSULAR">
+        <MappingFragment StoreEntitySet="SI_OFICINACONSULAR">
+          <ScalarProperty Name="ofco_dFechaModificacion" ColumnName="ofco_dFechaModificacion" />
+          <ScalarProperty Name="ofco_vIPModificacion" ColumnName="ofco_vIPModificacion" />
+          <ScalarProperty Name="ofco_sUsuarioModificacion" ColumnName="ofco_sUsuarioModificacion" />
+          <ScalarProperty Name="ofco_dFechaCreacion" ColumnName="ofco_dFechaCreacion" />
+          <ScalarProperty Name="ofco_vIPCreacion" ColumnName="ofco_vIPCreacion" />
+          <ScalarProperty Name="ofco_sUsuarioCreacion" ColumnName="ofco_sUsuarioCreacion" />
+          <ScalarProperty Name="ofco_cEstado" ColumnName="ofco_cEstado" />
+          <ScalarProperty Name="ofco_vRangoFinIP" ColumnName="ofco_vRangoFinIP" />
+          <ScalarProperty Name="ofco_vRangoInicialIP" ColumnName="ofco_vRangoInicialIP" />
+          <ScalarProperty Name="ofco_vSitioWeb" ColumnName="ofco_vSitioWeb" />
+          <ScalarProperty Name="ofco_vPrivilegiosEspeciales" ColumnName="ofco_vPrivilegiosEspeciales" />
+          <ScalarProperty Name="ofco_sReferenciaId" ColumnName="ofco_sReferenciaId" />
+          <ScalarProperty Name="ofco_vDocumentosEmite" ColumnName="ofco_vDocumentosEmite" />
+          <ScalarProperty Name="ofco_bRemesaLimaFlag" ColumnName="ofco_bRemesaLimaFlag" />
+          <ScalarProperty Name="ofco_bJefaturaFlag" ColumnName="ofco_bJefaturaFlag" />
+          <ScalarProperty Name="ofco_sHorarioVerano" ColumnName="ofco_sHorarioVerano" />
+          <ScalarProperty Name="ofco_fDiferenciaHoraria" ColumnName="ofco_fDiferenciaHoraria" />
+          <ScalarProperty Name="ofco_cHorarioAtencion" ColumnName="ofco_cHorarioAtencion" />
+          <ScalarProperty Name="ofco_sPorcentajeTipoCambio" ColumnName="ofco_sPorcentajeTipoCambio" />
+          <ScalarProperty Name="ofco_sMonedaId" ColumnName="ofco_sMonedaId" />
+          <ScalarProperty Name="ofco_cUbigeoCodigo" ColumnName="ofco_cUbigeoCodigo" />
+          <ScalarProperty Name="ofco_vSiglas" ColumnName="ofco_vSiglas" />
+          <ScalarProperty Name="ofco_vTelefono" ColumnName="ofco_vTelefono" />
+          <ScalarProperty Name="ofco_vDireccion" ColumnName="ofco_vDireccion" />
+          <ScalarProperty Name="ofco_vNombre" ColumnName="ofco_vNombre" />
+          <ScalarProperty Name="ofco_sCategoriaId" ColumnName="ofco_sCategoriaId" />
+          <ScalarProperty Name="ofco_vCodigo" ColumnName="ofco_vCodigo" />
+          <ScalarProperty Name="ofco_sOficinaConsularId" ColumnName="ofco_sOficinaConsularId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_REGISTROMILITAR">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_REGISTROMILITAR">
+        <MappingFragment StoreEntitySet="RE_REGISTROMILITAR">
+          <ScalarProperty Name="remi_sTipoSuscripcion" ColumnName="remi_sTipoSuscripcion" />
+          <ScalarProperty Name="remi_dFechaModificacion" ColumnName="remi_dFechaModificacion" />
+          <ScalarProperty Name="remi_vIPModificacion" ColumnName="remi_vIPModificacion" />
+          <ScalarProperty Name="remi_sUsuarioModificacion" ColumnName="remi_sUsuarioModificacion" />
+          <ScalarProperty Name="remi_dFechaCreacion" ColumnName="remi_dFechaCreacion" />
+          <ScalarProperty Name="remi_vIPCreacion" ColumnName="remi_vIPCreacion" />
+          <ScalarProperty Name="remi_sUsuarioCreacion" ColumnName="remi_sUsuarioCreacion" />
+          <ScalarProperty Name="remi_cEstado" ColumnName="remi_cEstado" />
+          <ScalarProperty Name="remi_vObservaciones" ColumnName="remi_vObservaciones" />
+          <ScalarProperty Name="remi_bDigitalizadoFlag" ColumnName="remi_bDigitalizadoFlag" />
+          <ScalarProperty Name="remi_dFechaAprobacion" ColumnName="remi_dFechaAprobacion" />
+          <ScalarProperty Name="remi_vIPAprobacion" ColumnName="remi_vIPAprobacion" />
+          <ScalarProperty Name="remi_IUsuarioAprobacionId" ColumnName="remi_IUsuarioAprobacionId" />
+          <ScalarProperty Name="remi_sNumeroHijos" ColumnName="remi_sNumeroHijos" />
+          <ScalarProperty Name="remi_sFolio" ColumnName="remi_sFolio" />
+          <ScalarProperty Name="remi_vLibro" ColumnName="remi_vLibro" />
+          <ScalarProperty Name="remi_vClase" ColumnName="remi_vClase" />
+          <ScalarProperty Name="remi_sServicioReservaId" ColumnName="remi_sServicioReservaId" />
+          <ScalarProperty Name="remi_IFuncionarioId" ColumnName="remi_IFuncionarioId" />
+          <ScalarProperty Name="remi_sInstitucionMilitarId" ColumnName="remi_sInstitucionMilitarId" />
+          <ScalarProperty Name="remi_sCalificacionMilitarId" ColumnName="remi_sCalificacionMilitarId" />
+          <ScalarProperty Name="remi_iActuacionDetalleId" ColumnName="remi_iActuacionDetalleId" />
+          <ScalarProperty Name="remi_iRegistroMilitarId" ColumnName="remi_iRegistroMilitarId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTOJUDICIALNOTIFICACION">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTOJUDICIALNOTIFICACION">
+        <MappingFragment StoreEntitySet="RE_ACTOJUDICIALNOTIFICACION">
+          <ScalarProperty Name="ajno_dFechaModificacion" ColumnName="ajno_dFechaModificacion" />
+          <ScalarProperty Name="ajno_vIPModificacion" ColumnName="ajno_vIPModificacion" />
+          <ScalarProperty Name="ajno_sUsuarioModificacion" ColumnName="ajno_sUsuarioModificacion" />
+          <ScalarProperty Name="ajno_dFechaCreacion" ColumnName="ajno_dFechaCreacion" />
+          <ScalarProperty Name="ajno_vIPCreacion" ColumnName="ajno_vIPCreacion" />
+          <ScalarProperty Name="ajno_sUsuarioCreacion" ColumnName="ajno_sUsuarioCreacion" />
+          <ScalarProperty Name="ajno_sEstadoId" ColumnName="ajno_sEstadoId" />
+          <ScalarProperty Name="ajno_vObservaciones" ColumnName="ajno_vObservaciones" />
+          <ScalarProperty Name="ajno_vCuerpoNotificacion" ColumnName="ajno_vCuerpoNotificacion" />
+          <ScalarProperty Name="ajno_dFechaHoraRecepcion" ColumnName="ajno_dFechaHoraRecepcion" />
+          <ScalarProperty Name="ajno_vPersonaRecibeNotificacion" ColumnName="ajno_vPersonaRecibeNotificacion" />
+          <ScalarProperty Name="ajno_vNumeroCedula" ColumnName="ajno_vNumeroCedula" />
+          <ScalarProperty Name="ajno_dFechaHoraNotificacion" ColumnName="ajno_dFechaHoraNotificacion" />
+          <ScalarProperty Name="ajno_vPersonaNotificacion" ColumnName="ajno_vPersonaNotificacion" />
+          <ScalarProperty Name="ajno_vEmpresaServicioPostal" ColumnName="ajno_vEmpresaServicioPostal" />
+          <ScalarProperty Name="ajno_sViaEnvioId" ColumnName="ajno_sViaEnvioId" />
+          <ScalarProperty Name="ajno_sTipoRecepcionId" ColumnName="ajno_sTipoRecepcionId" />
+          <ScalarProperty Name="ajno_iActoJudicialParticipanteId" ColumnName="ajno_iActoJudicialParticipanteId" />
+          <ScalarProperty Name="ajno_iActoJudicialNotificacionId" ColumnName="ajno_iActoJudicialNotificacionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_REGISTROCIVIL">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_REGISTROCIVIL">
+        <MappingFragment StoreEntitySet="RE_REGISTROCIVIL">
+          <ScalarProperty Name="reci_dFechaModificacion" ColumnName="reci_dFechaModificacion" />
+          <ScalarProperty Name="reci_vIPModificacion" ColumnName="reci_vIPModificacion" />
+          <ScalarProperty Name="reci_sUsuarioModificacion" ColumnName="reci_sUsuarioModificacion" />
+          <ScalarProperty Name="reci_dFechaCreacion" ColumnName="reci_dFechaCreacion" />
+          <ScalarProperty Name="reci_vIPCreacion" ColumnName="reci_vIPCreacion" />
+          <ScalarProperty Name="reci_sUsuarioCreacion" ColumnName="reci_sUsuarioCreacion" />
+          <ScalarProperty Name="reci_cEstado" ColumnName="reci_cEstado" />
+          <ScalarProperty Name="reci_vObservaciones" ColumnName="reci_vObservaciones" />
+          <ScalarProperty Name="reci_bAnotacionFlag" ColumnName="reci_bAnotacionFlag" />
+          <ScalarProperty Name="reci_vLibro" ColumnName="reci_vLibro" />
+          <ScalarProperty Name="reci_vCargoCelebrante" ColumnName="reci_vCargoCelebrante" />
+          <ScalarProperty Name="reci_bDigitalizadoFlag" ColumnName="reci_bDigitalizadoFlag" />
+          <ScalarProperty Name="reci_dFechaAprobacion" ColumnName="reci_dFechaAprobacion" />
+          <ScalarProperty Name="reci_vIPAprobacion" ColumnName="reci_vIPAprobacion" />
+          <ScalarProperty Name="reci_IAprobacionUsuarioId" ColumnName="reci_IAprobacionUsuarioId" />
+          <ScalarProperty Name="reci_vNumeroExpedienteMatrimonio" ColumnName="reci_vNumeroExpedienteMatrimonio" />
+          <ScalarProperty Name="reci_IOcurrenciaCentroPobladoId" ColumnName="reci_IOcurrenciaCentroPobladoId" />
+          <ScalarProperty Name="reci_cOcurrenciaUbigeo" ColumnName="reci_cOcurrenciaUbigeo" />
+          <ScalarProperty Name="reci_vOcurrenciaLugar" ColumnName="reci_vOcurrenciaLugar" />
+          <ScalarProperty Name="reci_sOcurrenciaTipoId" ColumnName="reci_sOcurrenciaTipoId" />
+          <ScalarProperty Name="reci_dFechaHoraOcurrenciaActo" ColumnName="reci_dFechaHoraOcurrenciaActo" />
+          <ScalarProperty Name="reci_IOficinaRegistralCentroPobladoId" ColumnName="reci_IOficinaRegistralCentroPobladoId" />
+          <ScalarProperty Name="reci_cOficinaRegistralUbigeo" ColumnName="reci_cOficinaRegistralUbigeo" />
+          <ScalarProperty Name="reci_dFechaRegistro" ColumnName="reci_dFechaRegistro" />
+          <ScalarProperty Name="reci_vNumeroActa" ColumnName="reci_vNumeroActa" />
+          <ScalarProperty Name="reci_vNumeroCUI" ColumnName="reci_vNumeroCUI" />
+          <ScalarProperty Name="reci_sTipoActaId" ColumnName="reci_sTipoActaId" />
+          <ScalarProperty Name="reci_iActuacionDetalleId" ColumnName="reci_iActuacionDetalleId" />
+          <ScalarProperty Name="reci_iRegistroCivilId" ColumnName="reci_iRegistroCivilId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ASISTENCIABENEFICIARIO">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ASISTENCIABENEFICIARIO">
+        <MappingFragment StoreEntitySet="RE_ASISTENCIABENEFICIARIO">
+          <ScalarProperty Name="asbe_dFechaModificacion" ColumnName="asbe_dFechaModificacion" />
+          <ScalarProperty Name="asbe_vIPModificacion" ColumnName="asbe_vIPModificacion" />
+          <ScalarProperty Name="asbe_sUsuarioModificacion" ColumnName="asbe_sUsuarioModificacion" />
+          <ScalarProperty Name="asbe_dFechaCreacion" ColumnName="asbe_dFechaCreacion" />
+          <ScalarProperty Name="asbe_vIPCreacion" ColumnName="asbe_vIPCreacion" />
+          <ScalarProperty Name="asbe_sUsuarioCreacion" ColumnName="asbe_sUsuarioCreacion" />
+          <ScalarProperty Name="asbe_cEstado" ColumnName="asbe_cEstado" />
+          <ScalarProperty Name="asbe_FMonto" ColumnName="asbe_FMonto" />
+          <ScalarProperty Name="asbe_vNombres" ColumnName="asbe_vNombres" />
+          <ScalarProperty Name="asbe_vApellidoMaterno" ColumnName="asbe_vApellidoMaterno" />
+          <ScalarProperty Name="asbe_vApellidoPaterno" ColumnName="asbe_vApellidoPaterno" />
+          <ScalarProperty Name="asbe_vDocumentoNumero" ColumnName="asbe_vDocumentoNumero" />
+          <ScalarProperty Name="asbe_sDocumentoTipoId" ColumnName="asbe_sDocumentoTipoId" />
+          <ScalarProperty Name="asbe_iAsistenciaId" ColumnName="asbe_iAsistenciaId" />
+          <ScalarProperty Name="asbe_iAsistenciaBeneficiarioId" ColumnName="asbe_iAsistenciaBeneficiarioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_PERSONA">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_PERSONA">
+        <MappingFragment StoreEntitySet="RE_PERSONA">
+          <ScalarProperty Name="pers_vLugarNacimiento" ColumnName="pers_vLugarNacimiento" />
+          <ScalarProperty Name="pers_IOcurrenciaCentroPobladoId" ColumnName="pers_IOcurrenciaCentroPobladoId" />
+          <ScalarProperty Name="pers_sOcurrenciaTipoId" ColumnName="pers_sOcurrenciaTipoId" />
+          <ScalarProperty Name="pers_sPeso" ColumnName="pers_sPeso" />
+          <ScalarProperty Name="pers_dFechaModificacion" ColumnName="pers_dFechaModificacion" />
+          <ScalarProperty Name="pers_vIPModificacion" ColumnName="pers_vIPModificacion" />
+          <ScalarProperty Name="pers_sUsuarioModificacion" ColumnName="pers_sUsuarioModificacion" />
+          <ScalarProperty Name="pers_dFechaCreacion" ColumnName="pers_dFechaCreacion" />
+          <ScalarProperty Name="pers_vIPCreacion" ColumnName="pers_vIPCreacion" />
+          <ScalarProperty Name="pers_sUsuarioCreacion" ColumnName="pers_sUsuarioCreacion" />
+          <ScalarProperty Name="pers_cEstado" ColumnName="pers_cEstado" />
+          <ScalarProperty Name="pers_vApellidoCasada" ColumnName="pers_vApellidoCasada" />
+          <ScalarProperty Name="pers_cUbigeoDefuncion" ColumnName="pers_cUbigeoDefuncion" />
+          <ScalarProperty Name="pers_dFechaDefuncion" ColumnName="pers_dFechaDefuncion" />
+          <ScalarProperty Name="pers_bFallecidoFlag" ColumnName="pers_bFallecidoFlag" />
+          <ScalarProperty Name="pers_vSenasParticulares" ColumnName="pers_vSenasParticulares" />
+          <ScalarProperty Name="pers_sGrupoSanguineoId" ColumnName="pers_sGrupoSanguineoId" />
+          <ScalarProperty Name="pers_sColorCabelloId" ColumnName="pers_sColorCabelloId" />
+          <ScalarProperty Name="pers_sColorOjosId" ColumnName="pers_sColorOjosId" />
+          <ScalarProperty Name="pers_sColorTezId" ColumnName="pers_sColorTezId" />
+          <ScalarProperty Name="pers_vEstatura" ColumnName="pers_vEstatura" />
+          <ScalarProperty Name="pers_sNacionalidadId" ColumnName="pers_sNacionalidadId" />
+          <ScalarProperty Name="pers_vObservaciones" ColumnName="pers_vObservaciones" />
+          <ScalarProperty Name="pers_cNacimientoLugar" ColumnName="pers_cNacimientoLugar" />
+          <ScalarProperty Name="pers_sPersonaTipoId" ColumnName="pers_sPersonaTipoId" />
+          <ScalarProperty Name="pers_dNacimientoFecha" ColumnName="pers_dNacimientoFecha" />
+          <ScalarProperty Name="pers_vCorreoElectronico" ColumnName="pers_vCorreoElectronico" />
+          <ScalarProperty Name="pers_vNombres" ColumnName="pers_vNombres" />
+          <ScalarProperty Name="pers_vApellidoMaterno" ColumnName="pers_vApellidoMaterno" />
+          <ScalarProperty Name="pers_vApellidoPaterno" ColumnName="pers_vApellidoPaterno" />
+          <ScalarProperty Name="pers_sGradoInstruccionId" ColumnName="pers_sGradoInstruccionId" />
+          <ScalarProperty Name="pers_sGeneroId" ColumnName="pers_sGeneroId" />
+          <ScalarProperty Name="pers_sIdiomaNatalId" ColumnName="pers_sIdiomaNatalId" />
+          <ScalarProperty Name="pers_sOcupacionId" ColumnName="pers_sOcupacionId" />
+          <ScalarProperty Name="pers_sProfesionId" ColumnName="pers_sProfesionId" />
+          <ScalarProperty Name="pers_sEstadoCivilId" ColumnName="pers_sEstadoCivilId" />
+          <ScalarProperty Name="pers_iPersonaId" ColumnName="pers_iPersonaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTOJUDICIALPARTICIPANTE">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTOJUDICIALPARTICIPANTE">
+        <MappingFragment StoreEntitySet="RE_ACTOJUDICIALPARTICIPANTE">
+          <ScalarProperty Name="ajpa_sEstadoId" ColumnName="ajpa_sEstadoId" />
+          <ScalarProperty Name="ajpa_dFechaLlegadaValija" ColumnName="ajpa_dFechaLlegadaValija" />
+          <ScalarProperty Name="ajpa_iActuacionDetalleId" ColumnName="ajpa_iActuacionDetalleId" />
+          <ScalarProperty Name="ajpa_dFechaModificacion" ColumnName="ajpa_dFechaModificacion" />
+          <ScalarProperty Name="ajpa_vIPModificacion" ColumnName="ajpa_vIPModificacion" />
+          <ScalarProperty Name="ajpa_sUsuarioModificacion" ColumnName="ajpa_sUsuarioModificacion" />
+          <ScalarProperty Name="ajpa_dFechaCreacion" ColumnName="ajpa_dFechaCreacion" />
+          <ScalarProperty Name="ajpa_vIPCreacion" ColumnName="ajpa_vIPCreacion" />
+          <ScalarProperty Name="ajpa_sUsuarioCreacion" ColumnName="ajpa_sUsuarioCreacion" />
+          <ScalarProperty Name="ajpa_dFechaAceptacionExpediente" ColumnName="ajpa_dFechaAceptacionExpediente" />
+          <ScalarProperty Name="ajpa_iEmpresaId" ColumnName="ajpa_iEmpresaId" />
+          <ScalarProperty Name="ajpa_iPersonaId" ColumnName="ajpa_iPersonaId" />
+          <ScalarProperty Name="ajpa_sTipoPersonaId" ColumnName="ajpa_sTipoPersonaId" />
+          <ScalarProperty Name="ajpa_sOficinaConsularDestinoId" ColumnName="ajpa_sOficinaConsularDestinoId" />
+          <ScalarProperty Name="ajpa_sTipoParticipanteId" ColumnName="ajpa_sTipoParticipanteId" />
+          <ScalarProperty Name="ajpa_iActoJudicialId" ColumnName="ajpa_iActoJudicialId" />
+          <ScalarProperty Name="ajpa_iActoJudicialParticipanteId" ColumnName="ajpa_iActoJudicialParticipanteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTAJUDICIAL">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTAJUDICIAL">
+        <MappingFragment StoreEntitySet="RE_ACTAJUDICIAL">
+          <ScalarProperty Name="acjd_vResponsable" ColumnName="acjd_vResponsable" />
+          <ScalarProperty Name="acjd_dFechaModificacion" ColumnName="acjd_dFechaModificacion" />
+          <ScalarProperty Name="acjd_vIPModificacion" ColumnName="acjd_vIPModificacion" />
+          <ScalarProperty Name="acjd_sUsuarioModificacion" ColumnName="acjd_sUsuarioModificacion" />
+          <ScalarProperty Name="acjd_dFechaCreacion" ColumnName="acjd_dFechaCreacion" />
+          <ScalarProperty Name="acjd_vIPCreacion" ColumnName="acjd_vIPCreacion" />
+          <ScalarProperty Name="acjd_sUsuarioCreacion" ColumnName="acjd_sUsuarioCreacion" />
+          <ScalarProperty Name="acjd_sEstadoId" ColumnName="acjd_sEstadoId" />
+          <ScalarProperty Name="acjd_vObservaciones" ColumnName="acjd_vObservaciones" />
+          <ScalarProperty Name="acjd_vResultado" ColumnName="acjd_vResultado" />
+          <ScalarProperty Name="acjd_vCuerpoActa" ColumnName="acjd_vCuerpoActa" />
+          <ScalarProperty Name="acjd_dFechaHoraActa" ColumnName="acjd_dFechaHoraActa" />
+          <ScalarProperty Name="acjd_IFuncionarioFirmanteId" ColumnName="acjd_IFuncionarioFirmanteId" />
+          <ScalarProperty Name="acjd_sTipoActaId" ColumnName="acjd_sTipoActaId" />
+          <ScalarProperty Name="acjd_iActoJudicialNotificacionId" ColumnName="acjd_iActoJudicialNotificacionId" />
+          <ScalarProperty Name="acjd_iActaJudicialId" ColumnName="acjd_iActaJudicialId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ASISTENCIA">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ASISTENCIA">
+        <MappingFragment StoreEntitySet="RE_ASISTENCIA">
+          <ScalarProperty Name="asis_dFechaModificacion" ColumnName="asis_dFechaModificacion" />
+          <ScalarProperty Name="asis_vIPModificacion" ColumnName="asis_vIPModificacion" />
+          <ScalarProperty Name="asis_sUsuarioModificacion" ColumnName="asis_sUsuarioModificacion" />
+          <ScalarProperty Name="asis_dFechaCreacion" ColumnName="asis_dFechaCreacion" />
+          <ScalarProperty Name="asis_vIPCreacion" ColumnName="asis_vIPCreacion" />
+          <ScalarProperty Name="asis_sUsuarioCreacion" ColumnName="asis_sUsuarioCreacion" />
+          <ScalarProperty Name="asis_cEstado" ColumnName="asis_cEstado" />
+          <ScalarProperty Name="asis_sEstado" ColumnName="asis_sEstado" />
+          <ScalarProperty Name="asis_sNumeroBeneficiario" ColumnName="asis_sNumeroBeneficiario" />
+          <ScalarProperty Name="asis_sTipoAyudaPah" ColumnName="asis_sTipoAyudaPah" />
+          <ScalarProperty Name="asis_sCubrioPAH" ColumnName="asis_sCubrioPAH" />
+          <ScalarProperty Name="asis_vNombreArchivo" ColumnName="asis_vNombreArchivo" />
+          <ScalarProperty Name="asis_vObservaciones" ColumnName="asis_vObservaciones" />
+          <ScalarProperty Name="asis_FMontoServ" ColumnName="asis_FMontoServ" />
+          <ScalarProperty Name="asis_sMonedaId" ColumnName="asis_sMonedaId" />
+          <ScalarProperty Name="asis_vDirURL" ColumnName="asis_vDirURL" />
+          <ScalarProperty Name="asis_IFuncionarioId" ColumnName="asis_IFuncionarioId" />
+          <ScalarProperty Name="asis_sOficinaConsularId" ColumnName="asis_sOficinaConsularId" />
+          <ScalarProperty Name="asis_sOficinaConsularOrigenId" ColumnName="asis_sOficinaConsularOrigenId" />
+          <ScalarProperty Name="asis_cUbigeo" ColumnName="asis_cUbigeo" />
+          <ScalarProperty Name="asis_sOtrosServiciosId" ColumnName="asis_sOtrosServiciosId" />
+          <ScalarProperty Name="asis_sTipoServId" ColumnName="asis_sTipoServId" />
+          <ScalarProperty Name="asis_vHoraFin" ColumnName="asis_vHoraFin" />
+          <ScalarProperty Name="asis_vHoraInicio" ColumnName="asis_vHoraInicio" />
+          <ScalarProperty Name="asis_vNroCaso" ColumnName="asis_vNroCaso" />
+          <ScalarProperty Name="asis_dFecServicio" ColumnName="asis_dFecServicio" />
+          <ScalarProperty Name="asis_sTipAsistencia" ColumnName="asis_sTipAsistencia" />
+          <ScalarProperty Name="asis_iPersonaId" ColumnName="asis_iPersonaId" />
+          <ScalarProperty Name="asis_iAsistenciaId" ColumnName="asis_iAsistenciaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RE_ACTONOTARIAL">
+      <EntityTypeMapping TypeName="BD_SGACModel.RE_ACTONOTARIAL">
+        <MappingFragment StoreEntitySet="RE_ACTONOTARIAL">
+          <ScalarProperty Name="acno_dFechaModificacion" ColumnName="acno_dFechaModificacion" />
+          <ScalarProperty Name="acno_vIPModificacion" ColumnName="acno_vIPModificacion" />
+          <ScalarProperty Name="acno_sUsuarioModificacion" ColumnName="acno_sUsuarioModificacion" />
+          <ScalarProperty Name="acno_dFechaCreacion" ColumnName="acno_dFechaCreacion" />
+          <ScalarProperty Name="acno_vIPCreacion" ColumnName="acno_vIPCreacion" />
+          <ScalarProperty Name="acno_sUsuarioCreacion" ColumnName="acno_sUsuarioCreacion" />
+          <ScalarProperty Name="acno_sEstadoId" ColumnName="acno_sEstadoId" />
+          <ScalarProperty Name="acno_vMotivoAnulacion" ColumnName="acno_vMotivoAnulacion" />
+          <ScalarProperty Name="acno_dFechaAnulacion" ColumnName="acno_dFechaAnulacion" />
+          <ScalarProperty Name="acno_IFuncionarioAnulaId" ColumnName="acno_IFuncionarioAnulaId" />
+          <ScalarProperty Name="acno_cUbigeoDestino" ColumnName="acno_cUbigeoDestino" />
+          <ScalarProperty Name="acno_vObservaciones" ColumnName="acno_vObservaciones" />
+          <ScalarProperty Name="acno_dFechaExtension" ColumnName="acno_dFechaExtension" />
+          <ScalarProperty Name="acno_vItinerario" ColumnName="acno_vItinerario" />
+          <ScalarProperty Name="acno_vNumeroEscrituraPublica" ColumnName="acno_vNumeroEscrituraPublica" />
+          <ScalarProperty Name="acno_iNumeroActoNotarial" ColumnName="acno_iNumeroActoNotarial" />
+          <ScalarProperty Name="acno_vNumeroColegiatura" ColumnName="acno_vNumeroColegiatura" />
+          <ScalarProperty Name="acno_bFlagMinuta" ColumnName="acno_bFlagMinuta" />
+          <ScalarProperty Name="acno_bDigitalizadoFlag" ColumnName="acno_bDigitalizadoFlag" />
+          <ScalarProperty Name="acno_vDenominacion" ColumnName="acno_vDenominacion" />
+          <ScalarProperty Name="acno_vAutorizacionTipo" ColumnName="acno_vAutorizacionTipo" />
+          <ScalarProperty Name="acno_IFuncionarioCertificadorId" ColumnName="acno_IFuncionarioCertificadorId" />
+          <ScalarProperty Name="acno_IFuncionarioAutorizadorId" ColumnName="acno_IFuncionarioAutorizadorId" />
+          <ScalarProperty Name="acno_iActoNotarialReferenciaId" ColumnName="acno_iActoNotarialReferenciaId" />
+          <ScalarProperty Name="acno_sOficinaConsularId" ColumnName="acno_sOficinaConsularId" />
+          <ScalarProperty Name="acno_sSubTipoActoNotarialId" ColumnName="acno_sSubTipoActoNotarialId" />
+          <ScalarProperty Name="acno_sTipoActoNotarialId" ColumnName="acno_sTipoActoNotarialId" />
+          <ScalarProperty Name="acno_iActuacionId" ColumnName="acno_iActuacionId" />
+          <ScalarProperty Name="acno_iActoNotarialId" ColumnName="acno_iActoNotarialId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

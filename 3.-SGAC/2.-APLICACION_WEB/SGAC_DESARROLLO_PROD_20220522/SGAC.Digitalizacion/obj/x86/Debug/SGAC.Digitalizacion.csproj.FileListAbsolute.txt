@@ -1,0 +1,260 @@
+D:\TFS-CLOUD-MRE\SGAC\3.Development\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\sgac_sourcecode_20160628T2344\sgac_sourcecode\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\sgac_sourcecode - BK\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\FORMULARIO\sgac_sourcecode - Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\SGAC_Desarrollo\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Compartida\2020\SGAC\05_PASE_SGAC_17012020\03_Fuentes\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\SISTEMAS\BK\SGAC_DESARROLLO_CONTABILIDAD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+C:\Proyectos\SGAC_DESARROLLO_jonatan\SGAC_DESARROLLO\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\FuentesCS\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210112_CONSULAR\SGAC_DESARROLLO_PROD_20210112\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+C:\Proyectos\SGAC_DESARROLLO_PROD_20210305_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210507_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210601_CONSULAR\SGAC_DESARROLLO_PROD\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210802\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20210810\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20211202\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104\SGAC_DESARROLLO_PROD_20220104\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220323_VN2022\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220330\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220418\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220503\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe.config
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.exe
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\bin\Debug\SGAC.Digitalizacion.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\bin\Debug\itextsharp.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb

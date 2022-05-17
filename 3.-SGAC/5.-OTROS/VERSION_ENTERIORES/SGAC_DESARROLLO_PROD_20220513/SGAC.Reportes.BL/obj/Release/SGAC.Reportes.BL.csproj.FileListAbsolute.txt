@@ -1,0 +1,23 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.BL.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.BL.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.DA.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.DA.pdb
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.dll
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.BL.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.BL.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.DA.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.DA.pdb
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.dll
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.BL.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.BL.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.DA.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\bin\Release\SGAC.Reportes.DA.pdb
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.csproj.CoreCompileInputs.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.csproj.CopyComplete
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.dll
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Reportes.BL\obj\Release\SGAC.Reportes.BL.pdb

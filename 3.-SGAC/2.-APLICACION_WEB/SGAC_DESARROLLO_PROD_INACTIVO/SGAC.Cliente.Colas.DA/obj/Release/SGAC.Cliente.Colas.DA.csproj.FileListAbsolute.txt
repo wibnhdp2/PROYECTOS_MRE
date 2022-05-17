@@ -1,0 +1,4 @@
+E:\TRABAJO\SGAC_DESARROLLO\SGAC.Cliente.Colas.DA\obj\Release\SGAC.Cliente.Colas.DA.csprojResolveAssemblyReference.cache
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Cliente.Colas.DA\obj\Release\SGAC.Cliente.Colas.DA.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Cliente.Colas.DA\obj\Release\SGAC.Cliente.Colas.DA.csprojAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Cliente.Colas.DA\obj\Release\SGAC.Cliente.Colas.DA.csproj.CoreCompileInputs.cache

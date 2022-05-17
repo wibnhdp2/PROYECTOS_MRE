@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://IntegradorSGAC" elementFormDefault="qualified" targetNamespace="http://IntegradorSGAC" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DescargaConfiguracion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="intOficinaConsularId" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DescargaConfiguracionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="DescargaConfiguracionResult" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CargaInformacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="lstTicket" type="tns:ArrayOfTicket" />
+        <xs:element minOccurs="1" maxOccurs="1" name="intOficinaConsularId" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ArrayOfTicket">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Ticket" nillable="true" type="tns:Ticket" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Ticket">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sTipoServicioId" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_iPersonalId" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_iNumero" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_dFechaHoraGeneracion" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_dAtencionInicio" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_dAtencionFinal" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sPrioridadId" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sTipoCliente" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sTamanoTicket" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sTipoEstado" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sTicketeraId" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_vLLamada" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sUsuarioAtendio" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_cEstado" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sUsuarioCreacion" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_vIPCreacion" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_dFechaCreacion" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sUsuarioModificacion" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_vIPModificacion" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="tick_dFechaModificacion" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="tick_sVentanillaId" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CargaInformacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="CargaInformacionResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BuscarPersonaRune">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="intDocumentoTipo" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="strDocumentoNumero" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BuscarPersonaRuneResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="BuscarPersonaRuneResult" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

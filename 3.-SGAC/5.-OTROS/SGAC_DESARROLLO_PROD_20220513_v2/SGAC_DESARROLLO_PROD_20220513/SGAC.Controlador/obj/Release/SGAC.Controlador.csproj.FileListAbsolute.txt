@@ -1,0 +1,2 @@
+E:\TRABAJO\SGAC_DESARROLLO_PROD\SGAC.Controlador\obj\Release\SGAC.Controlador.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220104_VN2017\SGAC_DESARROLLO_PROD\SGAC.Controlador\obj\Release\SGAC.Controlador.csproj.CoreCompileInputs.cache
