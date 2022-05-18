@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="eb8b22cf-3723-4ae2-bdcf-57d7a5b6ae87" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://consulares1.rree.gob.pe/sgac_webservice/colasatencion.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ColasAtencion11.wsdl" MetadataType="Wsdl" ID="f6dfcd10-1611-45ea-87a6-398253e2259e" SourceId="1" SourceUrl="http://consulares1.rree.gob.pe/sgac_webservice/ColasAtencion.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="ColasAtencion11.xsd" MetadataType="Schema" ID="204fd27d-51bd-4102-9f7e-5b6579980cf8" SourceId="1" SourceUrl="http://consulares1.rree.gob.pe/sgac_webservice/ColasAtencion.svc?xsd=xsd0" />
+    <MetadataFile FileName="ColasAtencion11.disco" MetadataType="Disco" ID="74a7e967-2d8c-438e-bd12-fbb7cf4c5346" SourceId="1" SourceUrl="http://consulares1.rree.gob.pe/sgac_webservice/ColasAtencion.svc?disco" />
+    <MetadataFile FileName="ColasAtencionServicio11.wsdl" MetadataType="Wsdl" ID="e7423e22-b058-4236-89ec-79255c5f740a" SourceId="1" SourceUrl="http://consulares1.rree.gob.pe/sgac_webservice/ColasAtencion.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

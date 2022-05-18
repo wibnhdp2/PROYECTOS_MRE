@@ -1,0 +1,9 @@
+﻿#modalPopup
+{
+    display: none;
+    border: solid 1px Black;
+    background-color: White;
+    color: Black;
+    vertical-align: middle;
+    height: 100px;
+}
