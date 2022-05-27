@@ -7459,14 +7459,14 @@ namespace SGAC.WebApp.Registro
                 DocumentoiTextSharp oDocumentoiTextSharp = new DocumentoiTextSharp(null, strCuerpo, HttpContext.Current.Server.MapPath("~/Images/Escudo.JPG"));
 
                 List<string> lstPalabrasOmitir = new List<string>();
-                lstPalabrasOmitir.Add("OFICIO N°");
-                lstPalabrasOmitir.Add("SEÑOR REGISTRADOR.");
-                lstPalabrasOmitir.Add("REGISTROS DE MANDATOS Y PODERES.");
-                lstPalabrasOmitir.Add("SUPERINTENDENCIA NACIONAL DE REGISTROS PÚBLICOS.");
-                lstPalabrasOmitir.Add("PARTE CONSULAR DE ESCRITURA PÚBLICA DE");
-                lstPalabrasOmitir.Add("ZONA REGISTRAL");
-                lstPalabrasOmitir.Add("OTORGADO POR");
-                lstPalabrasOmitir.Add("ATENTAMENTE,");
+                lstPalabrasOmitir.Add("Oficio N°");
+                lstPalabrasOmitir.Add("Señor Registrador.");
+                lstPalabrasOmitir.Add("Registros De Mandatos Y Poderes.");
+                lstPalabrasOmitir.Add("Superintendencia Nacional De Registros Públicos.");
+                lstPalabrasOmitir.Add("Parte Consular De Escritura Pública De");
+                lstPalabrasOmitir.Add("Zona Registral");
+                lstPalabrasOmitir.Add("Otorgado Por");
+                lstPalabrasOmitir.Add("Atentamente,");
                 lstPalabrasOmitir.Add(strFecha);
                 if (vOficinaRegistral.Length > 0)
                 {

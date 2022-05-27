@@ -2579,7 +2579,7 @@ namespace SGAC.WebApp.Accesorios
                                         {
                                             if (palabra.IndexOf("=") > -1)
                                             {
-                                                sLineaAcumulada += palabra.Trim();
+                                                sLineaAcumulada += bEsSolaUnaHoja? " ": palabra.Trim();
                                             }
                                             else
                                             {
@@ -8628,7 +8628,7 @@ namespace SGAC.WebApp.Accesorios
                     while (new iTextSharp.text.Chunk(textoAcumulado + "=", font2).GetWidthPoint() < posDiferencia)
                     {
 
-                        textoAcumulado += "=";
+                        textoAcumulado += "=";                        
                     }
                 }
 

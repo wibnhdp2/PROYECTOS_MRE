@@ -6332,6 +6332,7 @@
         }
 
         function tab_02_Limpiar() {
+            
             $("#imgBuscarPN").attr('disabled', false);
             $("#<%=ddlPaisOrigen.ClientID %>").attr('disabled', false);
             $("#<%=ddl_pers_sPersonaTipoId.ClientID %>").val("2101");
@@ -8334,7 +8335,7 @@
 
 
      
-    <script typ="text/javascript">
+    <script type="text/javascript">
 
         function UploadImg() {
             var ext = $('#<%=FileUploadImagen.ClientID %>').val().split('.').pop().toLowerCase();

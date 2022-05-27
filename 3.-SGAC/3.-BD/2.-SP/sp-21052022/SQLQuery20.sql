@@ -1,0 +1,14 @@
+USE [BD_SGAC]
+GO
+
+DECLARE @Fecha AS varchar(20)
+SET @Fecha = CONVERT(VARCHAR, PS_ACCESORIOS.FN_OBTENER_FECHAACTUAL(762), 103)
+select @Fecha
+
+
+
+
+
+
+
+
