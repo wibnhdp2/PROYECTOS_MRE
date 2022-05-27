@@ -2721,3 +2721,4 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.BL\obj\Debug\SGAC.Contabilidad.CuentaCorriente.BL.csprojResolveAssemblyReference.cache

@@ -1,9 +1,0 @@
-﻿ * { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none; text-align : justify; color:Black; }
- p, strong, em, span, div, a { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;}
- p > span { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;}
- p > em { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;} 
- p > em > strong { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;} 
- p > span > em  { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;} 
- p > span > em > strong  { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;} 
- p > strong > em { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;} 
- p > strong { text-transform: uppercase; font-weight: normal; font-style: normal; text-decoration:none;  font-family: Verdana; text-align : justify; color:Black;} 
