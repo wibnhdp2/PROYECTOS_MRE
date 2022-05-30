@@ -1721,3 +1721,4 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.DA\obj\Debug\SGAC.Registro.Persona.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.DA\obj\Debug\SGAC.Registro.Persona.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.DA\obj\Debug\SGAC.Registro.Persona.DA.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.DA\obj\Debug\SGAC.Registro.Persona.DA.csprojResolveAssemblyReference.cache

@@ -16620,3 +16620,9 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\RdlCompile.compiled
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\SGAC.WebApp.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\SGAC.WebApp.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\SGAC.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\Interop.MSXML2.dll
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\Interop.WIA.dll
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\SGAC.WebApp.csproj.ResolveComReference.cache
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\RdlCompile.cache
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.WebApp\obj\Debug\RdlCompile.compiled

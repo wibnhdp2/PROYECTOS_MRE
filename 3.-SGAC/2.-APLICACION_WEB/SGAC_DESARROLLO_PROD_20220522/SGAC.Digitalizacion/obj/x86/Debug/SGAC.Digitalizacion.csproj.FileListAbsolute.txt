@@ -258,3 +258,6 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.exe
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.frmEscanear.resources
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.Properties.Resources.resources
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Digitalizacion\obj\x86\Debug\SGAC.Digitalizacion.csproj.GenerateResource.Cache
