@@ -1,0 +1,119 @@
+﻿
+.Titulos{
+    font-size:20px; font-weight: bold; color:#431425;
+}
+.SubTitulos{
+    font-size: 13px; font-weight: bold; color:#431425;
+}
+.Cuerpo{
+    font-size: 10px;font-weight: bold; color:#000066;
+}
+.margin{
+    padding: 3px;margin: 3px;
+}
+
+#MsjError{
+    margin-top: 10px; margin-bottom: 0px; color: #990000;
+}
+
+#TableHeader{
+     background:#431425;color: #ffffff;  font-size: 12px; width: 100%; padding:0px; 
+}
+
+#TableHeaderModal{
+    background:#431425;color: #ffffff; font-weight: bold; font-size: 13px; width: 100%;
+}
+
+#TableModal{
+    width: 100%; margin: 0px;padding: 0px;
+}
+
+
+div.dataTables_length label {
+ width: 460px;
+ float: left;
+ text-align: left;
+}
+div.dataTables_length select {
+ width: 75px;
+}
+div.dataTables_filter label {
+ float: right;
+ width: 460px;
+}
+div.dataTables_info {
+ padding-top: 8px;
+}
+div.dataTables_paginate {
+ float: right;
+ margin: 0;
+}
+
+.table {
+ margin: 1em 0;
+ clear: both;
+}
+table.dataTable th:active {
+ outline: none;
+}
+
+
+.table >tbody >tr 
+{
+    padding:0px;
+    height:10px;
+        
+}
+
+
+#TableHeader{
+     background:#431425;color: #ffffff; font-weight: bold; font-size: 12px; width: 100%;
+}
+.TableHeader{
+     background:#431425;color: #ffffff; font-weight: bold; font-size: 12px; width: 100%;
+}
+
+#TableHeaderModal{
+    background:#431425;color: #ffffff; font-weight: bold; font-size: 13px; width: 100%;
+}
+.TableHeaderModal{
+    background:#431425;color: #ffffff; font-weight: bold; font-size: 13px; width: 100%;
+}
+
+#TableModal{
+    width: 100%; margin: 0px;padding: 0px;
+}
+
+/*
+
+
+a[href]:after {
+	content: " (" attr(href) ")";
+}
+abbr[title]:after {
+	content: " (" attr(title) ")";
+}
+a[href^="javascript:"]:after,
+a[href^="#"]:after {
+	content: "";
+}
+pre, blockquote {
+	border: 1px solid #999;
+	page-break-inside: avoid;
+}
+thead {
+	display: table-header-group;
+}
+tr, img {
+	page-break-inside: avoid;
+}
+@page {
+	margin: .5cm;
+}
+p, h2, h3 {
+	orphans: 3;
+	widows: 3;
+}
+h2, h3 {
+	page-break-after: avoid;
+}*/
