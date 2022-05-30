@@ -24,4 +24,4 @@
 *.cache
 *.rar
 *.bak
-##.config
+.config
