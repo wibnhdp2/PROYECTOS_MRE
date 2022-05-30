@@ -24,6 +24,30 @@
         function abrirPopupEspera() {
             document.getElementById('modalEspera').style.display = 'block';
         }
+
+        function validarPreviaImpresion() {
+            
+            var valUsuario = $("#<%=ddlusuario.ClientID %>").val();
+            var valEstAdhesivo = $("#<%=ddlEstAutoadhesivo.ClientID %>").val();
+
+            if (valUsuario == 0) {
+                alert("Por favor Elija un Ususario ")           
+                return
+            }
+
+            if (valEstAdhesivo == 0) {
+                alert("Por favor elija estado de autoadhesivo");
+                return
+            } 
+           
+            if (valUsuario != 0 && valEstAdhesivo != 0) {
+                $("#<%=impresionValida.ClientID %>").val(1);                
+                abrirPopupEspera()
+            }
+            
+        }
+
+
     </script>
  
     <table class="mTblTituloM" align="center">
@@ -348,7 +372,7 @@
                                     </td>
                                     <td>
                                         <asp:CheckBox ID="chkSinFecha" runat="server" Text="Todas las fechas" 
-                                            AutoPostBack="true" oncheckedchanged="chkSinFecha_CheckedChanged" />
+                                            AutoPostBack="true" oncheckedchanged="chkSinFecha_CheckedChanged"/>
                                     </td>
                                 </tr>
                                 <tr>
@@ -356,8 +380,10 @@
 
                                     </td>
                                     <td colspan="2">
-                                        <asp:Button ID="BtnAceptar" OnClientClick="return abrirPopupEspera();" runat="server"
+                                        <asp:Button ID="BtnAceptar" OnClientClick="return validarPreviaImpresion();" runat="server"
                                             Text="     Imprimir" CssClass="btnPrint" OnClick="BtnAceptar_Click" />
+                                        	
+                                        <asp:HiddenField ID="impresionValida" runat="server" Value = 0/>
                                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         <asp:Button ID="btnExportar" OnClientClick="return abrirPopupEspera();" runat="server"
                                             Text="     Exportar / Imprimir" CssClass="btnPrint" Width="160px" 

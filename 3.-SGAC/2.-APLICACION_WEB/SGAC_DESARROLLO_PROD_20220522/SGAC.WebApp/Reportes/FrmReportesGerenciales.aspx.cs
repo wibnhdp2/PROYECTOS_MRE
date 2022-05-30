@@ -284,7 +284,17 @@ namespace SGAC.WebApp.Reportes
 
         protected void BtnAceptar_Click(object sender, EventArgs e)
         {
-            Impresion("S");
+            int valUsuario = Int32.Parse(ddlusuario.SelectedValue);
+            int valEstAdhesivo = Int32.Parse(ddlEstAutoadhesivo.SelectedValue);
+            if (valEstAdhesivo == 0 && valUsuario == 0)
+            {
+                return;
+            }
+
+            if (impresionValida.Value != "0") {
+                Impresion("S");
+            } 
+            
         }
         void ddlOficinaConsular_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -300,7 +310,7 @@ namespace SGAC.WebApp.Reportes
 
                 UsuarioConsultasBL obj =  new UsuarioConsultasBL();
                 DataTable dt = obj.ObtenerLista(sOficinaConsularId);
-                Util.CargarDropDownList(ddlusuario, dt, "usua_vAlias", "usua_sUsuarioId", true, " - TODOS - ");
+                Util.CargarDropDownList(ddlusuario, dt, "usua_vAlias", "usua_sUsuarioId", true, "- SELECCIONAR -");
             }
             catch (Exception ex)
             {
@@ -2339,6 +2349,7 @@ namespace SGAC.WebApp.Reportes
             }
             //---------------------------------------------------------------------------
             updReportesGerenciales.Update();
+            chkSinFecha.Visible = false;
         }
 
         void DesactivarTodo()
