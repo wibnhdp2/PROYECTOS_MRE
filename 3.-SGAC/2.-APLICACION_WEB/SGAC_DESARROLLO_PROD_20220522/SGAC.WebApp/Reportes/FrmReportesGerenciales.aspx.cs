@@ -284,18 +284,18 @@ namespace SGAC.WebApp.Reportes
 
         protected void BtnAceptar_Click(object sender, EventArgs e)
         {
-            bool esUsuarioValido = ddlusuario.SelectedValue == "0" ? true : false;
-            bool esAdhesivoValido = ddlEstAutoadhesivo.SelectedValue == "0" ? true : false;
+            bool esUsuarioValido = ddlusuario.SelectedValue == "0" ? false : true;
+            bool esAdhesivoValido = ddlEstAutoadhesivo.SelectedValue == "0" ? false : true;
+            bool esReporteValido = ddlReportesGerenciales.SelectedValue == "5006" ? true : false;
 
-            if (esUsuarioValido && esAdhesivoValido)
-            {
-                return;
+            if (esReporteValido) { 
+                if (!esUsuarioValido && !esAdhesivoValido)
+                {
+                    return;
+                }            
             }
-
-            if (impresionValida.Value != "0") {
-                Impresion("S");
-            } 
-            
+                        
+            Impresion("S");                        
         }
 
         void llenarComboUsuarios(int sOficinaConsularId, string cabecera)
@@ -2363,8 +2363,7 @@ namespace SGAC.WebApp.Reportes
                 chk_TramitesSinVincular.Checked = false;
             }
             //---------------------------------------------------------------------------
-            updReportesGerenciales.Update();
-            chkSinFecha.Visible = false;
+            updReportesGerenciales.Update();            
         }
 
         void DesactivarTodo()
