@@ -17,7 +17,7 @@
 ##SGAC/PASE - ORIGINAL/03_Fuentes/SGAC_DESARROLLO_PROD_20220420/SGAC.Almacen.BL/bin/Debug/SGAC.Auditoria.BL.dll
 ##SGAC/PASE - ORIGINAL/03_Fuentes/SGAC_DESARROLLO_PROD_20220420/SGAC.Almacen.BL/bin/Debug/SGAC.Auditoria.BL.pdb
 ##SGAC/PASE - ORIGINAL/03_Fuentes/SGAC_DESARROLLO_PROD_20220420/SGAC.Almacen.BL/bin/Debug/SGAC.Auditoria.DA.dll
-*.dll
+##*.dll
 *.zip
 *.mp4
 *.webm
