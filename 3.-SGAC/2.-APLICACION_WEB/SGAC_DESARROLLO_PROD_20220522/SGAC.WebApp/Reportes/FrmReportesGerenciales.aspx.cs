@@ -284,9 +284,10 @@ namespace SGAC.WebApp.Reportes
 
         protected void BtnAceptar_Click(object sender, EventArgs e)
         {
-            int valUsuario = Int32.Parse(ddlusuario.SelectedValue);
-            int valEstAdhesivo = Int32.Parse(ddlEstAutoadhesivo.SelectedValue);
-            if (valEstAdhesivo == 0 && valUsuario == 0)
+            bool esUsuarioValido = ddlusuario.SelectedValue == "0" ? true : false;
+            bool esAdhesivoValido = ddlEstAutoadhesivo.SelectedValue == "0" ? true : false;
+
+            if (esUsuarioValido && esAdhesivoValido)
             {
                 return;
             }
@@ -296,6 +297,14 @@ namespace SGAC.WebApp.Reportes
             } 
             
         }
+
+        void llenarComboUsuarios(int sOficinaConsularId, string cabecera)
+        {
+            UsuarioConsultasBL obj = new UsuarioConsultasBL();
+            DataTable dt = obj.ObtenerLista(sOficinaConsularId);
+            Util.CargarDropDownList(ddlusuario, dt, "usua_vAlias", "usua_sUsuarioId", true, cabecera);
+        } 
+
         void ddlOficinaConsular_SelectedIndexChanged(object sender, EventArgs e)
         {
             try
@@ -307,10 +316,7 @@ namespace SGAC.WebApp.Reportes
 
                 //Proceso p = new Proceso();
                 //DataTable dt = (DataTable)p.Invocar(ref arrParametros, "SGAC.BE.SE_USUARIO", "LISTAR");
-
-                UsuarioConsultasBL obj =  new UsuarioConsultasBL();
-                DataTable dt = obj.ObtenerLista(sOficinaConsularId);
-                Util.CargarDropDownList(ddlusuario, dt, "usua_vAlias", "usua_sUsuarioId", true, "- SELECCIONAR -");
+                llenarComboUsuarios(sOficinaConsularId, "- TODOS -");
             }
             catch (Exception ex)
             {
@@ -1772,10 +1778,19 @@ namespace SGAC.WebApp.Reportes
         {
             ocultar.Visible = false;
             btnExportar.Visible = false;
+            //------------------------------------------------
+            //Fecha: 30/05/2022
+            //Autor: Martín Muñoz Selmi
+            //Objetivo: Renombrado dinámico de primer elemento 
+            //          del ddlusuario 
+            //------------------------------------------------
+            int sOficinaConsularId = Convert.ToInt16(ctrlOficinaConsular.SelectedValue);
+            string cabecera = ddlReportesGerenciales.SelectedValue == "5006" ? "- SELECCIONAR -" : "- TODOS -";
+            llenarComboUsuarios(sOficinaConsularId, cabecera);
+
             if (Convert.ToInt32(ddlReportesGerenciales.SelectedValue) == (int)Enumerador.enmReportesGerenciales.VENTAS_POR_MES)
             {
-                ctrlOficinaConsular.AutoPostBack = true;
-                //ctrlOficinaConsular.Cargar(true, true, " - SELECCIONAR - ", "");                
+                ctrlOficinaConsular.AutoPostBack = true;            
                 DataTable _dt = new DataTable();
 
                 _dt = obtenerOficinasActivas();

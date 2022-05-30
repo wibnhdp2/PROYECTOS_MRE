@@ -26,21 +26,21 @@
         }
 
         function validarPreviaImpresion() {
-            
-            var valUsuario = $("#<%=ddlusuario.ClientID %>").val();
-            var valEstAdhesivo = $("#<%=ddlEstAutoadhesivo.ClientID %>").val();
 
-            if (valUsuario == 0) {
-                alert("Por favor Elija un Ususario ")           
+            var esUsuarioValido = $("#<%=ddlusuario.ClientID %>").val() == "0" ? true : false;
+            var esAdhesivoValido = $("#<%=ddlEstAutoadhesivo.ClientID %>").val() == "0" ? true : false; ;
+
+            if (esUsuarioValido) {
+                alert("Por favor, elija usuario");
                 return
             }
 
-            if (valEstAdhesivo == 0) {
-                alert("Por favor elija estado de autoadhesivo");
+            if (esAdhesivoValido) {
+                alert("Por favor, elija estado de autoadhesivo");
                 return
-            } 
-           
-            if (valUsuario != 0 && valEstAdhesivo != 0) {
+            }
+
+            if (!esUsuarioValido && !esAdhesivoValido) {
                 $("#<%=impresionValida.ClientID %>").val(1);                
                 abrirPopupEspera()
             }
