@@ -31,9 +31,9 @@
             var esAdhesivoValido = $("#<%=ddlEstAutoadhesivo.ClientID %>").val() == "0" ? false : true;
             var esReporteValido = $("#<%=ddlReportesGerenciales.ClientID %>").val() == "5006" ? true : false;
 
-            $("#<%=chkSinFecha.ClientID %>").hide();
+
             if (esReporteValido) {
-                $("#<%=chkSinFecha.ClientID %>").show();
+                            
                  if (!esUsuarioValido) {
                     alert("Por favor, elija usuario");
                     return

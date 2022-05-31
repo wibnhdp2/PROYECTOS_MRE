@@ -27,21 +27,25 @@
 
         function validarPreviaImpresion() {
 
-            var esUsuarioValido = $("#<%=ddlusuario.ClientID %>").val() == "0" ? true : false;
-            var esAdhesivoValido = $("#<%=ddlEstAutoadhesivo.ClientID %>").val() == "0" ? true : false; ;
+            var esUsuarioValido = $("#<%=ddlusuario.ClientID %>").val() == "0" ? false : true;
+            var esAdhesivoValido = $("#<%=ddlEstAutoadhesivo.ClientID %>").val() == "0" ? false : true;
+            var esReporteValido = $("#<%=ddlReportesGerenciales.ClientID %>").val() == "5006" ? true : false;
 
-            if (esUsuarioValido) {
-                alert("Por favor, elija usuario");
-                return
+
+            if (esReporteValido) {
+                            
+                 if (!esUsuarioValido) {
+                    alert("Por favor, elija usuario");
+                    return
+                }
+
+                if (!esAdhesivoValido) {
+                    alert("Por favor, elija estado de autoadhesivo");
+                    return
+                }           
             }
-
-            if (esAdhesivoValido) {
-                alert("Por favor, elija estado de autoadhesivo");
-                return
-            }
-
-            if (!esUsuarioValido && !esAdhesivoValido) {
-                $("#<%=impresionValida.ClientID %>").val(1);                
+            
+            if (!esUsuarioValido && !esAdhesivoValido) {                
                 abrirPopupEspera()
             }
             
@@ -382,8 +386,7 @@
                                     <td colspan="2">
                                         <asp:Button ID="BtnAceptar" OnClientClick="return validarPreviaImpresion();" runat="server"
                                             Text="     Imprimir" CssClass="btnPrint" OnClick="BtnAceptar_Click" />
-                                        	
-                                        <asp:HiddenField ID="impresionValida" runat="server" Value = 0/>
+                                        
                                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         <asp:Button ID="btnExportar" OnClientClick="return abrirPopupEspera();" runat="server"
                                             Text="     Exportar / Imprimir" CssClass="btnPrint" Width="160px" 

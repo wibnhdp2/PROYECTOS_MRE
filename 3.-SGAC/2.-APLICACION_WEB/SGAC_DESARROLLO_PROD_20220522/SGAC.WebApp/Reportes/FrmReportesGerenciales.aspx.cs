@@ -300,6 +300,10 @@ namespace SGAC.WebApp.Reportes
 
         void llenarComboUsuarios(int sOficinaConsularId, string cabecera)
         {
+        
+            bool esReporteValido = ddlReportesGerenciales.SelectedValue == "5006" ? true : false;
+            chkSinFecha.Visible = !esReporteValido;
+
             UsuarioConsultasBL obj = new UsuarioConsultasBL();
             DataTable dt = obj.ObtenerLista(sOficinaConsularId);
             Util.CargarDropDownList(ddlusuario, dt, "usua_vAlias", "usua_sUsuarioId", true, cabecera);
@@ -2363,7 +2367,10 @@ namespace SGAC.WebApp.Reportes
                 chk_TramitesSinVincular.Checked = false;
             }
             //---------------------------------------------------------------------------
-            updReportesGerenciales.Update();            
+            updReportesGerenciales.Update();
+
+            bool esReporteValido = ddlReportesGerenciales.SelectedValue == "5006" ? true : false;
+            chkSinFecha.Visible = !esReporteValido;
         }
 
         void DesactivarTodo()
