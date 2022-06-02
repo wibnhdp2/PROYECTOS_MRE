@@ -7179,20 +7179,20 @@ namespace SGAC.WebApp.Registro
 
                 
                 #region parte superior primera cara
-                /*JOnatan 31/05/2017 - se agrega DNI al formato*/
-                if (objFichaRegistralBE.strTipoDocTitular == "DNI")
-                {
-                    float iMenorEdadDNI_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_X"].ToString());
-                    float iMenorEdadDNI_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_Y"].ToString());
+                /*MMuñoz 02/06/2022 - se quita validaciòn x tipo documento*/
+                //if (objFichaRegistralBE.strTipoDocTitular == "DNI") 
+                
+                float iMenorEdadDNI_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_X"].ToString());
+                float iMenorEdadDNI_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_Y"].ToString());
 
-                    EscribirLetraxLetra(iMenorEdadDNI_X + MargenX_1, iMenorEdadDNI_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
+                EscribirLetraxLetra(iMenorEdadDNI_X + MargenX_1, iMenorEdadDNI_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
 
-                    float iMenorEdadTitularDNI_Desglosable_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_X"].ToString());
-                    float iMenorEdadTitularDNI_Desglosable_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_Y"].ToString());
+                float iMenorEdadTitularDNI_Desglosable_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_X"].ToString());
+                float iMenorEdadTitularDNI_Desglosable_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_Y"].ToString());
 
-                    EscribirLetraxLetra(iMenorEdadTitularDNI_Desglosable_X + MargenX_1, iMenorEdadTitularDNI_Desglosable_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
-                }
-
+                EscribirLetraxLetra(iMenorEdadTitularDNI_Desglosable_X + MargenX_1, iMenorEdadTitularDNI_Desglosable_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
+                
+                //---
 
                 float iMenorEdadTitularApellidos_DESGLOSABLE_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.Apellidos_DESGLOSABLE_X"].ToString());
                 float iMenorEdadTitularApellidos_DESGLOSABLE_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.Apellidos_DESGLOSABLE_Y"].ToString());
