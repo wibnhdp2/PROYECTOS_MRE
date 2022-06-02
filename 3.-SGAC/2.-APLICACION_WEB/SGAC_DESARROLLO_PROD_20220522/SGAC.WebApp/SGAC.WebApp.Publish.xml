@@ -375,7 +375,7 @@
     <file relUrl="Vacia.aspx" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Scripts/tinymce/plugins/table/classes/Dialogs.js" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Contabilidad/Copy of rsLibroAutoadhesivos.rdlc" publishTime="05/30/2022 19:47:25" />
-    <file relUrl="Consulta/FrmFichaRegistral.aspx" publishTime="05/30/2022 19:47:25" />
+    <file relUrl="Consulta/FrmFichaRegistral.aspx" publishTime="06/02/2022 17:46:27" />
     <file relUrl="bin/SGAC.Almacen.DA.pdb" publishTime="06/02/2022 11:35:45" />
     <file relUrl="Accesorios/SharedControls/ctrlAdjuntoNotarial.ascx" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Scripts/tinymce/tinymce.min.js" publishTime="05/30/2022 19:47:25" />
@@ -752,7 +752,7 @@
     <file relUrl="Contabilidad/rsAutoAdhesivosUsuarioOficinaConsular.rdlc" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Images/img_msg_warning.png" publishTime="05/30/2022 19:47:25" />
     <file relUrl="bin/SGAC.Almacen.Reportes.BL.dll" publishTime="06/02/2022 11:35:40" />
-    <file relUrl="bin/SGAC.WebApp.dll" publishTime="06/02/2022 16:52:43" />
+    <file relUrl="bin/SGAC.WebApp.dll" publishTime="06/02/2022 17:57:59" />
     <file relUrl="Images/img_16_add.png" publishTime="05/30/2022 19:47:25" />
     <file relUrl="bin/SGAC.Configuracion.Maestro.DA.dll" publishTime="06/02/2022 11:35:43" />
     <file relUrl="Images/Escudo.jpg" publishTime="05/30/2022 19:47:25" />
@@ -972,7 +972,7 @@
     <file relUrl="Scripts/tinymce/plugins/compat3x/img/progress.gif" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Scripts/tinymce/skins/lightgray/fonts/tinymce-small.woff" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Scripts/tinymce/plugins/emoticons/img/smiley-undecided.gif" publishTime="05/30/2022 19:47:25" />
-    <file relUrl="bin/SGAC.WebApp.pdb" publishTime="06/02/2022 16:52:43" />
+    <file relUrl="bin/SGAC.WebApp.pdb" publishTime="06/02/2022 17:57:59" />
     <file relUrl="Scripts/tinymce/skins/lightgray/Checkbox.less" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Scripts/tinymce/plugins/tabfocus/plugin.min.js" publishTime="05/30/2022 19:47:25" />
     <file relUrl="Registro/FrmCapturaImagen.aspx" publishTime="05/30/2022 19:47:25" />

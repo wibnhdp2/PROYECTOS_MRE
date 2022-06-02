@@ -39,7 +39,7 @@ namespace SGAC.WebApp.Consulta
                 btnSeleccionarFichas.Visible = false;
                 chkSeleccionarTodo.Visible = false;
                 HFGUID.Value = PageUniqueId.Replace("-", "");
-
+                
                 /* Filtra por atributos del usuario */
                 if ((int)Session[Constantes.CONST_SESION_OFICINACONSULAR_ID] != Constantes.CONST_OFICINACONSULAR_LIMA)
                 {
@@ -153,6 +153,13 @@ namespace SGAC.WebApp.Consulta
                     chkbox.Enabled = false;
                 }
             }
+
+            e.Row.Cells[20].Visible = false;
+            if ((int)Session[Constantes.CONST_SESION_OFICINACONSULAR_ID] != Constantes.CONST_OFICINACONSULAR_LIMA)
+            { 
+                e.Row.Cells[20].Visible = true;
+            }
+            
             
         }
 

@@ -378,6 +378,7 @@
                                             <HeaderStyle HorizontalAlign="Center" />
                                             <ItemStyle HorizontalAlign="Center" Width="80px" />
                                         </asp:BoundField>
+
                                         <asp:TemplateField HeaderText="Consultar" Visible="false">
                                             <ItemTemplate>
                                                 <asp:ImageButton ID="btnConsultarFicha" runat="server" CommandName="Consultar" ImageUrl="../Images/img_16_search.png" />
@@ -385,6 +386,7 @@
                                             <HeaderStyle HorizontalAlign="Center" />
                                             <ItemStyle Width="30px" HorizontalAlign="Center" />
                                         </asp:TemplateField>
+
                                         <asp:TemplateField HeaderText="Editar">
                                             <ItemTemplate>
                                                 <asp:ImageButton ID="btnEditarFicha" runat="server" CommandName="Editar" ImageUrl="../Images/img_16_edit.png" />
@@ -392,6 +394,7 @@
                                             <HeaderStyle HorizontalAlign="Center" />
                                             <ItemStyle Width="30px" HorizontalAlign="Center" />
                                         </asp:TemplateField>
+
                                     </Columns>
                                     <SelectedRowStyle CssClass="slt" />
                                 </asp:GridView>
