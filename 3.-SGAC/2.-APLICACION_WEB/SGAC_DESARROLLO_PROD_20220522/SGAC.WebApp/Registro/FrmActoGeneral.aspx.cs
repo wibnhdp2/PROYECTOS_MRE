@@ -7179,6 +7179,7 @@ namespace SGAC.WebApp.Registro
 
                 
                 #region parte superior primera cara
+                /*JOnatan 31/05/2017 - se agrega DNI al formato*/
                 /*MMuñoz 02/06/2022 - se quita validaciòn x tipo documento*/
                 //if (objFichaRegistralBE.strTipoDocTitular == "DNI") 
                 
