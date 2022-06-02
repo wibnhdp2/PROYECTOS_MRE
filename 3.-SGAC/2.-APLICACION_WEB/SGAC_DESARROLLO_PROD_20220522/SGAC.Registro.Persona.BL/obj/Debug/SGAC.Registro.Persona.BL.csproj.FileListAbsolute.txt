@@ -2986,6 +2986,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Persona.BL\bin\
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\bin\Debug\SGAC.Registro.Persona.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\bin\Debug\SGAC.Registro.Persona.BL.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\bin\Debug\SGAC.Accesorios.dll
@@ -3007,4 +3008,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Persona.BL\obj\Debug\SGAC.Registro.Persona.BL.csprojResolveAssemblyReference.cache

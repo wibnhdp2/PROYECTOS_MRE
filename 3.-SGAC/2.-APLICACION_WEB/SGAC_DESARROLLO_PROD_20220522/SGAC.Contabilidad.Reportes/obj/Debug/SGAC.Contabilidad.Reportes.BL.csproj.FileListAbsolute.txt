@@ -2134,6 +2134,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.Reportes\bi
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Contabilidad.Reportes.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Contabilidad.Reportes.BL.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\bin\Debug\SGAC.Accesorios.dll
@@ -2149,4 +2150,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.Reportes\obj\Debug\SGAC.Contabilidad.Reportes.BL.csprojResolveAssemblyReference.cache

@@ -743,6 +743,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220511\SGAC.Integrador.Implementacio
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220511\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220511\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220511\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Integrador.Implementacion.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\bin\Debug\SGAC.Accesorios.dll
@@ -757,4 +758,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Integrador.Implementacion\obj\Debug\SGAC.Integrador.Implementacion.csprojResolveAssemblyReference.cache

@@ -2664,6 +2664,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Configuracion.Maestro.BL
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\bin\Debug\SGAC.Configuracion.Maestro.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\bin\Debug\SGAC.Configuracion.Maestro.BL.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\bin\Debug\SGAC.Accesorios.dll
@@ -2683,4 +2684,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Configuracion.Maestro.BL\SGAC.Configuracion.Maestro.BL\obj\Debug\SGAC.Configuracion.Maestro.BL.csprojResolveAssemblyReference.cache

@@ -1114,6 +1114,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SUNARP.Registro.Inscripcion.D
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\bin\Debug\SUNARP.Registro.Inscripcion.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\bin\Debug\SUNARP.Registro.Inscripcion.DA.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\bin\Debug\SGAC.Accesorios.dll
@@ -1129,4 +1130,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SUNARP.Registro.Inscripcion.DA\obj\Debug\SUNARP.Registro.Inscripcion.DA.csprojResolveAssemblyReference.cache

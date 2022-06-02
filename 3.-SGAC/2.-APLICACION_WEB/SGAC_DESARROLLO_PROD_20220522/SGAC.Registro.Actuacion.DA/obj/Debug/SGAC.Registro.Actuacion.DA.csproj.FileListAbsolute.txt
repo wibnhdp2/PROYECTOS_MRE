@@ -3129,6 +3129,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Actuacion.DA\bi
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\bin\Debug\SGAC.Registro.Actuacion.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\bin\Debug\SGAC.Registro.Actuacion.DA.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\bin\Debug\SGAC.Accesorios.dll
@@ -3151,4 +3152,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Registro.Actuacion.DA\obj\Debug\SGAC.Registro.Actuacion.DA.csprojResolveAssemblyReference.cache

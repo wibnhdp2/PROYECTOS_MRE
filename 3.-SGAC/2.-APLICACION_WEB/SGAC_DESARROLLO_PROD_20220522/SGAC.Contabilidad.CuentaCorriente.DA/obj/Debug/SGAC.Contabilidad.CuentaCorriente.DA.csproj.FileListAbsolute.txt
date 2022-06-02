@@ -1709,6 +1709,7 @@ D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.CuentaCorri
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.csprojResolveAssemblyReference.cache
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.dll
 D:\Disco D\Proyectos\SGAC_DESARROLLO_PROD_20220513\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\bin\Debug\SGAC.Contabilidad.CuentaCorriente.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\bin\Debug\SGAC.Contabilidad.CuentaCorriente.DA.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\bin\Debug\SGAC.Accesorios.dll
@@ -1721,4 +1722,3 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.csprojResolveAssemblyReference.cache
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.pdb
-C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Contabilidad.CuentaCorriente.DA\obj\Debug\SGAC.Contabilidad.CuentaCorriente.DA.csprojResolveAssemblyReference.cache

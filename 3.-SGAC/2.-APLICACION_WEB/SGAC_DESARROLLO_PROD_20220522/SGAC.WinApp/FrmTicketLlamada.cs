@@ -40,6 +40,7 @@ namespace SGAC.WinApp
         string strLlamadasRealizadas_New = "";
         string strServicioNombre_New = "";
         string strSubServicioNombre_New = "";
+        private DataTable DtlTicketAtendidos;
         //---------------------------------------
 
         public FrmTicketLlamada()
