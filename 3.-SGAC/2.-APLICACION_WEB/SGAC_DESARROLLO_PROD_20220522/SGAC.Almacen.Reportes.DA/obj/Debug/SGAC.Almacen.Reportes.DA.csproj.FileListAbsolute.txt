@@ -696,3 +696,4 @@ C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DE
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Almacen.Reportes.DA\bin\Debug\SGAC.Almacen.Reportes.DA.pdb
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.dll
 C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\3.-SGAC\2.-APLICACION_WEB\SGAC_DESARROLLO_PROD_20220522\SGAC.Almacen.Reportes.DA\obj\Debug\SGAC.Almacen.Reportes.DA.csprojResolveAssemblyReference.cache

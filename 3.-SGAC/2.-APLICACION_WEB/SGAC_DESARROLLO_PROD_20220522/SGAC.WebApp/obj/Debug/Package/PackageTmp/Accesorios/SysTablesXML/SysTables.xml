@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+
+  <!--TIPO DE RECURRENTE-->
+  <TipoRecurrente>
+    <Valor>0</Valor>
+    <Descripcion_ES>---------Seleccionar---------</Descripcion_ES>
+    <Descripcion_EN>-----------Select----------</Descripcion_EN>
+  </TipoRecurrente>
+
+  <TipoRecurrente>
+    <Valor>1</Valor>
+    <Descripcion_ES>CONNACIONAL</Descripcion_ES> 
+    <Descripcion_EN>CONNACIONAL</Descripcion_EN> 
+  </TipoRecurrente>
+
+  <TipoRecurrente>
+    <Valor>2</Valor>
+    <Descripcion_ES>EXTRANJERO</Descripcion_ES>
+    <Descripcion_EN>FOREIGNER</Descripcion_EN>
+  </TipoRecurrente>
+
+  <!--TIPO DE DOCUMENTO-->
+  <TipoDocumento>
+    <Valor>0</Valor>
+    <Descripcion_ES>-------------Seleccionar-------------</Descripcion_ES>
+    <Descripcion_EN>----------------Select---------------</Descripcion_EN>
+  </TipoDocumento>
+
+  <TipoDocumento>
+    <Valor>1</Valor>
+    <Descripcion_ES>DNI</Descripcion_ES>
+    <Descripcion_EN>DNI</Descripcion_EN>
+  </TipoDocumento>
+
+  <TipoDocumento>
+    <Valor>2</Valor>
+    <Descripcion_ES>LM</Descripcion_ES>
+    <Descripcion_EN>LM</Descripcion_EN>
+  </TipoDocumento>
+
+  <TipoDocumento>
+    <Valor>3</Valor>
+    <Descripcion_ES>CE</Descripcion_ES>
+    <Descripcion_EN>CE</Descripcion_EN>
+  </TipoDocumento>
+
+  <TipoDocumento>
+    <Valor>4</Valor>
+    <Descripcion_ES>OTROS</Descripcion_ES>
+    <Descripcion_EN>OTROS</Descripcion_EN>
+  </TipoDocumento>  
+  
+  <!--ESTADO CIVIL-->
+  <EstadoCivil>
+    <Valor>0</Valor>
+    <Descripcion_ES>-------Seleccionar------</Descripcion_ES>
+    <Descripcion_EN>--------Select-------</Descripcion_EN>
+  </EstadoCivil>
+  
+  <EstadoCivil>
+    <Valor>1</Valor>
+    <Descripcion_ES>SOLTERO</Descripcion_ES>
+    <Descripcion_EN>SINGLE</Descripcion_EN>  
+  </EstadoCivil>
+
+  <EstadoCivil>
+    <Valor>2</Valor>
+    <Descripcion_ES>CASADO</Descripcion_ES>
+    <Descripcion_EN>MARRIED</Descripcion_EN>   
+  </EstadoCivil>
+
+  <EstadoCivil>
+    <Valor>3</Valor>
+    <Descripcion_ES>VIUDO</Descripcion_ES>
+    <Descripcion_EN>VIUDO</Descripcion_EN>  
+  </EstadoCivil>
+
+  <EstadoCivil>
+    <Valor>4</Valor>
+    <Descripcion_ES>DIVORCIADO</Descripcion_ES>
+    <Descripcion_EN>DIVORC</Descripcion_EN>    
+  </EstadoCivil>
+
+  <!--GENERO-->
+  <Genero>
+    <Valor>0</Valor>
+    <Descripcion_ES>-------Seleccionar------</Descripcion_ES>
+    <Descripcion_EN>--------Select-------</Descripcion_EN>
+  </Genero>
+
+  <Genero>
+    <Valor>1</Valor>
+    <Descripcion_ES>MASCULINO</Descripcion_ES>
+    <Descripcion_EN>MALE</Descripcion_EN>
+  </Genero>
+
+  <Genero>
+    <Valor>2</Valor>
+    <Descripcion_ES>FEMENINO</Descripcion_ES>
+    <Descripcion_EN>FEMALE</Descripcion_EN>
+  </Genero>
+
+  <!--GRADO DE INSTRUCCION-->
+  <GradoInstruccion>
+    <Valor>0</Valor>
+    <Descripcion_ES>------Seleccionar-----</Descripcion_ES>
+    <Descripcion_EN>------Select-----</Descripcion_EN>
+  </GradoInstruccion>
+
+  <GradoInstruccion>
+    <Valor>1</Valor>
+    <Descripcion_ES>PRIMARIA</Descripcion_ES>
+    <Descripcion_EN>ELEMENTAL</Descripcion_EN>
+  </GradoInstruccion>
+
+  <GradoInstruccion>
+    <Valor>2</Valor>
+    <Descripcion_ES>SECUNDARIA</Descripcion_ES>
+    <Descripcion_EN>HIGH SCHOLL</Descripcion_EN>
+  </GradoInstruccion>
+
+  <GradoInstruccion>
+    <Valor>3</Valor>
+    <Descripcion_ES>TÉCNICA</Descripcion_ES>
+    <Descripcion_EN>TÉCNICA</Descripcion_EN>
+  </GradoInstruccion>
+
+  <GradoInstruccion>
+    <Valor>4</Valor>
+    <Descripcion_ES>UNIVERSITARIA</Descripcion_ES>
+    <Descripcion_EN>UNIVERCITY</Descripcion_EN>
+  </GradoInstruccion>
+
+  <!--NACIONALIDAD-->
+  <Nacionalidad>
+    <Valor>0</Valor>
+    <Descripcion_ES>-----------Seleccionar----------</Descripcion_ES>
+    <Descripcion_EN>--------------Select-------------</Descripcion_EN>
+  </Nacionalidad>
+
+  <Nacionalidad>
+    <Valor>1</Valor>
+    <Descripcion_ES>PERUANA</Descripcion_ES>
+    <Descripcion_EN>PERUVIAN</Descripcion_EN>
+  </Nacionalidad>
+
+  <Nacionalidad>
+    <Valor>2</Valor>
+    <Descripcion_ES>NORTEAMERICANA</Descripcion_ES>
+    <Descripcion_EN>NORTEAMERICAN</Descripcion_EN>
+  </Nacionalidad>
+
+  <!--TIPO DE PAGOS-->
+  <TipoPago>
+    <Valor>0</Valor>
+    <Descripcion_ES>-------------Seleccionar------------</Descripcion_ES>
+    <Descripcion_EN>----------------Select--------------</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>1</Valor>
+    <Descripcion_ES>Pagado en Lima</Descripcion_ES>
+    <Descripcion_EN>Pagado en Lima</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>2</Valor>
+    <Descripcion_ES>No Cobrado</Descripcion_ES>
+    <Descripcion_EN>No Cobrado</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>3</Valor>
+    <Descripcion_ES>Por Correo</Descripcion_ES>
+    <Descripcion_EN>Por Correo</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>4</Valor>
+    <Descripcion_ES>Efectivo</Descripcion_ES>
+    <Descripcion_EN>Efectivo</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>5</Valor>
+    <Descripcion_ES>Tarjeta de Crédito</Descripcion_ES>
+    <Descripcion_EN>Tarjeta de Crédito</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>6</Valor>
+    <Descripcion_ES>Money Order</Descripcion_ES>
+    <Descripcion_EN>Money Order</Descripcion_EN>
+  </TipoPago>
+
+  <TipoPago>
+    <Valor>7</Valor>
+    <Descripcion_ES>Transferencia Bancaria</Descripcion_ES>
+    <Descripcion_EN>Transferencia Bancaria</Descripcion_EN>
+  </TipoPago>
+
+  <!--TIPO DE ARCHIVOS-->
+  <TipoArchivo>
+    <Valor>0</Valor>
+    <Descripcion_ES>----------Seleccionar---------</Descripcion_ES>
+    <Descripcion_EN>------------Select------------</Descripcion_EN>
+  </TipoArchivo>
+
+  <TipoArchivo>
+    <Valor>1</Valor>
+    <Descripcion_ES>Archivo PDF</Descripcion_ES>
+    <Descripcion_EN>Archivo PDF</Descripcion_EN>
+  </TipoArchivo>
+
+  <TipoArchivo>
+    <Valor>2</Valor>
+    <Descripcion_ES>Foto</Descripcion_ES>
+    <Descripcion_EN>Foto</Descripcion_EN>
+  </TipoArchivo>
+
+  <TipoArchivo>
+    <Valor>3</Valor>
+    <Descripcion_ES>Huella</Descripcion_ES>
+    <Descripcion_EN>Huella</Descripcion_EN>
+  </TipoArchivo>
+
+  <!--RELACIÓN DE PARENTESCO DE LA FILIACION-->
+  <RelacionParentescoFil>
+    <Valor>0</Valor>
+    <Descripcion_ES>---------Seleccionar--------</Descripcion_ES>
+    <Descripcion_EN>------------Select-----------</Descripcion_EN>
+  </RelacionParentescoFil>
+
+  <RelacionParentescoFil>
+    <Valor>1</Valor>
+    <Descripcion_ES>MADRE</Descripcion_ES>
+    <Descripcion_EN>MOTHER</Descripcion_EN>
+  </RelacionParentescoFil>
+
+  <RelacionParentescoFil>
+    <Valor>2</Valor>
+    <Descripcion_ES>PADRE</Descripcion_ES>
+    <Descripcion_EN>FATHER</Descripcion_EN>
+  </RelacionParentescoFil>
+  
+  <RelacionParentescoFil>
+    <Valor>3</Valor>
+    <Descripcion_ES>CONYUGE</Descripcion_ES>
+    <Descripcion_EN>CONYUGE</Descripcion_EN>
+  </RelacionParentescoFil>
+
+  <!--RELACIÓN DE PARENTESCO DEL CONTACTO-->  
+  <RelacionParentescoCon>
+    <Valor>1</Valor>
+    <Descripcion_ES>MADRE</Descripcion_ES>
+    <Descripcion_EN>MOTHER</Descripcion_EN>
+  </RelacionParentescoCon>
+
+  <RelacionParentescoCon>
+    <Valor>2</Valor>
+    <Descripcion_ES>PADRE</Descripcion_ES>
+    <Descripcion_EN>FATHER</Descripcion_EN>
+  </RelacionParentescoCon>
+
+  <RelacionParentescoCon>
+    <Valor>3</Valor>
+    <Descripcion_ES>TIO</Descripcion_ES>
+    <Descripcion_EN>UNCLE</Descripcion_EN>
+  </RelacionParentescoCon>
+
+  <RelacionParentescoCon>
+    <Valor>4</Valor>
+    <Descripcion_ES>AMIGO</Descripcion_ES>
+    <Descripcion_EN>FRIEND</Descripcion_EN>
+  </RelacionParentescoCon>
+
+  <!--TIPO DE ANOTACIÓN-->
+  <TipoAnotacion>
+    <Valor>0</Valor>
+    <Descripcion_ES>---------Seleccionar--------</Descripcion_ES>
+    <Descripcion_EN>------------Select-----------</Descripcion_EN>
+  </TipoAnotacion>
+
+  <TipoAnotacion>
+    <Valor>1</Valor>
+    <Descripcion_ES>Anotación Administrativa</Descripcion_ES>
+    <Descripcion_EN>Anotación Administrativa</Descripcion_EN>
+  </TipoAnotacion>
+
+  <TipoAnotacion>
+    <Valor>2</Valor>
+    <Descripcion_ES>Anotación Marginal</Descripcion_ES>
+    <Descripcion_EN>Anotación Marginal</Descripcion_EN>
+  </TipoAnotacion>
+
+  <TipoAnotacion>
+    <Valor>3</Valor>
+    <Descripcion_ES>Modificación al Registro</Descripcion_ES>
+    <Descripcion_EN>Modificación al Registro</Descripcion_EN>
+  </TipoAnotacion>
+
+  <TipoAnotacion>
+    <Valor>4</Valor>
+    <Descripcion_ES>Servicios</Descripcion_ES>
+    <Descripcion_EN>Servicios</Descripcion_EN>
+  </TipoAnotacion>
+
+  <!--TIPO DE RESIDENCIA-->
+  <TipoResidencia>
+    <Valor>0</Valor>
+    <Descripcion_ES>---------Seleccionar--------</Descripcion_ES>
+    <Descripcion_EN>------------Select-----------</Descripcion_EN>
+  </TipoResidencia>
+
+  <TipoResidencia>
+    <Valor>1</Valor>
+    <Descripcion_ES>PROCEDENCIA</Descripcion_ES>
+    <Descripcion_EN>PROCEDENCIA</Descripcion_EN>
+  </TipoResidencia>
+
+  <TipoResidencia>
+    <Valor>2</Valor>
+    <Descripcion_ES>RESIDENCIA</Descripcion_ES>
+    <Descripcion_EN>RESIDENCIA</Descripcion_EN>
+  </TipoResidencia>
+
+  <!--TIPO DE PERSONA-->
+  <TipoPersona>
+    <Valor>0</Valor>
+    <Descripcion_ES>---------Seleccionar--------</Descripcion_ES>
+    <Descripcion_EN>------------Select-----------</Descripcion_EN>
+  </TipoPersona>
+
+  <TipoPersona>
+    <Valor>1</Valor>
+    <Descripcion_ES>NATURAL</Descripcion_ES>
+    <Descripcion_EN>NATURAL</Descripcion_EN>
+  </TipoPersona>
+
+  <TipoPersona>
+    <Valor>2</Valor>
+    <Descripcion_ES>JURIDICA</Descripcion_ES>
+    <Descripcion_EN>JURIDICA</Descripcion_EN>
+  </TipoPersona>
+
+  <!--OCUPACIONES-->
+  <Ocupaciones>
+    <Valor>0</Valor>
+    <Descripcion_ES>---------Seleccionar--------</Descripcion_ES>
+    <Descripcion_EN>------------Select-----------</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>1</Valor>
+    <Descripcion_ES>Constructor</Descripcion_ES>
+    <Descripcion_EN>Builder</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>2</Valor>
+    <Descripcion_ES>Policía</Descripcion_ES>
+    <Descripcion_EN>Policeman</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>3</Valor>
+    <Descripcion_ES>Astronauta</Descripcion_ES>
+    <Descripcion_EN>Astronaut</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>4</Valor>
+    <Descripcion_ES>Periodista</Descripcion_ES>
+    <Descripcion_EN>Journalist</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>5</Valor>
+    <Descripcion_ES>Fontanero</Descripcion_ES>
+    <Descripcion_EN>Plumber</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>6</Valor>
+    <Descripcion_ES>Médico</Descripcion_ES>
+    <Descripcion_EN>Doctor</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>7</Valor>
+    <Descripcion_ES>Electricista</Descripcion_ES>
+    <Descripcion_EN>Electrician</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>8</Valor>
+    <Descripcion_ES>Pintor</Descripcion_ES>
+    <Descripcion_EN>Painter</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>9</Valor>
+    <Descripcion_ES>Músico</Descripcion_ES>
+    <Descripcion_EN>Musician</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>10</Valor>
+    <Descripcion_ES>Profesor</Descripcion_ES>
+    <Descripcion_EN>Teacher</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>11</Valor>
+    <Descripcion_ES>Marinero</Descripcion_ES>
+    <Descripcion_EN>Sailor</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>12</Valor>
+    <Descripcion_ES>Contador</Descripcion_ES>
+    <Descripcion_EN>Accountant</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>13</Valor>
+    <Descripcion_ES>Escritor</Descripcion_ES>
+    <Descripcion_EN>Writer</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>14</Valor>
+    <Descripcion_ES>Albañil</Descripcion_ES>
+    <Descripcion_EN>Bricklayer</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>15</Valor>
+    <Descripcion_ES>Arquitecto</Descripcion_ES>
+    <Descripcion_EN>Architect</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>16</Valor>
+    <Descripcion_ES>Bombero</Descripcion_ES>
+    <Descripcion_EN>Firemane</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>17</Valor>
+    <Descripcion_ES>Ingeniero</Descripcion_ES>
+    <Descripcion_EN>Engineer</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>18</Valor>
+    <Descripcion_ES>Enfermera</Descripcion_ES>
+    <Descripcion_EN>Nurse</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>19</Valor>
+    <Descripcion_ES>Modelo</Descripcion_ES>
+    <Descripcion_EN>Model</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>20</Valor>
+    <Descripcion_ES>Peluquero</Descripcion_ES>
+    <Descripcion_EN>Hairdresser</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>21</Valor>
+    <Descripcion_ES>Fisioterapeuta</Descripcion_ES>
+    <Descripcion_EN>Physiotherapist</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>22</Valor>
+    <Descripcion_ES>Vendedor</Descripcion_ES>
+    <Descripcion_EN>Saler</Descripcion_EN>
+  </Ocupaciones>
+
+  <Ocupaciones>
+    <Valor>23</Valor>
+    <Descripcion_ES>Otros</Descripcion_ES>
+    <Descripcion_EN>Others</Descripcion_EN>
+  </Ocupaciones>
+
+  <!--MESES DEL AÑO-->
+  <MesesAño>
+    <Valor>01</Valor>
+    <Descripcion_ES>ENERO</Descripcion_ES>
+    <Descripcion_EN>JANUARY</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>02</Valor>
+    <Descripcion_ES>FEBRERO</Descripcion_ES>
+    <Descripcion_EN>FEBRUARY</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>03</Valor>
+    <Descripcion_ES>MARZO</Descripcion_ES>
+    <Descripcion_EN>MARCH</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>04</Valor>
+    <Descripcion_ES>ABRIL</Descripcion_ES>
+    <Descripcion_EN>APRIL</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>05</Valor>
+    <Descripcion_ES>MAYO</Descripcion_ES>
+    <Descripcion_EN>MAY</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>06</Valor>
+    <Descripcion_ES>JUNIO</Descripcion_ES>
+    <Descripcion_EN>JUNE</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>07</Valor>
+    <Descripcion_ES>JULIO</Descripcion_ES>
+    <Descripcion_EN>JULY</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>08</Valor>
+    <Descripcion_ES>AGOSTO</Descripcion_ES>
+    <Descripcion_EN>AUGUST</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>09</Valor>
+    <Descripcion_ES>SEPTIEMBRE</Descripcion_ES>
+    <Descripcion_EN>SEPTEMBER</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>10</Valor>
+    <Descripcion_ES>OCTUBRE</Descripcion_ES>
+    <Descripcion_EN>OCTOBER</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>11</Valor>
+    <Descripcion_ES>NOVIEMBRE</Descripcion_ES>
+    <Descripcion_EN>NOVEMBER</Descripcion_EN>
+  </MesesAño>
+
+  <MesesAño>
+    <Valor>12</Valor>
+    <Descripcion_ES>DICIEMBRE</Descripcion_ES>
+    <Descripcion_EN>DICEMBER</Descripcion_EN>
+  </MesesAño>
+
+  <!--GRUPOS ESTADO-->
+  <GrupoEstado>
+    <Valor>01</Valor>
+    <Descripcion_ES>ACTUACIÓN-ESTADO</Descripcion_ES>
+    <Descripcion_EN>ACTUACIÓN-ESTADO</Descripcion_EN>
+  </GrupoEstado>
+
+  <GrupoEstado>
+    <Valor>02</Valor>
+    <Descripcion_ES>ALMACÉN-INSUMO ESTADO</Descripcion_ES>
+    <Descripcion_EN>ALMACÉN-INSUMO ESTADO</Descripcion_EN>
+  </GrupoEstado>
+
+  <GrupoEstado>
+    <Valor>03</Valor>
+    <Descripcion_ES>ALMACÉN-MOVIMIENTO ESTADO</Descripcion_ES>
+    <Descripcion_EN>ALMACÉN-MOVIMIENTO ESTADO</Descripcion_EN>
+  </GrupoEstado>
+
+  <GrupoEstado>
+    <Valor>04</Valor>
+    <Descripcion_ES>ALMACÉN-PEDIDO ESTADO</Descripcion_ES>
+    <Descripcion_EN>ALMACÉN-PEDIDO ESTADO</Descripcion_EN>
+  </GrupoEstado>
+
+  <GrupoEstado>
+    <Valor>05</Valor>
+    <Descripcion_ES>CONTABILIDAD-ESTADO REMESA</Descripcion_ES>
+    <Descripcion_EN>CONTABILIDAD-ESTADO REMESA</Descripcion_EN>
+  </GrupoEstado>
+
+  <GrupoEstado>
+    <Valor>06</Valor>
+    <Descripcion_ES>PERSONA-ASISTENCIA</Descripcion_ES>
+    <Descripcion_EN>PERSONA-ASISTENCIA</Descripcion_EN>
+  </GrupoEstado>
+
+  <!--GRUPOS SERVICIO-->
+  <GrupoServicio>
+    <Valor>01</Valor>
+    <Descripcion_ES>PAH</Descripcion_ES>
+    <Descripcion_EN>PAH</Descripcion_EN>
+  </GrupoServicio>
+
+  <GrupoServicio>
+    <Valor>02</Valor>
+    <Descripcion_ES>PAHL</Descripcion_ES>
+    <Descripcion_EN>PAHL</Descripcion_EN>
+  </GrupoServicio>
+
+</NewDataSet>

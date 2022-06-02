@@ -7117,7 +7117,7 @@ namespace SGAC.WebApp.Registro
 
                 iTextSharp.text.Document document = new iTextSharp.text.Document(iTextSharp.text.PageSize.A4, fMargenIzquierdaDoc, fMargenDerechaDoc, 100, 80);
                 StreamReader oStreamReader = new StreamReader(HtmlPath, System.Text.Encoding.Default);
-                
+
                 /*PARAMETRO DE MARGENES*/
                 string sTipoDocumento = "0";
                 sTipoDocumento = comun_Part1.ObtenerParametroDatoPorCampo(HttpContext.Current.Session, SGAC.Accesorios.Constantes.CONST_DOCUMENTOS_IMPRESION, SGAC.Accesorios.Constantes.CONST_DOC_FICHA_MENOR_EDAD, "id");
@@ -7135,22 +7135,26 @@ namespace SGAC.WebApp.Registro
 
                 foreach (DataRow row in dt.Rows)
                 {
-                     if(row["mado_sSeccion"].ToString() == "1"){
-                           MargenX_1 =  Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
-                           MargenY_1 =  Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
-                     }
-                    if(row["mado_sSeccion"].ToString() == "2"){
-                           MargenX_2 =  Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
-                           MargenY_2 =  Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
-                     }
-                    if(row["mado_sSeccion"].ToString() == "3"){
-                           MargenX_3 =  Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
-                           MargenY_3 =  Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
-                     }
-                    if(row["mado_sSeccion"].ToString() == "4"){
-                           MargenX_4 =  Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
-                           MargenY_4 =  Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
-                     }
+                    if (row["mado_sSeccion"].ToString() == "1")
+                    {
+                        MargenX_1 = Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
+                        MargenY_1 = Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
+                    }
+                    if (row["mado_sSeccion"].ToString() == "2")
+                    {
+                        MargenX_2 = Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
+                        MargenY_2 = Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
+                    }
+                    if (row["mado_sSeccion"].ToString() == "3")
+                    {
+                        MargenX_3 = Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
+                        MargenY_3 = Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
+                    }
+                    if (row["mado_sSeccion"].ToString() == "4")
+                    {
+                        MargenX_4 = Convert.ToInt16(row["mado_sMargenIzquierdo"].ToString());
+                        MargenY_4 = Convert.ToInt16(row["mado_sMargenSuperior"].ToString());
+                    }
                 }
 
                 /*FIN PARAMETROS MARGENES*/
@@ -7177,23 +7181,23 @@ namespace SGAC.WebApp.Registro
 
                 EscribirLetraxLetra(iMenorEdadTitularCodigoLocal_X + MargenX_1, iMenorEdadTitularCodigoLocal_Y + MargenY_1, objFichaRegistralBE.strCodigoLocal, cb, document);
 
-                
+
                 #region parte superior primera cara
                 /*JOnatan 31/05/2017 - se agrega DNI al formato*/
-                /*MMuñoz 02/06/2022 - se quita validaciòn x tipo documento*/
-                //if (objFichaRegistralBE.strTipoDocTitular == "DNI") 
-                
-                float iMenorEdadDNI_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_X"].ToString());
-                float iMenorEdadDNI_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_Y"].ToString());
+                /*MMuñoz 02/06/2022 - se agrega CUI al formato*/
+                if (objFichaRegistralBE.strTipoDocTitular == "DNI" || objFichaRegistralBE.strTipoDocTitular == "CUI") 
+                {
+                    float iMenorEdadDNI_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_X"].ToString());
+                    float iMenorEdadDNI_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_Y"].ToString());
 
-                EscribirLetraxLetra(iMenorEdadDNI_X + MargenX_1, iMenorEdadDNI_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
+                    EscribirLetraxLetra(iMenorEdadDNI_X + MargenX_1, iMenorEdadDNI_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
 
-                float iMenorEdadTitularDNI_Desglosable_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_X"].ToString());
-                float iMenorEdadTitularDNI_Desglosable_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_Y"].ToString());
+                    float iMenorEdadTitularDNI_Desglosable_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_X"].ToString());
+                    float iMenorEdadTitularDNI_Desglosable_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.DNI_DESGLOSABLE_Y"].ToString());
 
-                EscribirLetraxLetra(iMenorEdadTitularDNI_Desglosable_X + MargenX_1, iMenorEdadTitularDNI_Desglosable_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
-                
-                //---
+                    EscribirLetraxLetra(iMenorEdadTitularDNI_Desglosable_X + MargenX_1, iMenorEdadTitularDNI_Desglosable_Y + MargenY_1, objFichaRegistralBE.strNroDocTitular, cb, document);
+
+                }
 
                 float iMenorEdadTitularApellidos_DESGLOSABLE_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.Apellidos_DESGLOSABLE_X"].ToString());
                 float iMenorEdadTitularApellidos_DESGLOSABLE_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Titular.Apellidos_DESGLOSABLE_Y"].ToString());
@@ -7544,7 +7548,7 @@ namespace SGAC.WebApp.Registro
                     }
                 }
                 #endregion
-                
+
 
                 cb.EndText();
 
@@ -7610,7 +7614,7 @@ namespace SGAC.WebApp.Registro
 
                 float iMenorEdadPadreTipoDocumento_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Padre.TipoDocumento_X"].ToString());
                 float iMenorEdadPadreTipoDocumento_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Padre.TipoDocumento_Y"].ToString());
-                    
+
                 strTipoDocumento = obtenerTipodocumento(objFichaRegistralBE.strTipoDocPadre);
 
                 EscribirLetraxLetra(iMenorEdadPadreTipoDocumento_X + MargenX_3, iMenorEdadPadreTipoDocumento_Y + MargenY_3, strTipoDocumento, cb, document);
@@ -7642,15 +7646,15 @@ namespace SGAC.WebApp.Registro
                 //Motivo: Imprimir el tipo de documento
                 //          y el nro. de documento del Madre.
                 //--------------------------------------------
-                
-               
+
+
                 float iMenorEdadMadreTipoDocumento_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Madre.TipoDocumento_X"].ToString());
                 float iMenorEdadMadreTipoDocumento_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Madre.TipoDocumento_Y"].ToString());
 
                 strTipoDocumento = obtenerTipodocumento(objFichaRegistralBE.strTipoDocMadre);
 
                 EscribirLetraxLetra(iMenorEdadMadreTipoDocumento_X + MargenX_3, iMenorEdadMadreTipoDocumento_Y + MargenY_3, strTipoDocumento, cb, document);
-               
+
                 float iMenorEdadMadreNumeroDocumento_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Madre.NumeroDocumento_X"].ToString());
                 float iMenorEdadMadreNumeroDocumento_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Madre.NumeroDocumento_Y"].ToString());
 
@@ -7678,14 +7682,14 @@ namespace SGAC.WebApp.Registro
                 //Motivo: Imprimir el tipo de documento
                 //          y el nro. de documento del Declarante.
                 //-------------------------------------------------
-                                
+
                 float iMenorEdadDeclaranteTipoDocumento_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Declarante.TipoDocumento_X"].ToString());
                 float iMenorEdadDeclaranteTipoDocumento_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Declarante.TipoDocumento_Y"].ToString());
 
                 strTipoDocumento = obtenerTipodocumento(objFichaRegistralBE.strTipoDocDeclarante);
 
                 EscribirLetraxLetra(iMenorEdadDeclaranteTipoDocumento_X + MargenX_3, iMenorEdadDeclaranteTipoDocumento_Y + MargenY_3, strTipoDocumento, cb, document);
-                
+
                 float iMenorEdadDeclaranteNumeroDocumento_X = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Declarante.NumeroDocumento_X"].ToString());
                 float iMenorEdadDeclaranteNumeroDocumento_Y = float.Parse(ConfigurationManager.AppSettings["FichaRegistral.MenorEdad.Declarante.NumeroDocumento_Y"].ToString());
 
