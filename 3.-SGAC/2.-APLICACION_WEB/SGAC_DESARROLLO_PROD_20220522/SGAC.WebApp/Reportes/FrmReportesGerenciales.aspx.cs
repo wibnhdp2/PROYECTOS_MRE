@@ -289,7 +289,7 @@ namespace SGAC.WebApp.Reportes
             bool esReporteValido = ddlReportesGerenciales.SelectedValue == "5006" ? true : false;
 
             if (esReporteValido) { 
-                if (!esUsuarioValido && !esAdhesivoValido)
+                if (!esUsuarioValido || !esAdhesivoValido)
                 {
                     return;
                 }            
