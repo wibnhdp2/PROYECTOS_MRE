@@ -149,14 +149,17 @@
                                     <td colspan="1">
                                         <asp:DropDownList ID="ddlusuario" runat="server" TabIndex="5" Width="200px">
                                         </asp:DropDownList>
+                                        <strong style="color:Red;">(*)</strong>
                                     </td>
+                                    
                                     <div id="DivEstadoAutoadhesivo" runat="server" visible="false">
                                         <td>
-                                            <asp:Label ID="lblEstadoAutoadh" runat="server" Text="Estado de Autoadhesivo:"></asp:Label>
+                                            <asp:Label ID="lblEstadoAutoadh" runat="server" Text="Estado de Autoadhesivo:"></asp:Label>                                                  
                                         </td>
                                         <td>
-                                            <asp:DropDownList ID="ddlEstAutoadhesivo" runat="server" TabIndex="5" Width="200px">
-                                            </asp:DropDownList>
+                                            <strong style="color:Red;">(*)</strong>                                                                                  
+                                            <asp:DropDownList ID="ddlEstAutoadhesivo" runat="server" TabIndex="5" Width="180px">
+                                            </asp:DropDownList>                                            
                                         </td>
                                     </div>
                                 </tr>
