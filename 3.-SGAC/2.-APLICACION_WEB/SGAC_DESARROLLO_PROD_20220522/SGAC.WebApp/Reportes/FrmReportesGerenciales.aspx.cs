@@ -316,7 +316,7 @@ namespace SGAC.WebApp.Reportes
 
                 //Proceso p = new Proceso();
                 //DataTable dt = (DataTable)p.Invocar(ref arrParametros, "SGAC.BE.SE_USUARIO", "LISTAR");
-                llenarComboUsuarios(sOficinaConsularId, "- TODOS -");
+                llenarComboUsuarios(sOficinaConsularId, "- SELECCIONAR -");
             }
             catch (Exception ex)
             {
