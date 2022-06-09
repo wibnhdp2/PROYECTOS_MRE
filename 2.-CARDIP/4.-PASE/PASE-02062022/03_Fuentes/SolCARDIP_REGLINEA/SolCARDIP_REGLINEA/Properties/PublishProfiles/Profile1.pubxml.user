@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2022-05-30T18:52:42.2212667-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>D:\Publicacion\cardip_reglinea_webapp</_PublishTargetUrl>
+    <History>True|2022-06-07T17:00:12.3746560Z;True|2022-04-20T15:50:30.4446945-05:00;True|2022-04-07T10:18:03.2676530-05:00;True|2022-04-07T08:56:01.1381911-05:00;True|2022-04-06T14:00:44.7276019-05:00;True|2022-04-06T13:53:43.4120101-05:00;True|2022-03-11T10:39:04.6648892-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="bin/AntiXSSLibrary.dll">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="bin/HtmlSanitizationLibrary.dll">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="bin/SAE.UInterfaces.dll">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="bin/Seguridad.Logica.dll">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.dll">
+      <publishTime>06/07/2022 12:00:08</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll">
+      <publishTime>06/05/2022 21:42:26</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb">
+      <publishTime>06/05/2022 21:42:26</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll">
+      <publishTime>06/05/2022 21:42:25</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb">
+      <publishTime>06/05/2022 21:42:24</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll">
+      <publishTime>06/05/2022 21:42:26</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb">
+      <publishTime>06/05/2022 21:42:26</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP_REGLINEA.pdb">
+      <publishTime>06/07/2022 12:00:08</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/Alert/sweetalert.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/all.min.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/login/bootstrap.min.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/login/fontawesome-all.min.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/login/iofrm-style.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/login/iofrm-theme9.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/modal.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/MRE.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Estilos/sb-admin-2.css">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/cuadroFirma.jpg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/editar.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/alert48.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/copy48BLack.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/copy48White.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Delete.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/insumoAuto.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/insumoCert.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/CARDIP.jpg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/logoGobPe.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/logo_n_2016.png">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/notFound.jpg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Reporte.jpg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Imagenes/Reporte_v2.jpg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/01_Gen_Codigo/GeneraCodigo01.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/01_Gen_Codigo/GeneraCodigo02.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/01_Gen_Codigo/GeneraCodigo03.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/Default.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/mensajes.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/PDF.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/Principales/Default.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/Principales/frmRegistroLinea.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/Principales/Principal.Master">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/Principales/PrincipalForm.Master">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/Principales/RegistroLinea.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/VerImagen.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Paginas/VerImagenSave.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Scripts/Alert/sweetalert-dev.js">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.min.js">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.11.3.min.js">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Scripts/sb-admin-2.min.js">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Service References/WSsam/SolCARDIP_REGLINEA.WSsam.BECarpid.datasource">
+      <publishTime>06/06/2022 11:16:49</publishTime>
+    </File>
+    <File Include="Service References/WSsam/SolCARDIP_REGLINEA.WSsam.BERespuesta.datasource">
+      <publishTime>06/06/2022 11:16:50</publishTime>
+    </File>
+    <File Include="Service References/WSsam/WebService_MRE.wsdl">
+      <publishTime>06/10/2021 07:48:29</publishTime>
+    </File>
+    <File Include="UserControl/cuUploadFile.ascx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Verificar.aspx">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/07/2022 12:00:10</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.eot">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.svg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.ttf">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.woff">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.woff2">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.eot">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.svg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.ttf">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.woff">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.woff2">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.eot">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.svg">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.ttf">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.woff">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.woff2">
+      <publishTime>05/30/2022 18:52:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
