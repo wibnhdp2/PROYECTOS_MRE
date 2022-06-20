@@ -196,7 +196,7 @@ namespace SolCARDIP.Paginas.Supervisor
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -285,16 +285,16 @@ namespace SolCARDIP.Paginas.Supervisor
                         btnImprimir.Visible = true;
                         ViewState["idActaRecepcion"] = obeActaRecepcionCabecera.ActaRecepcionId;
                     }
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE GUARDO LA INFORMACIÓN CORRECTAMENTE');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE GUARDÓ LA INFORMACIÓN CORRECTAMENTE');", true);
                 }
                 else
                 {
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL GUARDAR LA INFORMACION.');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL GUARDAR LA INFORMACIÓN.');", true);
                 }
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -380,21 +380,21 @@ namespace SolCARDIP.Paginas.Supervisor
                     btnVolver.Visible = true;
                     DisableControls(tablaRegistro, false);
                     DisableControls(tablaRegistroSol, false);
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO LA INFORMACIÓN CORRECTAMENTE');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ LA INFORMACIÓN CORRECTAMENTE');", true);
                 }
                 else
                 {
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL ACTUALIZAR LA INFORMACIÓN.');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL ACTUALIZAR LA INFORMACIÓN.');", true);
                 }
             }
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
-        protected void nuevoRegistroPrevio(object sender, EventArgs e) // REDIRECCIONA A LA MISMA PAGINA A FIN DE COMENZAR UN NUEVO REGISTRO
+        protected void nuevoRegistroPrevio(object sender, EventArgs e) // REDIRECCIONA A LA MISMA PÁGINA A FIN DE COMENZAR UN NUEVO REGISTRO
         {
             Response.Redirect("~/Paginas/Supervisor/SupervisorRegistroPrevio.aspx");
         }
@@ -427,7 +427,7 @@ namespace SolCARDIP.Paginas.Supervisor
             }
         }
 
-        protected void obtenerSolicitante(object sender, EventArgs e) // OBTIENE LA INFORMACION DEL SOLICITANTE DE ACUERDO AL TIPO Y NUMERO DE IDENTIFICACION
+        protected void obtenerSolicitante(object sender, EventArgs e) // OBTIENE LA INFORMACIÓN DEL SOLICITANTE DE ACUERDO AL TIPO Y NUMERO DE IDENTIFICACION
         {
             try
             {
@@ -455,7 +455,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR.');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR.');", true);
             }
         }
 

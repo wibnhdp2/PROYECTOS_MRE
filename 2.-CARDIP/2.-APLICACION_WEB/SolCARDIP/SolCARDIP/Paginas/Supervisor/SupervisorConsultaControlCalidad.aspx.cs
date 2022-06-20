@@ -217,7 +217,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -317,7 +317,7 @@ namespace SolCARDIP.Paginas.Supervisor
                             }
                             else
                             {
-                                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true);
+                                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true);
                             }
                             break;
                     }
@@ -326,7 +326,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -354,7 +354,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -504,32 +504,32 @@ namespace SolCARDIP.Paginas.Supervisor
                                         }
                                         else
                                         {
-                                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('Se registro correctamente, Ocurrio un error al enviar el correo al ciudadano');", true);
+                                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('Se registro correctamente, Ocurrió un error al enviar el correo al ciudadano(a)');", true);
                                         }
                                     }
                                     catch (Exception ex)
                                     {
-                                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('Se registro correctamente, Ocurrio un error al enviar el correo al ciudadano(a)');", true); ;
+                                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('Se registro correctamente, Ocurrió un error al enviar el correo al ciudadano(a)');", true); ;
                                     }
 
                                 }
                             }
                             else
                             {
-                                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('Se registro correctamente, PERO NO SE HA PODIDO ENVIAR EL CORREO AL CIUDADANO SOBRE LA OBSERVACION, POR LO QUE NO SE HA ENCONTRADO EL CORREO REGISTRADO');", true);
+                                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('Se registro correctamente, Ocurrió un error al enviar el correo al ciudadano(a)');", true);
                             }
                         }
                     }
                     else
                     {
-                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true);
+                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true);
                     }
                 }
             }
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
             cambiarPagina(sender, e);
         }
@@ -686,7 +686,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -726,7 +726,7 @@ namespace SolCARDIP.Paginas.Supervisor
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -797,11 +797,11 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL MOSTRAR LA INFORMACION');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL MOSTRAR LA INFORMACIÓN');", true);
             }
         }
 
-        protected beCarneIdentidad obtenerRegistro(object sender, EventArgs e) // PERMITE OBTENER TODA LA INFORMACION DE UN REGISTRO SELECCIONADO
+        protected beCarneIdentidad obtenerRegistro(object sender, EventArgs e) // PERMITE OBTENER TODA LA INFORMACIÓN DE UN REGISTRO SELECCIONADO
         {
             beCarneIdentidad obeCarneIdentidad = new beCarneIdentidad();
             try

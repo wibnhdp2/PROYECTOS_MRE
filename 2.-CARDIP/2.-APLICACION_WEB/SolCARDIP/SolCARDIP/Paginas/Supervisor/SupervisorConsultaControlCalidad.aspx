@@ -55,7 +55,7 @@
                     }
                 }
                 else {
-                    alert("OCURRIO UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
+                    alert("OCURRIÓ UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
                     return false;
                 }
             }
@@ -101,13 +101,13 @@
                         else { valor = valor + "|0"; contador++ }
                     }
                     else {
-                        alert("OCURRIO UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
+                        alert("OCURRIÓ UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
                         return false;
                     }
                 }
             }
             else {
-                alert("OCURRIO UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
+                alert("OCURRIÓ UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
                 return false;
             }
             var txtObsImpreso = document.getElementById(master + "txtObs16");
@@ -136,13 +136,13 @@
                         else { valor = valor + "|" + txt.value; }
                     }
                     else {
-                        alert("OCURRIO UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
+                        alert("OCURRIÓ UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
                         return false;
                     }
                 }
             }
             else {
-                alert("OCURRIO UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
+                alert("OCURRIÓ UN ERROR MIENTRAS SE OBTENIAN LOS VALORES.");
                 return false;
             }
             var valorCompleto = valor.substring(1, valor.length)

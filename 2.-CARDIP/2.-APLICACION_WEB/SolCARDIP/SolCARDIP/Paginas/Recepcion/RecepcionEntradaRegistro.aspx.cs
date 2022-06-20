@@ -101,7 +101,7 @@ namespace SolCARDIP.Paginas.Recepcion
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }

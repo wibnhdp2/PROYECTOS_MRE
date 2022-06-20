@@ -291,7 +291,7 @@ namespace SolCARDIP.Paginas.Reportes
             }
             catch(Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR EN LA GENERACION DEL REPORTE');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR EN LA GENERACION DEL REPORTE');", true);
                 obrGeneral.grabarLog(ex);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(0);", true);
@@ -357,7 +357,7 @@ namespace SolCARDIP.Paginas.Reportes
             }
             catch(Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR EN LA GENERACION DEL REPORTE');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR EN LA GENERACION DEL REPORTE');", true);
                 obrGeneral.grabarLog(ex);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(1);", true);
@@ -422,7 +422,7 @@ namespace SolCARDIP.Paginas.Reportes
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR EN LA GENERACION DEL REPORTE');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR EN LA GENERACION DEL REPORTE');", true);
                 obrGeneral.grabarLog(ex);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(2);", true);
@@ -463,7 +463,7 @@ namespace SolCARDIP.Paginas.Reportes
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(1);", true);

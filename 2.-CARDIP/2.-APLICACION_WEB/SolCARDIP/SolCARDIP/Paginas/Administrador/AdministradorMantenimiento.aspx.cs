@@ -91,7 +91,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch(Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL CARGAR LA PAGINA');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL CARGAR LA PÁGINA');", true);
             }
         }
 
@@ -212,7 +212,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(1);", true);
         }
@@ -243,7 +243,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -301,11 +301,11 @@ namespace SolCARDIP.Paginas.Administrador
                         if (DocumentoIdentidadId > 0)
                         {
                             exito = true;
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ADICIONO EL REGISTRO CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ADICIONÓ EL REGISTRO CORRECTAMENTE');", true);
                         }
                         else
                         {
-                            if (DocumentoIdentidadId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true); }
+                            if (DocumentoIdentidadId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true); }
                             if (DocumentoIdentidadId == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UN DOCUMENTO DE IDENTIDAD CON ESE NOMBRE');", true); }
                             ScriptManager.RegisterStartupScript(this, this.GetType(), "valorHD", "document.getElementById('idhdnAccionGuardar').value = '1';", true);
                             ScriptManager.RegisterStartupScript(this, this.GetType(), "mostrarTR", "mostrarTR('trNuevoDocIdent');", true);
@@ -329,11 +329,11 @@ namespace SolCARDIP.Paginas.Administrador
                         if (cargoId > 0)
                         {
                             exito = true;
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ADICIONO EL REGISTRO CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ADICIONÓ EL REGISTRO CORRECTAMENTE');", true);
                         }
                         else
                         {
-                            if (cargoId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true); }
+                            if (cargoId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true); }
                             if (cargoId == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UN CARGO CON ESE NOMBRE');", true); }
                         }
                         txtNuevoCargo.Text = "";
@@ -378,11 +378,11 @@ namespace SolCARDIP.Paginas.Administrador
                         if (cargoIdEditar > 0)
                         {
                             exito = true;
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO EL REGISTRO CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ EL REGISTRO CORRECTAMENTE');", true);
                         }
                         else
                         {
-                            if (cargoIdEditar == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true); }
+                            if (cargoIdEditar == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true); }
                             if (cargoIdEditar == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UN CARGO CON ESE NOMBRE');", true); }
                         }
                         txtNuevoCargo.Text = "";
@@ -427,11 +427,11 @@ namespace SolCARDIP.Paginas.Administrador
                             txtNuevoDocIdent.Text = string.Empty;
                             txtNuevoDocIdentDesc.Text = string.Empty;
                             ScriptManager.RegisterStartupScript(this, this.GetType(), "ocultarTR", "ocultarTR('trNuevoDocIdent');", true);
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO EL REGISTRO CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ EL REGISTRO CORRECTAMENTE');", true);
                         }
                         else
                         {
-                            if (DocumentoIdentidadIdEditar == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true); }
+                            if (DocumentoIdentidadIdEditar == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true); }
                             if (DocumentoIdentidadIdEditar == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UN DOCUMENTO DE IDENTIDAD CON ESE NOMBRE');", true); }
                             ScriptManager.RegisterStartupScript(this, this.GetType(), "valorHD", "document.getElementById('idhdnAccionGuardar').value = '3';", true);
                             ScriptManager.RegisterStartupScript(this, this.GetType(), "mostrarTR", "mostrarTR('trNuevoDocIdent');", true);
@@ -455,11 +455,11 @@ namespace SolCARDIP.Paginas.Administrador
                         if (idOficinaconsularExtranjera > 0)
                         {
                             exito = true;
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO EL REGISTRO CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ EL REGISTRO CORRECTAMENTE');", true);
                         }
                         else
                         {
-                            if (idOficinaconsularExtranjera == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true); }
+                            if (idOficinaconsularExtranjera == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true); }
                             if (idOficinaconsularExtranjera == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UNA INSTITUCIÓN EN ESA CATEGORIA CON ESE NOMBRE. REVISE.');", true); }
                             divModal.Style.Add("display", "block");
                             divEditarinstitucion.Style.Add("display", "block");
@@ -484,11 +484,11 @@ namespace SolCARDIP.Paginas.Administrador
                         if (SolicitanteId > 0)
                         {
                             exito = true;
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO EL REGISTRO CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ EL REGISTRO CORRECTAMENTE');", true);
                         }
                         else
                         {
-                            if (SolicitanteId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true); }
+                            if (SolicitanteId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true); }
                             if (SolicitanteId == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UNA PERSONA CON EL TIPO Y NUMERO DE IDENTIFICACIÓN. REVISE');", true); }
                             divModal.Style.Add("display", "block");
                             divEditarSolicitante.Style.Add("display", "block");
@@ -508,7 +508,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -530,7 +530,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(2);", true);
         }
@@ -556,7 +556,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(3);", true);
         }
@@ -592,11 +592,11 @@ namespace SolCARDIP.Paginas.Administrador
                         idOficinaconsularExtranjera = obrOficinaConsularExtranjera.adicionar(parametrosNuevaInst);
                         if (idOficinaconsularExtranjera > 0)
                         {
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE AGREGO EL REGISTRO CON EXITO');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE AGREGO EL REGISTRO CON ÉXITO');", true);
                         }
                         else
                         {
-                            if (idOficinaconsularExtranjera == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL ADICIONAR EL REGISTRO');", true); }
+                            if (idOficinaconsularExtranjera == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL ADICIONAR EL REGISTRO');", true); }
                             if (idOficinaconsularExtranjera == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UNA INSTITUCIÓN EN ESA CATEGORIA CON ESE NOMBRE. REVISE.');", true); }
                         }
                         buscarInstitucion(sender, e);
@@ -617,11 +617,11 @@ namespace SolCARDIP.Paginas.Administrador
                         idSolicitante = obrSolicitante.adicionar(parametrosNuevoSoli);
                         if (idSolicitante > 0)
                         {
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE AGREGO EL REGISTRO CON EXITO');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE AGREGO EL REGISTRO CON ÉXITO');", true);
                         }
                         else
                         {
-                            if (idSolicitante == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL ADICIONAR EL REGISTRO');", true); }
+                            if (idSolicitante == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL ADICIONAR EL REGISTRO');", true); }
                             if (idSolicitante == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UNA PERSONA CON EL TIPO Y NUMERO DE IDENTIFICACION. REVISE.');", true); }
                         }
                         buscarSolicitante(sender, e);
@@ -689,13 +689,13 @@ namespace SolCARDIP.Paginas.Administrador
                         int resultado = mees.adicionar(be,"delete");
                         if (resultado > 0)
                         {
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OPERACIÓN REALIZADA CON EXITO');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OPERACIÓN REALIZADA CON ÉXITO');", true);
                             actualizarGenerales();
                             cargarGenerales();
                         }
                         else
                         {
-                            if (resultado == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL ADICIONAR EL REGISTRO');", true); }
+                            if (resultado == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL ADICIONAR EL REGISTRO');", true); }
                         }
                         ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(4);", true);
                         break;
@@ -704,7 +704,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
         #endregion
@@ -869,13 +869,13 @@ namespace SolCARDIP.Paginas.Administrador
                 nuevoIdEstado = mees.adicionar(ParamEstado, hOperacion.Value.Equals("new")?"insert":"update");
                 if (nuevoIdEstado > 0)
                 {
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE AGREGO EL REGISTRO CON EXITO');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE AGREGO EL REGISTRO CON ÉXITO');", true);
                     actualizarGenerales();
                     cargarGenerales();
                 }
                 else
                 {
-                    if (nuevoIdEstado == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL ADICIONAR EL REGISTRO');", true); }
+                    if (nuevoIdEstado == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL ADICIONAR EL REGISTRO');", true); }
                 }
                 ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(4);", true);
             }

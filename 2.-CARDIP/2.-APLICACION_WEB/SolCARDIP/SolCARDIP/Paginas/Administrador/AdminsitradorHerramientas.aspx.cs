@@ -55,7 +55,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch(Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL CARGAR LA PAGINA');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL CARGAR LA PÁGINA');", true);
             }
         }
 
@@ -147,7 +147,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL MOSTRAR LA INFORMACION');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL MOSTRAR LA INFORMACIÓN');", true);
             }
         }
 
@@ -194,7 +194,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
             ScriptManager.RegisterStartupScript(this, this.GetType(), "tabActual", "tabActual(0);", true);
         }
@@ -246,7 +246,7 @@ namespace SolCARDIP.Paginas.Administrador
                         bool exito = usuarioBloqueo(parametros, opcion);
                         if (exito)
                         {
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE GUARDO LA INFORMACION CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE GUARDÓ LA INFORMACIÓN CORRECTAMENTE');", true);
                             idUsuario = -1;
                             actualizarGenerales();
                             cargarGenerales();
@@ -257,7 +257,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -378,11 +378,11 @@ namespace SolCARDIP.Paginas.Administrador
                                 {
                                     bloqControles(false);
                                     limpiarControles();
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ADICIONO EL REGISTRO CON EXITO');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ADICIONÓ EL REGISTRO CON ÉXITO');", true);
                                 }
                                 else
                                 {
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR MIENTRAS SE ADICIONABA EL REGISTRO');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR MIENTRAS SE ADICIONABA EL REGISTRO');", true);
                                 }
                                 break;
                             case "editar":
@@ -410,11 +410,11 @@ namespace SolCARDIP.Paginas.Administrador
                                 {
                                     bloqControles(false);
                                     limpiarControles();
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO EL REGISTRO CON EXITO');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ EL REGISTRO CON ÉXITO');", true);
                                 }
                                 else
                                 {
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR MIENTRAS SE ACTUALIZABA EL REGISTRO');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR MIENTRAS SE ACTUALIZABA EL REGISTRO');", true);
                                 }
                                 break;
                         }
@@ -429,7 +429,7 @@ namespace SolCARDIP.Paginas.Administrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
             //idUsuario = -1;
         }

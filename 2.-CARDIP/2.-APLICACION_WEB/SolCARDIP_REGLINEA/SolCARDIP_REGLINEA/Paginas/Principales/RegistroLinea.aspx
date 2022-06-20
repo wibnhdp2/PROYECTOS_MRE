@@ -32,7 +32,7 @@
                         </div>
                         <div class="modal-body">
                             <div class="card-body">
-                                <h5 class="card-title" style="color:red; font-weight:bold;"><u> Información para iniciar su solicitud de Carnet:</u></h5>
+                                <h5 class="card-title" style="color:red; font-weight:bold;"><u> Información para iniciar su solicitud de Carné:</u></h5>
                                 <h5 style="color:red; font-weight:bold;">Usted podrá realizar la solicitud de carné de identidad en línea, <u>si cuenta con alguna de las calidades migratorias consignadas en el siguiente cuadro :</u></h5>
                                 <hr />
                                 <ul class="list-group">

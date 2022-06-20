@@ -180,7 +180,7 @@ public class Utilitarios
         string strAppPath = pagPage.Request.ApplicationPath;
         if (strAppPath == "/")
         { strAppPath = ""; }
-        pagPage.Session["mensaje"] = "Ocurrio un error inesperado";
+        pagPage.Session["mensaje"] = "Ocurrió un error inesperado";
         writeLog(pagPage, ex);
         pagPage.Response.Redirect(strAppPath + "/mensajes.aspx");
 

@@ -289,7 +289,7 @@ namespace SolCARDIP.Paginas.Supervisor
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -475,7 +475,7 @@ namespace SolCARDIP.Paginas.Supervisor
                             }
                             else
                             {
-                                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL PROCESAR LA INFORMACION');", true);
+                                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL PROCESAR LA INFORMACIÓN');", true);
                             }
                             break;
                         case "verActaRecepcion":
@@ -536,16 +536,16 @@ namespace SolCARDIP.Paginas.Supervisor
                     bool exito = obrCarneIdentidadPrincipal.derivar(obeCarneIdentidadPrincipal);
                     if (exito)
                     {
-                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE DERIVÓ EL REGISTRO CON EXITO');", true);
+                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE DERIVÓ EL REGISTRO CON ÉXITO');", true);
                     }
                     else
                     {
-                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL DERIVAR EL REGISTRO.');", true);
+                        ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL DERIVAR EL REGISTRO.');", true);
                     }
                 }
                 else
                 {
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 }
                 cambiarPagina(sender, e);
             }
@@ -553,7 +553,7 @@ namespace SolCARDIP.Paginas.Supervisor
             {
                 obrGeneral.grabarLog(ex);
                 cambiarPagina(sender, e);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -638,7 +638,7 @@ namespace SolCARDIP.Paginas.Supervisor
                                 }
                                 else
                                 {
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL GUARDAR LA INFORMACION.');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL GUARDAR LA INFORMACIÓN.');", true);
                                     divModal.Style.Add("display", "block");
                                     divDerivarEntrega.Style.Add("display", "block");
                                 }
@@ -720,7 +720,7 @@ namespace SolCARDIP.Paginas.Supervisor
                         }
                         else
                         {
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL GUARDAR LA INFORMACION.');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL GUARDAR LA INFORMACIÓN.');", true);
                             divModal.Style.Add("display", "block");
                             divDerivarEntrega.Style.Add("display", "block");
                         }
@@ -734,7 +734,7 @@ namespace SolCARDIP.Paginas.Supervisor
                 obrGeneral.grabarLog(ex);
                 divModal.Style.Add("display", "block");
                 divVarios.Style.Add("display", "block");
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR.');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR.');", true);
             }
         }
 
@@ -792,7 +792,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR.');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR.');", true);
             }
         }
 
@@ -991,7 +991,7 @@ namespace SolCARDIP.Paginas.Supervisor
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL MOSTRAR LA INFORMACION');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL MOSTRAR LA INFORMACIÓN');", true);
             }
         }
 
@@ -1030,7 +1030,7 @@ namespace SolCARDIP.Paginas.Supervisor
             }
         }
 
-        protected beRegistroPrevio obtenerRegistro(object sender, EventArgs e)  // PERMITE OBTENER TODA LA INFORMACION DE UN REGISTRO SELECCIONADO
+        protected beRegistroPrevio obtenerRegistro(object sender, EventArgs e)  // PERMITE OBTENER TODA LA INFORMACIÓN DE UN REGISTRO SELECCIONADO
         {
             beRegistroPrevio obeRegistroPrevio = new beRegistroPrevio();
             try
@@ -1058,7 +1058,7 @@ namespace SolCARDIP.Paginas.Supervisor
             return (obeRegistroPrevio);
         }
 
-        protected beCarneIdentidad obtenerRegistroCI(int carneID) // PERMITE OBTENER TODA LA INFORMACION DE UN REGISTRO SELECCIONADO
+        protected beCarneIdentidad obtenerRegistroCI(int carneID) // PERMITE OBTENER TODA LA INFORMACIÓN DE UN REGISTRO SELECCIONADO
         {
             beCarneIdentidad obeCarneIdentidadCI = new beCarneIdentidad();
             brCarneIdentidadPrincipal obrCarneIdentidadPrincipal = new brCarneIdentidadPrincipal();
@@ -1100,7 +1100,7 @@ namespace SolCARDIP.Paginas.Supervisor
             return (estadoObs);
         } 
 
-        protected void bloquearSolicitante(bool valor, bool controles) // BLOQUEA LOS CONTROLES DE LA INFORMACION DEL SOLICITANTE
+        protected void bloquearSolicitante(bool valor, bool controles) // BLOQUEA LOS CONTROLES DE LA INFORMACIÓN DEL SOLICITANTE
         {
             if (controles)
             {
@@ -1122,7 +1122,7 @@ namespace SolCARDIP.Paginas.Supervisor
             }
         }
 
-        protected bool validarTipoEntrada(beRegistroPrevio obeRegistroPrevio, int tipoLista) // VALIDA EL TIPO DE EMTRADA DE LA INFORMACION (CONSULARES / PRIVILEGIOS)
+        protected bool validarTipoEntrada(beRegistroPrevio obeRegistroPrevio, int tipoLista) // VALIDA EL TIPO DE EMTRADA DE LA INFORMACIÓN (CONSULARES / PRIVILEGIOS)
         {
             bool exito = false;
             try

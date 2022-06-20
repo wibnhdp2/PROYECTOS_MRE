@@ -57,7 +57,7 @@
                 if (txtNumDoc.value == "") { alert("DEBE INGRESAR EL NUMERO DE DOCUMENTO DE IDENTIDAD"); txtNumDoc.focus(); return false; }
             }
             else {
-                alert("OCURRIO UN ERROR AL OBTENER LOS DATOS");
+                alert("OCURRIÓ UN ERROR AL OBTENER LOS DATOS");
                 return false;
             }
 
@@ -82,7 +82,7 @@
                 if (txtNumDoc.value == "") { alert("DEBE INGRESAR EL NUMERO DE DOCUMENTO DE IDENTIDAD"); txtNumDoc.focus(); return false; }
             }
             else {
-                alert("OCURRIO UN ERROR AL OBTENER LOS DATOS");
+                alert("OCURRIÓ UN ERROR AL OBTENER LOS DATOS");
                 return false;
             }
 

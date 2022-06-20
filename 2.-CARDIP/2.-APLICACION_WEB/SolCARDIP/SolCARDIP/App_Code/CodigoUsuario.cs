@@ -304,7 +304,7 @@ public class CodigoUsuario
             smtp.UseDefaultCredentials = true;
             //smtp.Credentials = new System.Net.NetworkCredential(correoAdmin, passAdmin);
             smtp.Send(mail);
-            string mensaje = "ALERTA ENVIADA CON EXITO.";
+            string mensaje = "ALERTA ENVIADA CON ÉXITO.";
             return mensaje;
         }
         catch (Exception ex)

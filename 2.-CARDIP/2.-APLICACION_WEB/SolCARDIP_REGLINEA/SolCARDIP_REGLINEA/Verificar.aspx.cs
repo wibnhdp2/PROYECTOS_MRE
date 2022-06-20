@@ -62,7 +62,7 @@ namespace SolCARDIP_REGLINEA
                     be.Nacimientofecha = Convert.ToDateTime(txtFecNac.Text.Trim());
                     WSsam.BECarpid bc = resultado;
                     be.EstadoCivil= bc.EstadoCivil==null?"":bc.EstadoCivil.Trim();
-                    be.Nacionalidad = bc.LugarNacimiento==null?"":bc.LugarNacimiento;
+                    //be.Nacionalidad = bc.LugarNacimiento==null?"":bc.LugarNacimiento;
                     be.Pasaporte = bc.Pasaporte==null? txtNumDocumento.Text: bc.Pasaporte.Trim();
                     be.sexo = bc.Sexo==null?"":bc.Sexo.Trim();
                     be.TiempoPermanencia = bc.TiempoPermanencia.Trim();

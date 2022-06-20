@@ -59,7 +59,7 @@
                                             <tr>
                                                 <td align="center"><asp:Label ID="lblmensaje" runat="server" Font-Bold="true" ForeColor="Red" Font-Size="13px" Font-Names="Verdana" Text="Label" CssClass="etiquetaTitulo"></asp:Label></td>
                                             </tr>
-                                            <tr><td style="font-family:Verdana;font-size:11px;font-weight:bold;">Se produjo un error al recuperar la informacion del servidor, comuniquese con el administrador.</td></tr>
+                                            <tr><td style="font-family:Verdana;font-size:11px;font-weight:bold;">Se produjo un error al recuperar la INFORMACIÓN del servidor, comuniquese con el administrador.</td></tr>
                                             <tr><td style="font-family:Verdana;font-size:11px;font-weight:bold;">Salga de esta ventana e inicie sesion nuevamente.</td></tr>
                                             <tr><td></td></tr>
                                             <tr>

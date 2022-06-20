@@ -362,3 +362,10 @@ D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInput
 D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
 D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
 D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb

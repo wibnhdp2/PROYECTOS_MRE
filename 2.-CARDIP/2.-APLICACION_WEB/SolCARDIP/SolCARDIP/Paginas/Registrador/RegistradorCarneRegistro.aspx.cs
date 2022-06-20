@@ -421,7 +421,7 @@ namespace SolCARDIP.Paginas.Registrador
             catch(Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL CARGAR LA PAGINA');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL CARGAR LA PÁGINA');", true);
             }
         }
         #region CARGA Y SELECCION DE CONTROLES
@@ -446,7 +446,7 @@ namespace SolCARDIP.Paginas.Registrador
             catch(Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -473,7 +473,7 @@ namespace SolCARDIP.Paginas.Registrador
             catch(Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -498,7 +498,7 @@ namespace SolCARDIP.Paginas.Registrador
             catch (Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -539,14 +539,7 @@ namespace SolCARDIP.Paginas.Registrador
                         ddlCalidadMigratoriaSec.DataBind();
                         lblMensajeCalidadMigratoria.Text = (lbeCalidadMigratoria.Count == 1 ? "No se encontraron opciones de cargo para esta calidad migratoria" : "");
                         ddlCalidadMigratoriaSec.Enabled = true;
-
-                        if (ddlCalidadMigratoriaSec.SelectedValue == "0")
-                        {
-                            if (valor != "0")
-                            {
-                                ddlCalidadMigratoriaSec.SelectedValue = valor;
-                            }
-                        }
+                        
                     }
                     else
                     {
@@ -581,7 +574,7 @@ namespace SolCARDIP.Paginas.Registrador
             catch(Exception ex)
             {
                 obrGeneral.grabarLog(ex);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -636,7 +629,7 @@ namespace SolCARDIP.Paginas.Registrador
             }
             catch(Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -943,7 +936,7 @@ namespace SolCARDIP.Paginas.Registrador
                             DisableControls(tablaFirma, false);
                             string ident = obrCarneIdentidadPrincipal.obtenerIdent(CarneIdentidadId);
                             lblIdentificador.Text = ident;
-                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE GUARDO LA INFORMACIÓN CORRECTAMENTE');", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE GUARDÓ LA INFORMACIÓN CORRECTAMENTE');", true);
                         }
                         else
                         {
@@ -951,7 +944,7 @@ namespace SolCARDIP.Paginas.Registrador
                             if (!menorEdad) { File.Delete(rutaAdjuntos + fileNameFirma); }
                             //calidadHumanitaria(sender, e);
                             ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                            if (CarneIdentidadId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL GUARDAR LA INFORMACION.');", true); }
+                            if (CarneIdentidadId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL GUARDAR LA INFORMACIÓN.');", true); }
                             if (CarneIdentidadId == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UNA PERSONA CON ESE TIPO Y NUMERO DE IDENTIFICACION.');", true); ddlDocumentoIdent.Focus(); }
                         }
                     }
@@ -965,7 +958,7 @@ namespace SolCARDIP.Paginas.Registrador
                 }
                 else
                 {
-                    Session["mensaje"] = "OCURRIO UN ERROR";
+                    Session["mensaje"] = "OCURRIÓ UN ERROR";
                     obrGeneral.grabarError("Error en la evaluacion de los controles");
                     ScriptManager.RegisterStartupScript(this, this.GetType(), "mensajeError", "location.href='../../mensajes.aspx';", true);
                 }
@@ -975,7 +968,7 @@ namespace SolCARDIP.Paginas.Registrador
             {
                 hErrorRegistro.Value = resultado;
                 ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 //calidadHumanitaria(sender, e);
                 obrGeneral.grabarLog(ex);
             }
@@ -1005,14 +998,14 @@ namespace SolCARDIP.Paginas.Registrador
             catch (Exception ex)
             {
                 ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 //calidadHumanitaria(sender, e);
                 obrGeneral.grabarLog(ex);
             }
         }
        
 
-        protected void guardarCambios(object sender, EventArgs e) // ACTUALIZA LA INFORMACION DEL CARNÉ DE IDENTIDAD
+        protected void guardarCambios(object sender, EventArgs e) // ACTUALIZA LA INFORMACIÓN DEL CARNÉ DE IDENTIDAD
         {
             try
             {
@@ -1442,7 +1435,7 @@ namespace SolCARDIP.Paginas.Registrador
                                     btnCancelar.Text = "Volver";
                                     btnCancelar.CssClass = "ImagenBotonVolver";
                                     btnGuardarEdicion.Enabled = false;
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO LA INFORMACIÓN CORRECTAMENTE');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ LA INFORMACIÓN CORRECTAMENTE');", true);
                                 }
                                 else
                                 {
@@ -1452,7 +1445,7 @@ namespace SolCARDIP.Paginas.Registrador
                                         File.Delete(rutaAdjuntos + fileNameFirma);
                                     }
                                     ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL ACTUALIZAR LA INFORMACION.');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL ACTUALIZAR LA INFORMACIÓN.');", true);
                                 }
                             }
                             else
@@ -1469,7 +1462,7 @@ namespace SolCARDIP.Paginas.Registrador
                                     btnCancelar.Text = "Volver";
                                     btnCancelar.CssClass = "ImagenBotonVolver";
                                     btnGuardarEdicion.Enabled = false;
-                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZO LA INFORMACIÓN CORRECTAMENTE');", true);
+                                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('SE ACTUALIZÓ LA INFORMACIÓN CORRECTAMENTE');", true);
                                 }
                                 else
                                 {
@@ -1477,7 +1470,7 @@ namespace SolCARDIP.Paginas.Registrador
                                     if (!menorEdad) { File.Delete(rutaAdjuntos + fileNameFirma); }
                                     //calidadHumanitaria(sender, e);
                                     ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                                    if (CarneIdentidadId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL GUARDAR LA INFORMACION.');", true); }
+                                    if (CarneIdentidadId == -1) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL GUARDAR LA INFORMACIÓN.');", true); }
                                     if (CarneIdentidadId == -2) { ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('YA EXISTE UNA PERSONA CON ESE TIPO Y NUMERO DE IDENTIFICACION.');", true); ddlDocumentoIdent.Focus(); }
                                 }
                             }
@@ -1495,7 +1488,7 @@ namespace SolCARDIP.Paginas.Registrador
                 }
                 else
                 {
-                    Session["mensaje"] = "OCURRIO UN ERROR";
+                    Session["mensaje"] = "OCURRIÓ UN ERROR";
                     obrGeneral.grabarError("Error en la evaluacion de los controles");
                     ScriptManager.RegisterStartupScript(this, this.GetType(), "mensajeError", "location.href='../../mensajes.aspx';", true);
                 }
@@ -1504,7 +1497,7 @@ namespace SolCARDIP.Paginas.Registrador
             {
                 obrGeneral.grabarLog(ex);
                 ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR.');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR.');", true);
             }
         }
 
@@ -1598,7 +1591,7 @@ namespace SolCARDIP.Paginas.Registrador
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -1663,7 +1656,7 @@ namespace SolCARDIP.Paginas.Registrador
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 obrGeneral.grabarLog(ex);
             }
         }
@@ -2012,12 +2005,12 @@ namespace SolCARDIP.Paginas.Registrador
                 }
                 else
                 {
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL BUSCAR EL REGISTRO EN LINEA');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL BUSCAR EL REGISTRO EN LINEA');", true);
                 }
             }
             catch (Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -2085,12 +2078,12 @@ namespace SolCARDIP.Paginas.Registrador
                 }
                 else
                 {
-                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR AL BUSCAR EL REGISTRO EN LINEA');", true);
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR AL BUSCAR EL REGISTRO EN LINEA');", true);
                 }
             }
             catch(Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
             }
         }
 
@@ -2451,7 +2444,7 @@ namespace SolCARDIP.Paginas.Registrador
             catch (Exception ex)
             {
                 ScriptManager.RegisterStartupScript(this, this.GetType(), "habilitarControles", "disIntablaFuncionario(false);", true);
-                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIO UN ERROR');", true);
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "mensaje", "alert('OCURRIÓ UN ERROR');", true);
                 //calidadHumanitaria(sender, e);
                 obrGeneral.grabarLog(ex);
             }
