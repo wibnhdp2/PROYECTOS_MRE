@@ -1,0 +1,371 @@
+D:\Disco D\ProySecurityNewModel\SolSecurity\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Disco D\ProySecurityNewModel\SolSecurity\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Disco D\ProySecurityNewModel\SolSecurity\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Disco D\ProySecurityNewModel\SolSecurity\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Disco D\ProySecurityNewModel\SolSecurity\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\ProySecurityNewModel\SolSecurity\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Disco D\Proyectos\ProySecurityNewModel\SolSecurity\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Disco D\Proyectos\ProySecurityNewModel\SolSecurity\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Disco D\Proyectos\ProySecurityNewModel\SolSecurity\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Disco D\Proyectos\ProySecurityNewModel\SolSecurity\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Disco D\Proyectos\ProySecurityNewModel\SolSecurity\Seguridad.Logica\bin\Debug\SAE.UInterfaces.dll
+D:\Aplicaciones\MRE\REFORZAMIENTO SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Aplicaciones\MRE\REFORZAMIENTO SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Aplicaciones\MRE\REFORZAMIENTO SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\MRE\REFORZAMIENTO SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Aplicaciones\MRE\REFORZAMIENTO SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_15.0_20150824\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_15.0_20150824\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_15.0_20150824\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_15.0_20150824\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150903\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150904\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150904\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150904\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150904\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_16.0_20150904\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_17.0_20150910\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_17.0_20150910\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_17.0_20150910\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_17.0_20150910\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_17.0_20150910\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.0_20150917\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.0_20150917\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.0_20150917\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.0_20150917\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.1_20151029\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.1_20151029\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.1_20151029\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.1_20151029\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_18.1_20151029\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151030\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151030\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151030\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151030\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151030\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151105\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151105\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151105\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151105\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_19.0_20151105\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_20.0_20151116\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_20.0_20151116\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_20.0_20151116\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_20.0_20151116\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_20.0_20151116\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151203\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151203\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151203\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151203\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151203\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151209\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151209\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151209\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151209\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_21.0_20151209\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_22.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_22.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_22.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_22.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_22.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160119\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160202\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160202\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160202\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160202\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_23.0_20160202\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160203\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160203\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160203\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160203\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160203\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_24.0_20160208\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160210\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160210\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160210\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160210\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160210\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160226\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160226\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160226\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160226\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_25.0_20160226\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_26.0_20160309\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_26.0_20160309\03_Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_26.0_20160309\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_26.0_20160309\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\MRE\RESLA - REFORZAMIENTO DEL SISTEMA DE LEGALIZACIONES Y APOSTILLA\RESLA\VERSION_26.0_20160309\03_Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\NUNJA\03_RESLA\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\NUNJA\03_RESLA\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\NUNJA\03_RESLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\NUNJA\03_RESLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-3\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-3\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-3\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-3\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-3\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-4\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-4\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-4\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180710-4\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-4\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-4\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-4\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-4\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-4\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-5\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-5\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-5\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-5\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180711-5\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-1\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-1\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-1\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-1\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-1\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-6\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-6\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-6\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-6\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180712-6\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180713-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180713-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180713-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180713-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180713-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-2\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-2\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-2\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-2\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-3\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-3\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-3\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180716-3\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180717\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180717\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180717\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180717\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180719\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180719\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180719\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180719\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180719\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180723\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180723\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180723\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180723\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180723\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180724\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180724\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180724\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180724\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180724\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180725-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180725-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180725-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180725-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180725-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180726-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180731-2\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180731-2\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180731-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180731-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180731-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180802\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180802\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180802\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180802\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180802\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180803\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180803\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180803\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180803\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180803\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180813\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180813\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180813\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180813\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180814-3\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180814-3\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180814-3\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180814-3\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180814-3\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180816\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180816\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180816\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180816\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180816\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180817-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180820-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180820-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180820-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180820-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180820-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180821\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180821\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180821\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180821\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180821\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180827\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180827\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180827\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180827\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180828\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180828\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180828\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180828\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180828\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180904\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180904\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180904\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180904\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180904\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914-2\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180914-2\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180918\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180918\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180918\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180918\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180918\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180919\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180919\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180919\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180919\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180919\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180920\FUENTES2\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180920\FUENTES2\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180920\FUENTES2\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180920\FUENTES2\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180920\FUENTES2\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180921\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180921\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180921\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180921\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180921\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\NUNJA\03_RESLA\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924-2\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924-2\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180924-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180925-2\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180925-2\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180925-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180925-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180925-2\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180926\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180926\Fuentes\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180926\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180926\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20180926\Fuentes\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20181001-3\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20181001-3\FUENTES\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20181001-3\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20181001-3\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20181001-3\FUENTES\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190102\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190102\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190102\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190102\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\SISTEMAS\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\SISTEMAS\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\SISTEMAS\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\SISTEMAS\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\SISTEMAS\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190402\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190402\RESLA\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190402\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190402\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\Jackeline Tito\MRE\RESLA\Última versión\20190402\RESLA\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\RESLA2012\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+E:\TRABAJO\RESLA2012\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\RESLA2012\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojResolveAssemblyReference.cache
+E:\TRABAJO\RESLA2012\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+E:\TRABAJO\RESLA2012\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojAssemblyReference.cache
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+E:\TRABAJO\RESLA2012_DESARROLLO\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csprojAssemblyReference.cache
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\FuentesCS\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+E:\TRABAJO\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.AssemblyReference.cache
+D:\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+D:\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+D:\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\bin\Debug\Seguridad.Logica.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP\Seguridad.Logica\obj\Debug\Seguridad.Logica.pdb

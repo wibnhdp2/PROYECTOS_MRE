@@ -153,7 +153,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="2" style="height: 30px;" class="EtiquetaCentro" id="Td1" align="center">
+                <td colspan="2" style="height: 30px;" class="EtiquetaCentro" id="Td1" align="center" runat="server">                    
                     MRE&nbsp;&copy; 2017
                 </td>
             </tr>
@@ -265,7 +265,6 @@
             }
         }
 
-        
 
         //        function postBack() {
         //            __doPostBack('__Page', 'Page_Load');

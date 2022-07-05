@@ -78,6 +78,16 @@
             var dropDownCategoria = document.getElementById(master + "ddlCategoriaOfcoEx");
             var dropDownMision = document.getElementById(master + "ddlMision");
             var lblNacionalidad = document.getElementById(master + "lblNacionalidad");
+
+            var txtMesaPartes = document.getElementById(master + "txtMesaPartes");
+            var txtFechaIni = document.getElementById(master + "txtFechaIni");
+            var txtFechaFin = document.getElementById(master + "txtFechaFin");
+            var ddlSexo = document.getElementById(master + "ddlSexo");
+            var chkSolOnline = document.getElementById(master + "chkSolOnline");
+            var DatosCarnet = document.getElementById(master + "DatosCarnet");
+            var DatosFuncionario = document.getElementById(master + "DatosFuncionario");
+            var DatosMision = document.getElementById(master + "DatosMision");
+            
             if (txtNumeroIdent != null & txtNumeroCarne != null & txtFechaEmision != null & txtFechaVenc != null & txtApePat != null & txtApeMat != null & txtNom != null &
             dropDownPeriodo != null & dropDownCalMig != null & dropDownTitDep != null & dropDownCargo != null & dropDownEstado != null & dropDownPais != null & dropDownCategoria != null & dropDownMision != null) {
                 txtNumeroIdent.value = "";
@@ -96,6 +106,19 @@
                 dropDownCategoria.value = "0";
                 dropDownMision.value = "0";
                 lblNacionalidad.innerHTML = "";
+
+
+                chkSolOnline.checked = false;
+
+                DatosCarnet.disabled = false;
+                DatosFuncionario.disabled = false;
+                DatosMision.disabled = false;                
+
+                txtMesaPartes.value = "";
+                txtFechaIni.value = "";
+                txtFechaFin.value = "";
+                ddlSexo.value = "0";
+                
             }
         }
         function AbrirPopup() {
