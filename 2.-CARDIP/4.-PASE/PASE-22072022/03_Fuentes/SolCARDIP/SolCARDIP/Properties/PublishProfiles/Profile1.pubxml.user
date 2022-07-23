@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2020-02-04T15:48:37.6828181-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>D:\Publicacion\cardip_webapp</_PublishTargetUrl>
+    <History>True|2022-06-28T14:18:57.9716589Z;True|2022-04-20T15:48:36.1957095-05:00;True|2022-04-11T09:30:46.5974858-05:00;True|2022-04-07T11:54:30.9280787-05:00;True|2022-04-06T13:53:01.7359168-05:00;True|2022-03-23T16:03:54.9892139-05:00;True|2022-03-11T10:09:38.2053131-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/AntiXSSLibrary.dll">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/HtmlSanitizationLibrary.dll">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>02/20/2011 04:40:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>02/20/2011 04:40:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 14:22:24</publishTime>
+    </File>
+    <File Include="bin/SAE.UInterfaces.dll">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/Seguridad.Logica.dll">
+      <publishTime>06/28/2022 09:18:51</publishTime>
+    </File>
+    <File Include="bin/Seguridad.Logica.pdb">
+      <publishTime>06/28/2022 09:18:51</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.dll">
+      <publishTime>06/28/2022 09:18:53</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.Librerias.AccesoDatos.dll">
+      <publishTime>06/28/2022 09:18:51</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.Librerias.AccesoDatos.pdb">
+      <publishTime>06/28/2022 09:18:51</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.Librerias.EntidadesNegocio.dll">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.Librerias.EntidadesNegocio.pdb">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.Librerias.ReglasNegocio.dll">
+      <publishTime>06/28/2022 09:18:52</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.Librerias.ReglasNegocio.pdb">
+      <publishTime>06/28/2022 09:18:52</publishTime>
+    </File>
+    <File Include="bin/SolCARDIP.pdb">
+      <publishTime>06/28/2022 09:18:53</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Estilos/modal.css">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Estilos/MRE.css">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Gifs/ajax-loader%281%29.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Gifs/ajax-loader.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Gifs/cargando.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Gifs/Eclipse.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/18_css.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/1year.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/2data_view.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/actaconformidad.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/add.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/add.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/addBlue.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/addpersona.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/apostilla.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/apostilladores.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/apostillar.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/apostilla_not_found.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/app.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/apply.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/apply_f2.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/atenderSol.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/atendersolicitud.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/autoridades.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/back.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Bandejaapostilla.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/bandejanegro.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/bandejarojo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/bandejaverde.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/barCode.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/barr-cicle-ajax-loader.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/block_48.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/bloqueo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/bullet03.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/buscar.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/buscar1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/buscarboton.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/buscarpersona.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/caja.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/calidad.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/calidad1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/cambiarpersona.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/cargo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/carne.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/cerrar.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/certificar.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/check.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/clear.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/close.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/close24.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/collapseall.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Comments16.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Comments32.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/complete.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/conforme.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/conformidad.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/consulado.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/contract.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/controlpanel.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Copia de escudo_peru_.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Copia de home.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Copia de icon-16-archive.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Copia de linea.GIF">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Copia de __escudo_peru.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/copiarsolicitante.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/copy.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/corner-left.GIF">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/corner-right.GIF">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data_delete.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data_delete_on.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data_edit.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data_edit_on.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data_view.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/data_view_on.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Delete.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/delete1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/derivar.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/derivar.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/desbloqueo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/detalleadmin.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/detallepago.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/devolucion.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/devolver.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/disconforme.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Documento.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/editar.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/editarpersona.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/editarregistro.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/editCorrect.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Edit_16x16.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/emitidoImpr.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/enviar.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/enviar.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/error.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/escudo_peru.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/escudo_peru_.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/expand.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/expandall.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Folder.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/generaractuacion.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/genorpago.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/genorpagoImagen.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/home.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/home2.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/hoy.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-archive.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-checkin.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-config.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-cpanel.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-default.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-frontpage.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-info.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-logout.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-module.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-section.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-trash.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-user.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-16-_logout.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-error.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-report-16.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-tips.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon-user.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/icon_checkin.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_agregar_todos_off.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_agregar_todos_on.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_agregar_uno_off.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_apostilla.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_bandeja.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_calendar.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_lupa.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_parametro.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_quitar_todos_off.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_quitar_todos_on.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_quitar_uno_off.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_quitar_uno_on.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico_usuario.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ico__usuario.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/img_16_print.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/img_48_user_gray.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/imprimir.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/infoarchivo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Information.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/insumoAuto.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/insumoCert.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/insumoDetalle.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/insumoRecibir.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/insumoRecibir16.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/jpeg.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/jpeg1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/linea.GIF">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/lista.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/log.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/mark_f2.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/MensajeAlert.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/MensajeAlertGreen.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/MensajeInfo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/mision.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/modulo.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Movimientos.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/movimientos1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/new.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/new1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/next.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/obsregistro.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/oficina.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/openLog.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Pago.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/pagoicono.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/PagoImagen.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/parametros.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/pausa.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/pdf.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/perfil.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/play.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/print124.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/print24.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/printRV.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/print_48.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/print_conformidad.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/print_sticker.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/print_sticker_disabled.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/pr_xls.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/question.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/questionblue.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/questionyellow.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/quicksearch.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Recepcion.bmp">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/recepcion.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/rechazartramite.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/redo.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/refresh.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/registrarpago.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/reimpresion.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/reiteracion.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/renovar.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/renovar1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Report - Copy %282%29.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Report.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/reporte.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/ReportProject.ico">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/return.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/revertirpago.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/revertirpagoGrande.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/revpago.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/salir.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/save.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/save16.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/save_48.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/select.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Solicitante.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/template.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Titular.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/user.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/user1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/user2.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/user3.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/user4.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/usuario.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/usuarioDeriva.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/usuarios.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/verFoto.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/view.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/vincularInsumos.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/visualizar.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/volver.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/warning.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/warning1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/weblink.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/xchat.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/__escudo_peru.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/insumoAuto.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/insumoCert.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/CARDIP.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/EVD.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/FondoCabeceraMRE.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/FondoCabeceraMRE1.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/FondoCabeceraMRE10.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/FondoGuinda.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/Header.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/rree_membrete.gif">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/Titulo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/TituloEscudo.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/TituloMRE.png">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/notFound.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Imagenes/Reporte.jpg">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="JavaScript/jquery/1.3.2/jquery.min.js">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="JavaScript/JScript.js">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="mensajes.aspx">
+      <publishTime>06/17/2022 11:33:50</publishTime>
+    </File>
+    <File Include="Paginas/Administrador/AdministradorCarneConsulta.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Administrador/AdministradorMantenimiento.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Administrador/AdministradorReportes.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Administrador/AdminsitradorHerramientas.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Otros/FormularioConsulta.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/PDF.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Principales/Principal.Master">
+      <publishTime>06/22/2022 17:20:17</publishTime>
+    </File>
+    <File Include="Paginas/Recepcion/RecepcionEntradaRegistro.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Registrador/RegistradorCarneRegistro.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Registrador/RegistradorConsultaCarne.aspx">
+      <publishTime>06/22/2022 18:37:20</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/DataSet/dtsConsultaCarnet.xsc">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/DataSet/dtsConsultaCarnet.xss">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/FormularioReportes.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/RDLC/DetallexCalidad.rdlc">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/RDLC/ResumenxCalidad.rdlc">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/RDLC/RptConsultaCarnet.rdlc">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Reportes/VistaImpresion.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/Supervisor/SupervisorConsulta.aspx">
+      <publishTime>06/17/2022 11:27:07</publishTime>
+    </File>
+    <File Include="Paginas/Supervisor/SupervisorConsultaControlCalidad.aspx">
+      <publishTime>06/17/2022 11:27:07</publishTime>
+    </File>
+    <File Include="Paginas/Supervisor/SupervisorRegistroPrevio.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/VerFirmaNueva.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/VerFirmaSave.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/VerImagenNueva.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Paginas/VerImagenSave.aspx">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Plantillas/CorreoSolicitudRechazada.html">
+      <publishTime>05/30/2022 19:47:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/22/2022 19:22:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

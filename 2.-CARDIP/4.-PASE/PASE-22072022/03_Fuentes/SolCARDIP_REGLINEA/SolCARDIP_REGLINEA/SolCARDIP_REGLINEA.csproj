@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8AC16D5E-796B-4B7B-A21A-540BFA587077}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SolCARDIP_REGLINEA</RootNamespace>
+    <AssemblyName>SolCARDIP_REGLINEA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.30930.28736, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AntiXSSLibrary, Version=4.3.0.0, Culture=neutral, PublicKeyToken=d127efab8a9c114f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AntiXSSLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlSanitizationLibrary, Version=4.2.0.0, Culture=neutral, PublicKeyToken=d127efab8a9c114f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\HtmlSanitizationLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.1.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="SAE.UInterfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\SAE.UInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Seguridad.Logica, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Seguridad.Logica.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Default.aspx" />
+    <Content Include="Estilos\Alert\sweetalert.css" />
+    <Content Include="Estilos\all.min.css" />
+    <Content Include="Estilos\login\bootstrap.min.css" />
+    <Content Include="Estilos\login\fontawesome-all.min.css" />
+    <Content Include="Estilos\login\iofrm-style.css" />
+    <Content Include="Estilos\login\iofrm-theme9.css" />
+    <Content Include="Estilos\modal.css" />
+    <Content Include="Estilos\MRE.css" />
+    <Content Include="Estilos\sb-admin-2.css" />
+    <Content Include="Imagenes\cuadroFirma.jpg" />
+    <Content Include="Imagenes\editar.png" />
+    <Content Include="Imagenes\Iconos\alert48.png" />
+    <Content Include="Imagenes\Iconos\copy48BLack.png" />
+    <Content Include="Imagenes\Iconos\copy48White.png" />
+    <Content Include="Imagenes\Iconos\Delete.png" />
+    <Content Include="Imagenes\insumoAuto.png" />
+    <Content Include="Imagenes\insumoCert.png" />
+    <Content Include="Imagenes\Logos\CARDIP.jpg" />
+    <Content Include="Imagenes\Logos\logoGobPe.png" />
+    <Content Include="Imagenes\logo_n_2016.png" />
+    <Content Include="Imagenes\notFound.jpg" />
+    <Content Include="Imagenes\Reporte.jpg" />
+    <Content Include="Imagenes\Reporte_v2.jpg" />
+    <Content Include="Paginas\01_Gen_Codigo\GeneraCodigo01.aspx" />
+    <Content Include="Paginas\01_Gen_Codigo\GeneraCodigo02.aspx" />
+    <Content Include="Paginas\01_Gen_Codigo\GeneraCodigo03.aspx" />
+    <Content Include="Paginas\Default.aspx" />
+    <Content Include="Paginas\Principales\Default.aspx" />
+    <Content Include="Paginas\mensajes.aspx" />
+    <Content Include="Paginas\PDF.aspx" />
+    <Content Include="Paginas\Principales\frmRegistroLinea.aspx" />
+    <Content Include="Paginas\Principales\RegistroLinea.aspx" />
+    <Content Include="Paginas\VerImagen.aspx" />
+    <Content Include="Paginas\VerImagenSave.aspx" />
+    <Content Include="Scripts\Alert\sweetalert-dev.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\jquery-1.11.3.min.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\sb-admin-2.min.js" />
+    <None Include="Service References\WSsam\configuration91.svcinfo" />
+    <None Include="Service References\WSsam\configuration.svcinfo" />
+    <None Include="Service References\WSsam\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="UserControl\cuUploadFile.ascx" />
+    <Content Include="Verificar.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="webfonts\fa-brands-400.svg" />
+    <Content Include="webfonts\fa-regular-400.svg" />
+    <Content Include="webfonts\fa-solid-900.svg" />
+    <Content Include="Service References\WSsam\SolCARDIP_REGLINEA.WSsam.BECarpid.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\WSsam\SolCARDIP_REGLINEA.WSsam.BERespuesta.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\WSsam\WebService_MRE.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Code\CodigoUsuario.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\01_Gen_Codigo\GeneraCodigo01.aspx.cs">
+      <DependentUpon>GeneraCodigo01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\01_Gen_Codigo\GeneraCodigo01.aspx.designer.cs">
+      <DependentUpon>GeneraCodigo01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\01_Gen_Codigo\GeneraCodigo02.aspx.cs">
+      <DependentUpon>GeneraCodigo02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\01_Gen_Codigo\GeneraCodigo02.aspx.designer.cs">
+      <DependentUpon>GeneraCodigo02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\01_Gen_Codigo\GeneraCodigo03.aspx.cs">
+      <DependentUpon>GeneraCodigo03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\01_Gen_Codigo\GeneraCodigo03.aspx.designer.cs">
+      <DependentUpon>GeneraCodigo03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Principales\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Principales\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\mensajes.aspx.cs">
+      <DependentUpon>mensajes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\mensajes.aspx.designer.cs">
+      <DependentUpon>mensajes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PDF.aspx.cs">
+      <DependentUpon>PDF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PDF.aspx.designer.cs">
+      <DependentUpon>PDF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Principales\frmRegistroLinea.aspx.cs">
+      <DependentUpon>frmRegistroLinea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Principales\frmRegistroLinea.aspx.designer.cs">
+      <DependentUpon>frmRegistroLinea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Principales\Principal.Master.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Principales\Principal.Master.designer.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Principales\PrincipalForm.Master.cs">
+      <DependentUpon>PrincipalForm.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Principales\PrincipalForm.Master.designer.cs">
+      <DependentUpon>PrincipalForm.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Principales\RegistroLinea.aspx.cs">
+      <DependentUpon>RegistroLinea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Principales\RegistroLinea.aspx.designer.cs">
+      <DependentUpon>RegistroLinea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\VerImagen.aspx.cs">
+      <DependentUpon>VerImagen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\VerImagen.aspx.designer.cs">
+      <DependentUpon>VerImagen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\VerImagenSave.aspx.cs">
+      <DependentUpon>VerImagenSave.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\VerImagenSave.aspx.designer.cs">
+      <DependentUpon>VerImagenSave.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\WSsam\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\cuUploadFile.ascx.cs">
+      <DependentUpon>cuUploadFile.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControl\cuUploadFile.ascx.designer.cs">
+      <DependentUpon>cuUploadFile.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Verificar.aspx.cs">
+      <DependentUpon>Verificar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Verificar.aspx.designer.cs">
+      <DependentUpon>Verificar.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Paginas\Principales\Principal.Master" />
+    <Content Include="Paginas\Principales\PrincipalForm.Master" />
+    <Content Include="webfonts\fa-brands-400.eot" />
+    <Content Include="webfonts\fa-brands-400.ttf" />
+    <Content Include="webfonts\fa-brands-400.woff" />
+    <Content Include="webfonts\fa-brands-400.woff2" />
+    <Content Include="webfonts\fa-regular-400.eot" />
+    <Content Include="webfonts\fa-regular-400.ttf" />
+    <Content Include="webfonts\fa-regular-400.woff" />
+    <Content Include="webfonts\fa-regular-400.woff2" />
+    <Content Include="webfonts\fa-solid-900.eot" />
+    <Content Include="webfonts\fa-solid-900.ttf" />
+    <Content Include="webfonts\fa-solid-900.woff" />
+    <Content Include="webfonts\fa-solid-900.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.csproj">
+      <Project>{4B6F212B-DBF0-4A08-9EDA-B10DC4E03516}</Project>
+      <Name>SolCARDIP_REGLINEA.Librerias.EntidadesNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj">
+      <Project>{BCC04DD1-C15A-4700-9A03-F9763C1CC0A2}</Project>
+      <Name>SolCARDIP_REGLINEA.Librerias.ReglasNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\WSsam\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>25014</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

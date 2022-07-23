@@ -107,8 +107,9 @@
                 <div class="bg"></div>
                 <div class="info-holder">
                     <h3>Verificación de Carnet</h3>
-                    <p>Si usted, cuenta con la siguiente calidad migratoria Residente: Diplomático, Oficial, Consular, Familiar de Oficial, 
-                        Cooperante, Intercambio, Periodista o Producción Artística, puede solicitar su carnet de identidad</p>
+                    <p>
+						Si usted, cuenta con la siguiente calidad migratoria Residente: Diplomático, Oficial, Consular, Familiar de Oficial, Cooperante, Intercambio o Periodista, Producción Artística, puede solicitar su carnet de identidad.
+					</p>						
                     <%--<img src="../images/logo_n_2016.png" alt="">--%>
                 </div>
             </div>
