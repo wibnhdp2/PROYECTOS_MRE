@@ -35,7 +35,7 @@
                     <td align="center">
                         <div class="alert alert-danger" role="alert">
                             <h4 class="alert-heading">
-                                Información Importante!</h4>
+                                ¡Información Importante!</h4>
                             <p>
                                 Esta plataforma tiene como finalidad el poder realizar una solicitud en linea de
                                 emisión de carné de identidad para extranjeros en el Perú.</p>

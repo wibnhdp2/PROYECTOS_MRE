@@ -164,7 +164,7 @@
                                                     <tr id="trTabs">
                                                         <td id="tabPest0" class="Tabs" style="display:block;" onclick="tabActual(0);">Bloq / Desbloq Usuarios</td>
                                                         <td id="tabPest1" class="Tabs" style="display:block;" onclick="tabActual(1);">Mantenimiento Usuario</td>
-                                                        <td id="tabPest2" class="Tabs" style="display:block;" onclick="tabActual(2);">Otros</td>
+                                                        <!--<td id="tabPest2" class="Tabs" style="display:block;" onclick="tabActual(2);">Otros</td>-->
                                                     </tr>
                                                 </table>
                                             </td>
@@ -379,6 +379,7 @@
                                                 <div ID="tab2" style="display:none;">
                                                     <fieldset class="Fieldset">
                                                         <table style="width:70%;">
+                                                            <!--
                                                             <tr>
                                                                 <td colspan="3">
                                                                     <asp:Button ID="btnCargarOtros" runat="server" CssClass="ButtonFiltro" 
@@ -398,12 +399,14 @@
                                                                 <td class="etiqueta" colspan="3">
                                                                     Log de Errores</td>
                                                             </tr>
+                                                            
                                                             <tr>
                                                                 <td colspan="3">
                                                                     <asp:TextBox ID="txtLog" runat="server" Font-Names="Consolas" Font-Size="11" 
                                                                         Height="300px" TextMode="MultiLine" Width="100%"></asp:TextBox>
                                                                 </td>
                                                             </tr>
+                                                            -->
                                                         </table>
                                                     </fieldset>
                                                 </div>                                                           

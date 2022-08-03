@@ -531,10 +531,7 @@
                                 </div>
                             </div>
                         </div>
-
-
                         
-
                         <hr />
                         <div class="form-group row">
                             <div class="col-sm-12">
@@ -606,11 +603,11 @@
                             <div class="col">
                                 <div id="DIV_CARGADO" runat="server" visible="false" class="alert alert-success"
                                     role="alert">
-                                    Fotografía Cargada!
+                                    ¡Fotografía Cargada!
                                 </div>
                                 <div id="DIV_NO_CARGADO" runat="server" visible="false" class="alert alert-danger"
                                     role="alert">
-                                    Fotografía no Cargada!
+                                    ¡Fotografía no Cargada!
                                 </div>
                             </div>
                         </div>
@@ -620,7 +617,7 @@
                             <div class="col-sm-5">
                                 <div class="alert alert-danger" role="alert">
                                     <h4 class="alert-heading">
-                                        Información Importante para subir la fotografía!</h4>
+                                        ¡Información Importante para subir la fotografía!</h4>
                                     <hr />
                                     <ul class="list-unstyled" style="text-align: left;">
                                         <ul>
@@ -674,11 +671,11 @@
                             <div class="col">
                                 <div id="DIV_CARGADO_FIRMA" runat="server" visible="false" class="alert alert-success"
                                     role="alert">
-                                    Firma Cargada!
+                                    ¡Firma Cargada!
                                 </div>
                                 <div id="DIV_NO_CARGADO_FIRMA" runat="server" visible="false" class="alert alert-danger"
                                     role="alert">
-                                    Firma no Cargada!
+                                    ¡Firma no Cargada!
                                 </div>
                             </div>
                         </div>
@@ -688,7 +685,7 @@
                             <div class="col-sm-5">
                                 <div class="alert alert-danger" role="alert">
                                     <h4 class="alert-heading">
-                                        Información Importante para subir la firma!</h4>
+                                        ¡Información Importante para subir la firma!</h4>
                                     <hr />
                                     <ul class="list-unstyled" style="text-align: left;">
                                         <ul>
@@ -740,11 +737,11 @@
                             <div class="col">
                                 <div id="DIV_CARGADO_PASAPORTE" runat="server" visible="false" class="alert alert-success"
                                     role="alert">
-                                    Pasaporte Cargado!
+                                    ¡Pasaporte Cargado!
                                 </div>
                                 <div id="DIV_NO_CARGADO_PASAPORTE" runat="server" visible="false" class="alert alert-danger"
                                     role="alert">
-                                    Pasaporte no Cargado!
+                                    ¡Pasaporte no Cargado!
                                 </div>
                             </div>
                         </div>
@@ -754,7 +751,7 @@
                             <div class="col-sm-5">
                                 <div class="alert alert-danger" role="alert">
                                     <h4 class="alert-heading">
-                                        Información Importante para subir la imagen del Pasaporte!</h4>
+                                        ¡Información Importante para subir la imagen del Pasaporte!</h4>
                                     <hr />
                                     <ul class="list-unstyled" style="text-align: left;">
                                         <ul>
@@ -775,9 +772,14 @@
                         <hr />
                         <div class="form-group row">
                             <div class="col-sm-12">
-                                <asp:LinkButton ID="btnContinuarGuardarPasaporte" CssClass="btn btn-primary btn-icon-split" CommandArgument="Pasaporte" 
-                                    runat="server" OnClick="btnContinuarGuardar_Click"> <span class="icon text-white-50"><i class="fas fa-long-arrow-alt-right"></i></span><span class="text">Siguiente</span> </asp:LinkButton>
-                                <asp:LinkButton ID="LinkButton7" CssClass="btn btn-outline-secondary btn-icon-split" runat="server" OnClick="btnCancelar_click"> <span class="icon text-white-50"><i class="fas fa-ban"></i></span><span class="text">Cancelar</span> </asp:LinkButton>
+                                <asp:LinkButton ID="btnContinuarGuardarPasaporte" CssClass="btn btn-primary btn-icon-split" CommandArgument="Pasaporte"
+                                    runat="server" OnClick="btnContinuarGuardar_Click"> 
+                                    <span class="icon text-white-50"><i class="fas fa-long-arrow-alt-right"></i></span>
+                                    <span class="text">Siguiente</span>
+                                </asp:LinkButton>
+                                <asp:LinkButton ID="LinkButton7" CssClass="btn btn-outline-secondary btn-icon-split" runat="server" OnClick="btnCancelar_click"> 
+                                    <span class="icon text-white-50"><i class="fas fa-ban"></i></span><span class="text">Cancelar</span>
+                                </asp:LinkButton>
                             </div>
                         </div>
                     </asp:Panel>
@@ -805,11 +807,11 @@
                             <div class="col">
                                 <div id="DIV_CARGADO_DENUNCIA" runat="server" visible="false" class="alert alert-success"
                                     role="alert">
-                                    Denuncia Cargada!
+                                    ¡Denuncia Cargada!
                                 </div>
                                 <div id="DIV_NO_CARGADO_DENUNCIA" runat="server" visible="false" class="alert alert-danger"
                                     role="alert">
-                                    Denuncia no Cargada!
+                                    ¡Denuncia no Cargada!
                                 </div>
                             </div>
                         </div>
@@ -819,7 +821,7 @@
                             <div class="col-sm-5">
                                 <div class="alert alert-danger" role="alert">
                                     <h4 class="alert-heading">
-                                        Información Importante para subir la Denuncia!</h4>
+                                        ¡Información Importante para subir la Denuncia!</h4>
                                     <hr />
                                     <ul class="list-unstyled" style="text-align: left;">
                                         <ul>
@@ -1091,9 +1093,22 @@
                 $("[id*=ContentPlaceHolder1_TabName]").val($(this).attr("href").replace("#", ""));
             });
 
-            document.getElementById("ContentPlaceHolder1_cuUploadFile1_fileupload").onchange = evt => {
-              const [file] = document.getElementById("ContentPlaceHolder1_cuUploadFile1_fileupload").files
 
+            var image = document.getElementById("ContentPlaceHolder1_cuUploadFile1_fileupload");
+            image.setAttribute("accept", "image/jpeg");
+
+            var image2 = document.getElementById("ContentPlaceHolder1_cuUploadFile2_fileupload");
+            image2.setAttribute("accept", "image/jpeg");
+
+            var image3 = document.getElementById("ContentPlaceHolder1_cuUploadFile3_fileupload");
+            image3.setAttribute("accept", "image/jpeg");
+
+            var image4 = document.getElementById("ContentPlaceHolder1_cuUploadFile4_fileupload");
+            image4.setAttribute("accept", "application/pdf");
+
+            document.getElementById("ContentPlaceHolder1_cuUploadFile1_fileupload").onchange = evt => {
+                const [file] = document.getElementById("ContentPlaceHolder1_cuUploadFile1_fileupload").files
+                
                 if (validarExtension(file.type)) {
                     alert("Archivo no válido, sólo cargar imagenes con extesión JPG");
                     $('#ContentPlaceHolder1_cuUploadFile1_fileupload').val('');
@@ -1117,7 +1132,7 @@
             }
 
             document.getElementById("ContentPlaceHolder1_cuUploadFile2_fileupload").onchange = evt => {
-              const [file] = document.getElementById("ContentPlaceHolder1_cuUploadFile2_fileupload").files
+                const [file] = document.getElementById("ContentPlaceHolder1_cuUploadFile2_fileupload").files
 
                 if (validarExtension(file.type)) {
                     alert("Archivo no válido, sólo cargar imagenes con extesión JPG");
@@ -1143,6 +1158,7 @@
 
             document.getElementById("ContentPlaceHolder1_cuUploadFile3_fileupload").onchange = evt => {
                 const [file] = document.getElementById("ContentPlaceHolder1_cuUploadFile3_fileupload").files
+
                 if (validarExtension(file.type)) {
                     alert("Archivo no válido, sólo cargar imagenes con extesión JPG");
                     $('#ContentPlaceHolder1_cuUploadFile3_fileupload').val('');
@@ -1170,6 +1186,49 @@
             $("#ContentPlaceHolder1_btnEliminarPasaporte").addClass("d-none");
         });
 
+        $('#ContentPlaceHolder1_btnContinuarFirma').click(function(){
+            ValidarCarga('1');
+        });
+
+        $('#ContentPlaceHolder1_btnContinuarGuardarFirma').click(function(){
+            ValidarCarga('2');
+        });
+
+        $('#ContentPlaceHolder1_btnContinuarGuardarPasaporte').click(function(){
+            ValidarCarga('3');
+        });
+
+        $('#ContentPlaceHolder1_btnContinuarGuardarDenuncia').click(function(){
+            ValidarCarga('4');
+        });
+        
+        function ValidarCarga(control,) {                            
+            var image = $('#ContentPlaceHolder1_cuUploadFile'+control+'_fileupload').val();                                                   
+            var fotoAlm = document.getElementById('ContentPlaceHolder1_imgFoto');
+            var firmaAlm = document.getElementById('ContentPlaceHolder1_imgFirma'); 
+            var docAlm = document.getElementById('ContentPlaceHolder1_imgPasaporte');
+
+            var msg = 'Debe seleccionar una imagen';
+            var opcion = $("#ContentPlaceHolder1_ddlTipEmision option:selected").text();
+            if(opcion==='NUEVO'){
+                if((fotoAlm.getAttribute('src')===''||firmaAlm.getAttribute('src')===''||docAlm.getAttribute('src')==='') && image.length <= 0){                        
+                    alert(msg);
+                }
+            }
+
+            if(opcion==='RENOVACIÓN'){
+                if((fotoAlm.getAttribute('src')===''||firmaAlm.getAttribute('src')==='') && image.length <= 0){
+                    alert(msg);
+                }
+            }
+
+            if(opcion==='DUPLICADO'){
+                if (control=='4' && image.length <= 0) {
+                    msg='Debe seleccionar archivo';
+                    alert(msg);
+                }
+            }
+        }
 
         function validarExtension(tipoFile) {
             var esImg = false;
@@ -1186,7 +1245,7 @@
                 esPesado = true;
             }
             return esPesado;
-        }
+        }        
 
     </script>
 
@@ -1196,7 +1255,7 @@
         document.onkeydown = function (e) {
             tecla = (document.all) ? e.keyCode : e.which;
             if (tecla == 116) {
-                if (confirm("Seguro que quieres refrescar la página, regresaras a la pantalla de generación de código ") == true) {
+                if (confirm("¿Seguro que quieres refrescar la página? regresaras a la pantalla de generación de código ") == true) {
                     __doPostBack('ACTUALIZA', '1');
                     return false;
                 } else {
@@ -1462,8 +1521,7 @@
             return;
 
         }
-
-        
+               
 
     </script>
 </asp:Content>

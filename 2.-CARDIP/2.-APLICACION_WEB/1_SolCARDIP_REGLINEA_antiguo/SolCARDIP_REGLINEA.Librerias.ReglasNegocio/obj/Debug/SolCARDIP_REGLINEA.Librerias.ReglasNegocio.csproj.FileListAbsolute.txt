@@ -1,0 +1,121 @@
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\NUNJA\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\CARDIP\05_CARDIP\SolCARDIP_REGLINEA - V3\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+E:\TRABAJO\unidadD\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojAssemblyReference.cache
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+E:\TRABAJO\SolCARDIP_REGLINEA - V3 - ORIGINAL\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojAssemblyReference.cache
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+D:\FuentesCS\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+E:\TRABAJO\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojAssemblyReference.cache
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\BACKUP\Desktop\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+D:\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\CARDIP\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\mmunozs\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.AccesoDatos.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\bin\Debug\SolCARDIP_REGLINEA.Librerias.EntidadesNegocio.pdb
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.dll
+C:\Users\Martin\Documents\GitHub\PROYECTOS_MRE\2.-CARDIP\2.-APLICACION_WEB\SolCARDIP_REGLINEA\SolCARDIP_REGLINEA.Librerias.ReglasNegocio\obj\Debug\SolCARDIP_REGLINEA.Librerias.ReglasNegocio.pdb

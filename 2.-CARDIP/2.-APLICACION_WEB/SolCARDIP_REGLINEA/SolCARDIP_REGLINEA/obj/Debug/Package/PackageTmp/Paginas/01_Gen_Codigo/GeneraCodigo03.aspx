@@ -16,7 +16,7 @@
             var txt1 = document.getElementById(master + "txtCodSolicitud");
             if (txt1 != null) {
                 if (txt1.value.length != 9) {
-                    alert("NO ES UN CODIGO DE SOLICITUD VÁLIDO.");
+                    alert("NO ES UN CÓDIGO DE SOLICITUD VÁLIDO.");
                     txt1.focus();
                     return false;
                 }
@@ -34,7 +34,7 @@
                     <td align="center">
                         <div class="alert alert-danger" role="alert">
                             <h4 class="alert-heading">
-                                Información Importante!</h4>
+                                ¡Información Importante!</h4>
                             <p>
                                 Esta plataforma tiene como finalidad el poder realizar una solicitud en linea de
                                 emisión de carné de identidad para extranjeros en el Perú.</p>

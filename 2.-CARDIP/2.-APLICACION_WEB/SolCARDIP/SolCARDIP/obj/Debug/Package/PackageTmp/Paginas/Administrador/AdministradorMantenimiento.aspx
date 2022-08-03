@@ -670,8 +670,8 @@
                                                                             <table>
                                                                                 <tr>
                                                                                     <td>
-                                                                                        <asp:ImageButton ID="ibtEditar" runat="server" CommandName="editarDocIdent" ImageUrl="~/Imagenes/Iconos/Edit_16x16.png" OnClick="guardarNuevo" ToolTip="Bloquear Usuario" />
-                                                                                        <asp:ImageButton ID="ibtAnular" runat="server" CommandName="blockUser" ImageUrl="~/Imagenes/Iconos/Delete.png" ToolTip="Bloquear Usuario" />
+                                                                                        <asp:ImageButton ID="ibtEditar" runat="server" CommandName="editarDocIdent" ImageUrl="~/Imagenes/Iconos/Edit_16x16.png" OnClick="guardarNuevo" ToolTip="Editar" />
+                                                                                        <asp:ImageButton ID="ibtAnular" runat="server" CommandName="blockUser" ImageUrl="~/Imagenes/Iconos/Delete.png" ToolTip="Eliminar" />
                                                                                     </td>
                                                                                 </tr>
                                                                             </table>

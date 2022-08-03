@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Paginas/Principales/Principal.Master" AutoEventWireup="true" CodeBehind="FormularioReportes.aspx.cs" Inherits="SolCARDIP.Paginas.Reportes.FormularioReportes" %>
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    
+
     <script type="text/javascript">
         var master = "ContentPlaceHolder1_";
 
@@ -51,8 +53,6 @@
 
         }
 
-        
-
         function tabActual(valor) {
             var hd1 = document.getElementById(master + "hdfldTabActual");
             if (hd1 != null) {
@@ -97,6 +97,7 @@
             }
         }
     </script>
+
     <script type="text/javascript">
         function seguridadURLPrevia() {
             if (document.referrer != "") {
@@ -135,6 +136,17 @@
                 ctrl.focus();
             }
         }
+
+        function ValidarFechas() {
+            var fechainicial = document.getElementById("ContentPlaceHolder1_txtFechaInicio").value;
+            var fechafinal = document.getElementById("ContentPlaceHolder1_txtFechaFin").value;
+
+            if (Date.parse(fechafinal) < Date.parse(fechainicial)) {
+                document.getElementById("ContentPlaceHolder1_txtFechaFin").value = '';
+                alert("La fecha en el campo Desde debe ser menor a la del campo Hasta, vuelva intentarlo");
+            }
+        }
+
         window.onload = seguridadURLPrevia;
     </script>
 </asp:Content>
@@ -182,17 +194,19 @@
                                                                     <tr>
                                                                         <td class="etiqueta" style="width:30%;">Desde</td>
                                                                         <td>
-                                                                            <asp:TextBox runat="server" ID="txtFechaInicio" CssClass="textbox" Width="50%" MaxLength="10" Text=""></asp:TextBox>
+                                                                            <asp:TextBox runat="server" ID="txtFechaInicio" CssClass="textbox" Width="50%" MaxLength="10" Text="" onChange="ValidarFechas()" Enabled=false></asp:TextBox>
                                                                             <cc1:CalendarExtender ID="calendarEmision" runat="server" TargetControlID="txtFechaInicio" PopupButtonID="ibtFechaInicio" Format="dd/MM/yyyy"></cc1:CalendarExtender >
                                                                             <asp:ImageButton ID="ibtFechaInicio" runat="server" ImageUrl="~/Imagenes/Iconos/ico_calendar.gif" ToolTip="Seleccione Fecha de Ocurrencia" BorderWidth="0" />
+                                                                            <span style="color:Red;">&nbsp;&nbsp;&nbsp;*</span>
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="etiqueta" style="width:30%;">Hasta</td>
                                                                         <td>
-                                                                            <asp:TextBox runat="server" ID="txtFechaFin" CssClass="textbox" Width="50%" MaxLength="10" Text=""></asp:TextBox>
+                                                                            <asp:TextBox runat="server" ID="txtFechaFin" CssClass="textbox" Width="50%" MaxLength="10" Text="" onChange="ValidarFechas()" Enabled=false></asp:TextBox>
                                                                             <cc1:CalendarExtender ID="CalendarExtender1" runat="server" TargetControlID="txtFechaFin" PopupButtonID="ibtFechaFin" Format="dd/MM/yyyy"></cc1:CalendarExtender >
                                                                             <asp:ImageButton ID="ibtFechaFin" runat="server" ImageUrl="~/Imagenes/Iconos/ico_calendar.gif" ToolTip="Seleccione Fecha de Ocurrencia" BorderWidth="0" />
+                                                                            <span style="color:Red;">&nbsp;&nbsp;&nbsp;*</span>
                                                                         </td>
                                                                     </tr>
                                                                 </table>
@@ -300,10 +314,10 @@
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="etiqueta" style="width:30%;">Desde</td>
-                                                                        <td>
+                                                                        <td>                                                                            
                                                                             <asp:TextBox runat="server" ID="txtFechaInicioDet" CssClass="textbox" Width="50%" MaxLength="10" Text=""></asp:TextBox>
                                                                             <cc1:CalendarExtender ID="CalendarExtender2" runat="server" TargetControlID="txtFechaInicioDet" PopupButtonID="ibtFechaInicioDet" Format="dd/MM/yyyy"></cc1:CalendarExtender >
-                                                                            <asp:ImageButton ID="ibtFechaInicioDet" runat="server" ImageUrl="~/Imagenes/Iconos/ico_calendar.gif" ToolTip="Seleccione Fecha de Ocurrencia" BorderWidth="0" />
+                                                                            <asp:ImageButton ID="ibtFechaInicioDet" runat="server" ImageUrl="~/Imagenes/Iconos/ico_calendar.gif" ToolTip="Seleccione Fecha de Ocurrencia" BorderWidth="0" />                                                                            
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
